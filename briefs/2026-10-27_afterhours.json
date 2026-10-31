@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-27",
+  "type": "afterhours",
+  "generated_at": "2026-10-27T17:07:00-04:00",
+  "generated_at_source": "text",
+  "summary": "Futures vs 4:00 close: ES 7756.25 (~flat vs ~7757), NQ 29796 (-0.05% vs ~29810), RTY 2827.6 (flat). SPY 769.62, QQQ 721.25, IWM 280.18 ~unchanged.",
+  "futures": {
+    "NQ": {
+      "last": 29796.0,
+      "change_pct": -0.05,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 769.62,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": 721.25,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 280.18,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": null,
+      "us10y": null,
+      "dxy": null,
+      "wti": null,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# After-hours check Tue Oct 27, 2026 ~5:07 PM ET (yfinance, FinancialJuice RSS, web search). No alert sent.\nFutures vs 4:00 close: ES 7756.25 (~flat vs ~7757), NQ 29796 (-0.05% vs ~29810), RTY 2827.6 (flat). SPY 769.62, QQQ 721.25, IWM 280.18 ~unchanged.\nAH movers vs RTH close: ENPH -15.0%, NXPI -7.7%, STX -5.8%, TER -5.7%, HOOD -4.7%, WM -2.4%, V -1.6%. Semis weak but no index reaction; expected moves not checked.\nNews: Israel exit polls Netanyahu bloc trailing (pre-close), API crude -2.03M vs +0.8M est, Chile CB, IMF-Argentina. Nothing index-moving. FOMC this week.\n",
+  "macro_markdown": null,
+  "source_file": "2026-10-27_afterhours.md"
+}

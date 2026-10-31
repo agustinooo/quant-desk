@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-27",
+  "type": "postdata",
+  "generated_at": "2026-10-27T08:52:00-04:00",
+  "generated_at_source": "text",
+  "summary": "Durable goods (Sep) +1.8% vs +1.9% FJ forecast (prior -0.1%); core +0.5% vs +0.6% (prior 0.2%). Roughly in line, small miss. ADP weekly 16.75K vs 18.5K prior.",
+  "futures": {
+    "NQ": {
+      "last": 29609.25,
+      "change_pct": 0.19,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": 7743.5,
+      "change_pct": 0.09,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": 2808.8,
+      "change_pct": 0.09,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 768.27,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": 716.17,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 278.12,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": 17.74,
+      "us10y": 4.99,
+      "dxy": null,
+      "wti": null,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# 8:45 post-data check, Tue Oct 27 2026 (~8:52 AM ET) - nothing drastic, no message sent\n- Durable goods (Sep) +1.8% vs +1.9% FJ forecast (prior -0.1%); core +0.5% vs +0.6% (prior 0.2%). Roughly in line, small miss. ADP weekly 16.75K vs 18.5K prior.\n- FJ 8:29: IRIB says a tanker caught fire after hitting a mine in eastern Strait of Hormuz. WTI barely moved (100.81 at 8:28, 101.12 at 8:36).\n- yfinance 1m (delayed, last ~8:39): ES 7743.5 vs 7736.25 at 8:00 (+0.09%), NQ 29609.25 vs 29553 (+0.19%), RTY 2808.8 (+0.09%). Highs ES 7749.25 / NQ 29628.75 at 8:25 (pre-data), NQ just over ON high 29613.\n- VIX 17.74 (8:34), 10y ~4.99%.\n- ETFs ~8:49: SPY 768.27 (new PMH 769.00 at 8:24, pre-data; post-8:30 range 767.79-768.50). QQQ 716.17 (new PMH 716.60 at 8:25; post-data 715.52-716.53). IWM 278.12 (PMH 278.46 at 8:25), still under PDH 278.77. Pushes came before 8:30, not on the news.\n- Quant Data not re-checked: SPY/QQQ/IWM options don't trade before 9:30 and spot is within ~0.1% of the 8:00 read.\n",
+  "macro_markdown": null,
+  "source_file": "2026-10-27_postdata.md"
+}

@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-26",
+  "type": "afterhours",
+  "generated_at": "2026-10-26T17:00:00-04:00",
+  "generated_at_source": "text",
+  "summary": "ES 7713.75 (16:50) vs 7713 close flat | NQ 29453.25 +0.07% | RTY 2794.9 -0.06% | WTI 101.29",
+  "futures": {
+    "NQ": {
+      "last": 29453.25,
+      "change_pct": 0.07,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": 2794.9,
+      "change_pct": -0.06,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": null,
+      "us10y": null,
+      "dxy": null,
+      "wti": 101.29,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": "nothing big, no alert sent. Tomorrow's levels from close recap unchanged.",
+  "markdown": "# After-hours check Mon Oct 26, 2026 ~5:00 PM ET (yfinance, FinancialJuice RSS, Investing.com, TipRanks)\nES 7713.75 (16:50) vs 7713 close flat | NQ 29453.25 +0.07% | RTY 2794.9 -0.06% | WTI 101.29\nEarnings: CLS +9.7% AH (implied ±13.5%, beat + huge 2027 guide); AMKR +4.5% AH despite miss/weak guide (implied ±13.3%); CDNS 2.11 vs 2.04 EPS, 1.63B vs 1.61B rev. No mega-cap reporters.\nNews: AVGO to supply XPUs via SPV leased to Anthropic from 2027, $63B AI financing with BAC/BX/C/MS; Carney not signing Aug US trade terms; Iran open to shorter US proposal timeline. No futures reaction.\nVerdict: nothing big, no alert sent. Tomorrow's levels from close recap unchanged.\n",
+  "macro_markdown": null,
+  "source_file": "2026-10-26_afterhours.md"
+}

@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-27",
+  "type": "close",
+  "generated_at": "2026-10-27T16:05:00-04:00",
+  "generated_at_source": "scheduled_default",
+  "summary": "SPY 769.71 +0.57% H771.11 L765.24 | QQQ 721.25 +1.27% H722.87 L713.63 | IWM 280.15 +1.14% H280.39 L276.89 (highs ~15:45, lows ~10:00-10:21)",
+  "futures": {
+    "NQ": {
+      "last": 29810.0,
+      "change_pct": 1.27,
+      "high": 29881.25,
+      "low": 29494.5
+    },
+    "ES": {
+      "last": 7757.0,
+      "change_pct": 0.55,
+      "high": 7772.75,
+      "low": 7712.5
+    },
+    "RTY": {
+      "last": 2827.5,
+      "change_pct": 1.07,
+      "high": 2831.7,
+      "low": 2796.1
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 769.71,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -12.37,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": 721.25,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -8.59,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 280.15,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -1.2,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [
+    {
+      "ticker": "SPY",
+      "strike": 755.0,
+      "expiry": "10/30",
+      "cp": "P",
+      "size": 83000,
+      "premium": null,
+      "side": null,
+      "time": "11:15",
+      "read": null,
+      "raw": "SPY 10/30 755P/745P 83k closing 11:15 (more unwind of Fri structure)"
+    },
+    {
+      "ticker": "SPY",
+      "strike": 800.0,
+      "expiry": "11/20",
+      "cp": "C",
+      "size": 66000,
+      "premium": null,
+      "side": null,
+      "time": "12:39",
+      "read": null,
+      "raw": "SPY 11/20 800C 66k + 12/18 810C 33k closing 12:39"
+    },
+    {
+      "ticker": "IWM",
+      "strike": 264.0,
+      "expiry": "11/20",
+      "cp": "P",
+      "size": 28000,
+      "premium": null,
+      "side": null,
+      "time": "12:01",
+      "read": null,
+      "raw": "IWM 11/20 264P/266P 28k 12:01"
+    },
+    {
+      "ticker": "QQQ",
+      "strike": 760.0,
+      "expiry": "11/30",
+      "cp": "C",
+      "size": 19000,
+      "premium": null,
+      "side": null,
+      "time": "15:14",
+      "read": null,
+      "raw": "QQQ 11/30 760C 19k, 750C 15k crosses 15:14-15:25"
+    }
+  ],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": 17.57,
+      "us10y": 4.99,
+      "dxy": 102.32,
+      "wti": 99.9,
+      "brent": 113.88,
+      "gold": 4072.0
+    }
+  },
+  "takeaway": null,
+  "markdown": "# Close recap Tue Oct 27, 2026 (data: Quant Data API same account, yfinance, FinancialJuice RSS, @LiveSquawk)\nSPY 769.71 +0.57% H771.11 L765.24 | QQQ 721.25 +1.27% H722.87 L713.63 | IWM 280.15 +1.14% H280.39 L276.89 (highs ~15:45, lows ~10:00-10:21)\nES ~7757 +0.55% RTH H7772.75 L7712.5 | NQ ~29810 +1.27% RTH H29881.25 L29494.5 | RTY ~2827.5 +1.07% RTH H2831.7 L2796.1\nVIX 17.57 -4.5% | 10y 4.99% | DXY 102.32 | WTI settle 99.90 -1.83% | Brent settle 113.88 -1.67% | Gold ~4072\nGEX close all/ex-0DTE: SPY -12.37B/-1.81B; QQQ -8.59B/-2.52B; IWM -1.20B/-1.14B. 0DTE-heavy 770 (SPY) and 720 (QQQ) expired. Ex-0DTE walls: SPY calls 780,800,775,790 puts 750,765,760; QQQ calls 740,729,750 puts 700,690,710; IWM calls 284,283 puts 270,275. No cum flip; sign changes SPY 767/773, QQQ 719-722, IWM 279.\nFlow 9k+: 170 prints, /workspace/history/flow_9k_2026-10-27.csv. SPY 10/30 755P/745P 83k closing 11:15 (more unwind of Fri structure); SPY 11/20 800C 66k + 12/18 810C 33k closing 12:39; IWM 11/20 264P/266P 28k 12:01; QQQ 11/30 760C 19k, 750C 15k crosses 15:14-15:25; SPX 7000/8000 multi-leg box-type 15:31 (financing, not directional).\nDrivers: CB confidence 91.7 vs 81 est (10:00), new home sales 676K vs 650K; 5y auction 4.845% vs WI 4.841%, btc 2.33; Israel exit polls show Netanyahu bloc trailing; Visa beat after close.\nLevels: SPY 765-765.4 put wall held to the cent (L765.24 10:21), 768.2/769 PMH broke on 11:14 15m close, 770 pinned PM; QQQ swept PML 714.1 (L713.63), reclaimed 716.3 PMH 10:44, ran to 722.9; IWM PDH 278.77 broke 10:59 15m close.\n",
+  "macro_markdown": null,
+  "source_file": "2026-10-27_close.md"
+}

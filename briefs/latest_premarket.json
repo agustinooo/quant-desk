@@ -1,0 +1,262 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-30",
+  "type": "premarket",
+  "generated_at": "2026-10-30T08:10:00-04:00",
+  "generated_at_source": "text",
+  "summary": "Tech flush: NQ 28798 (-2.6%), ES 7667 (-1.1%), RTY 2851 (-0.6%) after AMZN -6-7% / INTC -23-25%. SPY 761.53, QQQ 697.59, IWM 282.58 pre-mkt.",
+  "futures": {
+    "NQ": {
+      "last": 28798.0,
+      "change_pct": -2.6,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": 7667.0,
+      "change_pct": -1.1,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": 2851.0,
+      "change_pct": -0.6,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 761.53,
+      "pdh": 770.76,
+      "pdl": 766.62,
+      "pdc": 769.53,
+      "pmh": 763.76,
+      "pml": 760.9,
+      "net_gex_b": -10.68,
+      "flip": null,
+      "sign_change": "770",
+      "call_walls": [
+        {
+          "strike": 800,
+          "gex_b": null
+        },
+        {
+          "strike": 810,
+          "gex_b": null
+        },
+        {
+          "strike": 780,
+          "gex_b": null
+        }
+      ],
+      "put_walls": [
+        {
+          "strike": 750,
+          "gex_b": -2.22
+        },
+        {
+          "strike": 760,
+          "gex_b": -2.2
+        },
+        {
+          "strike": 765,
+          "gex_b": -2.0
+        }
+      ],
+      "dark_pool": [
+        {
+          "price": 771.85,
+          "notional_b": 2.44
+        },
+        {
+          "price": 769.5,
+          "notional_b": 2.9
+        }
+      ],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": 697.59,
+      "pdh": 718.07,
+      "pdl": 711.62,
+      "pdc": 715.28,
+      "pmh": 703.38,
+      "pml": 696.37,
+      "net_gex_b": -8.75,
+      "flip": null,
+      "sign_change": "706-709",
+      "call_walls": [],
+      "put_walls": [
+        {
+          "strike": 700,
+          "gex_b": -1.89
+        },
+        {
+          "strike": 690,
+          "gex_b": null
+        },
+        {
+          "strike": 680,
+          "gex_b": null
+        }
+      ],
+      "dark_pool": [
+        {
+          "price": 725.16,
+          "notional_b": 1.65
+        },
+        {
+          "price": 715.34,
+          "notional_b": null
+        }
+      ],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 282.58,
+      "pdh": 285.26,
+      "pdl": 282.15,
+      "pdc": 284.01,
+      "pmh": 283.58,
+      "pml": 282.08,
+      "net_gex_b": -0.51,
+      "flip": null,
+      "sign_change": "283",
+      "call_walls": [
+        {
+          "strike": 285,
+          "gex_b": null
+        },
+        {
+          "strike": 283,
+          "gex_b": null
+        },
+        {
+          "strike": 287,
+          "gex_b": null
+        }
+      ],
+      "put_walls": [
+        {
+          "strike": 270,
+          "gex_b": null
+        },
+        {
+          "strike": 280,
+          "gex_b": null
+        }
+      ],
+      "dark_pool": [
+        {
+          "price": 284.01,
+          "notional_b": null
+        },
+        {
+          "price": 281.29,
+          "notional_b": null
+        }
+      ],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [
+    {
+      "ticker": "QQQ",
+      "strike": 740.0,
+      "expiry": "Oct30",
+      "cp": "P",
+      "size": 13000,
+      "premium": null,
+      "side": null,
+      "time": "16:07",
+      "read": null,
+      "raw": "QQQ Oct30 740P 13k deep ITM 16:07"
+    }
+  ],
+  "macro": {
+    "calendar": [
+      "8:30 Q3 Employment Cost Index (ECI): consensus +0.8% q/q, prior +0.9% (Q2 was +3.4% y/y, wages +3.2% y/y). Sources: TradingCharts, Investing.com, trade2spike. Not out yet at 8:15 ET, so no actual.",
+      "9:45 Chicago PMI (Oct): consensus 55.8 (TradingCharts), 55.9 (Trading Economics via trade2spike), 56.1 (myfxbook, for-ex.news); Investing.com shows 54.8. Prior 58.8.",
+      "UMich final sentiment: not today. The October final came out Oct 23; the next release is Nov 6.",
+      "PCE / personal income: not today. September came out Thu Oct 29 at 8:30 (BEA): headline PCE +0.5% m/m, 3.6% y/y; core +0.3% m/m, 3.1% y/y.",
+      "No other US 8:30 releases found. 1:00 PM Baker Hughes rig count (prior 603 total). CFTC COT in the afternoon.",
+      "Note: Investing.com's preview lists ECI at 7:30 and Chicago PMI at 8:45, which looks like a time-zone error. Wrightson, Newsquawk and TradingCharts all give 8:30 and 9:45.",
+      "Fed speakers (Newsquawk, Wrightson):",
+      "About 8:00: Cook and Hammack are expected to explain their dissents. Both voted for a 25 bp hike at the Oct 28 FOMC, which held at 3.75-4.00% on a 10-2 vote. No headlines from them seen yet at 8:15.",
+      "9:30: Barkin, radio interview.",
+      "12:00: Daly, opening remarks at the SF Fed \"AI and the Economy\" conference. ECB's Lane gives the keynote.",
+      "12:30: Musalem, Shadow Open Market Committee.",
+      "BoJ overnight (Reuters/Investing, CNBC, Nikkei, Bloomberg/Mint):",
+      "Held at 1.25%, as expected, on an 8-1 vote. Takata dissented for a hike to 1.5%.",
+      "Said underlying inflation is \"generally consistent\" with 2% for the first time since 2013.",
+      "Raised its FY2027 CPI forecast to 2.6% (from 2.4%) and core-core to 2.7% (from 2.6%). Signalled more hikes.",
+      "Yen firmed about 0.24% to about 157.1-157.3 per USD, its third daily gain.",
+      "Ueda: \"closely watching springtime wage talks\" (FJ, 3:35 AM ET)."
+    ],
+    "earnings": [
+      "XOM: adj EPS $4.23 vs $4.13 est; revenue $113.16B vs $105.36B; dividend raised to $1.07. Stock about +1.4% pre-market.",
+      "CVX: adj EPS $5.28 vs $4.93; revenue $67.80B vs $62.55B. Stock +1.4% pre-market.",
+      "ABBV: adj EPS $3.82 vs $3.74; revenue $17.40B vs $17.34-17.36B. FY guide raised to $13.95-13.99; 2027 dividend +5.2%. Stock about -0.3% pre-market at 7:58 (stockmarketwatch).",
+      "AZN: about +5% (core EPS $2.79 vs $2.60).",
+      "GD: EPS $4.49 vs $4.13; revenue $14.57B vs $13.71B. Pre-market move not found.",
+      "CL: adj EPS $0.97 vs $0.93; sales $5.369B vs $5.334B. Pre-market move not found.",
+      "AMZN: about -6% to -7.3% (CNBC, Reuters, zerohedge). Q3 missed on revenue and EPS; free cash flow -$42.4B, negative for a second quarter; 2026 capex kept at $220B; signalled higher capex in 2027.",
+      "INTC: -23% to -25%. Q4 guide of EPS $0.25 and revenue $15-16B vs $0.43 and $17.1B est; warned of cash burn.",
+      "RDDT: -21% on a weak Q4 revenue guide.",
+      "RIVN: +8% on a beat and a higher delivery guide.",
+      "Background: GOOGL closed -13% Thursday, its worst day on record, and is down another 0.6% pre-market. MSFT rose Thursday.",
+      "AAPL has NOT reported. It reports Nov 2 (Zacks/Yahoo). Stock about -1.8% pre-market at $342.55 (Public.com, 8:00), and BofA dropped it from its US 1 list.",
+      "Mag 7 all lower pre-market: NVDA -2.8%, TSLA -2.4%, META -1.8% (zerohedge).",
+      "Crypto names (COIN, HOOD) down more than 4% after the $6.3B Binance hack. Several COIN price-target cuts."
+    ],
+    "headlines": [
+      "7:38-7:43 Trump: \"Iran war will end very soon, one way or another\"; \"Iran has to make a deal\"; \"need a guarantee there will never be a nuclear weapon.\" Fox: Trump was briefed Thursday on military options in Iran.",
+      "7:44 Iran's navy says it destroyed a US unmanned vessel in the eastern Strait of Hormuz (state media); no US confirmation.",
+      "6:41 IRGC Navy: two oil tankers that switched off navigation systems were stopped south of Hormuz.",
+      "7:40 CENTCOM: reached a milestone this week helping Gulf oil exports.",
+      "8:02 Kremlin: Ukraine is ignoring Trump's request to stop attacks on Russian refineries. Ukraine hit the Novokuybyshevsk refinery (OSINT via zerohedge).",
+      "6:02 Italy Oct HICP 5.6% y/y vs 4.6% est; France HICP 3.8% vs 3.6%. Euro-area Q3 GDP +0.4% q/q vs +0.2%; Germany +0.2% vs +0.1%.",
+      "ECB hawkish chorus: Panetta (\"further increases in policy rates could prove necessary\"), Kocher (\"need for action\"), Makhlouf, Nagel, Rehn, Dolenc.",
+      "5:28 Reuters poll: Brent seen averaging $92.88 in 2026 (from $89.05). Zerohedge: Brent January futures hit new highs as the market braces for \"post-midterm Gulf escalation.\"",
+      "7:17 Xi says China regards the EU as a partner (CCTV).",
+      "4:07-4:09 Merz: working to end the Iran war, which is having a \"massive impact on Europe.\"",
+      "6:12 Apple removed from BofA's US 1 list.",
+      "8:00 SOFR 3.94%, unchanged."
+    ],
+    "cross_asset": {
+      "vix": 18.67,
+      "us10y": 4.99,
+      "dxy": 101.66,
+      "wti": 104.28,
+      "brent": null,
+      "gold": 3974.0
+    }
+  },
+  "takeaway": null,
+  "markdown": "# Pre-Market Brief, Fri Oct 30, 2026 (~8:10 AM ET)\nTech flush: NQ 28798 (-2.6%), ES 7667 (-1.1%), RTY 2851 (-0.6%) after AMZN -6-7% / INTC -23-25%. SPY 761.53, QQQ 697.59, IWM 282.58 pre-mkt.\nGEX (QD API 8:10): SPY -10.68B (P 750 -2.22, 760 -2.20, 765 -2.00; C 800/810/780; sign chg 770). QQQ -8.75B (P 700 -1.89, 690, 680; sign chg 706-709). IWM -0.51B (flipped from +0.68B; C 285/283/287; P 270/280; sign chg 283).\nDP Thu: SPY 771.85 $2.44B, 769.5 ~$2.9B; QQQ 725.16 $1.65B, 715.34; IWM 284.01, 281.29.\nLevels: SPY PDH 770.76 PDL 766.62 PDC 769.53 PMH 763.76 PML 760.90 EMA 761.47/761.63/763.03 bearish. QQQ 718.07/711.62/715.28 PM 703.38/696.37 EMA 697.47/697.90/701.28 bearish. IWM 285.26/282.15/284.01 PM 283.58/282.08 EMA 282.59/282.58/282.97 bunched.\nFlow 9k Thu: 114 prints, none SPY, none pre-mkt. QQQ roll down/out (sold Nov20 700P/690P, bought Jan15 650P 35k $32M open); QQQ Oct30 740P 13k deep ITM 16:07; IWM Nov20 271/268 and 277/270 put spreads opening; VIX 35C roll; TLT 83C calls bought.\nMacro: 8:30 ECI (cons +0.8%, prior +0.9%), 9:45 Chicago PMI (cons ~55-56, prior 58.8), Fed Cook/Hammack ~8:00, Barkin 9:30, Daly 12:00, Musalem 12:30. BoJ hold 1.25% 8-1 hawkish. VIX 18.67, DXY 101.66, WTI 104.28, gold 3974, 10y 4.99 (Thu).\n",
+  "macro_markdown": "# Macro context, Fri Oct 30, 2026 (gathered about 8:15 AM ET)\n\n## 1) Economic calendar (ET)\n- 8:30 Q3 Employment Cost Index (ECI): consensus +0.8% q/q, prior +0.9% (Q2 was +3.4% y/y, wages +3.2% y/y). Sources: TradingCharts, Investing.com, trade2spike. Not out yet at 8:15 ET, so no actual.\n- 9:45 Chicago PMI (Oct): consensus 55.8 (TradingCharts), 55.9 (Trading Economics via trade2spike), 56.1 (myfxbook, for-ex.news); Investing.com shows 54.8. Prior 58.8.\n- UMich final sentiment: not today. The October final came out Oct 23; the next release is Nov 6.\n- PCE / personal income: not today. September came out Thu Oct 29 at 8:30 (BEA): headline PCE +0.5% m/m, 3.6% y/y; core +0.3% m/m, 3.1% y/y.\n- No other US 8:30 releases found. 1:00 PM Baker Hughes rig count (prior 603 total). CFTC COT in the afternoon.\n- Note: Investing.com's preview lists ECI at 7:30 and Chicago PMI at 8:45, which looks like a time-zone error. Wrightson, Newsquawk and TradingCharts all give 8:30 and 9:45.\n- Fed speakers (Newsquawk, Wrightson):\n  - About 8:00: Cook and Hammack are expected to explain their dissents. Both voted for a 25 bp hike at the Oct 28 FOMC, which held at 3.75-4.00% on a 10-2 vote. No headlines from them seen yet at 8:15.\n  - 9:30: Barkin, radio interview.\n  - 12:00: Daly, opening remarks at the SF Fed \"AI and the Economy\" conference. ECB's Lane gives the keynote.\n  - 12:30: Musalem, Shadow Open Market Committee.\n- BoJ overnight (Reuters/Investing, CNBC, Nikkei, Bloomberg/Mint):\n  - Held at 1.25%, as expected, on an 8-1 vote. Takata dissented for a hike to 1.5%.\n  - Said underlying inflation is \"generally consistent\" with 2% for the first time since 2013.\n  - Raised its FY2027 CPI forecast to 2.6% (from 2.4%) and core-core to 2.7% (from 2.6%). Signalled more hikes.\n  - Yen firmed about 0.24% to about 157.1-157.3 per USD, its third daily gain.\n  - Ueda: \"closely watching springtime wage talks\" (FJ, 3:35 AM ET).\n\n## 2) Earnings\nBefore the open today:\n- XOM: adj EPS $4.23 vs $4.13 est; revenue $113.16B vs $105.36B; dividend raised to $1.07. Stock about +1.4% pre-market.\n- CVX: adj EPS $5.28 vs $4.93; revenue $67.80B vs $62.55B. Stock +1.4% pre-market.\n- ABBV: adj EPS $3.82 vs $3.74; revenue $17.40B vs $17.34-17.36B. FY guide raised to $13.95-13.99; 2027 dividend +5.2%. Stock about -0.3% pre-market at 7:58 (stockmarketwatch).\n- AZN: about +5% (core EPS $2.79 vs $2.60).\n- GD: EPS $4.49 vs $4.13; revenue $14.57B vs $13.71B. Pre-market move not found.\n- CL: adj EPS $0.97 vs $0.93; sales $5.369B vs $5.334B. Pre-market move not found.\n\nAfter the close Thursday:\n- AMZN: about -6% to -7.3% (CNBC, Reuters, zerohedge). Q3 missed on revenue and EPS; free cash flow -$42.4B, negative for a second quarter; 2026 capex kept at $220B; signalled higher capex in 2027.\n- INTC: -23% to -25%. Q4 guide of EPS $0.25 and revenue $15-16B vs $0.43 and $17.1B est; warned of cash burn.\n- RDDT: -21% on a weak Q4 revenue guide.\n- RIVN: +8% on a beat and a higher delivery guide.\n- Background: GOOGL closed -13% Thursday, its worst day on record, and is down another 0.6% pre-market. MSFT rose Thursday.\n- AAPL has NOT reported. It reports Nov 2 (Zacks/Yahoo). Stock about -1.8% pre-market at $342.55 (Public.com, 8:00), and BofA dropped it from its US 1 list.\n- Mag 7 all lower pre-market: NVDA -2.8%, TSLA -2.4%, META -1.8% (zerohedge).\n- Crypto names (COIN, HOOD) down more than 4% after the $6.3B Binance hack. Several COIN price-target cuts.\n\nAfter the close today: light. Tickzen/MarketBeat list DMRA, NHC, SXI, CubeSmart, Middlesex Water, NextCure, and Gilead. Timing for Gilead not confirmed.\n\n## 3) Financial Juice headlines (RSS, ET; the feed covers only from about 3:00 AM ET)\n- 7:38-7:43 Trump: \"Iran war will end very soon, one way or another\"; \"Iran has to make a deal\"; \"need a guarantee there will never be a nuclear weapon.\" Fox: Trump was briefed Thursday on military options in Iran.\n- 7:44 Iran's navy says it destroyed a US unmanned vessel in the eastern Strait of Hormuz (state media); no US confirmation.\n- 6:41 IRGC Navy: two oil tankers that switched off navigation systems were stopped south of Hormuz.\n- 7:40 CENTCOM: reached a milestone this week helping Gulf oil exports.\n- 8:02 Kremlin: Ukraine is ignoring Trump's request to stop attacks on Russian refineries. Ukraine hit the Novokuybyshevsk refinery (OSINT via zerohedge).\n- 6:02 Italy Oct HICP 5.6% y/y vs 4.6% est; France HICP 3.8% vs 3.6%. Euro-area Q3 GDP +0.4% q/q vs +0.2%; Germany +0.2% vs +0.1%.\n- ECB hawkish chorus: Panetta (\"further increases in policy rates could prove necessary\"), Kocher (\"need for action\"), Makhlouf, Nagel, Rehn, Dolenc.\n- 5:28 Reuters poll: Brent seen averaging $92.88 in 2026 (from $89.05). Zerohedge: Brent January futures hit new highs as the market braces for \"post-midterm Gulf escalation.\"\n- 7:17 Xi says China regards the EU as a partner (CCTV).\n- 4:07-4:09 Merz: working to end the Iran war, which is having a \"massive impact on Europe.\"\n- 6:12 Apple removed from BofA's US 1 list.\n- 8:00 SOFR 3.94%, unchanged.\n\n## 4) X\n- @DeItaone 8:04: \"QATARI MEDIATORS IN IRAN AS US PEACE TALKS SHOW SIGNS OF PROGRESS\" (CBS). @FirstSquawk 7:10 (Axios) and @LiveSquawk 8:07 (CBS) say the same.\n- @DeItaone 6:55-7:59: Binance is working with the FBI and Secret Service after the $6.3B hack, linked to North Korea's TraderTraitor; it has set aside $6.34B and about $3B is frozen.\n- @FirstSquawk: Mexico Q3 GDP +3.2% y/y vs +3.0% est.\n- @zerohedge / @themarketear: \"$4 trillion wiped out from the Mag 7. Four of the seven are now in bear market territory. More than 60% of S&P 500 stocks are down at least 20% from their highs.\"\n- Reuters, 7:14 ET: NQ E-minis -2.41%. This is context only; prices are handled separately.\n- @Team2Trading (Casey): no posts since Thu 3:05 PM ET; nothing last night or this morning as of 8:15.\n  - Latest original post, Thu 12:50 PM ET, verbatim: \"Didn't trade well at all today… It started out nice with a clean flag break on IWM straight to my target! Could have called it a day there. Instead I decided to keep pushing buttons until that green day turned into a red one. Isn't that one of the worst feelings as a trader!?\"\n  - Reply, Thu 1:34 PM ET: \"IWM was the only tradable name imo. Just had to take the base hits because it was slower 🤙\"\n  - Wed night (12:17 AM ET Thu): \"$SPY FOMC chart recap 📝 No trades for me today… this chart was as ugly as they come.\"\n",
+  "source_file": "2026-10-30_premarket.md"
+}

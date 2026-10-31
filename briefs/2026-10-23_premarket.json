@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-23",
+  "type": "premarket",
+  "generated_at": "2026-10-23T08:10:00-04:00",
+  "generated_at_source": "text",
+  "summary": "Regime: all three are in negative gamma, so dealers are likely to amplify moves. Pre-market is much less negative than Oct 22, and the walls have moved down (SPY call wall went from 780 to 767/770, QQQ from 725 to 715/720).",
+  "futures": {
+    "NQ": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 762.05,
+      "pdh": 767.71,
+      "pdl": 761.16,
+      "pdc": 763.99,
+      "pmh": 764.95,
+      "pml": 761.58,
+      "net_gex_b": -6.41,
+      "flip": null,
+      "sign_change": "764–766",
+      "call_walls": [
+        {
+          "strike": 800,
+          "gex_b": 0.52
+        },
+        {
+          "strike": 767,
+          "gex_b": 0.51
+        },
+        {
+          "strike": 770,
+          "gex_b": 0.46
+        }
+      ],
+      "put_walls": [
+        {
+          "strike": 755,
+          "gex_b": -2.16
+        },
+        {
+          "strike": 760,
+          "gex_b": -2.15
+        },
+        {
+          "strike": 750,
+          "gex_b": -1.62
+        }
+      ],
+      "dark_pool": [],
+      "game_plan": "a 15-min close and retest above 764.95 opens calls toward 767/767.71. A 15-min close below 761.16 opens puts toward 760, then 755."
+    },
+    "QQQ": {
+      "spot": 704.0,
+      "pdh": 715.43,
+      "pdl": 701.9,
+      "pdc": 704.59,
+      "pmh": 708.14,
+      "pml": 703.32,
+      "net_gex_b": -2.44,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [
+        {
+          "strike": 720,
+          "gex_b": 0.18
+        },
+        {
+          "strike": 715,
+          "gex_b": 0.14
+        },
+        {
+          "strike": 730,
+          "gex_b": 0.13
+        }
+      ],
+      "put_walls": [
+        {
+          "strike": 700,
+          "gex_b": -1.06
+        },
+        {
+          "strike": 711,
+          "gex_b": -0.51
+        },
+        {
+          "strike": 695,
+          "gex_b": -0.32
+        }
+      ],
+      "dark_pool": [],
+      "game_plan": "above 708.14 opens calls toward 710.4–711, then 715. Losing 701.90 opens puts toward 700, then 695."
+    },
+    "IWM": {
+      "spot": 275.26,
+      "pdh": 277.28,
+      "pdl": 274.49,
+      "pdc": 276.69,
+      "pmh": 276.58,
+      "pml": 274.94,
+      "net_gex_b": -0.37,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [
+        {
+          "strike": 278,
+          "gex_b": 0.14
+        },
+        {
+          "strike": 280,
+          "gex_b": null
+        },
+        {
+          "strike": 290,
+          "gex_b": null
+        }
+      ],
+      "put_walls": [
+        {
+          "strike": 277,
+          "gex_b": -0.15
+        },
+        {
+          "strike": 270,
+          "gex_b": -0.15
+        },
+        {
+          "strike": 273,
+          "gex_b": -0.14
+        }
+      ],
+      "dark_pool": [],
+      "game_plan": "above 276.58, then 277.28, opens calls toward 278. Losing 274.49 opens puts toward 273."
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": 19.63,
+      "us10y": 4.95,
+      "dxy": null,
+      "wti": 100.77,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": "- **The strongest confluence spots:**\n  - SPY 767–767.7 (PDH plus call wall).\n  - SPY 760–761.2 (PDL plus the biggest put wall).\n  - QQQ 715–715.4 (PDH plus call wall).\n  - The 704.4–705 magnet at yesterday's QQQ close.\n- **Price is opening near those close and dark pool magnets**, inside the PM range, which is chop territory.\n- Negative gamma means a 15-min break of the PM range could run toward the walls.\n- Oil, Iran headlines and the 9:45/10:00 data are the catalysts to watch.",
+  "markdown": "# Pre-Market Brief: Fri Oct 23, 2026 (as of ~8:10 AM ET)\n*This is information, not advice. Pre-market levels can still change before 9:30. No US 8:30 data today. First US data is at 9:45.*\n\n## 1) Positioning (Quant Data GEX, gamma per 1% move)\n| | Net GEX now (Oct 22 pre / Oct 22 close) | Call (+) walls | Put (−) walls | Flip |\n|---|---|---|---|---|\n| **SPY** 762.21 | **−6.41B** (−9.68B / **−15.45B**) | 800 (+0.52B), **767** (+0.51B), 770 (+0.46B) | **755** (−2.16B), **760** (−2.15B), 750 (−1.62B) | No cumulative flip. Strike sign change ~764–766 |\n| **QQQ** 704.15 | **−2.44B** (−5.76B / −4.21B) | 720 (+0.18B), **715** (+0.14B), 730 (+0.13B) | **700** (−1.06B), 711 (−0.51B), 695 (−0.32B) | No cumulative flip. Sign change ~706–709 |\n| **IWM** 275.26 | **−0.37B** (−0.64B / −2.02B) | 278 (+0.14B), 280, 290 | 277 (−0.15B), 270 (−0.15B), 273 (−0.14B) | Sign change 278. Thin data (18 strikes) |\n\n- **Regime:** all three are in negative gamma, so dealers are likely to amplify moves. Pre-market is much less negative than Oct 22, and the walls have moved down (SPY call wall went from 780 to 767/770, QQQ from 725 to 715/720).\n- **Oct 22 4:15 PM snapshot:** SPY put walls sat right at 763–765 (−3.0B at 765). QQQ had **+2.8B at 705**, which acts as a pin or magnet at yesterday's close.\n- **Dark pool Oct 22:** SPY **763.76–763.78 (~$4.4B)**. QQQ **704.35–704.47 (~$1.4B)** and 702.0. IWM **276.36 ($0.35B)**. There were also large prints at SPY 773.12 ($2.05B) and QQQ 725.39 ($5.64B), but both are outside Oct 22's range, so they were likely late or negotiated prints.\n\n## 2) Levels map (Team2Trading + GEX)\nEMA stack is 2-min 13/48/200 on extended-hours data. PM = pre-market, 4:00 AM ET to ~8:06.\n\n**SPY:** PDH 767.71 · PDL 761.16 · PDC 763.99 · PMH 764.95 · PML 761.58 · last 762.05\n- EMA stack is **bearish** (13 762.29 < 48 762.34 < 200 763.07), with price below all three.\n- Confluence:\n  - **PDH 767.71 sits at the 767 call wall (0.09%)**.\n  - **PDL 761.16 sits next to the 760 put wall (0.15%)**.\n  - **PDC 763.99 lines up with the 763.77 dark pool level and the 764 sign change**.\n- Untested zones: 764.25 (Oct 20 low), 765.82 (Oct 19 low), 768.40 (Oct 21 low; Casey's 767.84 key level), 770/770.46 (call wall + Oct 19 high).\n- Plan: a 15-min close and retest above **764.95** opens calls toward 767/767.71. A 15-min close below **761.16** opens puts toward 760, then 755.\n- Approx ES (×10.088): 764.95≈7717 · 767.7≈7745 · 761.16≈7679 · 760≈7667 · 755≈7616\n\n**QQQ:** PDH 715.43 · PDL 701.90 · PDC 704.59 · PMH 708.14 · PML 703.32 · last 704.00\n- EMA stack is **bearish** (704.34 < 704.37 < 704.86).\n- Confluence:\n  - **PDH 715.43 sits at the 715 call wall (0.06%)**.\n  - **PDC/dark pool at 704.4–704.6 lines up with the 705 close-gamma magnet**.\n  - PMH 708.14 sits inside the 708–709 sign-change zone.\n  - PDL 701.90 is next to dark pool 702.0, with the 700 put wall 0.27% below.\n- Untested zone: 710.39 (Oct 20 low), next to the 711 put wall.\n- Plan: above **708.14** opens calls toward 710.4–711, then 715. Losing **701.90** opens puts toward 700, then 695.\n- Approx NQ (×41.38): 708.14≈29302 · 711≈29421 · 715.4≈29604 · 701.9≈29044 · 700≈28965\n\n**IWM:** PDH 277.28 · PDL 274.49 · PDC 276.69 · PMH 276.58 · PML 274.94 · last 275.26 (8:03)\n- EMA stack is bearish-flat (13 275.32 = 48 275.32 < 200 275.74).\n- Confluence: **PDH 277.28 sits at the 277 wall (0.10%)**, with the 278 call wall and Oct 21 high 277.70 just above. Dark pool 276.36 is inside the PM range.\n- Plan: above **276.58**, then 277.28, opens calls toward 278. Losing **274.49** opens puts toward 273.\n- Approx RTY ×10.11.\n\n**Rules for today:**\n- The PM range is a no-trade zone.\n- Wait for a 15-min close beyond a level, and nothing before 9:45 ET.\n- SPY and QQQ are below PDC and above PDL. If the open lands below PDL, PDL becomes resistance.\n- **It's Friday, and Casey trades lightly on Fridays.**\n- His latest X posts (Oct 22 evening) are promotional or break-and-flag recaps. **He hasn't posted levels for today yet.**\n\n## 3) Flow: 9,000+ contracts\n- **Oct 22:** 208 prints across all tickers. Full list: `history/flow_9k_2026-10-22.csv`.\n- **Today's pre-market:** none as of ~8:08 AM ET.\n\nIndex prints, read by structure:\n- **Put rolls down and out (taking profit on puts that had moved in the money), mostly multi-leg:**\n  - 10:07: QQQ 710P 10/23, 21,030 sold below bid ($6.8M), paired with 690P 10/30, 16,123 bought above ask.\n  - 11:28: QQQ 700P 10/30, 20k sold at bid ($16.3M), paired with 693P 11/6 bought at ask (opening).\n  - 12:08: QQQ 696P 10/30 sold, 691P 11/6 bought, 10k each.\n  - 15:41: QQQ 713P 11/6 (in the money), 12k sold at bid ($24.6M), paired with 680P 11/20 bought at ask.\n  - Also SMH 530P 10/30 (in the money) sold, 500P 11/6 bought.\n- **Hedges and collars:**\n  - 10:58: QQQ 675P 11/30 bought at ask ($16M) and 760C sold at bid, 15k each.\n  - 14:24: QQQ Dec31, 725C sold at bid (38k, $79M, opening) with 740C bought at ask. This is a 725/740 call spread credit, which caps upside above 725.\n- **Put spreads:**\n  - 09:48: SPY 736/728P 11/20, 16k each.\n  - 10:44: SPY 690/590P Mar27, ~10k each.\n  - 12:17: SPX 6800/6300P 11/6, 25k each.\n  - 14:02: SPY 750/735P 10/30, a 1×2 ratio (12.5k by 25k).\n- **Outright puts:**\n  - 09:32: IWM 263P 11/20, 13,960 at ask ($3.0M).\n  - 14:12: QQQ 680P 10/27, 10k at ask.\n  - 15:25: SPY 730P 12/31, 10k at ask ($10.3M).\n- **16:02 after the close: SPY 755P bought (ask) and 750P sold (bid), Mon 10/26 expiry, ~67k per leg across 5 same-timestamp clips.** This is a large short-dated put spread into the weekend and next week's FOMC.\n- **VIX:** 10:27 multi-leg structures, mostly calls (55C and 60C at 100k each, mid). Some 15:34 VIX prints were flagged CANCEL.\n- **What it adds up to:**\n  - This flow is hedges being rolled and refreshed after a 2.9% NDX drop. It is **not the heavy put selling at the bid in deep negative GEX** that came before the Jun 11 and Jul 30 snap-backs.\n  - The ITM-put monetization does take some downside fuel out.\n  - The 10/26 put spread matches the study's **\"short-dated put buying into an event, followed by whipsaw\"** pattern.\n  - Taken together, the flow doesn't clearly point to a sweep reversal or to trend continuation.\n- **Historical note:** SPY's Oct 22 close at **−15.45B** almost exactly matches **Jun 10 (−15.46B)**, which came before a catalyst-driven snap-back on Jun 11. Pre-market has since eased to −6.4B. This is one comparison, not a signal.\n\n## 4) Macro\n**US data, ET:**\n- 9:45: S&P Global flash PMIs. Manufacturing consensus 55.5 (prior 55.9). Services 58.0 (prior 58.8). Composite prior 58.4.\n- 10:00: UMich sentiment final. Consensus 46.3 (prior 48.1).\n- 8:30: Canada retail sales (consensus +1.3% m/m).\n- No US 8:30 release. **The Fed is in blackout (Oct 17–29). FOMC is Oct 27–28.**\n\n**Opex:** today is a **weekly expiry only**. Monthly opex was Oct 16, verified as the third Friday.\n\n**Overnight data:**\n- Euro-area PMIs missed: composite 51.9 vs 52.7 consensus, France 48.4.\n- UK PMIs beat (53.1). UK retail sales came in at −0.4% m/m.\n- Russia held at 14%.\n\n**Earnings:**\n- Thursday after the close: WDC −6%, DECK −7%, BE −5%, VRSN −5%, RNG +14%.\n- Before today's open: AXP (EPS $4.68; revenue $20.06B vs $20.12B estimate), SLB beat (+0.9%), BAH +4.7%, INFY +3.7%, GNTX.\n- Nothing index-moving after today's close was found.\n\n**Headlines (Financial Juice RSS, X: @FirstSquawk, @DeItaone, @zerohedge, @LiveSquawk):**\n- Thursday's AI and chip rout: NDX −2.9%, SOX −6.7%, META −7% on capex and share issuance, AMD −8%.\n- In pre-market, META, NVDA, AMD and CRWV are bouncing.\n- Telecoms are down more than 4% on a SpaceX competition report.\n- **Oil is at a 5-month high**: Brent ~$114 on reports of possible US/Israel strikes on Iran. A Saudi coalition intercepted a Houthi missile at ~8:01 ET.\n- Financial Juice's homepage didn't render; its RSS was used instead.\n\n**Globex (since the 6 PM open) vs Oct 22 close:**\n| | Last ~7:55 | ON high / low | vs Oct 22 |\n|---|---|---|---|\n| ES | 7687.50 | 7714.25 / 7678.00 | −17 (−0.22%) |\n| NQ | 29131 | 29276.75 / 29022.75 | −11 (−0.04%) |\n| RTY | 2782.1 | 2799.7 / 2776.9 | −14 (−0.50%) |\n\n- **Asia:** Nikkei 62,693 (−0.3%), KOSPI +0.3%, Hang Seng ~23,093. Shanghai didn't fetch.\n- **Europe:** DAX −0.8%, CAC −0.7%, FTSE −0.5%. STOXX 50 didn't fetch.\n- **VIX** 19.63, up from 16.68 two days ago (ON range 18.87–19.90).\n- **10-year** 4.95% as of Oct 22's close (no live quote); it fell from 5.15%.\n- **Dollar index (DXY)** 101.83, **WTI** 100.77 (+1.3%), **gold** 4,037.8 (UBS calls $4,000 key support).\n\n## Takeaway\n- **The strongest confluence spots:**\n  - SPY 767–767.7 (PDH plus call wall).\n  - SPY 760–761.2 (PDL plus the biggest put wall).\n  - QQQ 715–715.4 (PDH plus call wall).\n  - The 704.4–705 magnet at yesterday's QQQ close.\n- **Price is opening near those close and dark pool magnets**, inside the PM range, which is chop territory.\n- Negative gamma means a 15-min break of the PM range could run toward the walls.\n- Oil, Iran headlines and the 9:45/10:00 data are the catalysts to watch.\n",
+  "macro_markdown": null,
+  "source_file": "2026-10-23_premarket.md"
+}

@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-29",
+  "type": "postdata",
+  "generated_at": "2026-10-29T08:55:00-04:00",
+  "generated_at_source": "text",
+  "summary": "Data (BEA/CNBC): Q3 GDP adv 3.4% vs ~3.1-3.2% cons (prior 2.2%), modest beat. Sep PCE +0.5% m/m (in line), 3.6% y/y (0.1 below DJ cons); core +0.3% m/m, 3.1% y/y in line. Spending +0.5% vs 0.6%, income +0.2% vs 0.3%. Claims actual not found (cons ~196-198K).",
+  "futures": {
+    "NQ": {
+      "last": 29599.0,
+      "change_pct": -0.08,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": 2847.0,
+      "change_pct": 0.1,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 769.46,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": 717.05,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 282.13,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": 17.12,
+      "us10y": 5.01,
+      "dxy": 102.16,
+      "wti": 101.6,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# 8:45 post-data check, Thu Oct 29 2026 (~8:55 AM ET) - nothing drastic, no message sent\n- Data (BEA/CNBC): Q3 GDP adv 3.4% vs ~3.1-3.2% cons (prior 2.2%), modest beat. Sep PCE +0.5% m/m (in line), 3.6% y/y (0.1 below DJ cons); core +0.3% m/m, 3.1% y/y in line. Spending +0.5% vs 0.6%, income +0.2% vs 0.3%. Claims actual not found (cons ~196-198K).\n- yfinance 1m (~8:44): NQ 29599 vs 29623 at 8:00 (-0.08%), post-8:30 range 29566-29670. ES 7751 vs 7750 (flat). RTY 2847 (+0.1%). VIX 17.12 (from 17.2, low 16.83). 10y ~5.01-5.03%. WTI ~101.6. DXY 102.16.\n- ETFs ~8:53: SPY 769.46 (post-8:30 range 768.57-770.07; PML 768.48 held, poked the 770 lid). QQQ 717.05 (715.55-717.98; PML 714.98 held). IWM 282.13 (281.52-282.45; inside PM range 281.61-283.29, low tick 281.52 marginal).\n- Quant Data API 9k+ unconsolidated flow for today: 0 rows. GEX not re-pulled: spot within ~0.1% of the 8:10 read.\n- FJ page fetch returned no headlines (JS); no major breaking news surfaced in search.\n",
+  "macro_markdown": null,
+  "source_file": "2026-10-29_postdata.md"
+}

@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-29",
+  "type": "premarket",
+  "generated_at": "2026-10-29T08:10:00-04:00",
+  "generated_at_source": "text",
+  "summary": "Tech-led gap down: GOOGL is off 10-11% pre-market on weak search revenue and -$9.07B free cash flow, while MSFT is up 2-4% on Azure +48%. NQ is -1.2%, ES -0.4%, and RTY is slightly green. Big 8:30 print: Q3 GDP plus September PCE. AMZN and INTC report after the close. Not a Friday or monthly opex (tomorrow is Friday weekly expiry plus month-end). Casey (@Team2Trading) last night on FOMC day: \"No trades for me today... this chart was as ugly as they come.\"",
+  "futures": {
+    "NQ": {
+      "last": 29620.75,
+      "change_pct": -1.2,
+      "high": 29794.25,
+      "low": 29482.5
+    },
+    "ES": {
+      "last": 7749.75,
+      "change_pct": -0.4,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": 2844.3,
+      "change_pct": 0.2,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 768.84,
+      "pdh": 773.36,
+      "pdl": 769.24,
+      "pdc": 772.35,
+      "pmh": 771.39,
+      "pml": 768.48,
+      "net_gex_b": -5.84,
+      "flip": null,
+      "sign_change": "772",
+      "call_walls": [
+        {
+          "strike": 800,
+          "gex_b": null
+        },
+        {
+          "strike": 780,
+          "gex_b": null
+        },
+        {
+          "strike": 775,
+          "gex_b": null
+        }
+      ],
+      "put_walls": [
+        {
+          "strike": 765,
+          "gex_b": null
+        }
+      ],
+      "dark_pool": [
+        {
+          "price": 769.7,
+          "notional_b": 2.48
+        },
+        {
+          "price": 772.3,
+          "notional_b": 0.54
+        }
+      ],
+      "game_plan": "reclaim 769.7 with a 15-min close and calls toward 771.4, then 772.4. Lose 768.5 and puts toward 767.7, then 765 (put wall)."
+    },
+    "QQQ": {
+      "spot": 716.4,
+      "pdh": 726.12,
+      "pdl": 720.3,
+      "pdc": 725.48,
+      "pmh": 720.18,
+      "pml": 714.98,
+      "net_gex_b": -4.59,
+      "flip": null,
+      "sign_change": "726",
+      "call_walls": [
+        {
+          "strike": 740,
+          "gex_b": null
+        },
+        {
+          "strike": 750,
+          "gex_b": null
+        },
+        {
+          "strike": 730,
+          "gex_b": null
+        }
+      ],
+      "put_walls": [
+        {
+          "strike": 700,
+          "gex_b": null
+        }
+      ],
+      "dark_pool": [
+        {
+          "price": 721.2,
+          "notional_b": 0.77
+        },
+        {
+          "price": 722.0,
+          "notional_b": null
+        }
+      ],
+      "game_plan": "a 15-min close back above 720.3 and calls toward 721.2, then 725.5-726 (PDC/sign change). Lose 715 and puts toward 713.6, then 710 (put wall)."
+    },
+    "IWM": {
+      "spot": 281.75,
+      "pdh": 281.48,
+      "pdl": 279.05,
+      "pdc": 281.29,
+      "pmh": 283.29,
+      "pml": 281.61,
+      "net_gex_b": 0.66,
+      "flip": 284.0,
+      "sign_change": "282",
+      "call_walls": [
+        {
+          "strike": 284,
+          "gex_b": null
+        },
+        {
+          "strike": 283,
+          "gex_b": null
+        },
+        {
+          "strike": 282,
+          "gex_b": null
+        }
+      ],
+      "put_walls": [],
+      "dark_pool": [
+        {
+          "price": 280.0,
+          "notional_b": null
+        }
+      ],
+      "game_plan": "hold 281.5 and a 15-min close above 283.3, calls toward 284. Lose 281.5 and puts toward 280.1, then 279.05 (PDL)."
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": 30025.06,
+      "pdl": 29784.4,
+      "pdc": 29998.6,
+      "pmh": 29779.44,
+      "pml": 29564.42,
+      "ratio_to_etf": 41.35,
+      "approximate": true,
+      "basis": "QQQ level x stated ratio 41.35"
+    },
+    "ES": {
+      "pdh": 7795.47,
+      "pdl": 7753.94,
+      "pdc": 7785.29,
+      "pmh": 7775.61,
+      "pml": 7746.28,
+      "ratio_to_etf": 10.08,
+      "approximate": true,
+      "basis": "SPY level x stated ratio 10.08"
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": [
+      "8:30: Q3 GDP advance (consensus ~3.0-3.2% across sources, prior 2.2%). September PCE: core m/m +0.3% (prior +0.2%), core y/y 3.1% (prior 3.0%; Yahoo confirms 3.1%). Personal income +0.3%, spending +0.3%. Jobless claims 196K (prior 194K).",
+      "1:00 PM: 7-year auction.",
+      "Fed speakers: not checked this morning.",
+      "Tomorrow: 8:30 Q3 ECI, 9:45 Chicago PMI, BoJ decision, weekly expiry plus month-end."
+    ],
+    "earnings": [
+      "Wed after the close: GOOGL -10 to -11% (13 price-target cuts), MSFT +2-4% (plus a $25B+ bond sale today), NOW -13% and FTNT -22% (Wed after hours).",
+      "This morning: LLY big beat (revenue $24.40B vs $22.52B, FY raised to $91-92B). MA beat ($5.31 vs $5.17). BMY beat. HSY beat and raised. MO in line and raised. DHI's 2027 guide is below estimates. CAT and MRK reported (numbers not pulled). DASH is buying CART at $65/share.",
+      "After the close today: AMZN, INTC."
+    ],
+    "headlines": [
+      "IRGC Navy says 3 tankers caught fire after hitting mines off the Strait of Hormuz.",
+      "Semafor says the Trump administration is in talks on a temporary peace deal.",
+      "North Korea launched about 10 missiles.",
+      "ECB's Lagarde will step down Feb 7, 2027.",
+      "BofA now sees Fed hikes in December and March.",
+      "NYT says a suspected US spy helped China evade AI chip curbs. China protested new Xinjiang entity listings. The yuan is at its strongest since 2022.",
+      "Silver -3% to $52.40."
+    ],
+    "cross_asset": {
+      "vix": 17.13,
+      "us10y": 5.05,
+      "dxy": 102.22,
+      "wti": 101.96,
+      "brent": null,
+      "gold": 4032.0
+    }
+  },
+  "takeaway": "The magnets that matter:\n- SPY 769.2-770.1 (PDL, dark pool, EMAs) as the lid, 765 put wall below.\n- QQQ 720.2-721.2 (PMH, PDL, dark pool) as the lid, 715 then 713.6 and the 710 put wall below.\n- IWM 281.5-282 support and 283.3-284 call wall/flip resistance.\nNegative gamma in SPY and QQQ means the 8:30 data and the open can push moves further than usual. IWM's positive gamma and relative strength point to a rotation day rather than a broad flush.",
+  "markdown": "# Pre-Market Brief, Thu Oct 29, 2026 (data as of ~8:10 AM ET)\n\nTech-led gap down: GOOGL is off 10-11% pre-market on weak search revenue and -$9.07B free cash flow, while MSFT is up 2-4% on Azure +48%. NQ is -1.2%, ES -0.4%, and RTY is slightly green. Big 8:30 print: Q3 GDP plus September PCE. AMZN and INTC report after the close. Not a Friday or monthly opex (tomorrow is Friday weekly expiry plus month-end). Casey (@Team2Trading) last night on FOMC day: \"No trades for me today... this chart was as ugly as they come.\"\n\n## Positioning (Quant Data API on the user's account, ~8:10 AM ET; pre-market GEX is a thin first read. Heatmap nodes not pulled separately, so GEX by strike is the magnet proxy)\n- SPY: net GEX -5.84B, negative gamma (Wed close was +2.08B with a 772 0DTE pin, now expired). Call walls 800, 780, 775. Put walls 765 (largest, -1.89B), 760, 750. No cumulative flip; nearest sign change 772. Dark pool: 769.7 (~$2.48B, the dominant print), 772.3 ($0.54B).\n- QQQ: net -4.59B, negative gamma. Call walls 740, 750, 730. Put walls 700 (largest), 710, 690. Nearest sign change 726. Dark pool 721.2 ($0.77B), 722.0-722.4.\n- IWM: net +0.66B, the only positive one. Call walls 284, 283, 282; cumulative flip 284; sign change 282. Put gamma 278, 275. Dark pool 280.0-280.4.\n- 9,000+ contract prints, Wed Oct 28 (141 total, no SPY). None so far this pre-market.\n  - QQQ Nov 6 680P 20,000 at the bid ($3.4M, 13:35), then Nov 20 680P 28,000 at the ask ($13.5M, 13:39). A roll out in time: protection kept, not removed.\n  - QQQ Dec 18 780C/800C, 15,000 each, 10:16, same timestamp. An upside call spread.\n  - IWM Nov 20 268P/266P, 56,998 each, 16:06 (after the close), 268 at the ask and opening. A put-spread hedge.\n  - IWM Dec 18 240P 23,592 above the ask ($2.24M, 12:00) and Jan 15 265P 10,000 at the ask ($4.56M). Tail hedges. IWM Dec 18 270P 10,000 at the bid ($4.11M) was sold.\n  - IWM Oct 30 283C/284C (16,000 and 22,000, 14:25), opening. A call spread into tomorrow sitting right on the 283-284 call walls and flip.\n  - IWM Oct 29 280C 9,375 above the ask ($1.74M, 10:26). A 0DTE for today, now in the money.\n  - VIX Nov 18 26C 12,759 at mid; VIX Nov 18 15P/16.5P put spread. HYG put spreads all day (mixed bid/ask), TLT Dec 31 79P/75P opening (a bet on higher yields), XLF 54P Jan/Jun calendar. SPX $0.05 deep-OTM puts are noise.\n  - Read: hedges are being rolled and added (QQQ, IWM), not unwound, ahead of mega-cap earnings. That doesn't look like a sweep-reversal signal. With SPY and QQQ now in negative gamma, moves can extend once levels break. The study's note applies: short-dated put buying into an event tended to precede whipsaws, and a lack of big prints didn't mean calm.\n\n## Combined levels map (PM range 4:00 AM to ~8:10 AM ET, can still change before 9:30)\nRatios: ES ~10.08x SPY, NQ ~41.35x QQQ, RTY ~10.10x IWM. Futures levels are approximate.\n\n**SPY** (PM last 768.84, opening below the PDL, so it becomes resistance)\n- PDH 773.36 (ES ~7795), PDL 769.24 (ES ~7754), PDC 772.35.\n- PMH 771.39 (ES ~7776), PML 768.48 (ES ~7746; the ES overnight low is 7740).\n- 2-min EMA stack 13/48/200: 769.22, 769.90, 770.08. Bearish stack (13 under 48 under 200).\n- Confluence:\n  - 769.2-770.1 is the key lid: the PDL, the $2.48B dark pool at 769.7, and the 48/200 EMAs.\n  - 772-772.4: PDC, the 772 sign change, and dark pool 772.3.\n  - 765.2: the Oct 27 low on the 765 put wall (largest), ES ~7713.\n- Untested zone: 767.7 (Oct 26 high) as first support.\n- Game plan: reclaim 769.7 with a 15-min close and calls toward 771.4, then 772.4. Lose 768.5 and puts toward 767.7, then 765 (put wall).\n\n**QQQ** (PM last 716.40, gap -1.25% under the PDL)\n- PDH 726.12 (NQ ~30025), PDL 720.30 (NQ ~29784), PDC 725.48.\n- PMH 720.18 (NQ ~29779; the NQ overnight high is 29794). PML 714.98 (NQ ~29565).\n- EMA stack: 716.84, 717.67, 718.46. Bearish.\n- Confluence:\n  - 720.2-721.2 is a heavy lid: PMH, PDL, and the $0.77B dark pool at 721.2.\n  - 715.0-715.3: the PML plus the Oct 26 high.\n  - 713.6: the Oct 27 low (NQ ~29507, near the 29482 overnight low).\n  - 710 put wall (NQ ~29358).\n- Game plan: a 15-min close back above 720.3 and calls toward 721.2, then 725.5-726 (PDC/sign change). Lose 715 and puts toward 713.6, then 710 (put wall).\n\n**IWM** (PM last 281.75, above the PDH; relative strength)\n- PDH 281.48 (RTY ~2842), PDL 279.05 (RTY ~2817), PDC 281.29.\n- PMH 283.29 (RTY ~2860, matching the 2860.8 overnight high). PML 281.61.\n- EMA stack: 281.85, 282.18, 282.01. Bunched, so chop.\n- Confluence:\n  - 281.5-282: PDH, PML, and the 282 call wall/sign change. Support if it holds.\n  - 283.3-284: PMH, 283/284 call walls, the cumulative flip, and Wed's 283/284 call spread.\n  - 280.0-280.4: dark pool cluster.\n- Opening above the PDH turns it into support (break and retest).\n- Game plan: hold 281.5 and a 15-min close above 283.3, calls toward 284. Lose 281.5 and puts toward 280.1, then 279.05 (PDL).\n\nBias framing: the pre-market range is a no-trade zone. Wait for a 15-minute close beyond a level, nothing before 9:45. SPY and QQQ opening under the PDL makes it resistance (look for rejection there or a reclaim-and-hold). 8:30 data can reset the pre-market range.\n\n## Macro\n- Calendar (ET; consensus from Tuesday's compiled sources, may have shifted):\n  - 8:30: Q3 GDP advance (consensus ~3.0-3.2% across sources, prior 2.2%). September PCE: core m/m +0.3% (prior +0.2%), core y/y 3.1% (prior 3.0%; Yahoo confirms 3.1%). Personal income +0.3%, spending +0.3%. Jobless claims 196K (prior 194K).\n  - 1:00 PM: 7-year auction.\n  - Fed speakers: not checked this morning.\n  - Tomorrow: 8:30 Q3 ECI, 9:45 Chicago PMI, BoJ decision, weekly expiry plus month-end.\n- Earnings:\n  - Wed after the close: GOOGL -10 to -11% (13 price-target cuts), MSFT +2-4% (plus a $25B+ bond sale today), NOW -13% and FTNT -22% (Wed after hours).\n  - This morning: LLY big beat (revenue $24.40B vs $22.52B, FY raised to $91-92B). MA beat ($5.31 vs $5.17). BMY beat. HSY beat and raised. MO in line and raised. DHI's 2027 guide is below estimates. CAT and MRK reported (numbers not pulled). DASH is buying CART at $65/share.\n  - After the close today: AMZN, INTC.\n- Headlines (Financial Juice and X squawks overnight):\n  - IRGC Navy says 3 tankers caught fire after hitting mines off the Strait of Hormuz.\n  - Semafor says the Trump administration is in talks on a temporary peace deal.\n  - North Korea launched about 10 missiles.\n  - ECB's Lagarde will step down Feb 7, 2027.\n  - BofA now sees Fed hikes in December and March.\n  - NYT says a suspected US spy helped China evade AI chip curbs. China protested new Xinjiang entity listings. The yuan is at its strongest since 2022.\n  - Silver -3% to $52.40.\n- Globex (~8:00 AM ET vs Wed settle):\n  - NQ 29620.75 (-1.2%), overnight range 29482.5-29794.25.\n  - ES 7749.75 (-0.4%), 7740-7773.75.\n  - RTY 2844.3 (+0.2%) sits at its overnight low, 2843.9-2860.8.\n- Global: Nikkei +1.1% (64,659). KOSPI -1.2%, Shanghai -0.8%, Hang Seng -0.6%. Europe firmer: DAX +0.7%, CAC +0.7%, FTSE +0.3%, Stoxx 50 flat.\n- Vol and cross-asset: VIX 17.13 (+0.22). 10-year 5.05% (Wed close, live not pulled). DXY 102.22. WTI 101.96 (-0.8%). Gold 4032 (-0.5%).\n\n## History\nThis resembles past gap-down mornings in negative gamma, where moves extended once levels broke. At -5.8B SPY GEX it's nowhere near the -15B to -23B extremes that came before the cleanest snap-backs. There's no heavy put selling at the bid yet; the flow is hedge rolls and adds instead.\n\n## Takeaway (information, not advice)\nThe magnets that matter:\n- SPY 769.2-770.1 (PDL, dark pool, EMAs) as the lid, 765 put wall below.\n- QQQ 720.2-721.2 (PMH, PDL, dark pool) as the lid, 715 then 713.6 and the 710 put wall below.\n- IWM 281.5-282 support and 283.3-284 call wall/flip resistance.\nNegative gamma in SPY and QQQ means the 8:30 data and the open can push moves further than usual. IWM's positive gamma and relative strength point to a rotation day rather than a broad flush.\n",
+  "macro_markdown": null,
+  "source_file": "2026-10-29_premarket.md"
+}

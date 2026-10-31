@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-23",
+  "type": "close",
+  "generated_at": "2026-10-23T16:05:00-04:00",
+  "generated_at_source": "scheduled_default",
+  "summary": "SPY 759.96 -0.52% H763.46 L758.69 | QQQ 704.40 -0.01% H709.25 L701.28 | IWM 275.71 -0.35% H276.23 L273.34",
+  "futures": {
+    "NQ": {
+      "last": 29139.0,
+      "change_pct": -0.01,
+      "high": 29326.0,
+      "low": 28987.0
+    },
+    "ES": {
+      "last": 7663.25,
+      "change_pct": -0.54,
+      "high": 7697.25,
+      "low": 7648.5
+    },
+    "RTY": {
+      "last": 2785.9,
+      "change_pct": -0.36,
+      "high": 2790.3,
+      "low": 2761.0
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 759.96,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -22.38,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": 704.4,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -4.46,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 275.71,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -1.59,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [
+    {
+      "ticker": "SPY",
+      "strike": 755.0,
+      "expiry": "10/30",
+      "cp": "P",
+      "size": 138000,
+      "premium": null,
+      "side": "above_ask",
+      "time": "14:39",
+      "read": null,
+      "raw": "SPY 10/30 755P 138k above ask opening 14:39."
+    }
+  ],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": 19.79,
+      "us10y": 4.99,
+      "dxy": 101.8,
+      "wti": 103.59,
+      "brent": null,
+      "gold": 4011.9
+    }
+  },
+  "takeaway": null,
+  "markdown": "# Close recap Fri Oct 23, 2026 (data: Quant Data API same account, yfinance, X squawk, Reuters/Yahoo)\nSPY 759.96 -0.52% H763.46 L758.69 | QQQ 704.40 -0.01% H709.25 L701.28 | IWM 275.71 -0.35% H276.23 L273.34\nES 7663.25 -0.54% RTH H7697.25 L7648.50 | NQ 29139 -0.01% H29326 L28987 | RTY 2785.9 -0.36% H2790.3 L2761.0\nVIX 19.79 +4.0% | 10y 4.99% | DXY 101.80 | WTI 103.59 +4.1% | Gold 4011.9 -1.2%\nGEX close (all exp / ex-Oct23): SPY -22.38B / -13.43B; QQQ -4.46B / -6.69B; IWM -1.59B / -2.20B\nFlow 9k+: 228 prints, /workspace/history/flow_9k_2026-10-23.csv. Key SPY 10/30 755P 138k above ask opening 14:39.\n",
+  "macro_markdown": null,
+  "source_file": "2026-10-23_close.md"
+}

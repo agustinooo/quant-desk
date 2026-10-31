@@ -1,0 +1,269 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-26",
+  "type": "premarket",
+  "generated_at": "2026-10-26T08:15:00-04:00",
+  "generated_at_source": "text",
+  "summary": "SPY and QQQ are still in negative gamma, but far less negative than Friday's close as futures gap up. IWM is about flat, so expect less dealer help there.",
+  "futures": {
+    "NQ": {
+      "last": 29279.5,
+      "change_pct": 0.48,
+      "high": 29345.0,
+      "low": 29024.25
+    },
+    "ES": {
+      "last": 7686.25,
+      "change_pct": 0.3,
+      "high": 7697.75,
+      "low": 7651.75
+    },
+    "RTY": {
+      "last": 2792.1,
+      "change_pct": 0.22,
+      "high": 2799.6,
+      "low": 2784.9
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 763.03,
+      "pdh": 763.47,
+      "pdl": 758.68,
+      "pdc": 759.91,
+      "pmh": 763.23,
+      "pml": 760.0,
+      "net_gex_b": -5.52,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [
+        {
+          "strike": 770,
+          "gex_b": 0.56
+        },
+        {
+          "strike": 780,
+          "gex_b": 0.43
+        },
+        {
+          "strike": 765,
+          "gex_b": 0.41
+        }
+      ],
+      "put_walls": [
+        {
+          "strike": 755,
+          "gex_b": -3.53
+        },
+        {
+          "strike": 745,
+          "gex_b": -1.23
+        },
+        {
+          "strike": 750,
+          "gex_b": -1.19
+        },
+        {
+          "strike": 760,
+          "gex_b": -1.0
+        }
+      ],
+      "dark_pool": [],
+      "game_plan": "a 15-min close above 763.5 and a retest opens calls toward 765–765.8, then 767.7. Losing 760 opens puts toward 758.7, then 755."
+    },
+    "QQQ": {
+      "spot": 709.09,
+      "pdh": 709.3,
+      "pdl": 701.16,
+      "pdc": 704.39,
+      "pmh": 709.75,
+      "pml": 702.09,
+      "net_gex_b": -1.48,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [
+        {
+          "strike": 725,
+          "gex_b": 0.28
+        },
+        {
+          "strike": 720,
+          "gex_b": null
+        },
+        {
+          "strike": 730,
+          "gex_b": null
+        },
+        {
+          "strike": 715,
+          "gex_b": 0.18
+        }
+      ],
+      "put_walls": [
+        {
+          "strike": 700,
+          "gex_b": -0.85
+        },
+        {
+          "strike": 690,
+          "gex_b": -0.83
+        },
+        {
+          "strike": 680,
+          "gex_b": null
+        },
+        {
+          "strike": 695,
+          "gex_b": null
+        }
+      ],
+      "dark_pool": [],
+      "game_plan": "a 15-min close above 710.4 opens calls toward 715–715.4. A failure back under 709.3 traps buyers and opens puts toward 707.2, then 704.4."
+    },
+    "IWM": {
+      "spot": 276.48,
+      "pdh": 276.24,
+      "pdl": 273.35,
+      "pdc": 275.72,
+      "pmh": 276.93,
+      "pml": 275.76,
+      "net_gex_b": 0.16,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [
+        {
+          "strike": 282,
+          "gex_b": null
+        },
+        {
+          "strike": 280,
+          "gex_b": null
+        },
+        {
+          "strike": 276,
+          "gex_b": null
+        }
+      ],
+      "put_walls": [
+        {
+          "strike": 275,
+          "gex_b": -0.15
+        }
+      ],
+      "dark_pool": [],
+      "game_plan": "a close above 276.93 opens calls toward 277.3–277.7. Losing 275.76, then 275.3, opens puts toward 275, then 273.35."
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": [
+      "No durable goods today; that report is Tuesday.",
+      "Fed speakers: none. The Fed is in blackout and the FOMC meets Oct 27–28.",
+      "Schwab lists Dallas Fed at 9:30. Investrade, Moody's, for-ex.news and myfxbook all list 10:30, so 10:30 is used here.",
+      "Sources: Investrade weekly calendar, Schwab Network week ahead, Moody's economy.com, Sigmanomics/Trading Economics (CFNAI consensus), for-ex.news/myfxbook (Dallas Fed consensus).",
+      "Tue Oct 27: FOMC begins.",
+      "8:30: Durable goods (Sep). Consensus +0.6%, prior -0.1%. Ex-transportation consensus +0.6%, prior +0.3%.",
+      "9:00: Case-Shiller and FHFA home prices.",
+      "10:00: Consumer confidence (consensus 80.5, prior 81.9), new home sales (0.66M vs 0.684M) and Richmond Fed.",
+      "1:00 PM: $70B 5-year auction.",
+      "Wed Oct 28:",
+      "8:30: Advance goods trade balance (consensus -128.7B, prior -132.1B) and inventories.",
+      "10:30: EIA oil inventories.",
+      "2:00 PM: FOMC decision. 2:30 PM: Chair Warsh press conference.",
+      "Fed funds is 3.75–4.00% (Moody's). Schwab cites CME FedWatch at about a 10% chance of a 25 bp hike.",
+      "Thu Oct 29, 8:30: Q3 GDP advance estimate (Moody's 2.2% q/q SAAR), September PCE and personal income/spending (BEA schedule), and jobless claims (prior 194K). The $44B 7-year auction is at 1:00 PM.",
+      "Fri Oct 30: 8:30 Q3 Employment Cost Index, 9:45 Chicago PMI.",
+      "The October jobs report is not this week. Nothing was fetched on its date."
+    ],
+    "earnings": [
+      "VZ: adjusted EPS $1.31 vs $1.27–1.28 estimate; revenue $34.3B vs $34.74–34.77B estimate (a miss).",
+      "406K postpaid phone adds vs about 209K expected.",
+      "Raised FY adjusted EPS guidance to $5.04–5.06 (from $4.99–5.04).",
+      "Signed a $2B+ AWS AI deal.",
+      "About +2% in pre-market (CNBC, Verizon IR, Investing.com, @DeItaone, @FirstSquawk).",
+      "Others: ARLP, BFST, BOH, CX, MMYT and others (Investrade).",
+      "CDNS, NUE, AMKR, CLS, HIG, PSA, WELL, BRO, PFG, RMBS, NE, CINF (Investrade).",
+      "None of these is a mega-cap. The ones most relevant to the index and semis are CDNS, AMKR, CLS and RMBS.",
+      "Brazil ADRs crashed after Lula's surprise 4th-term win: XP -48%, STNE -34%, BBD -30%.",
+      "MRNA -8–9%.",
+      "CoreWeave and other neoclouds fell after Musk warned of a \"reckoning\" for the sector.",
+      "TSLA +2% on a Barclays upgrade to Overweight, target $450.",
+      "SGRY +21–25% on a reported take-private.",
+      "RRC up after an EQT takeover report.",
+      "FICO -4.5% on a Wells Fargo downgrade.",
+      "Sources: CNBC, Investing.com, WSJ, stockanalysis.com.",
+      "Wed Oct 28, after the close: MSFT (call 5:30 PM) and GOOGL (call 4:30 PM). Both come right after the FOMC.",
+      "Thu Oct 29: AMZN after the close (call 5:00 PM). LLY before the open.",
+      "Fri Oct 30, before the open: XOM and CVX.",
+      "Other names: V (Tue after close), KO, BA, UPS, PYPL, SOFI and RCL (Tue before open), HOOD, NXPI, STX and TER (Tue after close). Also KLAC, NOW, CMG, F, FDX and TMUS (Wed after close).",
+      "Not this week: AAPL reports Mon Nov 2 (call 5:00 PM). META, TSLA and NFLX already reported.",
+      "Sources: StockTitan, Bullquill, Investrade, signalstack."
+    ],
+    "headlines": [
+      "META capital raise, about $35B:",
+      "$22.5B of Class A stock via forward sales, plus 250M depositary shares of mandatory convertible preferred (about $12.5B).",
+      "Up to a $60B Class C ATM program and a mixed shelf.",
+      "NVDA, AMD and AVGO indicated interest in buying up to $5B of Class A shares.",
+      "The stock fell to -2.3% pre-market, then reversed to +2.2% at about 7:26 ET.",
+      "Sources: FJ, @DeItaone, @FirstSquawk, @LiveSquawk.",
+      "SpaceX ($SPCX): a $40B GPU finance lease with Apollo (SEC filing), up about 1% pre-market.",
+      "Anthropic is to release its S-1 at 9:00 AM ET (Fox Business via squawks). The IPO is reportedly targeted for Nov 19–20.",
+      "Oracle launched agentic AI platforms for Fusion and cloud implementation.",
+      "Iran / Middle East: tone is de-escalating.",
+      "A Qatari official visited Tehran Sunday as a mediator.",
+      "Saudi Arabia says negotiations aim to \"prevent escalations and pave the way for an agreement to end the conflict,\" tied to the Mecca Pact talks in Tehran.",
+      "Iran's president goes to Russia today for a gas summit.",
+      "Brent and WTI are lower (FJ).",
+      "Europe and other overseas data:",
+      "German Ifo business climate 90.2 vs 89.9 expected (expectations 91.6 vs 90.0; current conditions 88.8 vs 89.8).",
+      "UK CBI distributive trades -10 vs -48 expected.",
+      "The EU plans new curbs on China trade as early as Q1 2027.",
+      "Swedish PPI +11.2% y/y.",
+      "Strategist calls:",
+      "Goldman warns global growth risks are building: energy, yields, slowing AI investment.",
+      "MS Wilson sees the correction ending after the midterms.",
+      "Yardeni says buy selloffs.",
+      "S&P 500 blended Q3 EPS growth is about 29%, but revision momentum is slowing (@LiveSquawk).",
+      "Futures at about 7:54 ET: ES +0.4%, NQ +0.5%, YM +0.5% (@FirstSquawk).",
+      "@zerohedge headlines: \"What Needs To Happen For AI Wobble To Turn To Bust,\" \"Hold Or Fold? Skipper Warsh & His Hawkish Crew,\" and Brazil stocks cratering.",
+      "@Team2Trading: no levels posted for today as of 8:05 AM ET. His recent posts:",
+      "A Sunday 11:42 AM ET educational post on PDH, PDL, PMH and PML and the 13/48/200 EMAs.",
+      "A Sunday 10:24 PM ET post saying an independent review of his Discord trades showed an average of about $14,100/month at 100 contracts.",
+      "Replies."
+    ],
+    "cross_asset": {
+      "vix": 19.14,
+      "us10y": 5.007,
+      "dxy": 101.9,
+      "wti": 101.04,
+      "brent": 110.08,
+      "gold": null
+    }
+  },
+  "takeaway": "- **The key confluence levels:**\n  - **SPY 763.2–763.8:** PDH, PMH and the dark pool level, a gate right at spot.\n  - **SPY 760:** PML plus the put wall.\n  - **SPY 770:** the call wall plus the Oct 19 high.\n  - **QQQ 709.3–710.4:** PDH, PMH and the sign change.\n  - **QQQ 715–715.4:** the call wall plus the Oct 22 high.\n  - **QQQ 700–701.2:** the put wall plus PDL.\n- The biggest magnet below is **SPY 755**.\n- Negative gamma, though shrinking, means a clean 15-min break of the PM range can travel wall to wall.\n- Bonds back above 5% and the 9:00 Anthropic filing are the morning wildcards, and FOMC risk builds into Wednesday.",
+  "markdown": "# Pre-Market Brief: Mon Oct 26, 2026 (as of ~8:15 AM ET)\n*Information, not advice. Pre-market levels can still change before 9:30. Today's only US data is the 8:30 Chicago Fed index; FOMC starts tomorrow.*\n\n## 1) Positioning (Quant Data, gamma per 1% move, ~8:12 AM ET)\n| | Net GEX now (ex-0DTE) / Fri close | Call walls | Put walls | Flip |\n|---|---|---|---|---|\n| **SPY** 763.03 | **−5.52B** (−3.74B) / −22.38B | **770** (+0.56B), 780 (+0.43B), **765** (+0.41B) | **755** (−3.53B, about 1.5B of it expires today), 745 (−1.23B), 750 (−1.19B), **760** (−1.00B) | No cumulative flip. Strikes change sign around 761–763 and 766 |\n| **QQQ** 709.10 | **−1.48B** (−1.72B) / −4.46B | 725 (+0.28B), 720, 730, **715** (+0.18B) | **700** (−0.85B), 690 (−0.83B), 680, 695 | No cumulative flip. Strikes change sign around 707–708 and 710–711 |\n| **IWM** 276.44 | **+0.16B** (≈0) / −1.59B | 282, 280, 276 (all small) | **275** (−0.15B) | Cumulative flip at 282. Thin data (24 strikes) |\n\n- SPY and QQQ are still in negative gamma, but far less negative than Friday's close as futures gap up. IWM is about flat, so expect less dealer help there.\n- **The 755 SPY put wall is the biggest node on the board.** It lines up with Friday's huge 10/30 put trade (see Flow).\n- **Dark pool, Oct 23:** SPY **763.81** ($2.16B) and a 759.84–759.97 cluster (~$1.4B). QQQ 704.35–704.40 (~$1.4B) and 705.10. IWM 275.67–275.87.\n\n## 2) Levels map (Team2Trading + GEX)\nPM is the pre-market range, 4:00 AM ET to 8:11 AM. The EMA stack is the 2-minute 13/48/200.\n\n**SPY:** PDH 763.47 · PDL 758.68 · PDC 759.91 · PMH 763.23 · PML 760.00 · last 763.03\n- The EMA stack is **bullish** (762.53 > 761.73 > 761.40).\n- Price is pressing the top of the PM range, right under PDH.\n- **Confluence:**\n  - **The PMH/PDH zone at 763.2–763.5 sits with the 763.81 dark pool level and the 763 sign change.** That's the first big gate.\n  - **PML 760.00 is exactly the 760 put wall**, near the 759.9 dark pool and PDC.\n  - **The 770 call wall sits with the Oct 19 high at 770.46.**\n- Untested zones above: 764.25 (Oct 20 low), 765 (call wall) to 765.82 (Oct 19 low), 767.71 (Oct 22 high), 768.40 (Oct 21 low).\n- Untested zones below: 760.64 (Oct 16 low), 758.68, then the 755 wall.\n- **Plan:** a 15-min close above **763.5** and a retest opens calls toward 765–765.8, then 767.7. Losing **760** opens puts toward 758.7, then 755.\n- Approx ES (×10.07): 763.5≈7691 · 765≈7707 · 767.7≈7734 · 770≈7757 · 760≈7656 · 758.7≈7643 · 755≈7606\n\n**QQQ:** PDH 709.30 · PDL 701.16 · PDC 704.39 · PMH 709.75 · PML 702.09 · last 709.09\n- The EMA stack is **bullish** (708.28 > 706.58 > 705.66).\n- Price is above PDH, which turns PDH into the first support to retest.\n- **Confluence:**\n  - **709.3–710.4 holds PDH, PMH, the 710–711 sign change and the Oct 20 low at 710.39.** That's the breakout gate.\n  - **The 715 call wall sits with the Oct 22 high at 715.43 (0.06%).**\n  - **The 700 put wall sits with PDL 701.16 (0.17%).**\n- 704.4 holds PDC plus the dark pool cluster, and 707.23 is the Oct 16 low.\n- **Plan:** a 15-min close above **710.4** opens calls toward 715–715.4. A failure back under **709.3** traps buyers and opens puts toward 707.2, then 704.4.\n- Approx NQ (×41.29): 710.4≈29332 · 709.3≈29287 · 715.4≈29540 · 707.2≈29202 · 704.4≈29085 · 701.2≈28951 · 700≈28903\n\n**IWM:** PDH 276.24 · PDL 273.35 · PDC 275.72 · PMH 276.93 (at 4:01) · PML 275.76 · last 276.48\n- The EMA stack is mildly bullish (276.47 > 276.31 > 276.14).\n- **Confluence:**\n  - **The 275 put wall sits with the Oct 21 low at 275.30 (0.1%).**\n  - The 276 sign change sits at PDH 276.24.\n- Overhead: Oct 20 high 276.90 and PMH 276.93, then 277.28 and 277.70 (Oct 22 and Oct 21 highs).\n- **Plan:** a close above **276.93** opens calls toward 277.3–277.7. Losing **275.76**, then 275.3, opens puts toward 275, then 273.35.\n- Approx RTY (×10.10): 276.93≈2797 · 277.7≈2804 · 276.24≈2790 · 275.76≈2785 · 275≈2777\n\n**Rules for today:**\n- The PM range is a no-trade zone.\n- Wait for a 15-min close beyond a level, and nothing before 9:45.\n- QQQ and IWM are opening above PDH, so watch for break-and-retest versus a rejection back inside.\n- **@Team2Trading hasn't posted levels for today** as of 8:05.\n\n## 3) Flow: 9,000+ contracts\n- **Today's pre-market:** none as of 8:12.\n- **Fri Oct 23:** 228 prints across all tickers. Full list: `history/flow_9k_2026-10-23.csv`.\n\n**Main index prints, read by structure:**\n- **14:39:51, SPY 10/30, one multi-leg ticket with SPY at 760.23:**\n  - **Bought 755P, 138,262 contracts above the ask, opening, $67.3M.**\n  - Sold 760P, 55k at the bid, $36.6M.\n  - 745P traded 26k at the bid and 57k at the ask.\n  - This is a large put structure centered on 755, expiring Friday after FOMC, GDP and PCE. **It's why 755 is now the dominant put wall.**\n- **14:38, QQQ 10/30:** 700P and 675P traded 16.6k each **below the bid**, which is likely closing a put spread.\n- **13:28, QQQ:** sold the in-the-money 713P 11/6 at the bid (10k, $18.2M) and bought the 680P 11/20 at the ask. It's the same roll down and out as Thursday, taking profit on puts that had moved in the money.\n- **12:41, SPY 10/30:** 750P and 735P, 9.8k each at the bid (a put spread).\n- **IWM, heavy Nov/Jan put hedging, all multi-leg spreads:**\n  - 09:40: 261/263P 11/20, 36k each.\n  - 09:42: 250/270P Jan, bought at the ask.\n  - 10:47: 225P Dec '27, opening.\n  - 14:06: 275/260P 11/20.\n  - 16:03: 261/262P 11/20, 28k each.\n- **VIX:** Nov call spreads and put sales through the day, and 19P Jan bought at the ask (10k).\n- **What it adds up to:**\n  - This is hedging into FOMC and month-end, **not the heavy put selling at the bid in deep negative GEX** that came before the cleanest snap-backs in the user's study.\n  - Thursday's 10/26 755/750 put spread (~67k) expires today far out of the money.\n  - The 755-centered 10/30 trade fits the study's **\"short-dated put buying into an event, followed by whipsaw\"** pattern.\n  - No clear sweep-reversal or trend-continuation signal.\n- **Historical note:** Friday's SPY close at **−22.38B** is about the same as **Jul 29 (−22.9B)**, which preceded a sharp snap-back rally. This morning's gap up looks like that kind of relief, but it's one comparison, not a signal.\n\n## 4) Macro\n**US data, ET:**\n- 8:30: Chicago Fed National Activity Index. Consensus −0.10, prior −0.04.\n- 10:30: Dallas Fed manufacturing. Consensus 7, prior 9.8.\n- 1:00 PM: $69B 2-year auction.\n- No Fed speakers (blackout).\n\n**Week ahead:**\n- Tue: durable goods and consumer confidence. FOMC begins.\n- **Wed 2:00 PM: FOMC decision, then Chair Warsh's press conference at 2:30.** MSFT and GOOGL report after the close.\n- **Thu 8:30: Q3 GDP and Sep PCE.** AMZN reports after the close.\n- Fri: ECI. XOM and CVX report before the open.\n\n**Earnings:**\n- **This morning:** VZ beat on EPS and missed on revenue; it raised guidance and is about +2%.\n- **After today's close:** CDNS, NUE, AMKR, CLS, RMBS.\n- Friday after the close: nothing index-moving.\n- **Movers:**\n  - Brazil ADRs are crashing after Lula's 4th-term win (XP −48%).\n  - CoreWeave and other neoclouds are lower on a Musk \"reckoning\" warning.\n  - TSLA +2% on an upgrade.\n  - MRNA −8%.\n\n**Headlines (Financial Juice RSS, X):**\n- **META is raising ~$35B in stock and convertible preferred.** NVDA, AMD and AVGO indicated interest in buying up to $5B. META swung from −2.3% to +2.2% pre-market.\n- **The Anthropic S-1 is due at 9:00 AM ET.**\n- SpaceX signed a $40B GPU lease with Apollo.\n- **Iran tone is de-escalating** (Qatar is mediating and Saudi Arabia cites talks), and oil is lower.\n- Germany's Ifo came in at 90.2 vs 89.9 expected.\n\n**Globex (yfinance, about 10–15 min delayed, ~8:02):**\n| | Last | ON high / low | vs Fri close |\n|---|---|---|---|\n| ES | 7686.25 | 7697.75 / 7651.75 | +23 (+0.30%) |\n| NQ | 29279.50 | 29345.00 / 29024.25 | +140.5 (+0.48%) |\n| RTY | 2792.1 | 2799.6 / 2784.9 | +6.2 (+0.22%) |\n\n- Futures gapped up at the Sunday open, dipped to the overnight lows, and recovered.\n\n**Global, vol and rates:**\n- **Asia:** Nikkei −0.8%, KOSPI −1.5%, Hang Seng +0.5%, Shanghai +0.2%.\n- **Europe:** DAX +1.0%, CAC +0.8%, FTSE +0.4%, STOXX 50 +0.7%.\n- **VIX** 19.14 (−3.3%). Front-month VIX future 19.25. VVIX was 109.7 on Friday.\n- **10-year** 5.007% (+1.9 bp, back above 5%). **2-year** 4.718%.\n- **Dollar index** 101.90. **WTI** 101.04 (−2.5%). **Gold** 4,031.7 (+0.5%).\n- **Expiry:** daily expiries only today. It isn't Friday or a monthly opex; the 10/30 month-end expiry comes Friday.\n\n## Takeaway\n- **The key confluence levels:**\n  - **SPY 763.2–763.8:** PDH, PMH and the dark pool level, a gate right at spot.\n  - **SPY 760:** PML plus the put wall.\n  - **SPY 770:** the call wall plus the Oct 19 high.\n  - **QQQ 709.3–710.4:** PDH, PMH and the sign change.\n  - **QQQ 715–715.4:** the call wall plus the Oct 22 high.\n  - **QQQ 700–701.2:** the put wall plus PDL.\n- The biggest magnet below is **SPY 755**.\n- Negative gamma, though shrinking, means a clean 15-min break of the PM range can travel wall to wall.\n- Bonds back above 5% and the 9:00 Anthropic filing are the morning wildcards, and FOMC risk builds into Wednesday.\n",
+  "macro_markdown": "# Macro / Pre-Market Context: Mon Oct 26, 2026 (as of ~8:15 AM ET)\n\n## 1) Economic calendar (ET)\n**Today, Mon Oct 26:**\n| Time | Event | Consensus | Prior |\n|---|---|---|---|\n| 8:30 | Chicago Fed National Activity Index (Sep) | -0.10 | -0.04 |\n| 10:30 | Dallas Fed Manufacturing (Oct) | 7 | 9.8 |\n| 11:30 | 3-month bill auction | 4.009% | 4.095% |\n| 1:00 PM | **$69B 2-year note auction** | n/a | n/a |\n\n- No durable goods today; that report is Tuesday.\n- Fed speakers: none. The Fed is in blackout and the FOMC meets Oct 27–28.\n- Schwab lists Dallas Fed at 9:30. Investrade, Moody's, for-ex.news and myfxbook all list 10:30, so 10:30 is used here.\n- Sources: Investrade weekly calendar, Schwab Network week ahead, Moody's economy.com, Sigmanomics/Trading Economics (CFNAI consensus), for-ex.news/myfxbook (Dallas Fed consensus).\n\n**Rest of the week:**\n- **Tue Oct 27:** FOMC begins.\n  - 8:30: Durable goods (Sep). Consensus +0.6%, prior -0.1%. Ex-transportation consensus +0.6%, prior +0.3%.\n  - 9:00: Case-Shiller and FHFA home prices.\n  - 10:00: Consumer confidence (consensus 80.5, prior 81.9), new home sales (0.66M vs 0.684M) and Richmond Fed.\n  - 1:00 PM: $70B 5-year auction.\n- **Wed Oct 28:**\n  - 8:30: Advance goods trade balance (consensus -128.7B, prior -132.1B) and inventories.\n  - 10:30: EIA oil inventories.\n  - **2:00 PM: FOMC decision. 2:30 PM: Chair Warsh press conference.**\n  - Fed funds is 3.75–4.00% (Moody's). Schwab cites CME FedWatch at about a 10% chance of a 25 bp hike.\n- **Thu Oct 29, 8:30:** **Q3 GDP advance estimate** (Moody's 2.2% q/q SAAR), **September PCE and personal income/spending** (BEA schedule), and jobless claims (prior 194K). The $44B 7-year auction is at 1:00 PM.\n- **Fri Oct 30:** 8:30 Q3 Employment Cost Index, 9:45 Chicago PMI.\n- **The October jobs report is not this week.** Nothing was fetched on its date.\n\n## 2) Earnings\n**Before today's open:**\n- **VZ:** adjusted EPS $1.31 vs $1.27–1.28 estimate; revenue $34.3B vs $34.74–34.77B estimate (a miss).\n  - 406K postpaid phone adds vs about 209K expected.\n  - Raised FY adjusted EPS guidance to $5.04–5.06 (from $4.99–5.04).\n  - Signed a $2B+ AWS AI deal.\n  - About +2% in pre-market (CNBC, Verizon IR, Investing.com, @DeItaone, @FirstSquawk).\n- Others: ARLP, BFST, BOH, CX, MMYT and others (Investrade).\n\n**After today's close:**\n- CDNS, NUE, AMKR, CLS, HIG, PSA, WELL, BRO, PFG, RMBS, NE, CINF (Investrade).\n- None of these is a mega-cap. The ones most relevant to the index and semis are CDNS, AMKR, CLS and RMBS.\n\n**Friday Oct 23 after the close:** nothing index-moving found. Movers were small caps (SPRC, MACI, RENT) plus Knowles on a beat (StockSetups, Investing.com).\n\n**Other pre-market movers:**\n- Brazil ADRs crashed after Lula's surprise 4th-term win: XP -48%, STNE -34%, BBD -30%.\n- MRNA -8–9%.\n- CoreWeave and other neoclouds fell after Musk warned of a \"reckoning\" for the sector.\n- TSLA +2% on a Barclays upgrade to Overweight, target $450.\n- SGRY +21–25% on a reported take-private.\n- RRC up after an EQT takeover report.\n- FICO -4.5% on a Wells Fargo downgrade.\n- Sources: CNBC, Investing.com, WSJ, stockanalysis.com.\n\n**Mega-caps this week:**\n- **Wed Oct 28, after the close:** MSFT (call 5:30 PM) and GOOGL (call 4:30 PM). Both come right after the FOMC.\n- **Thu Oct 29:** AMZN after the close (call 5:00 PM). LLY before the open.\n- **Fri Oct 30, before the open:** XOM and CVX.\n- **Other names:** V (Tue after close), KO, BA, UPS, PYPL, SOFI and RCL (Tue before open), HOOD, NXPI, STX and TER (Tue after close). Also KLAC, NOW, CMG, F, FDX and TMUS (Wed after close).\n- **Not this week:** AAPL reports Mon Nov 2 (call 5:00 PM). META, TSLA and NFLX already reported.\n- Sources: StockTitan, Bullquill, Investrade, signalstack.\n\n## 3) Headlines (Financial Juice RSS 2:04–8:06 AM ET; X 6:43–8:05 AM ET)\n- **META capital raise, about $35B:**\n  - $22.5B of Class A stock via forward sales, plus 250M depositary shares of mandatory convertible preferred (about $12.5B).\n  - Up to a $60B Class C ATM program and a mixed shelf.\n  - **NVDA, AMD and AVGO indicated interest in buying up to $5B of Class A shares.**\n  - The stock fell to -2.3% pre-market, then reversed to +2.2% at about 7:26 ET.\n  - Sources: FJ, @DeItaone, @FirstSquawk, @LiveSquawk.\n- **SpaceX ($SPCX):** a $40B GPU finance lease with Apollo (SEC filing), up about 1% pre-market.\n- **Anthropic** is to release its S-1 at 9:00 AM ET (Fox Business via squawks). The IPO is reportedly targeted for Nov 19–20.\n- **Oracle** launched agentic AI platforms for Fusion and cloud implementation.\n- **Iran / Middle East: tone is de-escalating.**\n  - A Qatari official visited Tehran Sunday as a mediator.\n  - Saudi Arabia says negotiations aim to \"prevent escalations and pave the way for an agreement to end the conflict,\" tied to the Mecca Pact talks in Tehran.\n  - Iran's president goes to Russia today for a gas summit.\n  - Brent and WTI are lower (FJ).\n- **Europe and other overseas data:**\n  - German Ifo business climate 90.2 vs 89.9 expected (expectations 91.6 vs 90.0; current conditions 88.8 vs 89.8).\n  - UK CBI distributive trades -10 vs -48 expected.\n  - The EU plans new curbs on China trade as early as Q1 2027.\n  - Swedish PPI +11.2% y/y.\n- **Strategist calls:**\n  - Goldman warns global growth risks are building: energy, yields, slowing AI investment.\n  - MS Wilson sees the correction ending after the midterms.\n  - Yardeni says buy selloffs.\n  - S&P 500 blended Q3 EPS growth is about 29%, but revision momentum is slowing (@LiveSquawk).\n- **Futures at about 7:54 ET:** ES +0.4%, NQ +0.5%, YM +0.5% (@FirstSquawk).\n- **@zerohedge** headlines: \"What Needs To Happen For AI Wobble To Turn To Bust,\" \"Hold Or Fold? Skipper Warsh & His Hawkish Crew,\" and Brazil stocks cratering.\n- **@Team2Trading: no levels posted for today** as of 8:05 AM ET. His recent posts:\n  - A Sunday 11:42 AM ET educational post on PDH, PDL, PMH and PML and the 13/48/200 EMAs.\n  - A Sunday 10:24 PM ET post saying an independent review of his Discord trades showed an average of about $14,100/month at 100 contracts.\n  - Replies.\n\n## 4) Globex (yfinance 5-min/1-min prepost data, about 10–15 min delayed; last bar about 8:02 AM ET)\nChanges are measured against the Friday closes you gave me. yfinance's own daily closes differ slightly: ES 7659.75, NQ 29117.75, RTY 2784.5. That is why @FirstSquawk shows larger percentages.\n\n| | Last (~8:02) | Overnight high / low (since 6 PM Sun) | vs Fri close | Sunday open gap |\n|---|---|---|---|---|\n| ES | 7686.25 | 7697.75 / 7651.75 | +23.0 (+0.30%) | opened 7691.50 (+28.25) |\n| NQ | 29279.50 | 29345.00 / 29024.25 | +140.5 (+0.48%) | opened 29292.00 (+153) |\n| RTY | 2792.1 | 2799.6 / 2784.9 | +6.2 (+0.22%) | opened 2796.2 (+10.3) |\n\n- YM is at 52582, with an overnight range of 52673 / 52378.\n- Futures gapped up at the Sunday open, dipped overnight to the 7651.75 / 29024.25 lows, and recovered back toward the open.\n- The first yfinance bar is stamped 6:10 PM, so the very first minutes may be missing.\n- **ETF pre-market since 4:00 AM:**\n  - SPY 763.00 (Fri 759.97), range 763.23 / 760.00.\n  - QQQ 709.05 (Fri 704.40), range 709.75 / 702.09.\n  - IWM 276.48 (Fri 275.75), range 276.93 / 275.76.\n  - Sources: yfinance as of 8:10 AM. The pre-market range is still forming until 9:30.\n\n## 5) Global equities (yfinance)\n- **Asia closes:**\n  - Nikkei 62,189.65 (-0.80%)\n  - KOSPI 5,469.47 (-1.46%)\n  - Hang Seng 23,211.81 (+0.51%)\n  - Shanghai 3,697.52 (+0.19%)\n- **Europe at about 7:57 AM ET:**\n  - DAX 25,429 (+0.98%)\n  - CAC 7,847 (+0.83%)\n  - FTSE 10,737 (+0.44%)\n  - STOXX 50 6,110.7 (+0.70%)\n\n## 6) Volatility, rates, dollar, commodities\n**Volatility:**\n- **VIX** 19.14 at 7:57 AM ET, down 3.3% from 19.79. Overnight range 19.13–19.84 (yfinance).\n- **VIX front-month future:** 19.25, down 0.36, at 8:02 AM ET (CNBC @VX.1). The second-month quote was stale and isn't used.\n- Friday closes: VIX9D 18.70, VIX3M 20.48, VVIX 109.70. The term structure is in mild contango.\n\n**Rates:**\n- **10-year yield** 5.007%, up 1.9 bp, back above 5%. **2-year** 4.718%, up 3.6 bp (CNBC at 8:12 AM ET). The 10-year yield futures show 5.007 (yfinance).\n- SOFR was 3.92% on Oct 23 (FJ).\n\n**Dollar and commodities (yfinance, about 8:02 AM ET):**\n- **DXY** 101.90 (+0.10%).\n- **WTI** 101.04 (-2.5% vs 103.59). Overnight range 102.46 / 100.60.\n- **Brent** 110.08, overnight range 110.96 / 109.25, which is -5.7% against yfinance's Friday print of 116.72.\n  - Part of that gap may come from yfinance switching to the next contract month, so treat the size of the drop with caution.\n  - The direction (oil lower on Iran mediation headlines) is consistent with the news.\n- **Gold** 4,031.7 (+0.49% vs 4011.9). Overnight range 4036.2 / 3990.9.\n- **Bitcoin** about 80,184 at 8:12 AM ET, -1.1% over 24 hours.\n\n## 7) Options expiration\n- Today is **not a monthly opex.** Monthly opex was Fri Oct 16, the third Friday.\n- Only the daily 0DTE expiries for SPY, QQQ and IWM (and the index dailies) roll off today.\n- **Coming this week:** dailies every day, plus the Wed FOMC-day 0DTE and the end-of-month Fri Oct 30 expiries.\n\n## Unavailable / caveats\n- No live quote for VIX second-month futures.\n- Consensus figures came from aggregator calendars (Sigmanomics, for-ex.news/myfxbook), not Bloomberg.\n- I didn't check the Financial Juice homepage or calendar; only its RSS was used.\n- yfinance futures bars are about 10–15 min delayed.\n",
+  "source_file": "2026-10-26_premarket.md"
+}

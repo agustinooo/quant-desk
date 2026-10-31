@@ -1,0 +1,6 @@
+<!doctype html><meta charset="utf-8"><title>quant-desk brief feed</title>
+<body style="font-family:system-ui;max-width:42rem;margin:2rem auto;padding:0 1rem">
+<h1>quant-desk brief feed</h1>
+<p>Static JSON for the quant desk app. <a href="briefs/SCHEMA.md">Schema</a> · <a href="briefs/index.json">index.json</a> · <a href="briefs/latest.json">latest.json</a></p>
+<pre id="o">loading…</pre>
+<script>fetch("briefs/latest.json").then(r=>r.json()).then(b=>{o.textContent=b.date+" "+b.type+" ("+b.generated_at+")\n\n"+b.markdown})</script>

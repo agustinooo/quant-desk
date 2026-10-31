@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-30",
+  "type": "close",
+  "generated_at": "2026-10-30T16:09:00-04:00",
+  "generated_at_source": "file_mtime",
+  "summary": "SPY 755.69 -1.80% H761.39(09:30) L750.39(14:52) | QQQ 690.55 -3.46% H698.55(09:59) L683.46(14:53) | IWM 279.39 -1.63% H282.69(09:37) L276.90(14:35)",
+  "futures": {
+    "NQ": {
+      "last": 28363.0,
+      "change_pct": -4.1,
+      "high": 28860.5,
+      "low": 28232.75
+    },
+    "ES": {
+      "last": 7598.5,
+      "change_pct": -2.0,
+      "high": 7670.0,
+      "low": 7558.25
+    },
+    "RTY": {
+      "last": 2810.8,
+      "change_pct": -2.0,
+      "high": 2853.9,
+      "low": 2795.4
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 755.69,
+      "pdh": 761.39,
+      "pdl": 750.39,
+      "pdc": 755.69,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -13.38,
+      "flip": null,
+      "sign_change": "756-760",
+      "call_walls": [
+        {
+          "strike": 758,
+          "gex_b": 0.39
+        },
+        {
+          "strike": 790,
+          "gex_b": null
+        },
+        {
+          "strike": 780,
+          "gex_b": null
+        }
+      ],
+      "put_walls": [
+        {
+          "strike": 755,
+          "gex_b": -3.26
+        },
+        {
+          "strike": 750,
+          "gex_b": -1.78
+        },
+        {
+          "strike": 740,
+          "gex_b": null
+        },
+        {
+          "strike": 730,
+          "gex_b": null
+        }
+      ],
+      "dark_pool": [
+        {
+          "price": 769.55,
+          "notional_b": 2.62
+        }
+      ],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": 690.55,
+      "pdh": 698.55,
+      "pdl": 683.46,
+      "pdc": 690.55,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -14.0,
+      "flip": null,
+      "sign_change": "701-705",
+      "call_walls": [],
+      "put_walls": [
+        {
+          "strike": 690,
+          "gex_b": -5.31
+        },
+        {
+          "strike": 692,
+          "gex_b": null
+        },
+        {
+          "strike": 680,
+          "gex_b": null
+        },
+        {
+          "strike": 700,
+          "gex_b": null
+        }
+      ],
+      "dark_pool": [
+        {
+          "price": 715.23,
+          "notional_b": 4.53
+        },
+        {
+          "price": 690.23,
+          "notional_b": 0.88
+        }
+      ],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 279.39,
+      "pdh": 282.69,
+      "pdl": 276.9,
+      "pdc": 279.39,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -2.38,
+      "flip": null,
+      "sign_change": "278-281",
+      "call_walls": [
+        {
+          "strike": 287,
+          "gex_b": null
+        },
+        {
+          "strike": 284,
+          "gex_b": null
+        },
+        {
+          "strike": 283,
+          "gex_b": null
+        }
+      ],
+      "put_walls": [
+        {
+          "strike": 270,
+          "gex_b": null
+        },
+        {
+          "strike": 279,
+          "gex_b": null
+        },
+        {
+          "strike": 275,
+          "gex_b": null
+        }
+      ],
+      "dark_pool": [
+        {
+          "price": 284.15,
+          "notional_b": null
+        }
+      ],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": 28860.5,
+      "pdl": 28232.75,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": "stated futures levels (next-session PDH/PDL)"
+    },
+    "ES": {
+      "pdh": 7670.0,
+      "pdl": 7558.25,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": "stated futures levels (next-session PDH/PDL)"
+    }
+  },
+  "big_flow": [
+    {
+      "ticker": "QQQ",
+      "strike": 685.0,
+      "expiry": "Nov20",
+      "cp": "P",
+      "size": 10000,
+      "premium": 15600000.0,
+      "side": null,
+      "time": null,
+      "read": null,
+      "raw": "QQQ Nov20 685P 10k ask $15.6M"
+    }
+  ],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": 21.1,
+      "us10y": 4.92,
+      "dxy": 101.9,
+      "wti": 104.12,
+      "brent": 117.64,
+      "gold": 3886.0
+    }
+  },
+  "takeaway": null,
+  "markdown": "# Close recap Fri Oct 30, 2026 (Quant Data API same account, yfinance, FinancialJuice RSS, Reuters/CNBC, Nasdaq, Investing.com, StockTitan, Newsquawk/ForexFactory)\nSPY 755.69 -1.80% H761.39(09:30) L750.39(14:52) | QQQ 690.55 -3.46% H698.55(09:59) L683.46(14:53) | IWM 279.39 -1.63% H282.69(09:37) L276.90(14:35)\nES ~7598.5@15:45 -2.0% RTH H7670 L7558.25(14:50) | NQ ~28363@15:15 -4.1% RTH H28860.5 L28232.75(14:50) | RTY ~2810.8@15:35 -2.0% RTH H2853.9 L2795.4 (yf futures feed lagged; late ETF bounce not reflected)\nNasdaq Comp 25,211.99 -3.71%. INTC 65.76 -28.6% (worst day since 1974), AMZN 240.35 -1.4% (pared), chips -7%, AMD -10%, NVDA -3.7%.\nVIX 21.1 (H23.93 14:35) | 10y 4.92% | DXY 101.90 | WTI settle 104.12 +2.1% | Brent settle 117.64 +2.4% | Gold 3886 -3.7%\nDrivers: AMZN capex/neg FCF + INTC cash-burn guide -> AI capex scare; Fed Musalem 12:30 \"hike again soon\", Logan 13:31 \"at least two more 25bp hikes\"; Chicago PMI 55.3 vs 55.8; ECI in line; Hormuz tanker mine hits (IRGC: 4th tanker 16:03), UKMTO incident 15:07; Trump 16:01 Iran \"there are talks\"; Binance hack.\nGEX close: SPY -13.38B (P 755 -3.26, 750 -1.78, 740, 730; C 758 +0.39, 790, 780; sign chg 756-760, no cum flip). QQQ -14.0B (P 690 -5.31, 692, 680, 700; calls ~0; sign chg 701-705). IWM -2.38B (P 270, 279, 275; C 287/284/283 tiny; sign chg 278-281). Includes expiring 0DTE.\nDP: SPY 769.55 $2.62B; QQQ 715.23 $4.53B, 690.23 $0.88B; IWM 284.15.\nFlow 9k: 290 prints. SPY 14:28 Nov2/Nov4 745/740/730P block 33k-55k below bid opening, 25 min before low; SPY 16:02 Jan29 716P bought 19k ask $21.8M vs 605P/794C sold; QQQ 13:37 Nov13 sold 725P/690P ITM, opened 685P 24k/650P 27k (roll down); QQQ Nov20 685P 10k ask $15.6M; QQQ 0DTE 705P/700P 27-30k deep ITM at close (mechanical); IWM Nov20 266/268-269 put spreads ~54k opening; VIX Nov18 21-24C bought, 21C 43.7k ask 15:38; SMH Dec 450P 11.5k ask $10.8M vs 400P; TLT Nov9 84/85C ~238k ask, Nov6 78C 30k ask $11.2M.\nMonday PDH/PDL/PDC: SPY 761.39/750.39/755.69; QQQ 698.55/683.46/690.55; IWM 282.69/276.90/279.39; ES 7670/7558.25; NQ 28860.5/28232.75; RTY 2853.9/2795.4.\n",
+  "macro_markdown": null,
+  "source_file": "2026-10-30_close.md"
+}

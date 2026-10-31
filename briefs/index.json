@@ -1,0 +1,174 @@
+{
+  "updated_at": "2026-10-31T00:38:22-04:00",
+  "count": 21,
+  "briefs": [
+    {
+      "date": "2026-10-30",
+      "type": "afterhours",
+      "path": "briefs/2026-10-30_afterhours.json",
+      "md_path": "briefs/2026-10-30_afterhours.md",
+      "generated_at": "2026-10-30T17:05:00-04:00",
+      "summary": "Futures vs 4:00 close (as of 16:54): ES 7613.5 (+0.01%), NQ 28531.75 (+0.01%), RTY 2822.7 (+0.07%). SPY 756.15, QQQ 690.70, IWM 279.64, all flat."
+    },
+    {
+      "date": "2026-10-30",
+      "type": "close",
+      "path": "briefs/2026-10-30_close.json",
+      "md_path": "briefs/2026-10-30_close.md",
+      "generated_at": "2026-10-30T16:09:00-04:00",
+      "summary": "SPY 755.69 -1.80% H761.39(09:30) L750.39(14:52) | QQQ 690.55 -3.46% H698.55(09:59) L683.46(14:53) | IWM 279.39 -1.63% H282.69(09:37) L276.90(14:35)"
+    },
+    {
+      "date": "2026-10-30",
+      "type": "postdata",
+      "path": "briefs/2026-10-30_postdata.json",
+      "md_path": "briefs/2026-10-30_postdata.md",
+      "generated_at": "2026-10-30T08:55:00-04:00",
+      "summary": "Data: Q3 ECI +0.8% q/q vs +0.8% cons (prior 0.9%); wages +0.7%, benefits +0.9%; 3.4% y/y unchanged (BLS, Reuters). Canada Aug GDP 0.0% vs +0.2% est (FJ)."
+    },
+    {
+      "date": "2026-10-30",
+      "type": "premarket",
+      "path": "briefs/2026-10-30_premarket.json",
+      "md_path": "briefs/2026-10-30_premarket.md",
+      "generated_at": "2026-10-30T08:10:00-04:00",
+      "summary": "Tech flush: NQ 28798 (-2.6%), ES 7667 (-1.1%), RTY 2851 (-0.6%) after AMZN -6-7% / INTC -23-25%. SPY 761.53, QQQ 697.59, IWM 282.58 pre-mkt."
+    },
+    {
+      "date": "2026-10-29",
+      "type": "afterhours",
+      "path": "briefs/2026-10-29_afterhours.json",
+      "md_path": "briefs/2026-10-29_afterhours.md",
+      "generated_at": "2026-10-29T17:03:00-04:00",
+      "summary": "Futures vs 4:00 close: ES 7711.75 (-0.55% vs 7754.25), NQ 29229.75 (-1.14% vs 29566), RTY 2866.8 (~flat). SPY 765.06 (-0.6%), QQQ 706.21 (-1.3%), IWM 283.95 flat."
+    },
+    {
+      "date": "2026-10-29",
+      "type": "close",
+      "path": "briefs/2026-10-29_close.json",
+      "md_path": "briefs/2026-10-29_close.md",
+      "generated_at": "2026-10-29T16:12:00-04:00",
+      "summary": "SPY 769.53 -0.37% H770.73(11:33) L766.63(13:54) | QQQ 715.28 -1.41% H718.05(11:33) L711.70(09:35) | IWM 284.01 +0.97% H285.25(11:34) L282.18(09:30)"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "postdata",
+      "path": "briefs/2026-10-29_postdata.json",
+      "md_path": "briefs/2026-10-29_postdata.md",
+      "generated_at": "2026-10-29T08:55:00-04:00",
+      "summary": "Data (BEA/CNBC): Q3 GDP adv 3.4% vs ~3.1-3.2% cons (prior 2.2%), modest beat. Sep PCE +0.5% m/m (in line), 3.6% y/y (0.1 below DJ cons); core +0.3% m/m, 3.1% y/y in line. Spending +0.5% vs 0.6%, incom"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "premarket",
+      "path": "briefs/2026-10-29_premarket.json",
+      "md_path": "briefs/2026-10-29_premarket.md",
+      "generated_at": "2026-10-29T08:10:00-04:00",
+      "summary": "Tech-led gap down: GOOGL is off 10-11% pre-market on weak search revenue and -$9.07B free cash flow, while MSFT is up 2-4% on Azure +48%. NQ is -1.2%, ES -0.4%, and RTY is slightly green. Big 8:30 pri"
+    },
+    {
+      "date": "2026-10-28",
+      "type": "close",
+      "path": "briefs/2026-10-28_close.json",
+      "md_path": "briefs/2026-10-28_close.md",
+      "generated_at": "2026-10-28T16:05:00-04:00",
+      "summary": "SPY ~772.4 +0.35% H773.36(14:37) L769.24(9:48) | QQQ ~725.4 +0.57% H726.12 L720.30 | IWM ~281.3 +0.4% H281.48 L279.05(14:33)"
+    },
+    {
+      "date": "2026-10-28",
+      "type": "postdata",
+      "path": "briefs/2026-10-28_postdata.json",
+      "md_path": "briefs/2026-10-28_postdata.md",
+      "generated_at": "2026-10-28T08:55:00-04:00",
+      "summary": "Census advance indicators (Sep): goods trade deficit -$134.9B vs ~-$129.0B consensus (prior -$132.1B), a bit wider; wholesale inventories +0.6% vs ~+0.3-0.5% (prior revised +0.5%); retail inventories "
+    },
+    {
+      "date": "2026-10-28",
+      "type": "premarket",
+      "path": "briefs/2026-10-28_premarket.json",
+      "md_path": "briefs/2026-10-28_premarket.md",
+      "generated_at": "2026-10-28T08:05:00-04:00",
+      "summary": "FOMC day: statement at 2:00 PM ET, Warsh presser at 2:30. Markets price about a 95% hold at 3.75-4.00% (Kalshi, CME), with possible hawkish dissents. MSFT and GOOGL report after the close. Not a Frida"
+    },
+    {
+      "date": "2026-10-27",
+      "type": "afterhours",
+      "path": "briefs/2026-10-27_afterhours.json",
+      "md_path": "briefs/2026-10-27_afterhours.md",
+      "generated_at": "2026-10-27T17:07:00-04:00",
+      "summary": "Futures vs 4:00 close: ES 7756.25 (~flat vs ~7757), NQ 29796 (-0.05% vs ~29810), RTY 2827.6 (flat). SPY 769.62, QQQ 721.25, IWM 280.18 ~unchanged."
+    },
+    {
+      "date": "2026-10-27",
+      "type": "close",
+      "path": "briefs/2026-10-27_close.json",
+      "md_path": "briefs/2026-10-27_close.md",
+      "generated_at": "2026-10-27T16:05:00-04:00",
+      "summary": "SPY 769.71 +0.57% H771.11 L765.24 | QQQ 721.25 +1.27% H722.87 L713.63 | IWM 280.15 +1.14% H280.39 L276.89 (highs ~15:45, lows ~10:00-10:21)"
+    },
+    {
+      "date": "2026-10-27",
+      "type": "postdata",
+      "path": "briefs/2026-10-27_postdata.json",
+      "md_path": "briefs/2026-10-27_postdata.md",
+      "generated_at": "2026-10-27T08:52:00-04:00",
+      "summary": "Durable goods (Sep) +1.8% vs +1.9% FJ forecast (prior -0.1%); core +0.5% vs +0.6% (prior 0.2%). Roughly in line, small miss. ADP weekly 16.75K vs 18.5K prior."
+    },
+    {
+      "date": "2026-10-27",
+      "type": "premarket",
+      "path": "briefs/2026-10-27_premarket.json",
+      "md_path": "briefs/2026-10-27_premarket.md",
+      "generated_at": "2026-10-27T08:10:00-04:00",
+      "summary": "Key confluence: SPY 767.7-768.2 (PDH/PMH/768 strike/sign change), SPY 765-765.4 (put wall/DP/PDC), SPY 770 call wall; QQQ 715.25-716.3 (PDH/PMH/715 sign change, NQ ON high 29613), QQQ 708.5-708.65 (PM"
+    },
+    {
+      "date": "2026-10-26",
+      "type": "afterhours",
+      "path": "briefs/2026-10-26_afterhours.json",
+      "md_path": "briefs/2026-10-26_afterhours.md",
+      "generated_at": "2026-10-26T17:00:00-04:00",
+      "summary": "ES 7713.75 (16:50) vs 7713 close flat | NQ 29453.25 +0.07% | RTY 2794.9 -0.06% | WTI 101.29"
+    },
+    {
+      "date": "2026-10-26",
+      "type": "close",
+      "path": "briefs/2026-10-26_close.json",
+      "md_path": "briefs/2026-10-26_close.md",
+      "generated_at": "2026-10-26T16:05:00-04:00",
+      "summary": "SPY 765.29 +0.70% H767.73 L761.64 | QQQ 712.20 +1.11% H715.25 L705.58 | IWM 276.97 +0.44% H278.76 L276.00"
+    },
+    {
+      "date": "2026-10-26",
+      "type": "postdata",
+      "path": "briefs/2026-10-26_postdata.json",
+      "md_path": "briefs/2026-10-26_postdata.md",
+      "generated_at": "2026-10-26T08:47:00-04:00",
+      "summary": "CFNAI (Sep) 0.07 vs -0.095 consensus, prior -0.04 (FinancialJuice 8:30). Minor beat, low-impact."
+    },
+    {
+      "date": "2026-10-26",
+      "type": "premarket",
+      "path": "briefs/2026-10-26_premarket.json",
+      "md_path": "briefs/2026-10-26_premarket.md",
+      "generated_at": "2026-10-26T08:15:00-04:00",
+      "summary": "SPY and QQQ are still in negative gamma, but far less negative than Friday's close as futures gap up. IWM is about flat, so expect less dealer help there."
+    },
+    {
+      "date": "2026-10-23",
+      "type": "close",
+      "path": "briefs/2026-10-23_close.json",
+      "md_path": "briefs/2026-10-23_close.md",
+      "generated_at": "2026-10-23T16:05:00-04:00",
+      "summary": "SPY 759.96 -0.52% H763.46 L758.69 | QQQ 704.40 -0.01% H709.25 L701.28 | IWM 275.71 -0.35% H276.23 L273.34"
+    },
+    {
+      "date": "2026-10-23",
+      "type": "premarket",
+      "path": "briefs/2026-10-23_premarket.json",
+      "md_path": "briefs/2026-10-23_premarket.md",
+      "generated_at": "2026-10-23T08:10:00-04:00",
+      "summary": "Regime: all three are in negative gamma, so dealers are likely to amplify moves. Pre-market is much less negative than Oct 22, and the walls have moved down (SPY call wall went from 780 to 767/770, QQ"
+    }
+  ]
+}
