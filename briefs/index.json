@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-31T00:39:06-04:00",
-  "count": 21,
+  "updated_at": "2026-11-02T08:12:30-05:00",
+  "count": 22,
   "briefs": [
+    {
+      "date": "2026-11-02",
+      "type": "premarket",
+      "path": "briefs/2026-11-02_premarket.json",
+      "md_path": "briefs/2026-11-02_premarket.md",
+      "generated_at": "2026-11-02T08:10:00-05:00",
+      "summary": "Relief bounce after Friday's tech flush: NQ 28,704 (+0.6%), ES 7,639 (+0.3%), RTY 2,836.5 (+0.5%) vs Friday's close. No 8:30 data today; the movers are 10:00 ISM Manufacturing, Apple and Palantir afte"
+    },
     {
       "date": "2026-10-30",
       "type": "afterhours",
