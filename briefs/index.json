@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-02T08:12:30-05:00",
-  "count": 22,
+  "updated_at": "2026-11-02T08:50:38-05:00",
+  "count": 23,
   "briefs": [
+    {
+      "date": "2026-11-02",
+      "type": "postdata",
+      "path": "briefs/2026-11-02_postdata.json",
+      "md_path": "briefs/2026-11-02_postdata.md",
+      "generated_at": "2026-11-02T08:52:00-05:00",
+      "summary": "Data: no 8:30 release today. Next up: 9:45 final Manufacturing PMI, 10:00 ISM Manufacturing (fcst 54.5), ISM Prices, construction spending."
+    },
     {
       "date": "2026-11-02",
       "type": "premarket",

@@ -1,39 +1,39 @@
 {
   "schema_version": 1,
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "type": "postdata",
-  "generated_at": "2026-10-30T08:55:00-04:00",
+  "generated_at": "2026-11-02T08:52:00-05:00",
   "generated_at_source": "text",
-  "summary": "Data: Q3 ECI +0.8% q/q vs +0.8% cons (prior 0.9%); wages +0.7%, benefits +0.9%; 3.4% y/y unchanged (BLS, Reuters). Canada Aug GDP 0.0% vs +0.2% est (FJ).",
+  "summary": "Data: no 8:30 release today. Next up: 9:45 final Manufacturing PMI, 10:00 ISM Manufacturing (fcst 54.5), ISM Prices, construction spending.",
   "futures": {
     "NQ": {
-      "last": 28783.0,
-      "change_pct": -0.04,
+      "last": 28812.5,
+      "change_pct": 0.36,
       "high": null,
       "low": null
     },
     "ES": {
-      "last": null,
-      "change_pct": null,
+      "last": 7657.5,
+      "change_pct": 0.24,
       "high": null,
       "low": null
     },
     "RTY": {
-      "last": 2849.0,
-      "change_pct": -0.07,
+      "last": 2844.3,
+      "change_pct": 0.29,
       "high": null,
       "low": null
     }
   },
   "tickers": {
     "SPY": {
-      "spot": 761.46,
+      "spot": 759.78,
       "pdh": null,
       "pdl": null,
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": null,
+      "net_gex_b": -1.5,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
@@ -42,13 +42,13 @@
       "game_plan": null
     },
     "QQQ": {
-      "spot": 697.29,
+      "spot": 696.77,
       "pdh": null,
       "pdl": null,
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": null,
+      "net_gex_b": -1.41,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
@@ -57,15 +57,15 @@
       "game_plan": null
     },
     "IWM": {
-      "spot": 282.31,
+      "spot": 281.51,
       "pdh": null,
       "pdl": null,
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": null,
+      "net_gex_b": 0.18,
       "flip": null,
-      "sign_change": null,
+      "sign_change": "281",
       "call_walls": [],
       "put_walls": [],
       "dark_pool": [],
@@ -100,16 +100,16 @@
     "earnings": null,
     "headlines": null,
     "cross_asset": {
-      "vix": 18.59,
-      "us10y": null,
-      "dxy": 101.79,
-      "wti": 104.2,
+      "vix": 19.43,
+      "us10y": 4.92,
+      "dxy": 101.56,
+      "wti": 97.68,
       "brent": null,
       "gold": null
     }
   },
   "takeaway": null,
-  "markdown": "# 8:45 post-data check, Fri Oct 30 2026 (~8:55 AM ET) - nothing drastic, no message sent\n- Data: Q3 ECI +0.8% q/q vs +0.8% cons (prior 0.9%); wages +0.7%, benefits +0.9%; 3.4% y/y unchanged (BLS, Reuters). Canada Aug GDP 0.0% vs +0.2% est (FJ).\n- yfinance 1m (~8:42): NQ 28783 vs 28795 at 8:00 (-0.04%), post-8:30 range 28781-28811. ES 7668 (flat). RTY 2849 (-0.07%). VIX 18.59 (from 18.67). DXY 101.79. WTI 104.2 flat. 10y not pulled (TNX feed error).\n- ETFs ~8:52: SPY 761.46 (post range 761.00-761.94, inside PM 760.90-763.76). QQQ 697.29 (post low 696.35 vs PML 696.37, 2-cent poke, no follow-through). IWM 282.31 (post low 282.00 vs PML 282.08, marginal, no follow-through).\n- Quant Data API 9k+ unconsolidated flow for today: 0 rows. GEX not re-pulled: spot within ~0.1% of the 8:10 read.\n- FJ 8:22 ET: IRIB says a supertanker exploded after hitting a sea mine on an unauthorized Hormuz route (unconfirmed); oil did not react. FJ 8:32: Novak says Ukraine hit a Russian refinery; Russia to extend diesel export ban to end-Jan.\n",
+  "markdown": "# 8:45 post-data check, Mon Nov 2 2026 (~8:52 AM ET) - nothing drastic, no message sent\n- Data: no 8:30 release today. Next up: 9:45 final Manufacturing PMI, 10:00 ISM Manufacturing (fcst 54.5), ISM Prices, construction spending.\n- Futures since 8:00 (yfinance 1m, last ~8:40): NQ 28812.5 vs 28708 (+0.36%), range 28683-28843 (poked ~11 pts over the 28831.5 ONH). ES 7657.5 vs 7639 (+0.24%), range 7636-7661.5 (2 pts over the 7659.25 ONH). RTY 2844.3 (+0.29%). VIX 19.43 (unchanged, 19.35-19.56). 10y 4.92% (from 4.90%). DXY 101.56. WTI 97.68 (-2.0% since 8:00, ~97.2 low).\n- ETFs (Quant Data spot ~8:50): SPY 759.78, QQQ 696.77, IWM 281.51, all still inside the pre-market ranges (SPY 758.13-760.30, QQQ 694.62-698.00, IWM 280.63-281.98) and grinding toward the PMH. yfinance showed single zero-volume ticks at SPY 755.72 and IWM 279.33 at 8:23-8:24 (bad prints, ignored); QQQ 694.49 at 8:25 was a 13-cent poke under the PML with no follow-through.\n- GEX re-pull (Quant Data API): SPY net -1.50B (from -2.53B at 8:10); call walls 800/780/770, put walls 750/740/745, sign change still 758-760. QQQ net -1.41B (from -0.94B); call walls now 725/750/715 with 700 no longer in the top three, put walls 680/670/685, sign changes 695-696 and 700. IWM net +0.18B; call walls 285/284/290, put walls 275/277/280, sign change 281. Small drift, magnets unchanged.\n- 9,000+ contract flow today (Quant Data unconsolidated order flow, size >= 9,000): 0 rows.\n- Headlines (Financial Juice, 8:00-8:49): 8:05 tanker hit a mine in eastern Hormuz (Iranian state media; it had navigation off). 8:17 Hassett on CNBC: no risk of an AI wholesale selloff. 8:18 Oracle files to sell $10B of common stock (Moody's affirms Baa2, negative outlook). 8:30-8:46 Pezeshkian: Supreme Leader gave the government negotiating authority, will try to resolve the war through dialogue, rejects \"excessive demands.\" 8:49 Alphabet raising EUR 6B in bonds. China FM urges shipping-lane security.\n- Read: quiet grind higher toward the lids (SPY 760-761.5, QQQ 698-700, IWM 282-282.7) on Iran dialogue headlines and falling oil. Plan from the 8:00 brief stands; ISM at 10:00 is the next catalyst.\n",
   "macro_markdown": null,
-  "source_file": "2026-10-30_postdata.md"
+  "source_file": "2026-11-02_postdata.md"
 }
