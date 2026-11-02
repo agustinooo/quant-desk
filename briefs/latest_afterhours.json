@@ -1,33 +1,33 @@
 {
   "schema_version": 1,
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "type": "afterhours",
-  "generated_at": "2026-10-30T17:05:00-04:00",
+  "generated_at": "2026-11-02T17:10:00-05:00",
   "generated_at_source": "text",
-  "summary": "Futures vs 4:00 close (as of 16:54): ES 7613.5 (+0.01%), NQ 28531.75 (+0.01%), RTY 2822.7 (+0.07%). SPY 756.15, QQQ 690.70, IWM 279.64, all flat.",
+  "summary": "Futures vs ~3:59 PM levels (as of 16:59 ET): ES 7585.5 (+0.13% vs ~7576), NQ 28219.25 (+0.28% vs ~28139), RTY 2820.0 (+0.05% vs ~2818.7). SPY 753.60 (+0.19% vs 752.15), QQQ 683.80 (+0.40% vs 681.09), IWM 279.25 (flat). Small bounce off the closing lows, nowhere near 0.5%.",
   "futures": {
     "NQ": {
-      "last": 28531.75,
-      "change_pct": 0.01,
+      "last": 28219.25,
+      "change_pct": 0.28,
       "high": null,
       "low": null
     },
     "ES": {
-      "last": 7613.5,
-      "change_pct": 0.01,
+      "last": 7585.5,
+      "change_pct": 0.13,
       "high": null,
       "low": null
     },
     "RTY": {
-      "last": 2822.7,
-      "change_pct": 0.07,
+      "last": 2820.0,
+      "change_pct": 0.05,
       "high": null,
       "low": null
     }
   },
   "tickers": {
     "SPY": {
-      "spot": 756.15,
+      "spot": 753.6,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -42,7 +42,7 @@
       "game_plan": null
     },
     "QQQ": {
-      "spot": 690.7,
+      "spot": 683.8,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -57,7 +57,7 @@
       "game_plan": null
     },
     "IWM": {
-      "spot": 279.64,
+      "spot": 279.25,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -109,7 +109,7 @@
     }
   },
   "takeaway": null,
-  "markdown": "# After-hours check Fri Oct 30, 2026 ~5:05 PM ET (yfinance, FinancialJuice RSS). No alert sent.\nFutures vs 4:00 close (as of 16:54): ES 7613.5 (+0.01%), NQ 28531.75 (+0.01%), RTY 2822.7 (+0.07%). SPY 756.15, QQQ 690.70, IWM 279.64, all flat.\nNo notable after-close earnings (Friday). INTC -1% AH after -28.6% day; NVDA/AMD/AMZN/AAPL/MSFT flat.\nNews after close: IRGC 4th tanker mine hit (16:03, already in recap), UKMTO late report of crude tanker hit in Hormuz (16:18), Trump \"there are talks\" with Iran, Houthis deny Medina attack. No market reaction.\n",
+  "markdown": "# After-hours check Mon Nov 2, 2026 ~5:10 PM ET (yfinance, FinancialJuice RSS). No alert sent.\nFutures vs ~3:59 PM levels (as of 16:59 ET): ES 7585.5 (+0.13% vs ~7576), NQ 28219.25 (+0.28% vs ~28139), RTY 2820.0 (+0.05% vs ~2818.7). SPY 753.60 (+0.19% vs 752.15), QQQ 683.80 (+0.40% vs 681.09), IWM 279.25 (flat). Small bounce off the closing lows, nowhere near 0.5%.\n\nEarnings (FinancialJuice headlines; AH moves from yfinance ~17:09 ET vs 15:59):\n- AAPL: EPS $2.10 vs $2.00 est, revenue $114.48B vs $113.47B, iPhone $57.58B vs $56.49B, Mac beat; Services in line ($31.57B), Greater China miss ($17.54B vs $18.75B), iPad and wearables miss. Stock +0.3% AH (340.2), muted; call at 5 PM may still move it.\n- PLTR: adj EPS $0.44 vs $0.41, revenue $2.31B vs $2.17B, Q4 guide $2.65B vs $2.46B, FY guide raised to $8.53B. Stock +1.0% AH (180.45).\n- Others: FN +13.1%, LSCC +8.3%, CLX +2.3%, ON -2.6%, BWXT -2.5%; VRTX +0.7%, ROKU/FANG/WMB flat.\n\nNews after the close: IRNA reports explosions on Qeshm Island (unconfirmed, 16:04) and Fars reports blasts at sea off Bandar Lengeh (16:34); WSJ says Anthropic investors push for a ~$1.5T valuation; NZ building consents -7.9%. No market reaction to the Iran reports so far.\n\nTomorrow's levels unchanged from the 4:00 recap: QQQ PDL 680.33 / 680 put wall, SPY 750 put wall / PDL 751.60, first lids SPY 755.6-756 and QQQ 685-688. Futures are holding just above the closing lows. Watch the Apple call and overnight election results.\n\n_Information, not advice._\n",
   "macro_markdown": null,
-  "source_file": "2026-10-30_afterhours.md"
+  "source_file": "2026-11-02_afterhours.md"
 }

@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-02T16:16:01-05:00",
-  "count": 24,
+  "updated_at": "2026-11-02T17:09:50-05:00",
+  "count": 25,
   "briefs": [
+    {
+      "date": "2026-11-02",
+      "type": "afterhours",
+      "path": "briefs/2026-11-02_afterhours.json",
+      "md_path": "briefs/2026-11-02_afterhours.md",
+      "generated_at": "2026-11-02T17:10:00-05:00",
+      "summary": "Futures vs ~3:59 PM levels (as of 16:59 ET): ES 7585.5 (+0.13% vs ~7576), NQ 28219.25 (+0.28% vs ~28139), RTY 2820.0 (+0.05% vs ~2818.7). SPY 753.60 (+0.19% vs 752.15), QQQ 683.80 (+0.40% vs 681.09), "
+    },
     {
       "date": "2026-11-02",
       "type": "close",
