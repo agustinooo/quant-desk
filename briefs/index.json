@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-02T08:50:38-05:00",
-  "count": 23,
+  "updated_at": "2026-11-02T16:16:01-05:00",
+  "count": 24,
   "briefs": [
+    {
+      "date": "2026-11-02",
+      "type": "close",
+      "path": "briefs/2026-11-02_close.json",
+      "md_path": "briefs/2026-11-02_close.md",
+      "generated_at": "2026-11-02T16:15:00-05:00",
+      "summary": "Sources: Quant Data API on the user's account (GEX, dark pool, 9k+ flow), yfinance prices, Financial Juice feed, Reuters, Yahoo Finance, Investing.com, StockTitan/Investrade earnings calendars, Forex "
+    },
     {
       "date": "2026-11-02",
       "type": "postdata",
