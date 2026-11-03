@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-03",
+  "type": "postdata",
+  "generated_at": "2026-11-03T08:55:00-05:00",
+  "generated_at_source": "text",
+  "summary": "Data: no 8:30 release today. Next up: 10:00 JOLTS (fcst 7.15M, prior 7.08M) and factory orders; election results tonight; AMD after the close.",
+  "futures": {
+    "NQ": {
+      "last": 28333.0,
+      "change_pct": 0.38,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": 7588.0,
+      "change_pct": 0.25,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": 2833.4,
+      "change_pct": 0.52,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 753.66,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -4.6,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": 686.31,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -3.46,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 280.77,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": 0.02,
+      "flip": null,
+      "sign_change": "281",
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": 20.81,
+      "us10y": 4.91,
+      "dxy": 101.77,
+      "wti": 94.72,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# 8:45 post-data check, Tue Nov 3 2026 (~8:55 AM ET) - PMH breaks on Iran deal headlines, message sent\n\n- Data: no 8:30 release today. Next up: 10:00 JOLTS (fcst 7.15M, prior 7.08M) and factory orders; election results tonight; AMD after the close.\n- The news (Financial Juice): 8:26 Al Araby Al Jadeed, citing sources, says Washington and Tehran made concessions on the nuclear program and frozen funds; 8:36 Washington has approved the draft memorandum of understanding; 8:42-8:45 talks now on how to announce an interim agreement, \"step by step and simultaneously.\" Unconfirmed single-source reports. Also: 8:19-8:21 UKMTO reports a vessel attacked near the Hormuz exit (crew rescued by Oman); 8:20 Trump on Fox says the US hit an Iranian facility last night; 8:17 Iran's armed forces chief threatens an unlimited response; 8:05 Energy Sec. Wright says the strikes haven't hit oil flow; 8:39 Zelenskiy confirms a Ukraine-Russia-US meeting in Abu Dhabi Nov 10-11; 8:12 Meta five-part bond deal.\n- Futures since 8:00 (yfinance 1m, last ~8:42): NQ 28,333 vs 28,227 (+0.38%), high 28,426.5 (+0.7%) then faded about 95 pts. ES 7,588 vs 7,569 (+0.25%), high 7,604.75. RTY 2,833.4 (+0.52%), high 2,841.6. VIX 20.81 (-2.4%, low 20.52). 10y 4.91% (from 4.93%). DXY 101.77. WTI 94.72 (-2.6%, low 93.59).\n- ETFs (~8:52): all three broke their 8:00 pre-market highs.\n  - SPY 753.66; high 755.15 cleared the 752.41 PMH and the 751.6 PDL, stalled just under the 755.5 dark pool. New PM range 749.38-755.15.\n  - QQQ 686.31; high 688.25 cleared the 684.56 PMH and the 686 sign change. New PM range 678.99-688.25.\n  - IWM 280.77; high 281.48 cleared the 279.57 PMH and tagged the 281-281.5 dark pool. New PM range 277.99-281.48.\n- GEX re-pull (Quant Data API, ~8:53): SPY net -4.60B (8:05 -4.35B), put walls 740/730/725, call walls 800/780/770, sign changes 750-751 and 758. QQQ net -3.46B (from -2.77B), put walls 680/675/685, call walls 725/750/715, sign changes 683-686 (spot is right on them). IWM net +0.02B, call 285/290/284, put 275/260/280, sign change 281. Still negative gamma in SPY/QQQ, walls and magnets unchanged.\n- 9,000+ contract prints today (Quant Data unconsolidated order flow): 0 rows.\n- Read: a headline-driven pop through the pre-market highs on the Iran deal reports and falling oil, already partly faded (NQ gave back about half). Negative gamma means dealers chase moves, so a confirmed deal could extend it and a denial could reverse it fast. Under Casey's rules the PM range is now wider and is still a no-trade zone until a 15-min close outside it after 9:45. Upside targets: SPY 755.5-756 then 758, QQQ 690.5, IWM 281.5-282. Downside: SPY 751.6-752.4 is now support, then 749.4-750; QQQ 683.5-684.5, then 679-681; IWM 279-279.6.\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-03_postdata.md"
+}
