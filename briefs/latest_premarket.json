@@ -1,132 +1,130 @@
 {
   "schema_version": 1,
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "type": "premarket",
-  "generated_at": "2026-11-02T08:10:00-05:00",
+  "generated_at": "2026-11-03T08:05:00-05:00",
   "generated_at_source": "text",
-  "summary": "Relief bounce after Friday's tech flush: NQ 28,704 (+0.6%), ES 7,639 (+0.3%), RTY 2,836.5 (+0.5%) vs Friday's close. No 8:30 data today; the movers are 10:00 ISM Manufacturing, Apple and Palantir after the close, and the midterm elections tomorrow. WTI is down about 4.5% to ~$99.5 on Iran talk headlines, even with a fresh tanker mine hit reported at 8:05. Not a Friday or monthly opex.",
+  "summary": "Mixed and heavy under the surface: NQ 28,235.5 (+0.4%), ES 7,570.25 (-0.1%), RTY 2,819.9 (+0.1%) vs Monday's settle, as of 7:50 AM ET. SPY is trading below Monday's low pre-market, while QQQ sits right on the 680 put wall it closed on. Megacap earnings are weighing: AAPL about -4%, PLTR about -8%, SHOP about -15%. No 8:30 data today; JOLTS at 10:00 and midterm results overnight are the events, with AMD after the close. Not a Friday or monthly opex.",
   "futures": {
     "NQ": {
-      "last": 28704.0,
-      "change_pct": 0.6,
+      "last": 28235.5,
+      "change_pct": 0.4,
       "high": null,
       "low": null
     },
     "ES": {
-      "last": 7639.0,
-      "change_pct": 0.3,
+      "last": 7570.25,
+      "change_pct": -0.1,
       "high": null,
       "low": null
     },
     "RTY": {
-      "last": 2836.5,
-      "change_pct": 0.5,
+      "last": 2819.9,
+      "change_pct": 0.1,
       "high": null,
       "low": null
     }
   },
   "tickers": {
     "SPY": {
-      "spot": 758.62,
-      "pdh": 761.46,
-      "pdl": 750.36,
-      "pdc": 755.71,
-      "pmh": 760.3,
-      "pml": 758.13,
+      "spot": 751.12,
+      "pdh": 763.86,
+      "pdl": 751.6,
+      "pdc": 752.12,
+      "pmh": 752.41,
+      "pml": 749.38,
       "net_gex_b": null,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
       "put_walls": [],
       "dark_pool": [],
-      "game_plan": "a 15-min close above 761.5 and calls toward 765-766.6, then 769.5-770. Lose 755.5 and puts toward 753.5, then 750 (put wall and PDL)."
+      "game_plan": "a 15-min close back above 752.4 and calls toward 755.5-756; lose 749.4 and puts toward 745, then 740."
     },
     "QQQ": {
-      "spot": 695.01,
-      "pdh": 698.63,
-      "pdl": 683.45,
-      "pdc": 690.56,
-      "pmh": 698.0,
-      "pml": 694.62,
+      "spot": 682.92,
+      "pdh": 699.43,
+      "pdl": 680.33,
+      "pdc": 681.13,
+      "pmh": 684.56,
+      "pml": 678.99,
       "net_gex_b": null,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
       "put_walls": [],
       "dark_pool": [],
-      "game_plan": "a 15-min close above 700 and calls toward 715 (call wall plus the $5.3B dark pool). Lose 690 and puts toward 687, then 683.5-685, then 680."
+      "game_plan": "a 15-min close above 686 and calls toward 690.5; lose 679 and puts toward 675, then 670 (NQ ~27704)."
     },
     "IWM": {
-      "spot": 280.82,
-      "pdh": 282.71,
-      "pdl": 276.91,
-      "pdc": 279.39,
-      "pmh": 281.98,
-      "pml": 280.63,
+      "spot": 278.87,
+      "pdh": 283.19,
+      "pdl": 278.88,
+      "pdc": 279.15,
+      "pmh": 279.57,
+      "pml": 277.99,
       "net_gex_b": null,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
       "put_walls": [],
       "dark_pool": [],
-      "game_plan": "a 15-min close above 282.7 and calls toward 284 (call wall and dark pool). Lose 279.4 and puts toward 277, then 275 (put wall)."
+      "game_plan": "a 15-min close above 279.6 and calls toward 281-281.5; lose 278 and puts toward 277, then 275."
     }
   },
   "futures_levels": {
     "NQ": {
-      "pdh": 28853.42,
-      "pdl": 28226.49,
-      "pdc": 28520.13,
-      "pmh": 28827.4,
-      "pml": 28687.81,
-      "ratio_to_etf": 41.3,
+      "pdh": 28921.43,
+      "pdl": 28131.65,
+      "pdc": 28164.73,
+      "pmh": 28306.56,
+      "pml": 28076.24,
+      "ratio_to_etf": 41.35,
       "approximate": true,
-      "basis": "QQQ level x stated ratio 41.3"
+      "basis": "QQQ level x stated ratio 41.35"
     },
     "ES": {
-      "pdh": 7667.9,
-      "pdl": 7556.13,
-      "pdc": 7610.0,
-      "pmh": 7656.22,
-      "pml": 7634.37,
-      "ratio_to_etf": 10.07,
+      "pdh": 7699.71,
+      "pdl": 7576.13,
+      "pdc": 7581.37,
+      "pmh": 7584.29,
+      "pml": 7553.75,
+      "ratio_to_etf": 10.08,
       "approximate": true,
-      "basis": "SPY level x stated ratio 10.07"
+      "basis": "SPY level x stated ratio 10.08"
     }
   },
   "big_flow": [],
   "macro": {
     "calendar": [
       "No 8:30 release.",
-      "9:45: final Manufacturing PMI (forecast 56.0, prior 56.0).",
-      "10:00: ISM Manufacturing (forecast 54.5, prior 54.5), ISM Prices (77.2 vs 77.9), construction spending (+0.4% vs +0.9%).",
-      "2:00 PM: Senior Loan Officer Survey.",
-      "No Fed speakers listed today.",
-      "Rest of the week: midterm elections Tuesday plus JOLTS 10:00 Tuesday; RBA tonight (expected hike to 4.85%); ADP and ISM Services Wednesday; BoE (expected hike) and claims Thursday; NFP Friday 8:30 (forecast 63K, prior 29K; unemployment 4.2%)."
+      "10:00: JOLTS (forecast 7.15M, prior 7.08M) and factory orders (forecast +1.2%, prior +0.1%). 10:10 RCM/TIPP optimism (46.2 vs 46.8).",
+      "US midterm elections all day, results tonight. API crude at 4:30 PM. NZ jobs at 4:45 PM.",
+      "No Fed speakers listed.",
+      "Rest of the week: ADP 8:15 and ISM Services 10:00 Wednesday; BoE (expected hike to 4.00%) Thursday 7:00; NFP Friday 8:30 (forecast 65K, prior 29K; unemployment 4.2%)."
     ],
     "earnings": [
-      "After the close today: AAPL (EPS consensus $1.98) and PLTR ($0.33), both with 5:00 PM calls.",
-      "AMD Tuesday after the close; UBER (and likely MCD) Wednesday before the open.",
-      "Before-open reports for today weren't pulled."
+      "After Monday's close: AAPL about -4% pre-market (revenue beat, but a 45-46% gross-margin guide below the 46.3% estimate on memory costs, plus an iPad miss), PLTR about -8% (beat and raised, but slower US commercial bookings growth).",
+      "Before the open today: SHOP about -15% (GMV and subscription revenue missed), PFE flat (beat), ZBRA and IT about -6% despite beats, RVTY +7%, YUM +1%.",
+      "After the close today: AMD (EPS consensus $1.68), SMCI, ANET, AMGN, BKNG, PRU, ALAB, XYZ, DUOL, TOST."
     ],
     "headlines": [
-      "8:05: an oil tanker caught fire after hitting a mine in the eastern Strait of Hormuz (Iranian state media). Sunday night, UKMTO reported a tanker hit by two projectiles 72nm east of Ras Al Khafji.",
-      "Iran says message exchanges with the US continue and a draft proposal is circulating, with a follow-up meeting possible. It also says Hormuz can't reopen before US sanctions are lifted. Trump: \"We'll see about a deal, they want to make one.\"",
-      "China's October manufacturing PMI was 52.0. Eurozone final manufacturing PMI was 52.7 (vs 52.4). German retail sales fell 2.0% m/m.",
-      "ECB's Kazimir: further action is a question of \"how much,\" not if.",
-      "Vitol CEO: oil demand will take a year to recover."
+      "Iran: a senior official says Iran and the US are \"far from\" a deal (1:40 AM); Ghalibaf says the ball is in the US court (2:05); Iranian state TV claims 3 tankers caught fire in Hormuz (5:17); Qatar says both sides are committed to mediation and expects feedback within 36 hours (5:18 and 7:16); Iran says it doesn't negotiate under pressure (7:57).",
+      "FT: Nvidia ordered data-center clients to reduce China exposure (7:48). FT: a US-Russia-China leaders' meeting is being considered (3:12).",
+      "Aramco CEO says tanker attacks have removed 15% of effective capacity (3:29).",
+      "Swiss CPI 1.5% y/y vs 1.2% expected. ECB's Radev says the October pause doesn't mean tightening is over."
     ],
     "cross_asset": {
-      "vix": 19.34,
-      "us10y": 4.93,
-      "dxy": 101.63,
-      "wti": 99.45,
+      "vix": 21.35,
+      "us10y": 4.89,
+      "dxy": 101.86,
+      "wti": 97.13,
       "brent": null,
       "gold": null
     }
   },
-  "takeaway": "The magnets that matter:\n- **SPY:** the 760-761.5 lid (PMH, PDH, sign change), 755.5-756 dark pool/PDC support, and 750 (put wall plus PDL) below.\n- **QQQ:** the 698-700 lid (PMH, PDH, call wall), 690-690.5 (PDC plus dark pool), and 683.5-680 put walls below.\n- **IWM:** 282-282.7 resistance and 279-280.6 support. It's in positive gamma, so expect more pinning.\n\nAll three are sitting right on their gamma sign changes with bunched EMAs, which points to chop inside the pre-market range until 10:00 ISM or a 15-minute close outside it.",
-  "markdown": "# Pre-Market Brief, Mon Nov 2, 2026 (data as of ~8:10 AM ET; clocks are back on EST)\n\nRelief bounce after Friday's tech flush: NQ 28,704 (+0.6%), ES 7,639 (+0.3%), RTY 2,836.5 (+0.5%) vs Friday's close. No 8:30 data today; the movers are 10:00 ISM Manufacturing, Apple and Palantir after the close, and the midterm elections tomorrow. WTI is down about 4.5% to ~$99.5 on Iran talk headlines, even with a fresh tanker mine hit reported at 8:05. Not a Friday or monthly opex.\n\n## Positioning (Quant Data API on the user's account, ~8:10 AM ET. Pre-market GEX is a thin first read, and Friday's 0DTE has rolled off. Heatmap nodes weren't pulled separately, so GEX by strike is the magnet proxy)\n- **SPY:** net GEX -2.53B, still negative gamma but much shallower than Friday's close (-11.24B). Call walls 800, 780, 770. Put walls 750 (largest, -1.57B), 740, 730. No cumulative flip; the sign changes at 758-760, right at spot. Friday dark pool: 769.5 ($6.85B), 755.5 ($4.70B), 756 ($1.11B), 753.5, 760 ($0.77B).\n- **QQQ:** net -0.94B, mildly negative (Friday close -14.51B). Call walls 700 (+0.38B), 725, 715. Put walls 680 (largest, -0.97B), 670, 685. Sign changes at 695-696 (at spot) and 692. Dark pool: 715 ($5.27B), 690.5 ($3.23B), 690 ($1.40B), 687, 696.5-697 (~$1.35B).\n- **IWM:** net +0.16B, barely positive (Friday close -1.76B). Call walls 284, 290, 282. Put walls 275, 277, 280. Cumulative flip at 287; sign changes at 281 and 279. Dark pool clustered at 278-280 (~$1.1B), plus 277 and 284.\n- **9,000+ contract prints:** none so far this pre-market. Friday Oct 30 had 292.\n  - SPY 14:28: Nov 2/Nov 4 745P, 740P, and 730P blocks of 33k-55k, sold below the bid and opening, about 25 minutes before the day's low.\n  - SPY 16:02: Jan 29 716P bought 19,170 at the ask ($21.8M), against 605P and 794C sold. A collar-style hedge.\n  - QQQ 13:37: sold Nov 13 725P/690P (in the money) and opened 685P (24k) and 650P (27k). A roll down. QQQ Nov 20 685P 10k bought at the ask ($15.6M).\n  - QQQ Oct 30 700P 27k deep in the money at 16:03 was mechanical closing. A cancelled QQQ Jun 2027 680P 12.3k print at 16:16 should be ignored.\n  - IWM Nov 20 266/268-269 put spreads (~54k, opening) and a 264P/265P pair at 16:03.\n  - VIX Nov 18 21-24 calls bought (21C 43.7k at the ask, 15:38). SMH Dec 450P 11.5k at the ask ($10.8M) vs 400P. TLT Nov 9 84/85C ~238k at the ask, plus Nov 6 78C 30k ($11.2M), a bet on lower yields.\n  - **Read:** it's mixed. The SPY put selling below the bid near the lows, in deep negative gamma, fits the study pattern that came before snap-back rallies, and futures are bouncing. But hedges are still being added and rolled (the SPY Jan collar, QQQ roll down, IWM put spreads, VIX calls), not unwound. That looks like protection staying on into the election and NFP, not an all-clear.\n\n## Combined levels map (PM range 4:00 AM to ~8:10 AM ET, can still change before 9:30)\nRatios: ES ~10.07x SPY, NQ ~41.30x QQQ, RTY ~10.10x IWM. Futures levels are approximate.\n\n**SPY** (PM last 758.62, above the PDC and inside Friday's range)\n- PDH 761.46 (ES ~7668; the RTH high was 7670), PDL 750.36 (ES ~7556), PDC 755.71 (ES ~7610).\n- PMH 760.30 (ES ~7656; ONH 7659.25), PML 758.13 (ES ~7634; ONL 7628.75).\n- 2-min 13/48/200 EMAs: 758.54, 758.91, 758.40. Bunched, so chop.\n- Confluence:\n  - **760-761.5:** PMH, PDH, the 760 sign change, and the 760 dark pool. This is the lid.\n  - **755.5-756:** PDC plus the $4.7B and $1.1B dark pool prints.\n  - **750-750.4:** PDL plus the 750 put wall (largest) and the heavy dark pool cluster at 750.4.\n- Untested above: 765.2 (Oct 27 low) and 766.6 (Oct 29 low), then the 769.5 dark pool ($6.85B) and the 770 call wall.\n- Game plan: a 15-min close above 761.5 and calls toward 765-766.6, then 769.5-770. Lose 755.5 and puts toward 753.5, then 750 (put wall and PDL).\n\n**QQQ** (PM last 695.01, above the PDC)\n- PDH 698.63 (NQ ~28853; the RTH high was 28860.5), PDL 683.45 (NQ ~28227), PDC 690.56 (NQ ~28520).\n- PMH 698.00 (NQ ~28827; ONH 28831.5), PML 694.62 (NQ ~28688; ONL 28612).\n- EMAs: 695.06, 695.58, 694.77. Bunched, so chop.\n- Confluence:\n  - **698-700:** PMH, PDH, the 700 call wall (largest), and the 696.5-697 dark pool just below. This is the lid.\n  - **690-690.5:** PDC plus ~$4.6B of dark pool.\n  - **683.5-685:** PDL plus the 685 put wall. The 680 put wall (largest) is below (NQ ~28084).\n- Game plan: a 15-min close above 700 and calls toward 715 (call wall plus the $5.3B dark pool). Lose 690 and puts toward 687, then 683.5-685, then 680.\n\n**IWM** (PM last 280.82, inside Friday's range; positive gamma, so expect more pinning)\n- PDH 282.71 (RTY ~2855), PDL 276.91 (RTY ~2797), PDC 279.39 (RTY ~2822).\n- PMH 281.98 (RTY ~2848; ONH 2846.5), PML 280.63 (RTY ~2834; ONL 2827.5).\n- EMAs: 280.93, 281.11, 280.62. Bunched.\n- Confluence:\n  - **282-282.7:** PMH, the 282 call wall, and the PDH.\n  - **280-280.6:** PML, the 280 put wall, and dark pool.\n  - **279-279.4:** PDC, the 279 sign change, and dark pool.\n  - **276.9-277:** PDL, the 277 put wall, and a heavy dark pool cluster.\n- Game plan: a 15-min close above 282.7 and calls toward 284 (call wall and dark pool). Lose 279.4 and puts toward 277, then 275 (put wall).\n\nBias framing: all three open inside Friday's range and above the PDC, so the PDH is the break-and-retest level and the PDC/PDL are the rejection or flush levels. The pre-market range is a no-trade zone (SPY 758.1-760.3, QQQ 694.6-698, IWM 280.6-282). Wait for a 15-minute close beyond a level, nothing before 9:45. ISM at 10:00 can reset the morning.\n\n## Macro\n- **Calendar (ET, Forex Factory):**\n  - No 8:30 release.\n  - 9:45: final Manufacturing PMI (forecast 56.0, prior 56.0).\n  - 10:00: ISM Manufacturing (forecast 54.5, prior 54.5), ISM Prices (77.2 vs 77.9), construction spending (+0.4% vs +0.9%).\n  - 2:00 PM: Senior Loan Officer Survey.\n  - No Fed speakers listed today.\n  - Rest of the week: midterm elections Tuesday plus JOLTS 10:00 Tuesday; RBA tonight (expected hike to 4.85%); ADP and ISM Services Wednesday; BoE (expected hike) and claims Thursday; NFP Friday 8:30 (forecast 63K, prior 29K; unemployment 4.2%).\n- **Earnings:**\n  - After the close today: AAPL (EPS consensus $1.98) and PLTR ($0.33), both with 5:00 PM calls.\n  - AMD Tuesday after the close; UBER (and likely MCD) Wednesday before the open.\n  - Before-open reports for today weren't pulled.\n- **Headlines (Financial Juice overnight):**\n  - 8:05: an oil tanker caught fire after hitting a mine in the eastern Strait of Hormuz (Iranian state media). Sunday night, UKMTO reported a tanker hit by two projectiles 72nm east of Ras Al Khafji.\n  - Iran says message exchanges with the US continue and a draft proposal is circulating, with a follow-up meeting possible. It also says Hormuz can't reopen before US sanctions are lifted. Trump: \"We'll see about a deal, they want to make one.\"\n  - China's October manufacturing PMI was 52.0. Eurozone final manufacturing PMI was 52.7 (vs 52.4). German retail sales fell 2.0% m/m.\n  - ECB's Kazimir: further action is a question of \"how much,\" not if.\n  - Vitol CEO: oil demand will take a year to recover.\n- **X market news:**\n  - Futures are bouncing after last week's tech selloff, with the week loaded with earnings, data, and the midterms.\n  - Goldman prime data shows hedge funds dumped ~$20B of US tech in two weeks of October.\n  - Prediction markets put Democrats ~70% to sweep the House and Senate.\n- **Globex (~8:00 AM ET):**\n  - NQ 28,703.75 (+0.6%), overnight range 28,612-28,831.5.\n  - ES 7,639 (+0.3%), 7,628.75-7,659.25.\n  - RTY 2,836.5 (+0.5%), 2,827.5-2,846.5.\n- **Global:**\n  - Asia: Nikkei -0.3% (63,082), KOSPI +2.2%, Shanghai +1.1%, Hang Seng +0.4%.\n  - Europe flat: Stoxx 50 -0.1%, DAX -0.1%, FTSE -0.2%, CAC +0.1%.\n- **Vol and cross-asset:**\n  - VIX 19.34 (overnight range 18.76-19.49).\n  - 10-year 4.93% (Friday close; live not pulled).\n  - DXY 101.63 (-0.25%).\n  - WTI 99.45 (-4.5%).\n  - Gold 3,911 (+0.3%).\n\n## History\nFriday closed with SPY GEX around -11B to -13B, with put selling below the bid near the lows and a bounce overnight. That's a milder version of the study's snap-back setups (Jun 10 to 11, Jul 28 to 30), which came off -15B to -23B readings. Gamma has already reset to only -2.5B pre-market, though, so the cushion for extended moves is smaller. The election and NFP later this week fit the study's note that short-dated hedging into events tended to precede whipsaws.\n\n## Takeaway (information, not advice)\nThe magnets that matter:\n- **SPY:** the 760-761.5 lid (PMH, PDH, sign change), 755.5-756 dark pool/PDC support, and 750 (put wall plus PDL) below.\n- **QQQ:** the 698-700 lid (PMH, PDH, call wall), 690-690.5 (PDC plus dark pool), and 683.5-680 put walls below.\n- **IWM:** 282-282.7 resistance and 279-280.6 support. It's in positive gamma, so expect more pinning.\n\nAll three are sitting right on their gamma sign changes with bunched EMAs, which points to chop inside the pre-market range until 10:00 ISM or a 15-minute close outside it.\n",
+  "takeaway": "The magnets that matter:\n- **SPY:** 751.6-752.4 is the lid (PDL, PDC, PMH, $2.6B dark pool) and 749.4-750 the floor (PML, 750 put wall). Below that, it's air toward 745 and 740.\n- **QQQ:** 679-681 is the big one, with the PDL, PDC, the 680 largest put wall, and the 200-day all stacked together. 684.5-686 is the lid.\n- **IWM:** 278.9-279.6 is the pivot, with 277 and then 275 below.\n\nAll three are in negative gamma with bunched EMAs, sitting right on their prior-day lows into JOLTS and the election. A 15-minute close outside the pre-market range is likely to run further than usual.",
+  "markdown": "# Pre-Market Brief, Tue Nov 3, 2026 (Election Day; data as of ~8:05 AM ET)\n\nMixed and heavy under the surface: NQ 28,235.5 (+0.4%), ES 7,570.25 (-0.1%), RTY 2,819.9 (+0.1%) vs Monday's settle, as of 7:50 AM ET. SPY is trading **below Monday's low** pre-market, while QQQ sits right on the 680 put wall it closed on. Megacap earnings are weighing: AAPL about -4%, PLTR about -8%, SHOP about -15%. No 8:30 data today; JOLTS at 10:00 and midterm results overnight are the events, with AMD after the close. Not a Friday or monthly opex.\n\n## Positioning (Quant Data API on the user's account, ~8:05 AM ET; pre-market GEX is a thin first read, so Monday's close is shown alongside)\n- **SPY:** net GEX **-4.35B** pre-market (Monday close -12.56B), still negative gamma. Put walls 740 (-1.62B, largest pre-market), 730, 725; at Monday's close the largest was **750 (-2.43B)**, then 730 and 751. Call walls 800, 770, 785. No cumulative flip; the sign changes at 750-751 (at spot) and 758. Monday dark pool: **755.5 ($5.89B)**, 752 ($2.61B), 760-760.5 (~$1.8B).\n- **QQQ:** net **-2.77B** (close -7.75B). Put walls **680 (-1.06B, largest)**, 670, 675; at the close 680 (-1.32B), 685, 670. Call walls 725, 750, 705. Sign changes at 683-684 and 686. Dark pool: **690.5 ($3.38B)**, 681 ($1.29B), 694-695 (~$2.1B), 685.5.\n- **IWM:** net about flat (-0.09B, very thin pre-market read); close was -2.05B. Close put walls 270, 265, 275; pre-market put strikes 274 and 280, call 285 and 282. Sign change near 281 (279-281 at the close). Dark pool: 281.5, 279.5, 280, 279 (~$0.24-0.35B each).\n- **9,000+ contract prints:** none so far this pre-market. Monday had 149, already covered in the close recap. The ones that matter:\n  - SPY 15:02 floor block: opened Nov 13 745P (55.6k) and Nov 20 740P (77.6k) at the ask ($33M and $52M); sold Nov 20 750P (50.4k), Nov 20 725P (22.3k) and Nov 13 730P (55.6k) at the bid. A roll from 750/730 down to 745/740, so protection stays on, and it lines up with 740 now being the biggest put wall.\n  - SPY Nov 3 (today) 736P 9.5k below the bid at 14:28, cheap ($0.14). SPY Nov 30 675/570P spread 23.75k at 16:04. SPY Nov 20 718/722P 9.4k at the bid. SPY Dec 785C 13.7k bought at the ask near the high (10:21).\n  - QQQ Mar 2027 690P sold vs 630P bought (10.5k, a roll down); QQQ Dec 550P 20k at the ask (15:55); long-dated upside in QQQ Jun 2027 900C 20k and Mar 2027 775C 9.1k.\n  - IWM Nov 20 265-267P pairs (9k and 15k blocks, a continuation of the put-spread theme); Nov 6 277P 15k opening.\n  - **Read:** hedging and rolling, not capitulation. Monday had no heavy put selling at the bid near the lows, which is what came before the cleanest snap-backs in the study. That makes this look more like trend continuation risk than a sweep reversal, unless sellers show up at 740-750 today.\n\n## Combined levels map (PM range 4:00 AM to ~8:04 AM ET, can still change before 9:30)\nRatios: ES ~10.08x SPY, NQ ~41.35x QQQ, RTY ~10.11x IWM. Futures levels are approximate.\n\n**SPY** (PM last 751.12, **below the PDL**, so the PDL is now resistance)\n- PDH 763.86 (ES ~7700), PDL 751.60 (ES ~7576), PDC 752.12 (ES ~7581).\n- PMH 752.41 (ES ~7584; ONH 7591.5), PML 749.38 (ES ~7554; ONL 7546).\n- 2-min 13/48/200 EMAs: 751.47, 751.44, 752.21. Bunched under the 200, so chop with a slight bearish lean.\n- Confluence:\n  - **751.6-752.4:** PDL, PDC, PMH, the $2.6B dark pool at 752, and the 751 put strike. This is the lid.\n  - **749.4-750:** PML, the 750 put wall (largest at Monday's close), and the 750-751 sign change. The floor of the PM range.\n  - **755.5-756:** the $5.9B dark pool, Monday's 756 sign change, and the 756-757 gap traders on X are flagging.\n- Below: 745 (new put hedge strike) and **740** (largest pre-market put wall, ES ~7459; X chart talk points to 742-743).\n- Game plan: a 15-min close back above 752.4 and calls toward 755.5-756; lose 749.4 and puts toward 745, then 740.\n\n**QQQ** (PM last 682.92, inside Monday's range just above the PDC)\n- PDH 699.43 (NQ ~28922), PDL 680.33 (NQ ~28132), PDC 681.13 (NQ ~28165).\n- PMH 684.56 (NQ ~28307; ONH 28284.5), PML 678.99 (NQ ~28077; ONL 28038.25).\n- EMAs: 683.30, 683.14, 683.67. Bunched, so chop.\n- Confluence:\n  - **679-681:** PDL, PDC, PML, the **680 put wall (largest)**, the 681 dark pool ($1.29B), and the 200-day moving average (~679.5, per X chart posts). The most important level on the board today.\n  - **683.5-686:** PMH, the sign changes, the 685 put strike, and the 685.5 dark pool. The lid.\n  - **690.5:** the $3.38B dark pool (NQ ~28552).\n- Game plan: a 15-min close above 686 and calls toward 690.5; lose 679 and puts toward 675, then 670 (NQ ~27704).\n\n**IWM** (PM last 278.87, sitting on the PDL)\n- PDH 283.19 (RTY ~2863), PDL 278.88 (RTY ~2820), PDC 279.15 (RTY ~2822).\n- PMH 279.57 (RTY ~2826; ONH 2823.6), PML 277.99 (RTY ~2810; ONL 2805.8).\n- EMAs: 279.18, 279.05, 279.39. Bunched.\n- Confluence:\n  - **278.9-279.6:** PDL, PDC, PMH, and the 279-279.5 dark pool and sign change. The pivot.\n  - **280-281.5:** the 280 put strike, the 281 sign change, and the 280-281.5 dark pool.\n  - **276.9-277:** Oct 30 low (untested since) and the Nov 6 277P open interest; then the 275 and 274 put strikes.\n- Game plan: a 15-min close above 279.6 and calls toward 281-281.5; lose 278 and puts toward 277, then 275.\n\nBias framing: SPY opens below its PDL, so 751.6-752.4 is resistance until a 15-minute close reclaims it. QQQ and IWM are pinned on their PDL/PDC, so it's break-and-retest or rejection right at the open. The pre-market range is a no-trade zone (SPY 749.4-752.4, QQQ 679-684.6, IWM 278-279.6). Wait for a 15-minute close beyond a level, nothing before 9:45. JOLTS at 10:00 can reset the morning.\n\n## Macro\n- **Calendar (ET, Forex Factory):**\n  - No 8:30 release.\n  - 10:00: JOLTS (forecast 7.15M, prior 7.08M) and factory orders (forecast +1.2%, prior +0.1%). 10:10 RCM/TIPP optimism (46.2 vs 46.8).\n  - US midterm elections all day, results tonight. API crude at 4:30 PM. NZ jobs at 4:45 PM.\n  - No Fed speakers listed.\n  - Rest of the week: ADP 8:15 and ISM Services 10:00 Wednesday; BoE (expected hike to 4.00%) Thursday 7:00; NFP Friday 8:30 (forecast 65K, prior 29K; unemployment 4.2%).\n- **Overnight:** the RBA hiked 25bp to 4.85% (6-3 vote), its highest since 2008, and pushed its inflation return to late 2027.\n- **Earnings:**\n  - After Monday's close: AAPL about -4% pre-market (revenue beat, but a 45-46% gross-margin guide below the 46.3% estimate on memory costs, plus an iPad miss), PLTR about -8% (beat and raised, but slower US commercial bookings growth).\n  - Before the open today: SHOP about -15% (GMV and subscription revenue missed), PFE flat (beat), ZBRA and IT about -6% despite beats, RVTY +7%, YUM +1%.\n  - After the close today: AMD (EPS consensus $1.68), SMCI, ANET, AMGN, BKNG, PRU, ALAB, XYZ, DUOL, TOST.\n- **Headlines (Financial Juice, ET):**\n  - Iran: a senior official says Iran and the US are \"far from\" a deal (1:40 AM); Ghalibaf says the ball is in the US court (2:05); Iranian state TV claims 3 tankers caught fire in Hormuz (5:17); Qatar says both sides are committed to mediation and expects feedback within 36 hours (5:18 and 7:16); Iran says it doesn't negotiate under pressure (7:57).\n  - FT: Nvidia ordered data-center clients to reduce China exposure (7:48). FT: a US-Russia-China leaders' meeting is being considered (3:12).\n  - Aramco CEO says tanker attacks have removed 15% of effective capacity (3:29).\n  - Swiss CPI 1.5% y/y vs 1.2% expected. ECB's Radev says the October pause doesn't mean tightening is over.\n- **X market news:** traders are watching SPY 750 as the decision point and 740 below; QQQ is testing its 200-day around 679.5, with the Nasdaq-100 now more than 10% off its October peak. Election uncertainty is the dominant theme.\n- **Globex (7:50 AM ET):**\n  - NQ 28,235.5 (+0.4%), overnight range 28,038.25-28,284.5.\n  - ES 7,570.25 (-0.1%), 7,546-7,591.5.\n  - RTY 2,819.9 (+0.1%), 2,805.8-2,823.6.\n- **Global:** Japan was closed for a holiday. Hang Seng +0.6%, Shanghai -0.8%, KOSPI -3.6%. Europe softer: Stoxx 50 -0.3%, DAX -0.4%, FTSE -0.6%, CAC -0.1%.\n- **Vol and cross-asset:** VIX 21.35 (Monday close 21.15; overnight 21.18-21.91). 10-year 4.89% (Monday close; live not pulled). DXY 101.86 (+0.1%). WTI 97.13 (+0.7%, overnight 96.12-98.82). Gold 3,936.5 (-0.8%).\n\n## History\nMonday closed with SPY GEX at -12.6B and QQQ at -7.8B, which puts today in the negative-gamma zone where most of the study's big moves started, in both directions. The snap-back setups (Jun 10 to 11, Jul 28 to 30) came after heavy put selling at the bid near the lows; Monday didn't have that (hedges were rolled and added instead). Short-dated hedging into an event (the election tonight) is the study's whipsaw pattern.\n\n## Takeaway (information, not advice)\nThe magnets that matter:\n- **SPY:** 751.6-752.4 is the lid (PDL, PDC, PMH, $2.6B dark pool) and 749.4-750 the floor (PML, 750 put wall). Below that, it's air toward 745 and 740.\n- **QQQ:** 679-681 is the big one, with the PDL, PDC, the 680 largest put wall, and the 200-day all stacked together. 684.5-686 is the lid.\n- **IWM:** 278.9-279.6 is the pivot, with 277 and then 275 below.\n\nAll three are in negative gamma with bunched EMAs, sitting right on their prior-day lows into JOLTS and the election. A 15-minute close outside the pre-market range is likely to run further than usual.\n",
   "macro_markdown": null,
-  "source_file": "2026-11-02_premarket.md"
+  "source_file": "2026-11-03_premarket.md"
 }
