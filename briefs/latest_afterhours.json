@@ -1,33 +1,33 @@
 {
   "schema_version": 1,
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "type": "afterhours",
-  "generated_at": "2026-11-02T17:10:00-05:00",
+  "generated_at": "2026-11-03T17:05:00-05:00",
   "generated_at_source": "text",
-  "summary": "Futures vs ~3:59 PM levels (as of 16:59 ET): ES 7585.5 (+0.13% vs ~7576), NQ 28219.25 (+0.28% vs ~28139), RTY 2820.0 (+0.05% vs ~2818.7). SPY 753.60 (+0.19% vs 752.15), QQQ 683.80 (+0.40% vs 681.09), IWM 279.25 (flat). Small bounce off the closing lows, nowhere near 0.5%.",
+  "summary": "Futures vs 3:59 PM (as of ~16:53 ET): ES 7607.50 (+0.14% vs 7596.50), NQ 28419.00 (+0.42% vs 28300.75; AH high 28449.50), RTY 2821.30 (-0.13%). SPY 755.51 (+0.15% vs 754.41), QQQ 688.08 (+0.40% vs 685.34; AH high 688.82), IWM 279.44 (-0.14%). NQ is leaning higher on AMD but stays under 0.5%.",
   "futures": {
     "NQ": {
-      "last": 28219.25,
-      "change_pct": 0.28,
+      "last": 28419.0,
+      "change_pct": 0.42,
       "high": null,
       "low": null
     },
     "ES": {
-      "last": 7585.5,
-      "change_pct": 0.13,
+      "last": 7607.5,
+      "change_pct": 0.14,
       "high": null,
       "low": null
     },
     "RTY": {
-      "last": 2820.0,
-      "change_pct": 0.05,
+      "last": 2821.3,
+      "change_pct": -0.13,
       "high": null,
       "low": null
     }
   },
   "tickers": {
     "SPY": {
-      "spot": 753.6,
+      "spot": 755.51,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -42,7 +42,7 @@
       "game_plan": null
     },
     "QQQ": {
-      "spot": 683.8,
+      "spot": 688.08,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -57,7 +57,7 @@
       "game_plan": null
     },
     "IWM": {
-      "spot": 279.25,
+      "spot": 279.44,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -109,7 +109,7 @@
     }
   },
   "takeaway": null,
-  "markdown": "# After-hours check Mon Nov 2, 2026 ~5:10 PM ET (yfinance, FinancialJuice RSS). No alert sent.\nFutures vs ~3:59 PM levels (as of 16:59 ET): ES 7585.5 (+0.13% vs ~7576), NQ 28219.25 (+0.28% vs ~28139), RTY 2820.0 (+0.05% vs ~2818.7). SPY 753.60 (+0.19% vs 752.15), QQQ 683.80 (+0.40% vs 681.09), IWM 279.25 (flat). Small bounce off the closing lows, nowhere near 0.5%.\n\nEarnings (FinancialJuice headlines; AH moves from yfinance ~17:09 ET vs 15:59):\n- AAPL: EPS $2.10 vs $2.00 est, revenue $114.48B vs $113.47B, iPhone $57.58B vs $56.49B, Mac beat; Services in line ($31.57B), Greater China miss ($17.54B vs $18.75B), iPad and wearables miss. Stock +0.3% AH (340.2), muted; call at 5 PM may still move it.\n- PLTR: adj EPS $0.44 vs $0.41, revenue $2.31B vs $2.17B, Q4 guide $2.65B vs $2.46B, FY guide raised to $8.53B. Stock +1.0% AH (180.45).\n- Others: FN +13.1%, LSCC +8.3%, CLX +2.3%, ON -2.6%, BWXT -2.5%; VRTX +0.7%, ROKU/FANG/WMB flat.\n\nNews after the close: IRNA reports explosions on Qeshm Island (unconfirmed, 16:04) and Fars reports blasts at sea off Bandar Lengeh (16:34); WSJ says Anthropic investors push for a ~$1.5T valuation; NZ building consents -7.9%. No market reaction to the Iran reports so far.\n\nTomorrow's levels unchanged from the 4:00 recap: QQQ PDL 680.33 / 680 put wall, SPY 750 put wall / PDL 751.60, first lids SPY 755.6-756 and QQQ 685-688. Futures are holding just above the closing lows. Watch the Apple call and overnight election results.\n\n_Information, not advice._\n",
+  "markdown": "# After-hours check Tue Nov 3, 2026 (Election Day) ~5:05 PM ET (yfinance 1-min, FinancialJuice RSS, AMD IR/Reuters/CNBC). No alert sent.\nFutures vs 3:59 PM (as of ~16:53 ET): ES 7607.50 (+0.14% vs 7596.50), NQ 28419.00 (+0.42% vs 28300.75; AH high 28449.50), RTY 2821.30 (-0.13%). SPY 755.51 (+0.15% vs 754.41), QQQ 688.08 (+0.40% vs 685.34; AH high 688.82), IWM 279.44 (-0.14%). NQ is leaning higher on AMD but stays under 0.5%.\n\nEarnings:\n- AMD: Q3 revenue $13.38B vs $13.09B est, adj EPS $2.09 vs $1.95, Data Center a record $8.55B (+97%) vs $8.20B. Q4 guide ~$17B ±3% vs $16.23B est; gross margin guide ~55% vs 55.3% est. Stock 522.21 (+7.8% AH, high 530.38) vs an options-implied move of about ±8-10%, so roughly in line. Call started 5 PM. NVDA +1.6% AH in sympathy (Reuters also cites INTC +2%, AVGO +1.2%).\n- ANET +14.1% (193.91), DUOL +11.8%, SMCI +8.9%, XYZ +5.8%, ALAB +1.4% (wide 215-254 range); TOST -5.1%, BKNG -3.0%, AMGN -1.7%, PRU flat.\n\nNews after the close (FinancialJuice): API crude -5.27M vs +2.1M forecast (bullish oil); NZ unemployment 5.7% vs 5.5%, jobs -0.1% vs +0.4%; ECB's Kocher says a December hike is likely; Iran official says no deadline on messages with Washington. Midterm results are still to come tonight, the main gap risk.\n\nTomorrow's levels from the 4:00 recap: QQQ sits right at 688 (just under PDH 688.69; NQ ~28444, AH high 28449.5 tested it), above that 690-690.5 then 692-695. SPY 755.5 is mid-range between PDL 752.39 and PDH 757.07. IWM 279.4 is just above PDL 279.34. Put walls SPY 740, QQQ 680, IWM 275. Ex-0DTE gamma is negative in all three, so election-driven moves can extend.\n\n_Information, not advice._\n",
   "macro_markdown": null,
-  "source_file": "2026-11-02_afterhours.md"
+  "source_file": "2026-11-03_afterhours.md"
 }
