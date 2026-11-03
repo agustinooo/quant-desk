@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-03T08:53:14-05:00",
-  "count": 27,
+  "updated_at": "2026-11-03T16:17:02-05:00",
+  "count": 28,
   "briefs": [
+    {
+      "date": "2026-11-03",
+      "type": "close",
+      "path": "briefs/2026-11-03_close.json",
+      "md_path": "briefs/2026-11-03_close.md",
+      "generated_at": "2026-11-03T16:25:00-05:00",
+      "summary": "Sources: Quant Data API on the user's account (GEX, dark pool, 9k+ unconsolidated flow), Yahoo Finance prices, Financial Juice feed, Forex Factory, ATLAS/Earnings Whispers calendars."
+    },
     {
       "date": "2026-11-03",
       "type": "postdata",
