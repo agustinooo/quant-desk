@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-04",
+  "type": "close",
+  "generated_at": "2026-11-04T16:25:00-05:00",
+  "generated_at_source": "text",
+  "summary": "Sources: Quant Data API on the user's account (GEX by strike, dark pool, 9k+ unconsolidated flow), Yahoo Finance prices, Financial Juice feed, Forex Factory, CNBC/Axios/Globe and Mail (oil), 24/7 Wall St. and ATLAS/Nexqual (earnings). X wasn't checked this run.",
+  "futures": {
+    "NQ": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 754.51,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": 685.49,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 279.51,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [
+    {
+      "ticker": "SMH",
+      "strike": 500.0,
+      "expiry": "Nov 6",
+      "cp": "P",
+      "size": 19700,
+      "premium": null,
+      "side": "bid",
+      "time": "11:44",
+      "read": null,
+      "raw": "SMH Nov 6 500P and Nov 13 475P 19.7k at the bid (11:44). NVDA Mar 2027 230/250 call spread 15.4k bought"
+    }
+  ],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": 16.78,
+      "us10y": 4.89,
+      "dxy": 101.52,
+      "wti": 88.12,
+      "brent": 94.62,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# Close Recap, Wed Nov 4, 2026 (day after the midterms; pulled ~4:15-4:25 PM ET)\nSources: Quant Data API on the user's account (GEX by strike, dark pool, 9k+ unconsolidated flow), Yahoo Finance prices, Financial Juice feed, Forex Factory, CNBC/Axios/Globe and Mail (oil), 24/7 Wall St. and ATLAS/Nexqual (earnings). X wasn't checked this run.\n\n**Blue-wave rally, Dow-led, with oil crashing.** The Dow closed +3.0% at a record 53,356, the S&P 500 +1.6% (7,688.6), and the Nasdaq Comp +1.4% (25,736.5). Oil had its biggest drop since April (WTI -8.3%) on bets that a Democratic Congress pushes Trump toward an exit from the Iran war. Index tech popped at the open, then faded after 10:15 while the Dow kept grinding up into 15:35.\n\n## Closes (RTH, ET)\n| | Close | % | High | Low |\n|---|---|---|---|---|\n| SPY | 766.81 | +1.64% | 769.23 (13:07)* | 762.64 (09:35) |\n| QQQ | 691.95 | +0.97% | 701.45 (10:15) | 687.90 (09:34) |\n| IWM | 284.02 | +1.51% | 286.17 (09:45) | 281.30 (11:27) |\n| ES | ~7724.5 | ~+1.7% | 7746.25 (13:07) | 7679.75 (09:34) |\n| NQ | ~28585 | ~+1.0% | 28969.00 (10:15) | 28405.00 (09:34) |\n| RTY | ~2868.1 | ~+1.5% | 2888.7 (09:45) | 2839.8 (11:26) |\n\n*Yahoo shows a single 775.64 print in the 10:00 bar (it closed 768.03, and ES didn't spike), so I've treated it as a bad tick. Futures % are vs Tuesday's settle, using the 4:04 PM last.\n\nVIX 16.78 (from 20.83, -19%; low 16.59 at 15:35) | 10y 4.89% (from 4.95%; high 4.96% at 10:21, low 4.88%) | DXY 101.52 (from 101.87) | WTI settled $88.12 (-8.3%), Brent $94.62 (-8.7%), both the lowest since Aug 31 | Gold ~4,073 (+3.4%)\n\n## Morning levels: held or broke\n- **SPY:** opened 762.99 inside the PM range, and the first 15-min close (9:45, 767.71) was already above the 763.4-765 lid. That hit the 767-768 target; 770 was never reached (high 769.23). The 11:30 dip closed at 764.16, a clean retest of the old lid as support, then it pinned 766-769 all afternoon. 756.8-757 was never tested.\n- **QQQ:** opened right on the 688.7 PDH, then the 9:45 close (697.59) cleared both the 691 lid and the 694.1 PMH. The 698.6-699.4 target hit and overshot to 701.45 at 10:15, then it faded. The 11:30 close (690.55) briefly slipped back under 691, and it closed 691.82, back on top of the 688.4-691 zone. The 683.2 floor wasn't tested.\n- **IWM:** a 9:45 close at 286.04 above 285.3 failed: high 286.17, and 287-288 never came. It broke 282 (11:30 close 281.79), hit the 281 target (low 281.30), missed 280, then reclaimed 282 and closed 283.95. So it was a failed breakout that got bought back.\n\n## Drivers\n- **Midterm rotation:** the Dow and small caps led, while AI and semis lagged: NVDA -3.2%, MU -7.0%, AVGO -2.0%, SMCI -5.7%, TSLA -3.3%. AMD swung from 476.5 to 514.6 and closed +1.0% (BofA cut its target to $650 at 9:39). Movers: MCD +6.5%, UBER +4.9%, ANET +5.1%, CVS -12.5% on its split plan. At 12:28 Trump posted that the market \"just hit another record high.\"\n- **Oil and Iran (Financial Juice, CNBC, Axios):** at 10:43 Vance said \"the reason we lost is the war.\" Then Schumer (11:27) and Jeffries (12:32) vowed to end the war and stop the tariffs. Crude bottomed at 12:38 (WTI 87.13). At 13:22 Trump said the Iran war \"will end whenever I want it to,\" and Al-Jadeed reported significant progress in talks, clearer Friday. At 13:45 Bessent threatened sanctions on anyone supporting Iran, and Treasury sanctioned shadow-fleet firms. EIA crude came in at -0.87M.\n- **Data:** ADP 86K vs 67K. ISM Services 54.5 vs 54.8, with new orders 55.9 vs 58.5 (soft) and prices paid 73 vs 74.6. S&P services PMI final 56.1 vs 57.9. Trade balance -$105B. Yields eased all day.\n- **Other headlines:** at 15:33 Trump ruled out paring back tariffs. CBS reported at 11:42 that Trump is asking whether Hegseth should go. Apple is cutting internal AI usage budgets (14:45). Microsoft raised $25B in bonds (16:03). CNN Fear & Greed read 29 at 10:18.\n\n## Positioning at the close (Quant Data API, 4:15 PM ET snapshot)\nToday's 0DTE dominated SPY's all-expiration book (a +19.3B 768 call strike, which is the pin it closed on). That has expired, so the **ex-0DTE** numbers are what carries into Thursday.\n- **SPY:** all expirations +23.8B. **Ex-0DTE +2.82B** (from -6.92B Tuesday), so the book flipped to positive gamma on the rally. Call walls are **770 (+1.08B)**, 775, 780, and 800 (+1.23B). Put strikes are 757 (-0.51B), 730, 725, and 700. The sign changes nearest spot are at **765** and **772-773**, so 765 is tomorrow's flip area. In-range dark pool: 766.44 ($0.44B).\n- **QQQ:** **still negative**: ex-0DTE -5.78B (Tuesday -6.45B). Put walls are **680 (-1.20B)**, 670, 675, and 690 (-0.63B). Call gamma is small (705 at +0.28B). The sign changes sit right at spot, **692-695**. In-range dark pool: 691.99 ($0.71B), 693.15 ($0.50B), and 695.5 ($0.34B).\n- **IWM:** ex-0DTE -0.58B (from -1.24B). Call strikes are 285, 286, and 300; put walls 270, 265, 275. The sign change is at **281**. Dark pool: 283.88 ($0.16B).\n- Dark-pool caveat: the day's biggest listed prints, SPY 754.51 ($4.95B), QQQ 685.49 ($3.19B), and IWM 279.51, are at Tuesday's closing prices and outside today's range. That makes them likely late-reported Tuesday trades, not today's levels.\n\n## 9,000+ contract prints (Quant Data unconsolidated flow, 238 rows; most are multi-leg)\n- **SPY:**\n  - 9:43: bought the Nov 13 745/730 put spread, 55.6k at the ask (745P opening, about $5.5M net debit). That's a fresh hedge at the open. At 14:44, 14.6k of the 745P sold at the bid against the 720P.\n  - 14:35: sold the Nov 20 757P at the bid, 21.7k across two prints ($10.6M), with the 725P at mid. That's put-spread selling under the market.\n- **QQQ:**\n  - 9:48: Nov 6 705C 23k at the bid, opening ($9.3M), near the top.\n  - Put selling at the bid all day: Nov 20 **680P 22k ($17.9M, 14:25, right at the put wall)**, Jan 650P 10k ($11.8M), Dec 550P 20k, and Dec 2027 500P 23.1k opening ($28.9M).\n  - Also Dec 690P 21.5k at mid ($38.6M, 13:10), and Nov 6 680P 10k at the ask twice (11:36-11:38).\n- **IWM:**\n  - The Nov 20 271/266 and 272/266 put spreads again (~12k, 9:41).\n  - 15:24: rolled 30.4k from the Nov 20 270P (sold at the bid) into the Dec 275P (above the ask, $12.1M).\n- **Semis:** SMH Nov 6 500P and Nov 13 475P 19.7k at the bid (11:44). NVDA Mar 2027 230/250 call spread 15.4k bought (about $7.4M net, 10:57).\n- **VIX:** bought the Nov 18 20/30 call spread, 77k (9:44), and sold Nov 17P blocks. Jan/Mar 70C 30k roll. HYG put structures, XLF long-dated risk reversals (some canceled), TLT 2028 structures.\n- **Read:** after the event, the near-dated put supply in QQQ and SPY was sold at the bid, especially QQQ 680P at the wall. That's the hedge-monetization pattern that preceded the study's snap-backs. But fresh SPY Nov 13 put spreads and VIX call spreads were bought at the open, so protection is being restructured, not abandoned. QQQ stays in negative gamma, so a tech move can still extend either way.\n\n## After the close (Yahoo, ~4:14 PM ET vs the 4:00 close)\n- **APP** +16% (316 vs 271.75): Q3 EPS $4.30 vs $4.03, revenue $2.185B vs $2.07B (24/7 Wall St.).\n- **QCOM** -5% (164.3 vs 173.2), **ARM** -2% (188 vs 191.8), **MELI** -7% (1613 vs 1740). I haven't pulled their numbers yet.\n- Also out tonight: MCK, ALL, MET, MSI, COHR, EXPE, FIG, HUBS.\n- Futures are near flat at 4:04 (NQ 28,585).\n\n## Tomorrow (Thu Nov 5)\n- **Calendar (ET):** 7:00 BoE. 8:30 jobless claims (forecast 197K, prior 194K). Fed's Hammack 8:50, Barkin 9:10.\n- **Friday:** NFP 8:30 (forecast 65K, prior 29K; unemployment 4.2%; AHE +0.3%), then UMich 10:00. Al-Jadeed says the Iran talks become clearer Friday.\n- **Earnings before the open:** COP, SONY, PH, SO, DUK, CI, CMI, APD, TM. **After the close:** ABNB, NET, EOG, SPG, MNST, LITE, DVN.\n\n## Levels for Thursday (today's range becomes the previous-day levels)\n- **SPY:** PDH 769.23 (ES ~7746), PDL 762.64 (ES ~7680), PDC 766.81.\n  - Above: the 770 call wall, then 772-773.\n  - Below: the **765 flip**, then 763.4 (Tuesday's PMH, now retested support) and 757.\n- **QQQ:** PDH 701.45 (NQ ~28969), PDL 687.90 (NQ ~28405), PDC 691.95.\n  - The 692-695 sign changes are at spot, so that's the pivot.\n  - Above: 698.6-701.5. Below: the 688-691 shelf, then the 680 put wall.\n- **IWM:** PDH 286.17 (RTY ~2889), PDL 281.30 (RTY ~2840), PDC 284.02.\n  - 285-286 are call strikes, and the 281 sign change is the floor.\n\nTakeaway (information, not advice): SPY's ex-0DTE book has flipped positive for the first time in this run of recaps, which favors tighter, mean-reverting trade around 765-770 tomorrow. QQQ is still negative gamma and the weak link (semis sold off, and QCOM/ARM are down after hours). Oil's collapse and the VIX at 16.8 remove a lot of the event premium, but Friday's NFP and the Iran talks are the next catalysts.\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-04_close.md"
+}
