@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-04",
+  "type": "postdata",
+  "generated_at": "2026-11-04T08:52:00-05:00",
+  "generated_at_source": "text",
+  "summary": "Data (Financial Juice): 8:15 ADP 86K vs 67K forecast (prior 90K), a beat. 8:30 trade balance -$105.0B vs -$107.9B forecast (prior revised -$105.7B), narrower. 8:35 Treasury quarterly refunding announcement out. Next: 9:45 final services PMI, 10:00 ISM Services (fcst 54.8, prior 54.9), 10:30 EIA crude.",
+  "futures": {
+    "NQ": {
+      "last": 28420.0,
+      "change_pct": 0.53,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": 7676.0,
+      "change_pct": 0.32,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": 2871.9,
+      "change_pct": 0.27,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 762.63,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": 2.31,
+      "flip": 790.0,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [
+        {
+          "strike": 730,
+          "gex_b": null
+        },
+        {
+          "strike": 700,
+          "gex_b": null
+        },
+        {
+          "strike": 735,
+          "gex_b": null
+        }
+      ],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": 687.73,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -3.24,
+      "flip": null,
+      "sign_change": "692",
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 284.54,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": 0.36,
+      "flip": 295.0,
+      "sign_change": "282",
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": 18.43,
+      "us10y": 4.93,
+      "dxy": 101.3,
+      "wti": 93.87,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# 8:45 post-data check, Wed Nov 4 2026 (~8:52 AM ET) - NQ +0.5% since 8:00, IWM nicks its PMH, message sent\n\n- Data (Financial Juice): 8:15 ADP 86K vs 67K forecast (prior 90K), a beat. 8:30 trade balance -$105.0B vs -$107.9B forecast (prior revised -$105.7B), narrower. 8:35 Treasury quarterly refunding announcement out. Next: 9:45 final services PMI, 10:00 ISM Services (fcst 54.8, prior 54.9), 10:30 EIA crude.\n- Other headlines since 8:00: 8:36 FJ sentiment note on the Democratic sweep rotating money away from AI and Musk-linked names; 8:39 SpaceX picks Qualcomm for Starlink (QCOM reports tonight); 8:23 Google to backstop some Anthropic obligations for Terawulf; 8:26 Meta's record EUR 53B euro bond book. Nothing new on Iran since the 5:04 AM IRGC comment.\n- Futures since 8:00 (yfinance 1m, last ~8:40): NQ 28,420 vs 28,270 (+0.53%), high 28,439.75; still well under the 28,662 overnight high. ES 7,676 vs 7,651.75 (+0.32%), high 7,677.25, under the 7,687.75 ONH. RTY 2,871.9 (+0.27%), new overnight high 2,873.5. VIX 18.43 (-1%, range 18.37-18.71). 10y 4.93% (4.92-4.95). DXY 101.30 flat. WTI 93.87 (-0.75%, low 93.65).\n- ETFs (~8:50): tech bounced back off the 8:00 low.\n  - SPY 762.63, high 763.05 since 8:00, just under the 763.37 PMH. PM range unchanged (756.83-763.37 from 4:10).\n  - QQQ 687.73, bounced from the 684.47 PML (made at 8:00) to 689.01, briefly above the 688.69 PDH. Still inside the PM range.\n  - IWM 284.54, high 284.64, a few cents through the 284.29 PMH; the 285 call wall and 285.26 Oct 29 high are right above.\n- GEX re-pull (Quant Data API, ~8:51): SPY net +2.31B (8:08 +1.64B); call walls now 800 (+0.97B), **770 (+0.96B)**, 780; 765 dropped out of the top three. Put walls 730, 700, 735. Sign changes at 760-763, right at spot; cumulative flip 790. QQQ net -3.24B (unchanged), put walls 680 (-1.29B)/675/670, call walls 720/710/705, nearest sign change 692. IWM net +0.36B, call walls 290/285/300, put walls 270/275/277, sign change 282, cumulative flip 295.\n- 9,000+ contract prints today (Quant Data unconsolidated order flow): 0 rows.\n- Read: a firmer ADP and a narrower trade gap gave a modest risk-on push, led by tech recovering its pre-8:00 fade. It's not a big surprise, and VIX and yields barely moved. SPY is sitting on the 760-763 sign changes, so it can pin there into ISM. Under Casey's rules nothing changes: SPY and QQQ are still inside the PM range (no-trade zone), and IWM's PMH break is only cents. A 15-min close above 285.3 after 9:45 is the real breakout. Upside: SPY 763.4-765, then 770 (new main call wall); QQQ 691-692, then 694; IWM 285.3, then 287-288. Downside unchanged: SPY 756.8-757.1, QQQ 683.2-684.5 then the 680 put wall, IWM 282-282.7. ISM at 10:00 is the next catalyst.\n- Note: GEX and flow came from the Quant Data API on the user's account; I didn't walk the My Pages tabs in the browser this run.\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-04_postdata.md"
+}

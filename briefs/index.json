@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-04T08:12:14-05:00",
-  "count": 30,
+  "updated_at": "2026-11-04T08:51:54-05:00",
+  "count": 31,
   "briefs": [
+    {
+      "date": "2026-11-04",
+      "type": "postdata",
+      "path": "briefs/2026-11-04_postdata.json",
+      "md_path": "briefs/2026-11-04_postdata.md",
+      "generated_at": "2026-11-04T08:52:00-05:00",
+      "summary": "Data (Financial Juice): 8:15 ADP 86K vs 67K forecast (prior 90K), a beat. 8:30 trade balance -$105.0B vs -$107.9B forecast (prior revised -$105.7B), narrower. 8:35 Treasury quarterly refunding announc"
+    },
     {
       "date": "2026-11-04",
       "type": "premarket",
