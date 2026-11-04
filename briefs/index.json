@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-04T16:16:45-05:00",
-  "count": 32,
+  "updated_at": "2026-11-04T17:06:20-05:00",
+  "count": 33,
   "briefs": [
+    {
+      "date": "2026-11-04",
+      "type": "afterhours",
+      "path": "briefs/2026-11-04_afterhours.json",
+      "md_path": "briefs/2026-11-04_afterhours.md",
+      "generated_at": "2026-11-04T17:05:00-05:00",
+      "summary": "Futures vs the 4:00 PM close (as of ~16:55 ET): ES 7734.50 (+0.13% vs 7724.5; AH range 7725.75-7735.25), NQ 28635.25 (+0.19% vs 28581.75; AH high 28646), RTY 2870.9 (+0.09%). SPY 768.04 (+0.16% vs 766"
+    },
     {
       "date": "2026-11-04",
       "type": "close",

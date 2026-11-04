@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-04",
+  "type": "afterhours",
+  "generated_at": "2026-11-04T17:05:00-05:00",
+  "generated_at_source": "text",
+  "summary": "Futures vs the 4:00 PM close (as of ~16:55 ET): ES 7734.50 (+0.13% vs 7724.5; AH range 7725.75-7735.25), NQ 28635.25 (+0.19% vs 28581.75; AH high 28646), RTY 2870.9 (+0.09%). SPY 768.04 (+0.16% vs 766.81), QQQ 693.75 (+0.26% vs 691.95), IWM 284.50 (+0.17%). Quiet, slightly bid, well under 0.5%.",
+  "futures": {
+    "NQ": {
+      "last": 28635.25,
+      "change_pct": 0.19,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": 7734.5,
+      "change_pct": 0.13,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": 2870.9,
+      "change_pct": 0.09,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 768.04,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": 693.75,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 284.5,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": null,
+      "us10y": null,
+      "dxy": null,
+      "wti": null,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# After-hours check Wed Nov 4, 2026 ~5:05 PM ET (Yahoo 5-min incl. extended hours, FinancialJuice RSS, CNBC/StreetInsider/Investing.com/investingLive). No alert sent.\nFutures vs the 4:00 PM close (as of ~16:55 ET): ES 7734.50 (+0.13% vs 7724.5; AH range 7725.75-7735.25), NQ 28635.25 (+0.19% vs 28581.75; AH high 28646), RTY 2870.9 (+0.09%). SPY 768.04 (+0.16% vs 766.81), QQQ 693.75 (+0.26% vs 691.95), IWM 284.50 (+0.17%). Quiet, slightly bid, well under 0.5%.\n\nEarnings:\n- QCOM ~164.5 (-5% vs 173.19; AH low 161.9): Q4 adj EPS $2.17 vs $2.16, revenue $10.32B vs $10.11B (CNBC/LSEG). Q1 FY27 guide EPS $2.15-2.35 (mid $2.25 vs $2.27 est), revenue $10.4-11.2B vs $10.48B. Handset chips -26% to $5.14B; sees $5B data center revenue in FY27. Later FJ headline: CEO says the Dragonfly C1000 CPU is on track to ship to Meta.\n- ARM ~192 (flat vs 191.8 close, but traded as low as 184.2, about -4%): FQ2 adj EPS $0.52 vs $0.47, revenue $1.44B vs $1.38B; FQ3 guide $1.54B ±$50M vs $1.53B, EPS $0.56 ±0.04 vs $0.55; ACV ~$1.79B slightly light.\n- APP ~314 (+15.6% vs 271.75; AH high 341): Q3 EPS $4.30 vs $4.03, revenue $2.185B vs $2.07B.\n- MELI ~1604 (-7.8% vs 1739.88).\n- Other movers per StreetInsider: COHR, HUBS, SNAP, FSLY, FIG, ZG, BROS, CDE.\nNone is a mega-cap moving the index; QCOM/ARM weakness is a mild headwind for semis, but NQ is still green.\n\nNews after the close (FinancialJuice): Microsoft priced a $25B 10-tranche bond; Goldman/Apollo in talks to sell SpaceX's $40B AI deal; North Korea test-fired a new air-defence missile (KCNA). Nothing new on Iran, the Fed, or tariffs since Trump ruled out paring tariffs at 3:33 PM.\n\nTomorrow's levels from the 4:00 recap: SPY 768 sits between the 765 flip and the 769.23 PDH / 770 call wall (ES ~7746). QQQ 693.75 is inside the 692-695 sign-change pivot; above is 698.6-701.5 (NQ PDH ~28969), below the 688-691 shelf and 680 put wall. IWM 284.5 is under the 285-286 call strikes, with 281 as the floor. Next catalysts: 8:30 jobless claims, BoE at 7:00, Friday NFP and the Iran talks.\n\n_Information, not advice._\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-04_afterhours.md"
+}
