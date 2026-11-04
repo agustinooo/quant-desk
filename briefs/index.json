@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-03T17:03:33-05:00",
-  "count": 29,
+  "updated_at": "2026-11-04T08:12:14-05:00",
+  "count": 30,
   "briefs": [
+    {
+      "date": "2026-11-04",
+      "type": "premarket",
+      "path": "briefs/2026-11-04_premarket.json",
+      "md_path": "briefs/2026-11-04_premarket.md",
+      "generated_at": "2026-11-04T08:10:00-05:00",
+      "summary": "Blue-wave whipsaw, now split. Democrats took both the House and Senate overnight. NQ fell as much as about 2.4% on the early results (overnight low 27,615.75 at 10:05 PM ET), then ripped once Trump sa"
+    },
     {
       "date": "2026-11-03",
       "type": "afterhours",
