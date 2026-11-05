@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-05T16:13:13-05:00",
-  "count": 36,
+  "updated_at": "2026-11-05T17:10:38-05:00",
+  "count": 37,
   "briefs": [
+    {
+      "date": "2026-11-05",
+      "type": "afterhours",
+      "path": "briefs/2026-11-05_afterhours.json",
+      "md_path": "briefs/2026-11-05_afterhours.md",
+      "generated_at": "2026-11-05T17:10:00-05:00",
+      "summary": "Futures/cash vs the 4:00 PM RTH closes from today's close recap (as of ~16:59\u201317:10 ET): ES 7353 (\u22120.36% vs 7379.25), NQ 26604 (\u22120.50% vs 26737.75), RTY 2723.4 (\u22120.36% vs 2733.30). SPY 731.0 (\u22120.31% v"
+    },
     {
       "date": "2026-11-05",
       "type": "close",

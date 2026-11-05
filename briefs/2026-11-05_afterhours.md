@@ -1,0 +1,16 @@
+# After-hours check Thu Nov 5, 2026 ~5:10 PM ET (Yahoo 1m/5m incl. extended hours, FinancialJuice US wrap, IBD, Investing.com/CNBC/Airbnb IR, X news). No alert sent.
+
+Futures/cash vs the 4:00 PM RTH closes from today's close recap (as of ~16:59–17:10 ET): ES 7353 (−0.36% vs 7379.25), NQ 26604 (−0.50% vs 26737.75), RTY 2723.4 (−0.36% vs 2733.30). SPY 731.0 (−0.31% vs 733.25), QQQ 644.9 (−0.49% vs 648.06), IWM 270.0 (−0.40% vs 271.07). Mild grind lower after the RTH flush; NQ alone sits on the ~0.5% line, ES well under. IBD: futures "fell modestly/slightly" after hours. Not treated as an AH alert.
+
+Earnings (single-name; none is a mega-cap / major semi moving the index beyond an expected move):
+- **NET** ~282 (+15% vs 244.5 RTH): Q3 adj EPS $0.38 vs $0.34, revenue $782.5M vs $736.8M; raised FY26 revenue to $2.963–2.964B vs ~$2.87B; Q4 rev $845–846M vs ~$798M (Investing.com).
+- **TEAM** ~154 (−16% vs 183.3): beat Q1 (adj EPS $1.65 vs $1.43, rev $1.77B vs $1.71B) but sub ARR outlook ~18.5% FY27 vs 23% this quarter spooked; Q2 guide $1.83–1.84B vs $1.82B (Investing.com).
+- **ABNB** ~187 (+9.7% vs 170.1): Q3 rev ~$4.9B (+19% y/y), Adj. EBITDA $2.5B; Q4 rev guide $3.22–3.28B (+16–18%); +$12B buyback auth (Airbnb IR).
+- **MNST** ~45.1 (−5.8%), **DKNG** ~17.9 (−24%), **AFRM** ~62 (−11%), **GH** ~130 (−15%), **TXG** ~50.8 (−12.5%). **LRCX** ~193 (+4.2%), **IREN** ~18.9 (+5% AH after a rough RTH).
+- APP already printed Wed night and ran ~+31% in today's RTH; not a new AH catalyst.
+
+News after the close: no fresh Fed, Iran/oil, or tariff headline that rewrote the tape. The day's story remains the RTH AI/data-center regulation derating after the midterm sweep (FJ US wrap: NDX −6.4%, SOX ~−12%, VIX largest jump in ~2 years). Eyes on **NFP 8:30 ET Friday**.
+
+Tomorrow's levels from the 4:00 recap still stand: SPY PDH 765.97 / PDL 732.71 / PDC 733.25 (put shelves 730–735); QQQ PDH 683.64 / PDL 647.27 / PDC 648.06 (puts 650/670); IWM PDH 284.69 / PDL 270.52 / PDC 271.07 (put wall 270). AH is pinning just under those PDLs into NFP — no new level rewrite.
+
+_Information, not advice._
