@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-05T08:54:05-05:00",
-  "count": 35,
+  "updated_at": "2026-11-05T16:13:13-05:00",
+  "count": 36,
   "briefs": [
+    {
+      "date": "2026-11-05",
+      "type": "close",
+      "path": "briefs/2026-11-05_close.json",
+      "md_path": "briefs/2026-11-05_close.md",
+      "generated_at": "2026-11-05T16:15:00-05:00",
+      "summary": "Sources: Quant Data API on the user's account (GEX by strike, dark pool, 9k+ unconsolidated flow), Yahoo Finance 1m/1d prices, Financial Juice, Forex Factory, BoE MPC summary, Reuters/CNBC/NBC."
+    },
     {
       "date": "2026-11-05",
       "type": "postdata",
