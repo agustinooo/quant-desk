@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-05",
+  "type": "postdata",
+  "generated_at": "2026-11-05T08:53:00-05:00",
+  "generated_at_source": "text",
+  "summary": "Data (Financial Juice 8:30): Initial claims 189k vs 196k forecast (prior 194k, revised 195k). Continuing claims 1.718M vs 1.71M (prior revised 1.695M). Productivity prelim 3.6% vs 2.7% forecast (prior 1.4%, revised 2.1%). Unit labor costs prelim -0.7% vs 0.4% forecast (prior 1.2%, revised 1.9%). Soft claims + soft ULC + strong productivity is a disinflationary mix on paper, but not a shock the tape treated as one.",
+  "futures": {
+    "NQ": {
+      "last": 28353.5,
+      "change_pct": 0.09,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": 7731.5,
+      "change_pct": 0.04,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": 2873.3,
+      "change_pct": -0.04,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 767.34,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": 16.82,
+      "us10y": 4.9,
+      "dxy": 101.65,
+      "wti": null,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# 8:45 post-data check, Thu Nov 5 2026 (~8:53 AM ET) - quiet on the data; no message\n\n- Data (Financial Juice 8:30): **Initial claims 189k** vs 196k forecast (prior 194k, revised 195k). Continuing claims 1.718M vs 1.71M (prior revised 1.695M). **Productivity prelim 3.6%** vs 2.7% forecast (prior 1.4%, revised 2.1%). **Unit labor costs prelim -0.7%** vs 0.4% forecast (prior 1.2%, revised 1.9%). Soft claims + soft ULC + strong productivity is a disinflationary mix on paper, but not a shock the tape treated as one.\n- Other headlines since 8:00 (FJ): BoE Bailey/Lombardelli follow-through on the hike; Apple seven-part USD bond sale; JPM note that breadth looks more positioning than fundamental rotation; CNBC on Moonshot tapping Europe for Nvidia Blackwell; **Fed's Hammack (8:50)** saying policy needs to move restrictive, inflation too high and moving the wrong way, favoring gradual hikes. Nothing new breaking on Iran since the morning Hormuz notes in the 8:00 brief.\n- Futures since 8:00 (yfinance 1m, last ~8:43-8:53): **NQ 28,353.5 vs ~28,327 (+0.09%)**, high 28,367.5 / low 28,291.25 — nowhere near a 0.5% move. ES 7,731.5 (+0.04%), high 7,734. RTY 2,873.3 (−0.04%). VIX 16.82 (−0.4%, range 16.76-17.01). 10y ~4.90% flat. DXY 101.65 (+0.07%).\n- ETFs (prepost 1m):\n  - **SPY 767.34**, since-8 high 768.04 / low 766.69. Still inside the brief PM range (765.70-768.56). No PMH/PML break.\n  - **QQQ 685.9-686.8**, still **below PDL 687.90**. A single 08:14 bar printed H=691.43 with O=H=691.43 and close back at 685.88 — treat as a bad tick, same class as the 4:00 AM wicks in the morning brief. Real post-data range stayed ~685.3-687.1, so no clean PMH break on the news.\n  - **IWM 284.50-284.7**. Nicked to 283.89 around 8:07-8:09 (**before** claims), a few cents under the brief PML 284.29, then reclaimed by 8:18 and traded 284.3-284.8 through the print. Not a data break.\n- GEX re-pull (Quant Data API, ~8:53; thin pre-open book):\n  - **SPY** spot 767.3: net **+2.05B all / +2.08B ex-0DTE** (8:05 was +1.78B/+1.95B). Still **positive gamma**. Call walls **770 (+1.13B)**, 800 (+0.82B), 780. Puts 764 (−0.58B), 730, 750. Sign changes near **766-769**; cumulative flip **790**. Mildly firmer than 8:05, same regime.\n  - **QQQ** spot 685.9: net **−4.31B / −3.86B ex-0DTE** (8:05 −3.78/−3.29). Still **negative gamma**, a bit deeper. Put wall still **680 (−1.55B)**, then 675/685/670. Calls small at 705/710/720. Nearest sign changes **692-696**. No cumulative flip in range.\n  - **IWM** spot 284.5: net ~**flat (+0.09B / +0.01B ex-0DTE)**. Calls 290/300/285-286; puts 270/280. Sign near **284 / 282**.\n- 9,000+ contract prints today (Quant Data unconsolidated order flow, session 2026-11-05): **0 rows**.\n- Read: the 8:30 cluster was a soft-labor / soft-ULC print and Hammack is leaning hawkish, but NQ/ES barely budged and VIX eased. Levels and game plan from the 8:00 brief still stand. SPY remains in the 765.7-768.6 no-trade zone (lid 768.5-770 with the 770 call wall). QQQ still under its PDL with the 687.9-689.3 lid and 680 put wall below; the 691 print is noise. IWM's brief PML nick was pre-data and already repaired — 286.2 PDH/PMH is still the breakout line. Wait for a 15-min close after 9:45; Barkin at 9:10, then NFP tomorrow.\n- Note: GEX and flow from the Quant Data API on the user's account. A browser My Pages pass was started but not needed once the API returned clean numbers.\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-05_postdata.md"
+}

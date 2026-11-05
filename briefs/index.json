@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-05T08:07:36-05:00",
-  "count": 34,
+  "updated_at": "2026-11-05T08:54:05-05:00",
+  "count": 35,
   "briefs": [
+    {
+      "date": "2026-11-05",
+      "type": "postdata",
+      "path": "briefs/2026-11-05_postdata.json",
+      "md_path": "briefs/2026-11-05_postdata.md",
+      "generated_at": "2026-11-05T08:53:00-05:00",
+      "summary": "Data (Financial Juice 8:30): Initial claims 189k vs 196k forecast (prior 194k, revised 195k). Continuing claims 1.718M vs 1.71M (prior revised 1.695M). Productivity prelim 3.6% vs 2.7% forecast (prior"
+    },
     {
       "date": "2026-11-05",
       "type": "premarket",
