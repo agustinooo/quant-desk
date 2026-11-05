@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-04T17:06:20-05:00",
-  "count": 33,
+  "updated_at": "2026-11-05T08:07:36-05:00",
+  "count": 34,
   "briefs": [
+    {
+      "date": "2026-11-05",
+      "type": "premarket",
+      "path": "briefs/2026-11-05_premarket.json",
+      "md_path": "briefs/2026-11-05_premarket.md",
+      "generated_at": "2026-11-05T08:05:00-05:00",
+      "summary": "Rotation, part two: Dow up, Nasdaq down. The day after the blue-wave rally, NQ has bled lower all night on a second leg of chip selling. NQ is 28,300 (-0.9%), ES 7,725.25 (+0.1%), and RTY 2,874.4 (+0."
+    },
     {
       "date": "2026-11-04",
       "type": "afterhours",
