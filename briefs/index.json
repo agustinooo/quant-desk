@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-06T16:16:37-05:00",
-  "count": 40,
+  "updated_at": "2026-11-06T17:07:39-05:00",
+  "count": 41,
   "briefs": [
+    {
+      "date": "2026-11-06",
+      "type": "afterhours",
+      "path": "briefs/2026-11-06_afterhours.json",
+      "md_path": "briefs/2026-11-06_afterhours.md",
+      "generated_at": "2026-11-06T17:10:00-05:00",
+      "summary": "Futures/cash vs the 4:00 PM RTH closes from today's close recap (Yahoo last equity prints ~17:06 ET; ES/NQ/RTY last ~16:57 ET into the CME daily maintenance window): ES 7405.5 (+0.04% vs 7402.75), NQ "
+    },
     {
       "date": "2026-11-06",
       "type": "close",
