@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-05T17:10:38-05:00",
-  "count": 37,
+  "updated_at": "2026-11-06T08:19:13-05:00",
+  "count": 38,
   "briefs": [
+    {
+      "date": "2026-11-06",
+      "type": "premarket",
+      "path": "briefs/2026-11-06_premarket.json",
+      "md_path": "briefs/2026-11-06_premarket.md",
+      "generated_at": "2026-11-06T08:17:00-05:00",
+      "summary": "NFP Friday after the AI flush. Thursday was the worst equity day since the Apr 2025 Liberation Day-type session (Nasdaq \u22126.4%, QQQ \u22126.5%, VIX spiked to 28.09). Overnight Asia extended the wipeout (Nik"
+    },
     {
       "date": "2026-11-05",
       "type": "afterhours",
