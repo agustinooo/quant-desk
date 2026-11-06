@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-06",
+  "type": "postdata",
+  "generated_at": "2026-11-06T08:55:00-05:00",
+  "generated_at_source": "text",
+  "summary": "Data (BLS / LiveSquawk / DeItaone / Forex Fundamentals): NFP +165K vs 65–70K forecast (prior 29K, revised 60K; two-month net revision +84K). Unemployment 4.1% vs 4.2% (prior 4.2%). AHE m/m +0.4% vs +0.3% (prior +0.1%, revised +0.3%); AHE y/y +3.1% vs 2.9%. Private payrolls +159K vs 65K; manufacturing +19K vs 7K; participation 61.9%. Canada employment −4.7K vs +15K, UE 6.7% vs 6.5%. Clear hawkish surprise — ZH called it a ~5-sigma beat; DeItaone: Dec hike odds 79% (from ~67%), hold ~22%.",
+  "futures": {
+    "NQ": {
+      "last": 27103.0,
+      "change_pct": -0.04,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": 2740.0,
+      "change_pct": 0.1,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 735.0,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": 658.4,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 271.9,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": null,
+      "us10y": 4.87,
+      "dxy": null,
+      "wti": null,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# 8:45 post-data check, Fri Nov 6 2026 (~8:55 AM ET) — MESSAGE: big NFP surprise\n\n- **Data (BLS / LiveSquawk / DeItaone / Forex Fundamentals):** **NFP +165K** vs **65–70K** forecast (prior 29K, revised **60K**; two-month net revision **+84K**). **Unemployment 4.1%** vs 4.2% (prior 4.2%). **AHE m/m +0.4%** vs +0.3% (prior +0.1%, revised +0.3%); **AHE y/y +3.1%** vs 2.9%. Private payrolls **+159K** vs 65K; manufacturing **+19K** vs 7K; participation **61.9%**. Canada employment **−4.7K** vs +15K, UE **6.7%** vs 6.5%. Clear **hawkish surprise** — ZH called it a ~5-sigma beat; DeItaone: Dec hike odds **79%** (from ~67%), hold ~22%.\n- Other headlines since 8:00 (X DeItaone / LiveSquawk / FirstSquawk): 10y yields extended higher on the print (**~4.90%**, +~6 bp on the day per DeItaone). No Team2Trading Friday post yet. Financial Juice public page returned no usable squawk this run.\n- Futures since ~8:00 (yfinance 1m, last ~8:45–8:55): **NQ 27,103 vs ~27,128 (−0.04%)** — print spike 8:30 low **27,043** (−0.43% from 8:29), then snap back; **not** a sustained ≥0.5% move since 8:00. **ES 7,391.5 (~flat vs 7,391)**; 8:30 low **7,378** (−0.31% from 8:29). **RTY ~2,740 flat**. **YM ~51,110 (+0.1%)**. VIX **~27.0** (off ~27.4 at 8:00; 8:30 wick to 26.20 then back ~27) — no spike. **10y ~4.87–4.90%**. DXY **~102.23** (+0.19% since 8:00).\n- ETFs vs 8:00 brief PM levels (print reaction, then reclaim):\n  - **SPY ~735.0**. Post-8:30 H **736** / L **733.00** — **nicked under PML 733.50** on the print (2 bars), held **above PDL 732.71**. Still inside the brief no-trade zone under **PMH 738.03**. No PMH break.\n  - **QQQ ~658.4**. Post-8:30 H **658.85** / L printed **647.53** on the 8:32 bar with H 658.85 — treat as a **suspect tick** (same class as prior bad premarket wicks); real post-data range stayed ~656–659, so **no clean PML (647.05) or PMH (660.35) break**. Still mid Thursday range above PDL.\n  - **IWM ~271.9**. Post-8:30 H **272.15** / L **270.40** — **broke PML 270.92 and briefly under PDL 270.52** on the 8:30 bar, then reclaimed. Pre-data 8:29 had already poked **272.50** above brief PMH 272.20. Back inside the tight shelf.\n- GEX re-pull (Quant Data API, session Nov 6, ~8:55; same account as browser Exposure):\n  - **SPY** spot ~734.9: net **−6.42B all / −4.96B ex-0DTE** (8:15 was **−5.22 / −3.82**). Still **short gamma**, a bit **deeper**. Put walls still **725 (−1.45B)**, **730 (−1.20)**, 700 (−0.99), 720 (−0.91). Calls far: 800 / 775 / 780. Sign changes near **736 / 738 / 739 / 741–742** — unchanged map.\n  - **QQQ** spot ~658: net **−2.0B / −1.6B ex-0DTE** (8:15 **−0.89 / −0.84**). Still negative, **noticeably deeper** into the session. Put wall still **650 (−0.94B)**; then 680 / 640 / 630. Calls **670 (+0.22)** / 700. Signs **654–661** unchanged.\n  - **IWM** spot ~271.8: net **−0.79B / −0.42B ex-0DTE** (8:15 **−0.28 / ~flat**). Deeper short gamma. Puts **270 (−0.42)** now the largest (was 275), then 275 / 260. Signs **274–277**.\n- 9,000+ contract prints today (Quant Data unconsolidated order flow, session 2026-11-06): **0 rows**.\n- Read: the **data is the event** — hottest NFP vs forecast in this cycle window, wages firm, UE down, Dec hike odds rebid. Equities **did not trend** on it: whip lower into the put shelves then reclaim. Levels from the 8:00 brief still frame the open. Best confluence unchanged: **SPY 732.7–735** (PDL + 733 DP + 735 put residue; PML now tested), lid **738 PMH / 736–742 signs**. **QQQ 650 put wall** under the bounce, lid **660.4 PMH**. **IWM 270.5–272.2** shelf — PML/PDL tagged and repaired; **275** still the upside GEX/sign target. Magnets remain the put walls under spot, not distant calls. Wait for a **15-min body close** after **9:45**; Friday = light size per Team2. Next: Musalem ~9:10, UMich 10:00.\n- Note: GEX and flow from the Quant Data API on the user's account (Exposure / unconsolidated order-flow endpoints). Browser My Pages not required once the API returned clean numbers.\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-06_postdata.md"
+}

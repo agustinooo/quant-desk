@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-06T08:19:13-05:00",
-  "count": 38,
+  "updated_at": "2026-11-06T08:57:17-05:00",
+  "count": 39,
   "briefs": [
+    {
+      "date": "2026-11-06",
+      "type": "postdata",
+      "path": "briefs/2026-11-06_postdata.json",
+      "md_path": "briefs/2026-11-06_postdata.md",
+      "generated_at": "2026-11-06T08:55:00-05:00",
+      "summary": "Data (BLS / LiveSquawk / DeItaone / Forex Fundamentals): NFP +165K vs 65\u201370K forecast (prior 29K, revised 60K; two-month net revision +84K). Unemployment 4.1% vs 4.2% (prior 4.2%). AHE m/m +0.4% vs +0"
+    },
     {
       "date": "2026-11-06",
       "type": "premarket",

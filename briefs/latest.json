@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "date": "2026-11-06",
-  "type": "premarket",
-  "generated_at": "2026-11-06T08:17:00-05:00",
+  "type": "postdata",
+  "generated_at": "2026-11-06T08:55:00-05:00",
   "generated_at_source": "text",
-  "summary": "NFP Friday after the AI flush. Thursday was the worst equity day since the Apr 2025 Liberation Day-type session (Nasdaq −6.4%, QQQ −6.5%, VIX spiked to 28.09). Overnight Asia extended the wipeout (Nikkei −6.0%, KOSPI −6.0%); Europe is still red but off the lows. US futures are mixed into the 8:30 print: NQ +1.3% (chips bounce), ES flat/+0.1%, YM −1.0%, RTY flat. Spot into the data: ES ~7389, NQ ~27099, RTY ~2739 (Yahoo 1m, ~8:07). VIX ~27.4. Today is Friday (Team2 trades lightly) and weekly options expiration; monthly OPEX is Nov 20. NFP / unemployment / AHE hit at 8:30 ET — this brief is pre-print.",
+  "summary": "Data (BLS / LiveSquawk / DeItaone / Forex Fundamentals): NFP +165K vs 65–70K forecast (prior 29K, revised 60K; two-month net revision +84K). Unemployment 4.1% vs 4.2% (prior 4.2%). AHE m/m +0.4% vs +0.3% (prior +0.1%, revised +0.3%); AHE y/y +3.1% vs 2.9%. Private payrolls +159K vs 65K; manufacturing +19K vs 7K; participation 61.9%. Canada employment −4.7K vs +15K, UE 6.7% vs 6.5%. Clear hawkish surprise — ZH called it a ~5-sigma beat; DeItaone: Dec hike odds 79% (from ~67%), hold ~22%.",
   "futures": {
     "NQ": {
-      "last": null,
-      "change_pct": null,
+      "last": 27103.0,
+      "change_pct": -0.04,
       "high": null,
       "low": null
     },
@@ -19,57 +19,57 @@
       "low": null
     },
     "RTY": {
-      "last": null,
-      "change_pct": null,
+      "last": 2740.0,
+      "change_pct": 0.1,
       "high": null,
       "low": null
     }
   },
   "tickers": {
     "SPY": {
-      "spot": null,
+      "spot": 735.0,
       "pdh": null,
       "pdl": null,
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": -11.65,
+      "net_gex_b": null,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
       "put_walls": [],
       "dark_pool": [],
-      "game_plan": "Break 738 and calls toward 750 (sign) then 760; lose 732.7 and puts toward 730 / 725 (GEX walls)."
+      "game_plan": null
     },
     "QQQ": {
-      "spot": null,
+      "spot": 658.4,
       "pdh": null,
       "pdl": null,
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": -5.77,
+      "net_gex_b": null,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
       "put_walls": [],
       "dark_pool": [],
-      "game_plan": "Break 660.4 and calls toward 670 (GEX) then 680; lose 650 and puts toward 640 (next put wall)."
+      "game_plan": null
     },
     "IWM": {
-      "spot": null,
+      "spot": 271.9,
       "pdh": null,
       "pdl": null,
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": -4.56,
+      "net_gex_b": null,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
       "put_walls": [],
       "dark_pool": [],
-      "game_plan": "Break 272.2 and calls toward 275 (put wall flip / sign); lose 270.5 and puts toward 265 / 260."
+      "game_plan": null
     }
   },
   "futures_levels": {
@@ -100,16 +100,16 @@
     "earnings": null,
     "headlines": null,
     "cross_asset": {
-      "vix": 27.4,
-      "us10y": null,
+      "vix": null,
+      "us10y": 4.87,
       "dxy": null,
       "wti": null,
       "brent": null,
       "gold": null
     }
   },
-  "takeaway": "Dealer book is still **short gamma** but much thinner than Thursday's close after 0DTE expiry — SPY **−3.8B ex-0DTE** with put shelves at **725/730/735**, QQQ **−0.8B** with the **650 put wall** as the clear magnet under the bounce, IWM basically flat. Best confluence: **SPY 732.7–735** (PDL + 733 DP + 735 put), **QQQ 647–650** (PDL/PML/DP/put wall) and **654–661** (signs + PMH), **IWM 270.5–272.2** (entire PM range on the PDL). Magnets into NFP are those put shelves under spot, not the distant call residue at 760–780 / 700. This is an **event-vol Friday**, not a clean study snap-back (put supply arrived mid-flush with fresh near-dated hedges still on). Information only, not advice — and per Team2, Fridays are for light size.",
-  "markdown": "# Pre-Market Brief, Fri Nov 6, 2026 (data as of ~8:17 AM ET)\n\n**NFP Friday after the AI flush.** Thursday was the worst equity day since the Apr 2025 Liberation Day-type session (Nasdaq −6.4%, QQQ −6.5%, VIX spiked to 28.09). Overnight Asia extended the wipeout (Nikkei −6.0%, KOSPI −6.0%); Europe is still red but off the lows. US futures are mixed into the 8:30 print: **NQ +1.3%** (chips bounce), **ES flat/+0.1%**, **YM −1.0%**, **RTY flat**. Spot into the data: ES ~7389, NQ ~27099, RTY ~2739 (Yahoo 1m, ~8:07). VIX ~27.4. **Today is Friday (Team2 trades lightly) and weekly options expiration; monthly OPEX is Nov 20.** NFP / unemployment / AHE hit at **8:30 ET** — this brief is pre-print.\n\nSources: Quant Data API on the user's account (GEX by strike, dark pool, 9k+ unconsolidated flow), Yahoo Finance 1m/2m/daily, Close & Open / Forex Factory calendars, X market accounts (DeItaone, zerohedge, FirstSquawk, LiveSquawk, Team2Trading), Newsquawk / Benzinga / Investing.com for earnings and overnight tape. Financial Juice's public page did not return usable headlines this run; overnight tape is from Newsquawk/X instead.\n\n## Positioning (Quant Data API, session date Nov 6, ~8:15 AM ET)\nPre-market GEX is a thin first read after Thursday's 0DTE put load expired. Thursday close (ex-0DTE) was SPY **−11.65B**, QQQ **−5.77B**, IWM **−4.56B**. This morning's book is still **negative gamma**, but much less deep — especially QQQ and IWM.\n\n- **SPY** (spot ~734.5):\n  - **Net GEX:** **−5.22B** all expirations / **−3.82B ex-0DTE**. Still short gamma; no cumulative flip in the near band.\n  - **Put walls (largest):** **725 (−1.39B)**, **730 (−1.15B)**, 720 (−0.82), **700 (−0.77)**, **735 (−0.73)**.\n  - **Call residue (far above):** 780 (+0.23), 775 (+0.23), 760 (+0.19), 770 (+0.16) — not magnets near spot.\n  - **Sign changes near spot:** **736 / 738 / 739 / 741–742 / 750**.\n  - **Dark pool (Nov 5):** the old **766.43 ($8.7B)** is still listed but sits at Wednesday's price outside Thursday's range — late prior-session flow, ignore as today's level. **In-range magnet is the 733.00–733.08 cluster (~$8.8B combined across buckets)**, right on the PDL/PDC.\n- **QQQ** (spot ~657):\n  - **Net GEX:** **−0.89B** all / **−0.84B ex-0DTE** (was −5.77B at Thursday's close). Still negative, but the flush of 0DTE puts left a much thinner short-gamma book.\n  - **Put walls:** **650 (−0.75B, largest)**, 640 (−0.40), 630 (−0.28), 625, 645.\n  - **Call nodes:** **700 (+0.32)**, **670 (+0.21)**, 690 (+0.14).\n  - **Sign changes near spot:** **654 / 656 / 657 / 658 / 660–661**.\n  - **Dark pool (Nov 5):** old 691.73 ($4.83B) is above Thursday's range (late prior). **In-range: 647.04 ($1.53B)** plus 647.7 buckets — pinned on yesterday's low.\n- **IWM** (spot ~271.6):\n  - **Net GEX:** **−0.28B** all / **−0.01B ex-0DTE** (basically flat ex-today). Softest short-gamma of the three.\n  - **Puts:** **275 (−0.21)**, 260 (−0.16), **270 (−0.07)**. **Calls:** 285 (+0.06).\n  - **Sign changes:** 266, **272 / 272.5 / 274–276**.\n  - **Dark pool:** old 283.94 ($0.38B) overhead; in-range **270.98 ($0.08B)** and 271.67.\n- **9,000+ pre-market (Nov 6):** **none** as of the pull. Lack of big prints does not mean calm into NFP.\n- **9,000+ Thursday (Nov 5, 270 rows via API):** structure read, not Quant Data labels. Same-timestamp multi-leg groups treated as spreads/rolls; deep-ITM near-expiry sales as likely closing.\n  - **SPY:** **11:54** bought Nov 27 **730/700 put spread** 22.2k (730P ask opening, ~$21M on that leg) — fresh downside mid-dump. **15:32** Nov 9 **725/710 put spread** 33.4k above ask, both opening — near-dated puts into NFP. **15:29** sold Nov 20 far-OTM puts at the bid (620P 75k / 500P 150k / 380P 75k) — tail supply / closing, not a bounce signal. Late **16:11** deep-ITM Nov 20 790/785P pair (~10k) — structure/closing.\n  - **QQQ:** **14:26** and **16:13** Nov 20 **750P** 10.7k then 22.1k at the ask, deep ITM ($105M / $228M) — structure/roll, not naked directional. **13:32** Nov 30 **675P** 10k at ask ($34M). Short-dated Nov 6 ITM puts traded into the close (715/717P 10k) — expire today. **12:24** Dec 630P 10.5k at bid.\n  - **IWM:** put-spread supply rolled down (Nov 20 270/267, 267/264, 264/261; into the close **261/259P 24k at the bid**).\n  - **VIX:** call-heavy — Dec/Nov 21–25C rolls and blocks while spot was 25–27; monetizing/rolling the vol bid more than fresh panic at the highs alone.\n  - **NVDA / semis:** Mar 2027 **210/230 call spread** 29.5k into the hole ($36M on 210C); large Jan/May 150P structures both ways and overnight EXT_HOURS put blocks — mixed LEAPs, not a clean sweep-reversal.\n  - **Read:** Thursday was **trend continuation in deep negative gamma**, not the study's snap-back template. Heavy put selling at the bid did appear (SPY far-OTM 15:29, some QQQ tails) but *during* the flush and alongside fresh near-dated put buying into NFP (SPY Nov 9 725/710, QQQ short-dated). Hedges were rolled down and out, not abandoned. This morning's thinner book (−5.2B / −0.9B / flat) is less extreme than Jun 10 (−15.5B) or Jul 29 (−22.9B) snap-back precedents in `/workspace/history/gex_before_moves.md`, and the catalyst today is NFP, not a washout low with abandoned puts.\n\n## Combined levels map (PM range 4:10 AM–~8:17 AM ET; can still change before 9:30)\nPrior RTH (Thu Nov 5): SPY H/L/C **765.97 / 732.71 / 733.25**; QQQ **683.64 / 647.27 / 648.06**; IWM **284.69 / 270.52 / 271.07**. Ratios ~ES 10.06× SPY, NQ 41.24× QQQ, RTY 10.08× IWM — futures levels approximate.\n\n**SPY** (PM last **734.62** @ 8:17 — just above the PDL, inside Thursday's range)\n- PDH **765.97** (ES ~7704), PDL **732.71** (ES ~7370), PDC **733.25** (ES ~7375).\n- PMH **738.03** @ 4:36 (ES ~7424; ONH 7427.25), PML **733.50** @ 8:12 (ES ~7378; ONL 7322.25).\n- 15-min zones: Thursday's entire dump left almost no untested support inside the day — next referenced shelves are the **725 / 730** put walls, then **700**. Overhead untested since the open: **756–762** (old put/floor zone from Wed), then **765–770** (Thu PDH / Wed world).\n- 2-min 13/48/200 EMAs @ 8:16: **734.36 / 734.90 / 735.33** — tightly stacked, mild bearish tilt, **chop**.\n- Confluence:\n  - **732.7–735:** PDL, PDC, PML, the **733 dark-pool cluster (~$8.8B)**, put wall **735**, and spot (ES ~7370–7390). **Best confluence on SPY — the shelf under the open.**\n  - **736–738:** sign changes + PMH (ES ~7410–7424). First upside lid inside the PM range.\n  - **725–730:** next put walls (ES ~7290–7340).\n- Game plan: Break **738** and calls toward **750** (sign) then **760**; lose **732.7** and puts toward **730 / 725** (GEX walls).\n\n**QQQ** (PM last **657.11** @ 8:17 — **reclaimed the PDL**, trading mid-Thursday range; chips leading)\n- PDH **683.64** (NQ ~28195), PDL **647.27** (NQ ~26700), PDC **648.06** (NQ ~26735).\n- PMH **660.35** @ 4:36 (NQ ~27235; ONH 27251.5), PML **647.05** @ 8:09 (NQ ~26690; ONL 26366.5 — NQ swept well below the cash PDL overnight then recovered).\n- 15-min zones: **650** put wall; **670** call node; old **680** wall / Mon low now resistance; **683–689** Thursday lid.\n- EMAs @ 8:16: **656.85 / 657.31 / 655.58** — 13 under 48 but both above 200; recovering / not a clean fan.\n- Confluence:\n  - **647–650:** PDL, PML, **647.04 dark pool ($1.53B)**, **650 put wall** (NQ ~26690–26800). **Floor and best downside confluence.**\n  - **654–661:** sign changes + spot + PMH (NQ ~26980–27235). **Intraday magnet / lid of the bounce.**\n  - **670:** call node (NQ ~27630) — first real upside GEX target if 661 gives.\n- Game plan: Break **660.4** and calls toward **670** (GEX) then **680**; lose **650** and puts toward **640** (next put wall).\n\n**IWM** (PM last **271.67** @ 8:16 — pinned on the PDL inside a tight PM range)\n- PDH **284.69** (RTY ~2870), PDL **270.52** (RTY ~2727), PDC **271.07** (RTY ~2732).\n- PMH **272.20** @ 7:26 (RTY ~2743; ONH 2746), PML **270.92** @ 6:09 (RTY ~2731; ONL 2714).\n- 15-min zones: **275** put wall overhead; **265 / 260** below; **282–284** (Thu pivot / old sign) far above.\n- EMAs @ 8:16: **271.60 / 271.55 / 271.51** — fully bunched, **pure chop**.\n- Confluence:\n  - **270.5–272.2:** PDL, PDC, entire PM range, 270 put residue, DP 270.98 (RTY ~2727–2743). **The whole tape is the confluence.**\n  - **275:** largest put wall / sign cluster (RTY ~2770).\n- Game plan: Break **272.2** and calls toward **275** (put wall flip / sign); lose **270.5** and puts toward **265 / 260**.\n\nBias framing (Team2):\n- All three open **inside Thursday's range** (QQQ reclaimed PDL overnight; SPY/IWM hug it). Pre-market ranges are no-trade zones (SPY 733.5–738.0, QQQ 647.1–660.4, IWM 270.9–272.2).\n- Opening near/above the PDL keeps that level as **support to defend**; a failed hold and 15-min close back under PDL flips it to resistance (classic Team2 short).\n- Watch rejection vs break-and-retest at PMH for the first directional tell after data. Wait for a **15-min body close** beyond a level; **nothing before 9:45**. Friday = size down / victory-lap day per Casey.\n\n## Macro\n**Calendar (ET):**\n- **8:30 NFP (Oct):** forecast **65K**, prior **29K**\n- **8:30 Unemployment:** forecast **4.2%**, prior **4.2%**\n- **8:30 AHE m/m:** forecast **+0.3%**, prior **+0.1%** (the inflation hinge for Dec hike odds)\n- **8:30 Canada** employment / unemployment (14.6K / 6.5%)\n- **9:10** Musalem moderated discussion\n- **10:00** UMich prelim sentiment (forecast ~48–48.1; inflation expectations prior 4.7%)\n- **12:15** Bowman; **13:00** Daly (CNBC); **15:00** consumer credit (~$12–13.4B vs $8.3B)\n- Williams spoke ~4:30 AM (ECB event)\n\n**Earnings:** ABNB beat (EPS $3.16 vs ~$2.85, rev $4.87B) — PM ~194 after AH surge from ~170 RTH. HUM beat on adj. EPS, raised FY guide — mixed PM. VST reported — PM bid (~119 vs ~114.5). CHTR BMO — soft in PM (~118 vs ~125). NET choppy PM after Thu AH. Semis leading the bounce: SMH/MU/AMD/LRCX/MRVL sharp premarket green after Thursday's −12% to −17% memory/chip wipeout (Newsquawk / DeItaone).\n\n**Overnight / Globex:** NQ ONL **26366.5** (6:19 PM) → ONH **27251.5** (4:36 AM) — full overnight reclaim. ES ONL **7322.25** → ONH **7427.25**. YM lagged (ONL 50891 / last ~51100, −1% vs settle). Asia: Nikkei **−6.0%** (bear-market talk from June peak per ZH), KOSPI **−6.0%** (Samsung/SK Hynix), HSI **−1.3%**. Europe: STOXX **−1.6%**, DAX **−2.4%**, FTSE **−2.1%** (off worst as ASML/memory stabilize). UBS (via DeItaone): NQ rebound may be misleading — CTAs still heavy and may need to reduce.\n\n**Cross-assets (~8:00–8:15):** VIX **~27.4** (off Thu high 28.09; still elevated). 10y **~4.84%** (−6 bp vs Wed). DXY **~102.0** (+0.5%). WTI **~90.7**, Brent **~98.3** (FirstSquawk had Brent >$100 overnight; faded). Gold **~4068** (−1.1%).\n\n**X tape:** ZH — Nasdaq futures bounce into payrolls; Nikkei −6% / tech HF round-trip of 2026 gains. DeItaone — chip premarket surge (LRCX +9%, MU +7.5%); UBS CTA warning; ES bearish structure notes (targets 7317/7240 if 7386 fails). Team2Trading Thu: \"nice work if you traded the trend\" / high-vol caution, no Friday game-plan post yet as of this pull.\n\n## Takeaway\nDealer book is still **short gamma** but much thinner than Thursday's close after 0DTE expiry — SPY **−3.8B ex-0DTE** with put shelves at **725/730/735**, QQQ **−0.8B** with the **650 put wall** as the clear magnet under the bounce, IWM basically flat. Best confluence: **SPY 732.7–735** (PDL + 733 DP + 735 put), **QQQ 647–650** (PDL/PML/DP/put wall) and **654–661** (signs + PMH), **IWM 270.5–272.2** (entire PM range on the PDL). Magnets into NFP are those put shelves under spot, not the distant call residue at 760–780 / 700. This is an **event-vol Friday**, not a clean study snap-back (put supply arrived mid-flush with fresh near-dated hedges still on). Information only, not advice — and per Team2, Fridays are for light size.\n",
+  "takeaway": null,
+  "markdown": "# 8:45 post-data check, Fri Nov 6 2026 (~8:55 AM ET) — MESSAGE: big NFP surprise\n\n- **Data (BLS / LiveSquawk / DeItaone / Forex Fundamentals):** **NFP +165K** vs **65–70K** forecast (prior 29K, revised **60K**; two-month net revision **+84K**). **Unemployment 4.1%** vs 4.2% (prior 4.2%). **AHE m/m +0.4%** vs +0.3% (prior +0.1%, revised +0.3%); **AHE y/y +3.1%** vs 2.9%. Private payrolls **+159K** vs 65K; manufacturing **+19K** vs 7K; participation **61.9%**. Canada employment **−4.7K** vs +15K, UE **6.7%** vs 6.5%. Clear **hawkish surprise** — ZH called it a ~5-sigma beat; DeItaone: Dec hike odds **79%** (from ~67%), hold ~22%.\n- Other headlines since 8:00 (X DeItaone / LiveSquawk / FirstSquawk): 10y yields extended higher on the print (**~4.90%**, +~6 bp on the day per DeItaone). No Team2Trading Friday post yet. Financial Juice public page returned no usable squawk this run.\n- Futures since ~8:00 (yfinance 1m, last ~8:45–8:55): **NQ 27,103 vs ~27,128 (−0.04%)** — print spike 8:30 low **27,043** (−0.43% from 8:29), then snap back; **not** a sustained ≥0.5% move since 8:00. **ES 7,391.5 (~flat vs 7,391)**; 8:30 low **7,378** (−0.31% from 8:29). **RTY ~2,740 flat**. **YM ~51,110 (+0.1%)**. VIX **~27.0** (off ~27.4 at 8:00; 8:30 wick to 26.20 then back ~27) — no spike. **10y ~4.87–4.90%**. DXY **~102.23** (+0.19% since 8:00).\n- ETFs vs 8:00 brief PM levels (print reaction, then reclaim):\n  - **SPY ~735.0**. Post-8:30 H **736** / L **733.00** — **nicked under PML 733.50** on the print (2 bars), held **above PDL 732.71**. Still inside the brief no-trade zone under **PMH 738.03**. No PMH break.\n  - **QQQ ~658.4**. Post-8:30 H **658.85** / L printed **647.53** on the 8:32 bar with H 658.85 — treat as a **suspect tick** (same class as prior bad premarket wicks); real post-data range stayed ~656–659, so **no clean PML (647.05) or PMH (660.35) break**. Still mid Thursday range above PDL.\n  - **IWM ~271.9**. Post-8:30 H **272.15** / L **270.40** — **broke PML 270.92 and briefly under PDL 270.52** on the 8:30 bar, then reclaimed. Pre-data 8:29 had already poked **272.50** above brief PMH 272.20. Back inside the tight shelf.\n- GEX re-pull (Quant Data API, session Nov 6, ~8:55; same account as browser Exposure):\n  - **SPY** spot ~734.9: net **−6.42B all / −4.96B ex-0DTE** (8:15 was **−5.22 / −3.82**). Still **short gamma**, a bit **deeper**. Put walls still **725 (−1.45B)**, **730 (−1.20)**, 700 (−0.99), 720 (−0.91). Calls far: 800 / 775 / 780. Sign changes near **736 / 738 / 739 / 741–742** — unchanged map.\n  - **QQQ** spot ~658: net **−2.0B / −1.6B ex-0DTE** (8:15 **−0.89 / −0.84**). Still negative, **noticeably deeper** into the session. Put wall still **650 (−0.94B)**; then 680 / 640 / 630. Calls **670 (+0.22)** / 700. Signs **654–661** unchanged.\n  - **IWM** spot ~271.8: net **−0.79B / −0.42B ex-0DTE** (8:15 **−0.28 / ~flat**). Deeper short gamma. Puts **270 (−0.42)** now the largest (was 275), then 275 / 260. Signs **274–277**.\n- 9,000+ contract prints today (Quant Data unconsolidated order flow, session 2026-11-06): **0 rows**.\n- Read: the **data is the event** — hottest NFP vs forecast in this cycle window, wages firm, UE down, Dec hike odds rebid. Equities **did not trend** on it: whip lower into the put shelves then reclaim. Levels from the 8:00 brief still frame the open. Best confluence unchanged: **SPY 732.7–735** (PDL + 733 DP + 735 put residue; PML now tested), lid **738 PMH / 736–742 signs**. **QQQ 650 put wall** under the bounce, lid **660.4 PMH**. **IWM 270.5–272.2** shelf — PML/PDL tagged and repaired; **275** still the upside GEX/sign target. Magnets remain the put walls under spot, not distant calls. Wait for a **15-min body close** after **9:45**; Friday = light size per Team2. Next: Musalem ~9:10, UMich 10:00.\n- Note: GEX and flow from the Quant Data API on the user's account (Exposure / unconsolidated order-flow endpoints). Browser My Pages not required once the API returned clean numbers.\n",
   "macro_markdown": null,
-  "source_file": "2026-11-06_premarket.md"
+  "source_file": "2026-11-06_postdata.md"
 }
