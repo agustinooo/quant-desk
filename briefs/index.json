@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-06T08:57:17-05:00",
-  "count": 39,
+  "updated_at": "2026-11-06T16:16:37-05:00",
+  "count": 40,
   "briefs": [
+    {
+      "date": "2026-11-06",
+      "type": "close",
+      "path": "briefs/2026-11-06_close.json",
+      "md_path": "briefs/2026-11-06_close.md",
+      "generated_at": "2026-11-06T16:16:00-05:00",
+      "summary": "Sources: Quant Data API on the user's account (GEX by strike, dark pool, 9k+ unconsolidated flow), Yahoo Finance 1m/1d prices, FirstSquawk / LiveSquawk / DeItaone / Team2Trading on X, Forex Factory, Y"
+    },
     {
       "date": "2026-11-06",
       "type": "postdata",
