@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-09T16:14:54-05:00",
-  "count": 44,
+  "updated_at": "2026-11-09T17:10:05-05:00",
+  "count": 45,
   "briefs": [
+    {
+      "date": "2026-11-09",
+      "type": "afterhours",
+      "path": "briefs/2026-11-09_afterhours.json",
+      "md_path": "briefs/2026-11-09_afterhours.md",
+      "generated_at": "2026-11-09T17:10:00-05:00",
+      "summary": "Futures/ETFs vs the 4:00 PM closes (Yahoo; futures last ~16:59 ET into the CME maintenance break, ETFs ~17:09 ET): ES 7580.25 (+0.11% vs 7572.25), NQ 28070 (+0.23% vs 28004.75), RTY 2846.4 (\u22120.08% vs "
+    },
     {
       "date": "2026-11-09",
       "type": "close",
