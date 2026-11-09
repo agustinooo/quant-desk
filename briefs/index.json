@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-09T08:50:31-05:00",
-  "count": 43,
+  "updated_at": "2026-11-09T16:14:47-05:00",
+  "count": 44,
   "briefs": [
+    {
+      "date": "2026-11-09",
+      "type": "close",
+      "path": "briefs/2026-11-09_close.json",
+      "md_path": "briefs/2026-11-09_close.md",
+      "generated_at": "2026-11-09T16:15:00-05:00",
+      "summary": "Trend day up, the biggest S&P gain since April (AP). The gap-and-go held all session: SPY +2.4%, QQQ +3.5%, IWM +3.2%, all three closing near their highs, with VIX crushed \u221222% to ~20.0. Every morning"
+    },
     {
       "date": "2026-11-09",
       "type": "postdata",
