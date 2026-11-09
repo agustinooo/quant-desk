@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-06T17:07:39-05:00",
-  "count": 41,
+  "updated_at": "2026-11-09T08:19:34-05:00",
+  "count": 42,
   "briefs": [
+    {
+      "date": "2026-11-09",
+      "type": "premarket",
+      "path": "briefs/2026-11-09_premarket.json",
+      "md_path": "briefs/2026-11-09_premarket.md",
+      "generated_at": "2026-11-09T08:20:00-05:00",
+      "summary": "Gap-up Monday on Iran peace headlines, with NVDA as the drag. Futures are near their overnight highs: NQ +1.0% (~27358), ES +0.9% (~7468), RTY +1.4% (~2799) as of ~7:55 (Yahoo). NQ first dropped ~1.2%"
+    },
     {
       "date": "2026-11-06",
       "type": "afterhours",
