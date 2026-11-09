@@ -1,33 +1,33 @@
 {
   "schema_version": 1,
-  "date": "2026-11-06",
+  "date": "2026-11-09",
   "type": "postdata",
-  "generated_at": "2026-11-06T08:55:00-05:00",
+  "generated_at": "2026-11-09T08:50:00-05:00",
   "generated_at_source": "text",
-  "summary": "Data (BLS / LiveSquawk / DeItaone / Forex Fundamentals): NFP +165K vs 65–70K forecast (prior 29K, revised 60K; two-month net revision +84K). Unemployment 4.1% vs 4.2% (prior 4.2%). AHE m/m +0.4% vs +0.3% (prior +0.1%, revised +0.3%); AHE y/y +3.1% vs 2.9%. Private payrolls +159K vs 65K; manufacturing +19K vs 7K; participation 61.9%. Canada employment −4.7K vs +15K, UE 6.7% vs 6.5%. Clear hawkish surprise — ZH called it a ~5-sigma beat; DeItaone: Dec hike odds 79% (from ~67%), hold ~22%.",
+  "summary": "Data: there was no 8:30 release today. Bowman spoke at 8:40 on community banking, and no market-moving headline came from it in Financial Juice. Next up: Goolsbee and wholesale inventories at 10:00 (forecast 0.6%), GDPNow at 10:30, NY Fed inflation expectations at 11:00, and the 3-year auction at 13:00. CPI is tomorrow at 8:30.",
   "futures": {
     "NQ": {
-      "last": 27103.0,
-      "change_pct": -0.04,
+      "last": 27313.0,
+      "change_pct": -0.13,
       "high": null,
       "low": null
     },
     "ES": {
-      "last": null,
-      "change_pct": null,
+      "last": 7465.5,
+      "change_pct": -0.03,
       "high": null,
       "low": null
     },
     "RTY": {
-      "last": 2740.0,
-      "change_pct": 0.1,
+      "last": 2800.0,
+      "change_pct": 0.04,
       "high": null,
       "low": null
     }
   },
   "tickers": {
     "SPY": {
-      "spot": 735.0,
+      "spot": 742.6,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -42,7 +42,7 @@
       "game_plan": null
     },
     "QQQ": {
-      "spot": 658.4,
+      "spot": 662.7,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -57,7 +57,7 @@
       "game_plan": null
     },
     "IWM": {
-      "spot": 271.9,
+      "spot": 277.9,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -100,8 +100,8 @@
     "earnings": null,
     "headlines": null,
     "cross_asset": {
-      "vix": null,
-      "us10y": 4.87,
+      "vix": 23.1,
+      "us10y": 4.84,
       "dxy": null,
       "wti": null,
       "brent": null,
@@ -109,7 +109,7 @@
     }
   },
   "takeaway": null,
-  "markdown": "# 8:45 post-data check, Fri Nov 6 2026 (~8:55 AM ET) — MESSAGE: big NFP surprise\n\n- **Data (BLS / LiveSquawk / DeItaone / Forex Fundamentals):** **NFP +165K** vs **65–70K** forecast (prior 29K, revised **60K**; two-month net revision **+84K**). **Unemployment 4.1%** vs 4.2% (prior 4.2%). **AHE m/m +0.4%** vs +0.3% (prior +0.1%, revised +0.3%); **AHE y/y +3.1%** vs 2.9%. Private payrolls **+159K** vs 65K; manufacturing **+19K** vs 7K; participation **61.9%**. Canada employment **−4.7K** vs +15K, UE **6.7%** vs 6.5%. Clear **hawkish surprise** — ZH called it a ~5-sigma beat; DeItaone: Dec hike odds **79%** (from ~67%), hold ~22%.\n- Other headlines since 8:00 (X DeItaone / LiveSquawk / FirstSquawk): 10y yields extended higher on the print (**~4.90%**, +~6 bp on the day per DeItaone). No Team2Trading Friday post yet. Financial Juice public page returned no usable squawk this run.\n- Futures since ~8:00 (yfinance 1m, last ~8:45–8:55): **NQ 27,103 vs ~27,128 (−0.04%)** — print spike 8:30 low **27,043** (−0.43% from 8:29), then snap back; **not** a sustained ≥0.5% move since 8:00. **ES 7,391.5 (~flat vs 7,391)**; 8:30 low **7,378** (−0.31% from 8:29). **RTY ~2,740 flat**. **YM ~51,110 (+0.1%)**. VIX **~27.0** (off ~27.4 at 8:00; 8:30 wick to 26.20 then back ~27) — no spike. **10y ~4.87–4.90%**. DXY **~102.23** (+0.19% since 8:00).\n- ETFs vs 8:00 brief PM levels (print reaction, then reclaim):\n  - **SPY ~735.0**. Post-8:30 H **736** / L **733.00** — **nicked under PML 733.50** on the print (2 bars), held **above PDL 732.71**. Still inside the brief no-trade zone under **PMH 738.03**. No PMH break.\n  - **QQQ ~658.4**. Post-8:30 H **658.85** / L printed **647.53** on the 8:32 bar with H 658.85 — treat as a **suspect tick** (same class as prior bad premarket wicks); real post-data range stayed ~656–659, so **no clean PML (647.05) or PMH (660.35) break**. Still mid Thursday range above PDL.\n  - **IWM ~271.9**. Post-8:30 H **272.15** / L **270.40** — **broke PML 270.92 and briefly under PDL 270.52** on the 8:30 bar, then reclaimed. Pre-data 8:29 had already poked **272.50** above brief PMH 272.20. Back inside the tight shelf.\n- GEX re-pull (Quant Data API, session Nov 6, ~8:55; same account as browser Exposure):\n  - **SPY** spot ~734.9: net **−6.42B all / −4.96B ex-0DTE** (8:15 was **−5.22 / −3.82**). Still **short gamma**, a bit **deeper**. Put walls still **725 (−1.45B)**, **730 (−1.20)**, 700 (−0.99), 720 (−0.91). Calls far: 800 / 775 / 780. Sign changes near **736 / 738 / 739 / 741–742** — unchanged map.\n  - **QQQ** spot ~658: net **−2.0B / −1.6B ex-0DTE** (8:15 **−0.89 / −0.84**). Still negative, **noticeably deeper** into the session. Put wall still **650 (−0.94B)**; then 680 / 640 / 630. Calls **670 (+0.22)** / 700. Signs **654–661** unchanged.\n  - **IWM** spot ~271.8: net **−0.79B / −0.42B ex-0DTE** (8:15 **−0.28 / ~flat**). Deeper short gamma. Puts **270 (−0.42)** now the largest (was 275), then 275 / 260. Signs **274–277**.\n- 9,000+ contract prints today (Quant Data unconsolidated order flow, session 2026-11-06): **0 rows**.\n- Read: the **data is the event** — hottest NFP vs forecast in this cycle window, wages firm, UE down, Dec hike odds rebid. Equities **did not trend** on it: whip lower into the put shelves then reclaim. Levels from the 8:00 brief still frame the open. Best confluence unchanged: **SPY 732.7–735** (PDL + 733 DP + 735 put residue; PML now tested), lid **738 PMH / 736–742 signs**. **QQQ 650 put wall** under the bounce, lid **660.4 PMH**. **IWM 270.5–272.2** shelf — PML/PDL tagged and repaired; **275** still the upside GEX/sign target. Magnets remain the put walls under spot, not distant calls. Wait for a **15-min body close** after **9:45**; Friday = light size per Team2. Next: Musalem ~9:10, UMich 10:00.\n- Note: GEX and flow from the Quant Data API on the user's account (Exposure / unconsolidated order-flow endpoints). Browser My Pages not required once the API returned clean numbers.\n",
+  "markdown": "# 8:45 post-data check, Mon Nov 9 2026 (~8:50 AM ET): quiet, no message sent\n\n- **Data:** there was no 8:30 release today. Bowman spoke at 8:40 on community banking, and no market-moving headline came from it in Financial Juice. Next up: Goolsbee and wholesale inventories at 10:00 (forecast 0.6%), GDPNow at 10:30, NY Fed inflation expectations at 11:00, and the 3-year auction at 13:00. **CPI is tomorrow at 8:30.**\n- **Headlines since 8:00 (Financial Juice):** at 8:08 a Qatari official said reports on the US-Iran proposal details are false and negotiations are ongoing. At 8:13 CBS said the administration will brief Congress today on the NVIDIA CEO. At 8:22 Fars said Iraq's PM visited Tehran on Friday for the war talks. At 8:24 UKMTO reclassified a Nov 7 tanker fire near Khasab, Oman, as an attack. At 8:37 a Russian delegation left for the Abu Dhabi talks. At 8:48 Mehr said Qatar will host Trump's VP and Iran's General Rezaei next week. None of these moved futures much.\n- **Futures since 8:00 (Yahoo 1m, last bar 8:40):**\n  - **NQ** 27313 vs 27349 (**−0.13%**). It dipped to 27230 at 8:22 on the Qatar pushback, then recovered.\n  - **ES** 7465.5 vs 7468 (−0.03%), with a range of 7451–7472.5.\n  - **RTY** 2800 (+0.04%).\n  - **VIX** 23.10 (+0.2), with a high of 23.45. That's no spike.\n  - **10-year** 4.84% (−0.2 bp). DXY was flat at 101.85, and WTI was 87.3.\n  - NVDA is still about 176.8 pre-market (−5% vs Friday).\n- **ETFs vs the brief's levels (~8:50):**\n  - **SPY 742.6** sits just above the PDH (742.21) and below the PMH (743.05). It's still inside the pre-market range with no break, and the dip low since 8:00 was 740.5.\n  - **QQQ 662.7** is under the PMH (663.45) and PDH (664.52). There's no break. A 655.6 print at 8:05 in Yahoo's 1m data is a suspect tick (Quant Data's PML is 659.74).\n  - **IWM 277.9** is pressing the PMH (277.97 Yahoo, 277.88 Quant Data) but hasn't broken it with a close. It's well above the PDH (274.55).\n- **GEX re-pull (Quant Data API, session Nov 9, 8:50 vs 8:18):**\n  - **SPY:** net **−0.93B all / −0.83B ex-0DTE** (was −1.16 / −0.82). The map is unchanged: put walls at 735 (−0.59B), 730 (−0.51B), and 700 (−0.96B), and call walls at 750 (+0.48B) and 800. There's a dense sign-change band at **739–743**, right at spot and the PDH.\n  - **QQQ:** **−1.38B / −1.66B** (was −1.50 / −1.65), essentially the same. The 650 put wall (−0.84B) is still dominant, with the 670 call node nearest. The sign changes at 657–661 and 675/676 are unchanged.\n  - **IWM:** **−0.01B / −0.15B** (was −0.15 / −0.30), which is basically flat. Puts are at 265 and 270, and the calls are thin (275 ex-0DTE, 279, 283). The sign changes are at 274–280.\n  - Dark pool prints today are still tiny. Friday's magnets (SPY 733.13, QQQ 647.79) are unchanged.\n- **9,000+ contract prints (Quant Data unconsolidated flow, session Nov 9):** **0 rows.**\n- **Read:** this was a quiet stretch. There's no data, and futures are inside ±0.15% of their 8:00 levels. VIX is flat and positioning is unchanged, with mild short gamma on SPY and QQQ and flat on IWM. There are no big prints. The 8:00 game plan stands as written:\n  - **SPY:** 742–743 is the decision level (PDH, PMH, and the sign band). Above it, the target is 750. Below it, the targets are 739 and then 735.\n  - **QQQ:** the 663.5–664.5 lid against the 657–661 magnet, with the 650 put wall below.\n  - **IWM:** watch for a PMH break at 278 toward 280, and use 274.5–275 as the retest support.\n  - The Iran headlines remain the swing factor ahead of tomorrow's CPI. Wait for a 15-minute body close after 9:45.\n- Sources: Yahoo Finance 1m, the Financial Juice RSS feed, and the Quant Data API on the user's account (Exposure by strike, unconsolidated order flow, dark pool). The browser My Pages tabs weren't needed because the API returned clean numbers.\n",
   "macro_markdown": null,
-  "source_file": "2026-11-06_postdata.md"
+  "source_file": "2026-11-09_postdata.md"
 }

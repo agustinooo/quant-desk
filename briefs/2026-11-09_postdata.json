@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-09",
+  "type": "postdata",
+  "generated_at": "2026-11-09T08:50:00-05:00",
+  "generated_at_source": "text",
+  "summary": "Data: there was no 8:30 release today. Bowman spoke at 8:40 on community banking, and no market-moving headline came from it in Financial Juice. Next up: Goolsbee and wholesale inventories at 10:00 (forecast 0.6%), GDPNow at 10:30, NY Fed inflation expectations at 11:00, and the 3-year auction at 13:00. CPI is tomorrow at 8:30.",
+  "futures": {
+    "NQ": {
+      "last": 27313.0,
+      "change_pct": -0.13,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": 7465.5,
+      "change_pct": -0.03,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": 2800.0,
+      "change_pct": 0.04,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 742.6,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": 662.7,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 277.9,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": 23.1,
+      "us10y": 4.84,
+      "dxy": null,
+      "wti": null,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# 8:45 post-data check, Mon Nov 9 2026 (~8:50 AM ET): quiet, no message sent\n\n- **Data:** there was no 8:30 release today. Bowman spoke at 8:40 on community banking, and no market-moving headline came from it in Financial Juice. Next up: Goolsbee and wholesale inventories at 10:00 (forecast 0.6%), GDPNow at 10:30, NY Fed inflation expectations at 11:00, and the 3-year auction at 13:00. **CPI is tomorrow at 8:30.**\n- **Headlines since 8:00 (Financial Juice):** at 8:08 a Qatari official said reports on the US-Iran proposal details are false and negotiations are ongoing. At 8:13 CBS said the administration will brief Congress today on the NVIDIA CEO. At 8:22 Fars said Iraq's PM visited Tehran on Friday for the war talks. At 8:24 UKMTO reclassified a Nov 7 tanker fire near Khasab, Oman, as an attack. At 8:37 a Russian delegation left for the Abu Dhabi talks. At 8:48 Mehr said Qatar will host Trump's VP and Iran's General Rezaei next week. None of these moved futures much.\n- **Futures since 8:00 (Yahoo 1m, last bar 8:40):**\n  - **NQ** 27313 vs 27349 (**−0.13%**). It dipped to 27230 at 8:22 on the Qatar pushback, then recovered.\n  - **ES** 7465.5 vs 7468 (−0.03%), with a range of 7451–7472.5.\n  - **RTY** 2800 (+0.04%).\n  - **VIX** 23.10 (+0.2), with a high of 23.45. That's no spike.\n  - **10-year** 4.84% (−0.2 bp). DXY was flat at 101.85, and WTI was 87.3.\n  - NVDA is still about 176.8 pre-market (−5% vs Friday).\n- **ETFs vs the brief's levels (~8:50):**\n  - **SPY 742.6** sits just above the PDH (742.21) and below the PMH (743.05). It's still inside the pre-market range with no break, and the dip low since 8:00 was 740.5.\n  - **QQQ 662.7** is under the PMH (663.45) and PDH (664.52). There's no break. A 655.6 print at 8:05 in Yahoo's 1m data is a suspect tick (Quant Data's PML is 659.74).\n  - **IWM 277.9** is pressing the PMH (277.97 Yahoo, 277.88 Quant Data) but hasn't broken it with a close. It's well above the PDH (274.55).\n- **GEX re-pull (Quant Data API, session Nov 9, 8:50 vs 8:18):**\n  - **SPY:** net **−0.93B all / −0.83B ex-0DTE** (was −1.16 / −0.82). The map is unchanged: put walls at 735 (−0.59B), 730 (−0.51B), and 700 (−0.96B), and call walls at 750 (+0.48B) and 800. There's a dense sign-change band at **739–743**, right at spot and the PDH.\n  - **QQQ:** **−1.38B / −1.66B** (was −1.50 / −1.65), essentially the same. The 650 put wall (−0.84B) is still dominant, with the 670 call node nearest. The sign changes at 657–661 and 675/676 are unchanged.\n  - **IWM:** **−0.01B / −0.15B** (was −0.15 / −0.30), which is basically flat. Puts are at 265 and 270, and the calls are thin (275 ex-0DTE, 279, 283). The sign changes are at 274–280.\n  - Dark pool prints today are still tiny. Friday's magnets (SPY 733.13, QQQ 647.79) are unchanged.\n- **9,000+ contract prints (Quant Data unconsolidated flow, session Nov 9):** **0 rows.**\n- **Read:** this was a quiet stretch. There's no data, and futures are inside ±0.15% of their 8:00 levels. VIX is flat and positioning is unchanged, with mild short gamma on SPY and QQQ and flat on IWM. There are no big prints. The 8:00 game plan stands as written:\n  - **SPY:** 742–743 is the decision level (PDH, PMH, and the sign band). Above it, the target is 750. Below it, the targets are 739 and then 735.\n  - **QQQ:** the 663.5–664.5 lid against the 657–661 magnet, with the 650 put wall below.\n  - **IWM:** watch for a PMH break at 278 toward 280, and use 274.5–275 as the retest support.\n  - The Iran headlines remain the swing factor ahead of tomorrow's CPI. Wait for a 15-minute body close after 9:45.\n- Sources: Yahoo Finance 1m, the Financial Juice RSS feed, and the Quant Data API on the user's account (Exposure by strike, unconsolidated order flow, dark pool). The browser My Pages tabs weren't needed because the API returned clean numbers.\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-09_postdata.md"
+}

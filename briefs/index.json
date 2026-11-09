@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-09T08:19:34-05:00",
-  "count": 42,
+  "updated_at": "2026-11-09T08:50:31-05:00",
+  "count": 43,
   "briefs": [
+    {
+      "date": "2026-11-09",
+      "type": "postdata",
+      "path": "briefs/2026-11-09_postdata.json",
+      "md_path": "briefs/2026-11-09_postdata.md",
+      "generated_at": "2026-11-09T08:50:00-05:00",
+      "summary": "Data: there was no 8:30 release today. Bowman spoke at 8:40 on community banking, and no market-moving headline came from it in Financial Juice. Next up: Goolsbee and wholesale inventories at 10:00 (f"
+    },
     {
       "date": "2026-11-09",
       "type": "premarket",
