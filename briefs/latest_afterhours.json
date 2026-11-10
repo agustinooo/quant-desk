@@ -1,33 +1,33 @@
 {
   "schema_version": 1,
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "type": "afterhours",
-  "generated_at": "2026-11-09T17:10:00-05:00",
+  "generated_at": "2026-11-10T17:15:00-05:00",
   "generated_at_source": "text",
-  "summary": "Futures/ETFs vs the 4:00 PM closes (Yahoo; futures last ~16:59 ET into the CME maintenance break, ETFs ~17:09 ET): ES 7580.25 (+0.11% vs 7572.25), NQ 28070 (+0.23% vs 28004.75), RTY 2846.4 (−0.08% vs 2848.7). SPY 753.11 (+0.07%), QQQ 679.92 (+0.17%), IWM 282.09 (−0.14%). Quiet hold of the trend-day gains, well under the ~0.5% ES/NQ alert line. (Yahoo shows a lone SPY AH low of 722.19, which looks like a bad print given the rest of the tape stayed 752–754.) WTI ~86.37 (−0.8% vs 4 PM).",
+  "summary": "Futures/ETFs vs the 4:00 PM closes (Yahoo; futures last 16:59 ET into the CME maintenance break, ETFs ~17:14 ET): ES 7555.00 (+0.14% vs 7544.75), NQ 27900.75 (+0.23% vs 27835.75), RTY 2832.40 (+0.12% vs 2829.00). SPY 751.10 (+0.15%), QQQ 676.03 (+0.18%), IWM 280.78 (+0.08%). A small bounce off the CPI-day close, well under the ~0.5% ES/NQ alert line. (Yahoo shows a lone SPY AH low of 700.43, which looks like a bad print; the rest of the tape stayed 750–752.75.) WTI ~86.44 (+0.1% vs 4 PM).",
   "futures": {
     "NQ": {
-      "last": 28070.0,
+      "last": 27900.75,
       "change_pct": 0.23,
       "high": null,
       "low": null
     },
     "ES": {
-      "last": 7580.25,
-      "change_pct": 0.11,
+      "last": 7555.0,
+      "change_pct": 0.14,
       "high": null,
       "low": null
     },
     "RTY": {
-      "last": 2846.4,
-      "change_pct": -0.08,
+      "last": 2832.4,
+      "change_pct": 0.12,
       "high": null,
       "low": null
     }
   },
   "tickers": {
     "SPY": {
-      "spot": 753.11,
+      "spot": 751.1,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -42,7 +42,7 @@
       "game_plan": null
     },
     "QQQ": {
-      "spot": 679.92,
+      "spot": 676.03,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -57,7 +57,7 @@
       "game_plan": null
     },
     "IWM": {
-      "spot": 282.09,
+      "spot": 280.78,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -103,13 +103,13 @@
       "vix": null,
       "us10y": null,
       "dxy": null,
-      "wti": 86.37,
+      "wti": 86.44,
       "brent": null,
       "gold": null
     }
   },
   "takeaway": null,
-  "markdown": "# After-hours check Mon Nov 9, 2026 ~5:10 PM ET (Yahoo 1m incl. extended hours, Financial Juice RSS). No alert sent.\n\nFutures/ETFs vs the 4:00 PM closes (Yahoo; futures last ~16:59 ET into the CME maintenance break, ETFs ~17:09 ET): ES 7580.25 (+0.11% vs 7572.25), NQ 28070 (+0.23% vs 28004.75), RTY 2846.4 (−0.08% vs 2848.7). SPY 753.11 (+0.07%), QQQ 679.92 (+0.17%), IWM 282.09 (−0.14%). Quiet hold of the trend-day gains, well under the ~0.5% ES/NQ alert line. (Yahoo shows a lone SPY AH low of 722.19, which looks like a bad print given the rest of the tape stayed 752–754.) WTI ~86.37 (−0.8% vs 4 PM).\n\nEarnings after the close (none is a mega-cap or major semi; no index impact):\n- **SANM** 180.12 (+20.4% AH vs 149.56).\n- **ZETA** 28.53 (−12.0% AH vs 32.42).\n- **RKLB** 56.03 (−4.7% AH vs 58.81); revenue $267.8M vs $257.2M est., EPS −$0.12 vs −$0.07 (24/7 Wall St, per the close recap).\n- **TTWO** 215.10 (+3.8%, AH range 197–222), **OXY** 56.29 (+0.9%), **ASTS** 37.46 (+1.6%).\n- Mega-caps flat to slightly up AH: NVDA 179.68 (+0.6%), AMZN +0.4%, AMD +0.3%, AAPL/MSFT flat.\n\nNews after the close (Financial Juice):\n- **Iran, mixed but not market-moving:** Trump (Truth Social and remarks, ~16:30–16:46 ET) says \"positive momentum toward an end to this conflict,\" military action \"doesn't seem necessary right now,\" but the US is \"locked and loaded.\" Pushback: Iran's top security official (17:04) says stop \"false reports about nonexistent talks\" and yield to Iran's seven conditions; Press TV says the IRGC disabled navigation on 4 tankers transiting Hormuz. Futures shrugged it off; this is the main overnight headline risk against today's de-escalation rally.\n- **NVDA:** Trump says he spoke with Huang today, \"the FBI is looking into it in terms of something else,\" and Huang \"is suffering greatly.\" NVDA is +0.6% AH.\n- CPI prep pieces out (FJElite); Canada tariff-relief extension to June 2028; WSJ on the China summit format dispute (already in the recap).\n\nTuesday levels from the 4:00 recap still stand, with CPI at 8:30 the main event: SPY PDH 755.37 / PDL 741.05 / PDC 752.64 (pivot 752–753, 765 call wall); QQQ PDH 681.67 / PDL 662.16 / PDC 678.76 (678–680 cluster, 670 put wall); IWM PDH 283.75 / PDL 276.84 / PDC 282.49 (280–283). Futures: ES ~7600/7456, NQ ~28129/27316, RTY ~2862/2792.\n\n_Information, not advice._\n",
+  "markdown": "# After-hours check Tue Nov 10, 2026 ~5:15 PM ET (Yahoo 1m incl. extended hours, Financial Juice RSS, X FirstSquawk/DeItaone/Team2Trading). No alert sent.\n\nFutures/ETFs vs the 4:00 PM closes (Yahoo; futures last 16:59 ET into the CME maintenance break, ETFs ~17:14 ET): ES 7555.00 (+0.14% vs 7544.75), NQ 27900.75 (+0.23% vs 27835.75), RTY 2832.40 (+0.12% vs 2829.00). SPY 751.10 (+0.15%), QQQ 676.03 (+0.18%), IWM 280.78 (+0.08%). A small bounce off the CPI-day close, well under the ~0.5% ES/NQ alert line. (Yahoo shows a lone SPY AH low of 700.43, which looks like a bad print; the rest of the tape stayed 750–752.75.) WTI ~86.44 (+0.1% vs 4 PM).\n\nEarnings after the close (none is a mega-cap or major semi; no index impact):\n- **CRWV** 49.73 (+2.1% AH vs 48.73, AH range 48.44–54.00): beat, Q3 loss/share −$1.27 vs −$1.46 est., revenue $3.66B vs $3.56B est.; filing shows $9.18B recourse debt, $24.39B current liabilities, and warns of \"waves of industry consolidation\" (FirstSquawk).\n- **RGTI** 11.18 (−7.8%), **ALC** 71.52 (−3.6%), **STUB** 5.53 (−2.0%), **SONO** 17.21 (+1.9%), **PBR** 18.22 (−0.3%). I didn't pull their results.\n- Mega-caps flat to slightly up AH: NVDA 169.72 (+0.6%), MSFT +0.3%, AMD +0.3%, AVGO +0.5%, META +0.2%, GOOGL +0.2%, AMZN/AAPL +0.1%, TSLA flat.\n\nNews after the close:\n- **Fed hawkish wrap** (FirstSquawk, 16:18): markets see a December 25 bp hike as \"a done deal,\" pricing in more. Waller has warned 50 bp may be needed; Logan backs at least two more 25 bp hikes. **Bowman** (15:30–16:29 at the CFR, Financial Juice): \"the fact that inflation is not on a downward trend should give us pause\"; the Fed needs to think about \"what pace and what timeline\" to address it. All of this was already in the close tape.\n- **OpenAI** Q3 revenue $10B (The Information). Anthropic backers marketing up to $500M of IPO shares.\n- **Baltics airspace scare (~17:00 ET, Financial Juice):** NATO fighters were scrambled over an object flying from Belarus toward the Baltics, and Latvia told people in the Ludza region to seek shelter. Nothing further yet; futures were in the maintenance break. Watch the 6 PM reopen.\n- **API crude** −9.8M (forecast −1M), distillates −8M, Cushing +5.1M, gasoline +2.7M. WTI barely moved.\n\nWednesday levels from the 4:00 recap still stand (Veterans Day, bond market closed, stocks open): SPY PDH 752.11 / PDL 744.90 / PDC 749.94 (pivot 749–752, 754 sign line); QQQ PDH 680.80 / PDL 667.08 / PDC 674.81 (675–681 pivot); IWM PDH 281.30 / PDL 277.92 / PDC 280.56 (279–281). Futures: ES ~7566/7493, NQ ~28090/27516, RTY ~2836/2802. ES/NQ are sitting just above their 4 PM closes, inside those ranges. Dealers carry deep short gamma into the session (SPY ~−5B ex-0DTE).\n\n_Information, not advice._\n",
   "macro_markdown": null,
-  "source_file": "2026-11-09_afterhours.md"
+  "source_file": "2026-11-10_afterhours.md"
 }
