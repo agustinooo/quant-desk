@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-10T08:49:17-05:00",
-  "count": 47,
+  "updated_at": "2026-11-10T16:22:05-05:00",
+  "count": 48,
   "briefs": [
+    {
+      "date": "2026-11-10",
+      "type": "close",
+      "path": "briefs/2026-11-10_close.json",
+      "md_path": "briefs/2026-11-10_close.md",
+      "generated_at": "2026-11-10T16:20:00-05:00",
+      "summary": "Hot CPI, then a bear flag. Core CPI printed +0.3% (consensus +0.2%), the number Waller had said could justify a 50 bp hike. The session went gap down, bounced into the old pre-market lows by 10:00, go"
+    },
     {
       "date": "2026-11-10",
       "type": "postdata",
