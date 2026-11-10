@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-09T17:10:05-05:00",
-  "count": 45,
+  "updated_at": "2026-11-10T07:49:17-05:00",
+  "count": 46,
   "briefs": [
+    {
+      "date": "2026-11-10",
+      "type": "premarket",
+      "path": "briefs/2026-11-10_premarket.json",
+      "md_path": "briefs/2026-11-10_premarket.md",
+      "generated_at": "2026-11-10T07:50:00-05:00",
+      "summary": "Quiet, flat tape parked at yesterday's highs, waiting on 8:30 CPI. As of ~7:35 (Yahoo), ES 7578.5 (+0.06%), NQ 27926 (\u22120.32%), RTY 2849.7 (+0.04%). Overnight ranges are tight, and ES's overnight high "
+    },
     {
       "date": "2026-11-09",
       "type": "afterhours",

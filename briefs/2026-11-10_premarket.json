@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-10",
+  "type": "premarket",
+  "generated_at": "2026-11-10T07:50:00-05:00",
+  "generated_at_source": "text",
+  "summary": "Quiet, flat tape parked at yesterday's highs, waiting on 8:30 CPI. As of ~7:35 (Yahoo), ES 7578.5 (+0.06%), NQ 27926 (−0.32%), RTY 2849.7 (+0.04%). Overnight ranges are tight, and ES's overnight high (7598.75) sits right on the SPY 755 call wall / PDH equivalent. VIX is 20.2 (+0.3). Waller turned the screws at 4:00 AM: he'd back a December hike even if CPI improves, and said 50 bp may be needed if core prints 0.3% or higher (consensus core +0.2%, headline +0.3%). Chips are soft (NVDA −1.1%, AMD −1.4%, AVGO −1.2%) as Anthropic launches its ~$1T IPO roadshow. It's not a Friday and not monthly OPEX (Nov 20). All pre-market levels below are pre-CPI and will likely be rewritten at 8:30.",
+  "futures": {
+    "NQ": {
+      "last": 27926.0,
+      "change_pct": -0.32,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": 7578.5,
+      "change_pct": 0.06,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": 2849.7,
+      "change_pct": 0.04,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 735.43,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": "Break and hold 755.4 on a 15-min close, and calls toward 762, then 770 (call wall); reject 755 and lose 750, and puts toward 744 (put node), then the 741 PDL."
+    },
+    "QQQ": {
+      "spot": 656.54,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": "Break 681.7 and calls toward 685–686 (sign band), with 700 (call wall) the bigger magnet; lose 674 and puts toward 670 (put node), then 662 (PDL)."
+    },
+    "IWM": {
+      "spot": 273.76,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": "Break 283.8 and calls toward 284.7, then 286–287; lose 282.2 (PML) and puts toward 280.6–280, then the 276.8 PDL."
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": null,
+      "us10y": null,
+      "dxy": null,
+      "wti": null,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": "SPY dealers have moved to **slightly long gamma** (+0.14B ex-0DTE) while QQQ is still **short ~0.9B** and IWM is flat, and all three sit just under their PDHs with call walls stacked there. The most important confluence levels:\n- **SPY 755–755.4:** PDH, PMH, 755 call wall, untested 15-min rejection and the ES ONH (~7600). Below, **751–753** is the magnet and **750 / 744** are the put nodes.\n- **QQQ 679.8–681.7:** PMH, sign band, 680 put node, dark-pool cluster and PDH (NQ ~28085–28160), with the **674–675.7** shelf (NQ ~27850–27915, the NQ ONL) under it.\n- **IWM 283–283.8:** 283 call node and sign change, PMH, PDH and untested rejections (RTY ~2855–2862), with **280–280.6** below.\n\nCPI is the swing factor: core at 0.3%+ hands Waller his 50 bp case, while an in-line print keeps the trend-day follow-through alive. The fresh short-dated QQQ puts into the event fit the history file's whipsaw pattern, so let the post-CPI open settle and use the 9:45+ 15-min closes at the PDH lids or the shelves below.",
+  "markdown": "# Pre-Market Brief, Tue Nov 10, 2026 (data as of ~7:50 AM ET, before CPI)\n\n**Quiet, flat tape parked at yesterday's highs, waiting on 8:30 CPI.** As of ~7:35 (Yahoo), **ES 7578.5 (+0.06%)**, **NQ 27926 (−0.32%)**, **RTY 2849.7 (+0.04%)**. Overnight ranges are tight, and ES's overnight high (7598.75) sits right on the SPY 755 call wall / PDH equivalent. VIX is **20.2** (+0.3). Waller turned the screws at 4:00 AM: he'd back a December hike even if CPI improves, and said **50 bp may be needed if core prints 0.3% or higher** (consensus core +0.2%, headline +0.3%). Chips are soft (NVDA −1.1%, AMD −1.4%, AVGO −1.2%) as Anthropic launches its ~$1T IPO roadshow. It's not a Friday and not monthly OPEX (Nov 20). **All pre-market levels below are pre-CPI and will likely be rewritten at 8:30.**\n\nSources: Quant Data API on the user's account (GEX by strike, dark pool, 9k+ unconsolidated flow; pulled 7:47), Yahoo Finance (1m/2m/15m/5m/daily), the Financial Juice RSS feed, X (DeItaone, FirstSquawk, LiveSquawk, Team2Trading, X news), Digrin / TipRanks / ATLAS for earnings. Positioning came from the Quant Data API, not the browser My Pages tabs, and \"magnets\" are the largest GEX strike nodes plus dark-pool clusters. The prior-session 9k+ flow is from last night's close pull (207 rows).\n\n## Positioning (Quant Data, session Nov 10, 7:47 AM snapshot)\nThe early book is thin and pre-CPI, so treat it as a starting map. The big change from last night: **SPY has flipped to slightly positive gamma**, QQQ is still short, IWM is flat.\n\n- **SPY** (spot ~753.1):\n  - **Net GEX:** **+0.31B** all expirations, **+0.14B** ex-0DTE (last night's carried book was −1.18B ex-0DTE). Cumulative flip only at 800 (far).\n  - **Call walls:** **755 (+0.43B)**, 762 (+0.28B), **770 (+0.50B)**, 800 (+0.56B).\n  - **Put nodes:** **735 (−0.48B)**, **744 (−0.33B)**, 750 (−0.22B), 733, 700.\n  - **Sign changes:** **751–753** (spot is in this band); ex-0DTE 755, 759–760.\n- **QQQ** (spot ~676.1):\n  - **Net GEX:** **−1.04B** all, **−0.91B** ex-0DTE (from −2.63B ex-0DTE last night, shallower but still the short-gamma one).\n  - **Put nodes:** **650 (−0.46B)**, **675 (−0.39B)**, **670 (−0.34B)**, 680 (−0.24B ex-0DTE), 665, 660.\n  - **Call nodes:** **700 (+0.67B)** is the only big one, then 705, 695.\n  - **Sign changes:** **679–681**, 685–686.\n- **IWM** (spot ~282.6):\n  - **Net GEX:** **+0.03B** all, about **0** ex-0DTE. Flat.\n  - **Puts:** 275 (−0.11B), 265, **280 (−0.06B)**. **Calls:** **283 (+0.11B)**, 300 (+0.14B), 285–287 small.\n  - **Sign change:** **283**.\n- **Dark pool:** this morning's prints are tiny (≤$0.003B per level, clustered SPY 752.7–753.4, QQQ 676–677.9, IWM 282.3–282.7). Carryover from yesterday: **SPY 735.43 ($1.21B)** and 750–753 (~$0.5B); **QQQ 656.54 ($3.34B)** and **678.7–679.4 (~$1.5B)**; IWM 273.76 ($0.45B).\n- **9,000+ pre-market prints (Nov 10):** **none** as of 7:47. Per the study, no big prints doesn't mean calm, especially into CPI.\n- **9,000+ prints from the prior session (Mon Nov 9, 207 rows; structure read):**\n  - **SPY:** 12:15 Nov 20 **710P 111k at the ask + 725P 103k at the bid**, both opening, with Nov 10 735P/710P legs: same sizes as Friday's OPEX structure, so the hedge was **adjusted, not abandoned**. 12:19 Nov 13 730P 55.6k and Nov 27 720P 22k at the bid: more **rolling of protection**. 12:08 Dec 775C 20k sold at the bid vs 800C closing: call overwrite rolled down. A far-OTM Nov 20 380/500/620 put fly was closed.\n  - **QQQ:** 11:17 Nov 30 675P 14k above the ask, closing (short puts bought back). 12:21 Mar 2027 530P 25k at the ask (opening tail hedge). **15:56 Nov 13 660P 15k at the ask, opening: a fresh short-dated pre-CPI hedge.**\n  - **IWM:** 15:39 **Dec 4 275P 30k at the ask, opening, vs Nov 20 267P closing**: puts rolled up with spot. Jun 2027 315C 12.5k at the ask, opening.\n  - **NVDA:** Feb 2027 call spread rolled down (195/245 bought, 210/255 closed, 52.5k); Jan 140P 50k and Jun 2027 95P 75k sold below the bid: leaning into the dip.\n  - **Read:** none of this is the \"heavy put selling at the bid during deep negative GEX\" snap-back template. It's **hedges rolled up and out after a trend day plus fresh short-dated QQQ puts into CPI**. In `/workspace/history`, short-dated put buying into an event tended to come before **whipsaws**, not clean trends.\n\n## Combined levels map (PM range 4:00 AM to ~7:45 AM ET; CPI at 8:30 will likely change it)\nPrior RTH (Mon Nov 9): SPY H/L/C **755.37 / 741.05 / 752.64**, QQQ **681.67 / 662.16 / 678.76**, IWM **283.75 / 276.84 / 282.49**. Futures equivalents use current ratios (ES ≈ 10.06× SPY, NQ ≈ 41.31× QQQ, RTY ≈ 10.08× IWM) and are **approximate**.\n\n**SPY** (PM last **753.06** @ 7:45, inside yesterday's range, just above the PDC)\n- PDH **755.37** (ES ~7602), PDL **741.05** (ES ~7458), PDC **752.64** (ES ~7575).\n- PMH **755.31** @ 4:02 (ES ~7601; ONH 7598.75), PML **752.15** @ 4:10 (ES ~7570; ONL 7566).\n- 15-min zones: **755.42** untested rejection (Mon 15:15, the high). Above that, **768.7–769.2** (Nov 4). No untested support pivot below within 3%.\n- 2-min EMAs (13/48/200): **753.07 / 753.24 / 753.01**, **bunched: chop**.\n- Confluence:\n  - **755–755.4 (ES ~7598–7602): PDH, PMH, the 755 call wall, the untested 15-min rejection, and the ES overnight high. The key SPY level.**\n  - **751–753 (ES ~7560–7580):** PDC, PML, the 751–753 sign changes, the EMAs and this morning's dark-pool prints. The intraday magnet.\n  - **750 (ES ~7548):** put node and round number; **744 (ES ~7488)** put node next to yesterday's 744–746 sign band.\n- Game plan: Break and hold **755.4** on a 15-min close, and calls toward **762**, then **770** (call wall); reject **755** and lose **750**, and puts toward **744** (put node), then the **741** PDL.\n\n**QQQ** (PM last **676.06** @ 7:47, below the PDC, inside yesterday's range)\n- PDH **681.67** (NQ ~28160), PDL **662.16** (NQ ~27354), PDC **678.76** (NQ ~28040).\n- PMH **679.83** @ 4:01 (NQ ~28084; ONH 28109), PML **675.69** @ 4:10 (NQ ~27913; ONL 27869).\n- 15-min zones: **681.70** untested rejection (Mon 15:15) and **674.18** untested support (Mon 11:30). Next resistance 695.38 (Nov 4).\n- 2-min EMAs: **676.47 / 676.89 / 677.55**, a **bearish** stack (13 under 48 under 200), price under all three.\n- Confluence:\n  - **679.8–681.7 (NQ ~28084–28160): PMH, the 679–681 sign band, the 680 put node, the $1.5B dark-pool cluster at 678.7–679.4, the untested 15-min rejection and the PDH. The upside lid.**\n  - **674.2–675.7 (NQ ~27850–27913): PML, the 675 put node, the untested 15-min support, and NQ's overnight low. The downside shelf.**\n  - **670 (NQ ~27678):** put node; then 662 PDL and the 650 put wall far below.\n- Game plan: Break **681.7** and calls toward **685–686** (sign band), with 700 (call wall) the bigger magnet; lose **674** and puts toward **670** (put node), then **662** (PDL).\n\n**IWM** (PM last **282.58** @ 7:46, inside yesterday's range near the highs)\n- PDH **283.75** (RTY ~2862), PDL **276.84** (RTY ~2792), PDC **282.49** (RTY ~2849).\n- PMH **283.65** @ 4:01 (RTY ~2861; ONH 2860.7), PML **282.19** @ 4:10 (RTY ~2846; ONL 2844.2).\n- 15-min zones: **283.71 / 283.79** untested rejections (Mon 15:15 / 14:30), then 284.69 (Nov 5) and 286.17 (Nov 4); **280.59** untested support (Mon 11:30).\n- 2-min EMAs: **282.57 / 282.59 / 282.30**, **bunched: chop**.\n- Confluence:\n  - **283–283.8 (RTY ~2854–2862): the 283 call node and sign change, PMH, PDH, the untested 15-min rejections, and RTY's overnight high. The key IWM level.**\n  - **280–280.6 (RTY ~2824–2830):** the 280 put node and the untested 15-min support.\n- Game plan: Break **283.8** and calls toward **284.7**, then **286–287**; lose **282.2** (PML) and puts toward **280.6–280**, then the 276.8 PDL.\n\n**Bias framing (Team2):**\n- All three are opening **inside yesterday's range, just under the PDH**, so the PDHs (**755.4 / 681.7 / 283.8**) are the break-and-retest vs rejection levels. SPY and IWM's PDH lines up with the call walls, which makes them a natural lid unless broken with a 15-min close.\n- The pre-market ranges are no-trade zones (currently SPY 752.2–755.3, QQQ 675.7–679.8, IWM 282.2–283.7), but **CPI will reset them**; re-mark the PMH/PML at 9:29.\n- Wait for a **15-min body close** beyond a level, and **nothing before 9:45**.\n- Casey hasn't posted a Tuesday game plan as of ~7:50 (his last post was a reply about memberships last night).\n\n## Macro\n**Calendar (ET):**\n- **8:30 Oct CPI:** headline consensus **+0.3% m/m** (prior +0.6%), core **+0.2%** (prior +0.3%); **no y/y figure** because of the shutdown data gap. Waller's line makes core **0.3%+** the hawkish trigger.\n- Already out: NFIB small business optimism **97.8** (forecast 98.2, prior 97.9) at 6:00.\n- **13:00** 10-year note auction. **15:30** Bowman.\n- **Wed:** Veterans Day (bond market closed, stocks open). **Thu:** claims and 30-year auction. **Fri 8:30:** PPI. Monthly OPEX is Nov 20; FOMC Dec 9.\n\n**Fed / rates tone:**\n- **Waller (4:00, London):** would support a 25 bp hike in December even if October CPI improves; a **50 bp hike may be needed if core is around 0.3% or higher**; \"September's inflation data was bad\"; but \"not going to jack up rates 150 or 200 bp.\"\n- Reuters poll (7:45): **all 101 economists** expect a December hike to 4.00–4.25%; 56 of 101 see that as the peak.\n- Abroad: ECB's Lane says it's prudent to hike in December if data don't shift; BoE's Lombardelli says inflation risks are to the upside.\n\n**Earnings:**\n- **Before the open:** TDG beat (EPS 12.44 vs 12.33), SE beat (0.94 vs 0.82), ONON beat (0.54 vs 0.40), WIX in line (1.42 vs 1.40) (Digrin); also QBTS, ETOR, BTDR, VG.\n- **Last night:** **TTWO +4.3%** pre-market, **RKLB −7.6%** (revenue beat, wider loss), OXY −0.8%.\n- **After the close today:** **CRWV** (EPS est −1.55), PBR, ALC, RGTI, STUB, SONO.\n- **Index movers pre-market (Yahoo ~7:45):** NVDA −1.1% (176.72), AMD −1.4%, AVGO −1.2%, TSLA −1.2%, CRWV −1.6%; META +0.7%, AAPL +0.5%, GOOGL +0.4%, AMZN +0.4%, MSFT +0.1%.\n\n**Financial Juice / X overnight:**\n- **Anthropic IPO roadshow** (Reuters / SEC filing via DeItaone, LiveSquawk, FirstSquawk): 825M shares at **$70–78**, up to **$64.35B** raised, ~**$1T** target valuation (FirstSquawk later: $1.4T fully diluted), Nasdaq listing. **$26B cornerstone** private placement from AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC; LiveSquawk says AMD is buying **$9.5B**. Run-rate revenue ~$81B. Supply/rotation risk for AI megacaps is worth watching.\n- **Iran:** IRGC says two tankers caught fire after hitting naval mines in Hormuz (5:27); at **7:35 Al Hadath sources say Iran agreed to US demands to cut highly enriched uranium** (FirstSquawk). Qatar's PM briefed the G7 after Trump talks. Reuters/Ipsos: 71% want Congress to end the Iran war.\n- **Nvidia/China:** China says Nvidia spy allegations are unfounded; a report says Moonshot AI accessed a cache of advanced Nvidia chips; Microsoft is pushing the White House to let China import AI components.\n- Ukraine-Russia trilateral talks in Abu Dhabi ran today and continue Wednesday.\n\n**Overnight / Globex (Yahoo, ~7:35, vs prior close):**\n\n| | Last | Prior | % | ONH | ONL |\n|---|---|---|---|---|---|\n| NQ | 27926.25 | 28014.50 | −0.32% | 28109.00 (Mon 19:00) | 27869.00 (22:40) |\n| ES | 7578.50 | 7574.25 | +0.06% | 7598.75 (1:30) | 7566.00 (4:10) |\n| RTY | 2849.70 | 2848.70 | +0.04% | 2860.70 (3:55) | 2844.20 (Mon 18:00) |\n\nTight overnight ranges, no gap. ES's ONH is the SPY 755 confluence; NQ is pinned between its ONL (≈ QQQ 674–675 shelf) and ONH (≈ QQQ 680 lid).\n\n**Global:** Nikkei **+2.9%**, **KOSPI +4.4%**, HSI +0.4%, Shanghai +0.1%. Europe (~7:30): STOXX50 **+1.1%**, DAX +1.2%, CAC +1.1%, FTSE +0.5%.\n\n**Cross-asset:**\n- VIX **20.20** (+0.28; overnight 19.62–20.32).\n- 10-year: Yahoo had no fresh print; last was **4.86%** at Monday's close.\n- DXY **101.76** (+0.1%).\n- WTI **84.84 (−2.3%)**, Brent **89.90 (−2.9%)**, extending Monday's drop.\n- Gold **4084.6 (−0.7%)**.\n\n## Takeaway (information, not advice)\nSPY dealers have moved to **slightly long gamma** (+0.14B ex-0DTE) while QQQ is still **short ~0.9B** and IWM is flat, and all three sit just under their PDHs with call walls stacked there. The most important confluence levels:\n- **SPY 755–755.4:** PDH, PMH, 755 call wall, untested 15-min rejection and the ES ONH (~7600). Below, **751–753** is the magnet and **750 / 744** are the put nodes.\n- **QQQ 679.8–681.7:** PMH, sign band, 680 put node, dark-pool cluster and PDH (NQ ~28085–28160), with the **674–675.7** shelf (NQ ~27850–27915, the NQ ONL) under it.\n- **IWM 283–283.8:** 283 call node and sign change, PMH, PDH and untested rejections (RTY ~2855–2862), with **280–280.6** below.\n\nCPI is the swing factor: core at 0.3%+ hands Waller his 50 bp case, while an in-line print keeps the trend-day follow-through alive. The fresh short-dated QQQ puts into the event fit the history file's whipsaw pattern, so let the post-CPI open settle and use the 9:45+ 15-min closes at the PDH lids or the shelves below.\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-10_premarket.md"
+}
