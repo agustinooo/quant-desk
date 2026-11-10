@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-10T07:49:17-05:00",
-  "count": 46,
+  "updated_at": "2026-11-10T08:49:17-05:00",
+  "count": 47,
   "briefs": [
+    {
+      "date": "2026-11-10",
+      "type": "postdata",
+      "path": "briefs/2026-11-10_postdata.json",
+      "md_path": "briefs/2026-11-10_postdata.md",
+      "generated_at": "2026-11-10T08:50:00-05:00",
+      "summary": "Core CPI came in hot at +0.3% m/m against a +0.2% forecast, which is the exact print Waller said could justify a 50 bp hike. Futures sold off hard, and SPY, QQQ and IWM all broke their pre-market lows"
+    },
     {
       "date": "2026-11-10",
       "type": "premarket",
