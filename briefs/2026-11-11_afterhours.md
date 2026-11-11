@@ -10,8 +10,8 @@
 Earnings after the close (none index-moving): TTEK +10.4%, CTVA −6.4%, FNV +1.7%, CAE +0.5%, ENS +0.4%, TNK +0.6%, CART flat. I didn't pull their results.
 
 Other news after the close (Financial Juice):
-- Iran: Ghalibaf (4:22–4:41) says reopening Hormuz needs the US to meet Iran's 7 conditions, and Iran reached an understanding with Oman on the Hormuz shipping lane. (An earlier report that Iran attacked navigation systems on Oman's Didamar island came at 1:04 PM, before the close.) CENTCOM says US forces continue to keep Hormuz open and enforce the blockade.
-- Axios: the Trump-approved curb on AI chips to China hasn't happened yet; Kushner/Witkoff meet Putin Thursday.
+- Iran: no new Hormuz headlines after the close; the 3:01 PM IRGC "closed the Strait" claim from the recap is still the latest. WTI barely moved.
+- Axios: the Trump-approved curb on AI chips to China hasn't happened yet; Kushner/Witkoff meet Putin Thursday (4:02–4:16).
 - CNN: Democrat Scott Colom defeated Sen. Cindy Hyde-Smith in the Mississippi Senate race (5:06).
 
 **What it means for Thursday's levels (from the 4:00 recap):**
