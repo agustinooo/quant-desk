@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-10T17:15:18-05:00",
-  "count": 49,
+  "updated_at": "2026-11-11T07:51:04-05:00",
+  "count": 50,
   "briefs": [
+    {
+      "date": "2026-11-11",
+      "type": "premarket",
+      "path": "briefs/2026-11-11_premarket.json",
+      "md_path": "briefs/2026-11-11_premarket.md",
+      "generated_at": "2026-11-11T07:50:00-05:00",
+      "summary": "Risk-on gap up, led by chips. As of ~7:35\u20137:40 ET (Yahoo): NQ 28386.5 (+1.98%), ES 7612.5 (+0.90%), RTY 2852.0 (+0.82%), all sitting at their overnight highs. All three ETFs are trading above yesterda"
+    },
     {
       "date": "2026-11-10",
       "type": "afterhours",
