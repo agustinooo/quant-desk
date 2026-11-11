@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "date": "2026-11-11",
-  "type": "close",
-  "generated_at": "2026-11-11T16:20:00-05:00",
+  "type": "afterhours",
+  "generated_at": "2026-11-11T17:20:00-05:00",
   "generated_at_source": "text",
-  "summary": "Chip-led gap-and-go, then a pin at SPY 760. CoreWeave's raised guide (CRWV +24.7%) lit up semis: MU +11.9%, MRVL +9.3%, ORCL +8.8%, INTC +7.5%, AMD +7.3%, AMAT +6.1%, SMH +4.8%. The opening dip found the morning shelves by 9:50 (SPY 754.9, QQQ 683.6, IWM 281.5), then all three trended to the morning's upside targets and topped at 13:45 almost to the tick on the levels (SPY 762.5, QQQ 695.6, IWM 283.7). The last two hours pinned SPY on the 760 wall. SPY +1.31%, QQQ +2.30%, IWM +0.87%. VIX fell ~10% to 17.5.",
+  "summary": "NVDA headline after the close. At ~4:55–5:00 PM ET the NYT reported that CEO Jensen Huang had a relationship with an NVIDIA VP who reports to him (Financial Juice 4:56; DeItaone 5:00; FirstSquawk 5:06). Per zerohedge, Huang hung up on the NYT inquiry and NVIDIA declined comment. DeItaone also cited prediction markets at 57% odds Huang leaves before July 2027. This lands on top of today's House China panel deadline for Huang and NVDA earnings on Nov 17.",
   "futures": {
     "NQ": {
-      "last": null,
-      "change_pct": null,
+      "last": 28444.25,
+      "change_pct": -0.14,
       "high": null,
       "low": null
     },
@@ -19,15 +19,15 @@
       "low": null
     },
     "RTY": {
-      "last": null,
-      "change_pct": null,
+      "last": 2854.8,
+      "change_pct": 0.01,
       "high": null,
       "low": null
     }
   },
   "tickers": {
     "SPY": {
-      "spot": 754.9,
+      "spot": 759.35,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -42,7 +42,7 @@
       "game_plan": null
     },
     "QQQ": {
-      "spot": 683.6,
+      "spot": 688.93,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -57,7 +57,7 @@
       "game_plan": null
     },
     "IWM": {
-      "spot": 281.5,
+      "spot": 283.17,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -100,16 +100,16 @@
     "earnings": null,
     "headlines": null,
     "cross_asset": {
-      "vix": 17.52,
+      "vix": null,
       "us10y": null,
-      "dxy": 102.94,
-      "wti": 86.53,
-      "brent": 92.76,
-      "gold": 3991.0
+      "dxy": null,
+      "wti": 86.42,
+      "brent": null,
+      "gold": null
     }
   },
   "takeaway": null,
-  "markdown": "# Close Recap, Wed Nov 11, 2026 (pulled ~4:20 PM ET)\n\n**Chip-led gap-and-go, then a pin at SPY 760.** CoreWeave's raised guide (CRWV **+24.7%**) lit up semis: MU **+11.9%**, MRVL +9.3%, ORCL +8.8%, INTC +7.5%, AMD +7.3%, AMAT +6.1%, SMH **+4.8%**. The opening dip found the morning shelves by 9:50 (SPY 754.9, QQQ 683.6, IWM 281.5), then all three trended to the morning's upside targets and topped at **13:45** almost to the tick on the levels (SPY 762.5, QQQ 695.6, IWM 283.7). The last two hours pinned SPY on the **760 wall**. **SPY +1.31%, QQQ +2.30%, IWM +0.87%.** VIX fell ~10% to **17.5**.\n\nSources: the Quant Data API on the user's account (ETF prices, GEX by strike, dark pool, 9k+ unconsolidated flow; pulled 4:19 PM ET), Yahoo Finance (futures, indexes, VIX, DXY, oil, gold, stocks, 15-min bars), the Financial Juice RSS feed, and ATLAS / Earnings Whispers for earnings. The browser My Pages and X weren't checked this run, so the 'contract flow' Session Date wasn't touched.\n\n## Closes (RTH, ET)\n| | Close | % | High | Low |\n|---|---|---|---|---|\n| SPY | 759.76 | +1.31% | 762.49 (13:46) | 754.93 (9:47) |\n| QQQ | 690.30 | +2.30% | 695.53 (13:46) | 683.64 (9:50) |\n| IWM | 282.99 | +0.87% | 283.71 (12:56) | 281.48 (9:37) |\n| ES | 7643.00 | +1.31% | 7671.50 (13:45) | 7593.25 (9:47) |\n| NQ | 28484.25 | +2.33% | 28697.00 (13:45) | 28199.00 (9:50) |\n| RTY | 2854.40 | +0.90% | 2860.60 (12:57) | 2837.80 (9:37) |\n\n- ETF figures are Quant Data; futures are Yahoo 1m at 15:59 vs Tuesday's settle, RTH highs/lows only.\n- Cash: S&P 500 7619.38 (+1.31%), Nasdaq Comp 25466 (+1.60%), NDX 28374 (+2.28%), Dow 52486 (+0.49%), Russell 2000 2846 (+0.88%).\n\n**Cross-asset:**\n- **VIX 17.52 (−10.0%)**; RTH high 18.74 at 9:47, low 17.33 at 13:41.\n- **10-year:** cash Treasuries closed (Veterans Day); last print ~5.00%.\n- **DXY 102.94 (+0.7%).**\n- **WTI settled $86.53 (+0.6%)**, **Brent $92.76 (+1.4%)** (Financial Juice); both faded from 10:24 highs (WTI 88.74).\n- **Gold 3991 (−1.0%)**, lost $4,000.\n\n**Movers:** NVDA +2.9% (173.7) despite a House China panel deadline for Huang; AAPL +2.0%, GOOGL +2.1%, TSLA +2.9%, AVGO +4.0% (faded from 356.9 to close near lows). Laggards: **MSFT −2.3%, META −2.0%, AMZN −1.7%**, RGTI −8.6%.\n\n## Morning levels: held or broke\n- **SPY:**\n  - **754–755 shelf held:** low 754.90 at 9:47; the 9:45 15-min bar closed 756.35. The 752.1 PDH retest never came.\n  - **757 lid broke** on the 10:30 bar close (757.46), confirmed at 10:45 (758.70).\n  - **760 magnet hit** on the 11:45 close (760.09). Overshot to 762.51 at 13:45, then **pinned 759.8–760.6 from 14:00 to the close**: the long-gamma pin call played out. 768.7 not reached.\n- **QQQ:**\n  - **684–686 shelf swept, not lost:** a wick to 683.60 at 9:50, but 15-min bodies closed 685.4–685.8 (a 15-min sweep of the PML). 680.8 PDH untouched.\n  - **688.3 broke** at 10:30 (689.12 close), **690–691 cleared** at 10:45 (692.01).\n  - **695–695.4 key level tagged to the tick:** the 13:30 bar closed 695.42, high 695.57 at 13:45, then rejected to a 690.30 close. 700 not reached.\n- **IWM:**\n  - **281.3–281.5 shelf held to the tick** (low 281.48 at 9:37).\n  - **283–283.8 lid held:** high 283.72 at 12:57 against the 283.71/283.79 untested rejections; never broke 283.8. Closed on the 283 node.\n\n## Drivers (ET, Financial Juice unless noted)\n- **AI/chips:** CRWV CEO on CNBC (9:47–9:53): build plans not delayed, NVIDIA \"not one person\". Axios after the close (16:02–16:09): the Trump-approved curb on AI chips to China hasn't happened yet; Bessent confronted Lutnick over China inaction (10:13). House China panel gave the NVIDIA CEO until end of day to respond, with subpoenas likely otherwise (9:20).\n- **Iran / oil:** Ghalibaf says reopening Hormuz needs the US to meet Iran's 7 conditions (11:23); WSJ says Trump is open to Vance restarting talks with Iran (14:26). **15:01: IRGC's Heydari says Iran \"closed the Strait of Hormuz\"** and won't reopen it without the leader's order. Houthis claim a drone hit on a Saudi pumping station (13:35). The 14:00 pullback from the highs lined up with the Vance/Iran and Hormuz headlines.\n- **Russia/Ukraine:** Putin meets Witkoff and Kushner Thursday morning in Moscow (Ushakov 9:33; Axios 16:16). Zelenskiy says Russia's envoys rejected ceasefire proposals (14:04).\n- **US–China:** Wang Yi and Rubio held \"positive and constructive\" talks (10:03).\n- **Fed:** sources report an internal debate over NY Fed's Williams exit date, 2027 vs 2028 (10:33).\n- **Data:** none (bond holiday). CNN Fear & Greed 37 (Fear).\n\n## Positioning at the close (Quant Data, ~4:19 PM)\n**Read ex-0DTE for tomorrow.** All-expiry net GEX is distorted by today's expiring 0DTE puts at the pin strikes (SPY 760 −9.4B, QQQ 690 −4.1B, IWM 283 −1.5B), which roll off tonight.\n- **SPY** (spot ~760.2): **ex-0DTE +3.55B** (8:48 AM was +3.94B), still long gamma.\n  - Call walls: **775 (+1.78B, the biggest)**, 760 (+0.95B), 800 (+0.93B), 810 (+0.78B).\n  - Put nodes: **763 (−0.76B) right above spot**, 700 (−0.65B), 735 (−0.46B), 730, 740.\n  - Sign changes: 754, **757/758**, **763/764**, 766/767. No cumulative flip near spot.\n- **QQQ** (spot ~689.9): **ex-0DTE −0.10B**, flat (from +0.52B this morning).\n  - Calls: **700 (+0.46B)**, 720, 725, 715.\n  - Puts: **680 (−0.52B)**, **670 (−0.54B)**, 650 (−0.63B), 660.\n  - Sign changes: 683, 685/686, **688–690**, 692.\n- **IWM** (spot ~283.1): **ex-0DTE −0.67B**, short gamma.\n  - Calls: **287 (+0.29B)**, 283 (+0.15B), 284, 300.\n  - Puts: **275 (−0.26B)**, 270, 265, 280 (−0.14B).\n  - Sign changes: **279–281**.\n- **Dark pool:** SPY **759.6–760.4** (~$1.7B across prints, the day's pin), QQQ **690.2** ($0.31B), 691.0–691.4 and 685.5, IWM 283.0–283.5 (small). Two big prints printed at Tuesday's closing prices (SPY 749.85 $1.86B, QQQ 674.82 $2.10B), likely late-reported, so treat them cautiously as levels.\n\n## 9,000+ contract prints (session Nov 11, 150 prints; structure read)\n- **SPY (14):**\n  - 12:40: **Dec 18 810C 110.6k closed at the bid**, rolled into Dec 4 800C 27.8k (opening) and **Dec 4 775C 22.3k bought at the ask** ($10.5M, opening): upside calls rolled down and closer in.\n  - 12:36: Nov 27 775C / 800C 55.6k, both opening on the bid side, a call spread sold into the highs.\n  - 12:03: Nov 27 770C 10k at the ask, opening.\n  - 10:22: Dec 775C/800C 20k closed (finishing yesterday's call-spread adjustment).\n  - 12:13: Dec 31 put hedges rolled up: 745P bought at the ask and 710P sold (opening) vs 735P/695P closed.\n  - 10:11: **Feb 670P 14k sold at the bid, opening**, vs Dec 660P closed.\n- **QQQ (6):** **10:11 Dec 31 650P 10k above the ask, opening** ($11.2M) near the morning low; 12:09 Dec 744C 10k at the ask, opening; 15:16 Dec 550P closed.\n- **IWM (5):** Jan hedges closed (265P/305C at 9:39, 270P/250P at 10:01).\n- **Single names:** **AMD Feb 590C to 650C roll-up, 12.5k ($119M)**; **MSFT Feb 595C closed, rolled down to 570C 23.8k at the ask**; META Jan 750C 32k at the ask ($31M, flagged closing); NVDA Mar 150P 10k at the bid, closing (15:56).\n- **VIX (22):** all flagged closing: Nov/Dec/Jan puts and upside calls taken off as vol collapsed.\n- **Read:** mostly hedges closed and calls rolled into strength, not the heavy at-the-bid index put selling that preceded past snap-backs. The SPY call rolls into **Dec 4 775/800** line up with the 775 wall as the next upside magnet.\n\n## After-close earnings tonight\nFranco-Nevada (FNV), Corteva (CTVA), CAE, Tetra Tech (TTEK), EnerSys (ENS), Teekay Tankers (TNK), Okeanis (ECO), OR Royalties (OR), Infleqtion (INFQ) (ATLAS / Earnings Whispers). Earnings Whispers also lists Maplebear (CART) as expected. Nothing index-moving.\n\n## Thursday Nov 12\n- Bond market reopens (10-year at ~5.00%).\n- **8:30 jobless claims** (consensus 195k); Fed's Barr and Hammack; **30-yr auction 1:00 PM**; Williams in the evening.\n- Putin meets Witkoff and Kushner in Moscow in the morning.\n- **NBIS before the open; CSCO, AMAT and Cerebras after the close.**\n- Fri 8:30 PPI. NVDA earnings Nov 17, monthly OPEX Nov 20, FOMC Dec 9.\n\n## Levels for Thursday (today's range becomes the previous day)\nFutures equivalents use today's close ratios (ES ≈ 10.06× SPY, NQ ≈ 41.26× QQQ, RTY ≈ 10.09× IWM) and are approximate.\n- **SPY:** PDH **762.49** (ES ~7671), PDL **754.93** (ES ~7593), PDC **759.76** (ES ~7643).\n  - Overhead: **762.5–764** (PDH, today's untested 13:45 rejection, the 763 put node and 763/764 sign change), then 766/767, **768.7–769.2** (Nov 4 untested), then the **775 wall** (ES ~7797).\n  - Below: **759.6–760.4** (pin, dark pool, 760 call node), **757–758** (sign change, old PMH), then **754–755** (PDL / sign change), then 749.9.\n- **QQQ:** PDH **695.53** (NQ ~28697), PDL **683.64** (NQ ~28199), PDC **690.30** (NQ ~28484).\n  - Overhead: **692**, then **695.4–695.6** (PDH and twice-tagged rejection), then **700** (call wall, NQ ~28880).\n  - Below: **688–690** (sign band, 690.2 dark pool), **685.5–686**, the 683.6 PDL, then **680** (put node, old PDH).\n- **IWM:** PDH **283.71** (RTY ~2861), PDL **281.48** (RTY ~2838), PDC **282.99** (RTY ~2854).\n  - Overhead: **283.7–283.8** (PDH plus the Nov 9 untested rejections), 284.7, then the **287** call node.\n  - Below: **281.3–281.5** (PDL, Tuesday's PDH), then the **279–281** sign band and 280 put node, then 275.\n- **Team2 framing:** re-mark the PMH/PML at 9:29, nothing before 9:45, wait for a 15-min body close beyond a level.\n\n**Takeaway (information, not advice):** the morning map worked: the shelves held on the opening dip, and the upside targets (SPY 760, QQQ 695, IWM 283.7) all printed and capped the day, with SPY pinned at 760 into the close. Going into Thursday, SPY stays long gamma (+3.6B ex-0DTE) with **775 as the next wall**, but QQQ has gone flat and IWM short, so the Nasdaq and small caps can move more freely. The overhang risks are the 15:01 Hormuz \"closed\" headline, the reopening bond market at ~5%, claims and the 30-year auction.\n",
+  "markdown": "# After-hours check Wed Nov 11, 2026 ~5:20 PM ET (Yahoo 1m incl. extended hours, Financial Juice RSS, X DeItaone/FirstSquawk/zerohedge). ALERT sent.\n\n**NVDA headline after the close.** At ~4:55–5:00 PM ET the NYT reported that CEO Jensen Huang had a relationship with an NVIDIA VP who reports to him (Financial Juice 4:56; DeItaone 5:00; FirstSquawk 5:06). Per zerohedge, Huang hung up on the NYT inquiry and NVIDIA declined comment. DeItaone also cited prediction markets at 57% odds Huang leaves before July 2027. This lands on top of today's House China panel deadline for Huang and NVDA earnings on Nov 17.\n\n- **NVDA** 167.31 at 17:18, **−3.8% vs the 4 PM 173.85** and −4.2% from ~174.6 just before the headline (AH low 166.88).\n- Futures went into the 5–6 PM maintenance break right as it hit: **NQ 28444.25 (−0.14% vs 28484.25 at 4 PM)**, slid from an AH high of 28510.50 to a 28424.25 low. ES 7642.75 (flat), RTY 2854.80 (+0.01%). Below the ~0.5% line so far, but NQ only had about 4 minutes to react, so watch the 6 PM reopen.\n- ETFs at ~17:18: **QQQ 688.93 (−0.21%)**, AH low 688.65; SPY 759.35 (−0.06%); IWM 283.17 (+0.04%). (Yahoo shows a lone SPY AH low of 711.46, which looks like a bad print.)\n- Other mega-caps: AMD +1.4%, AVGO +1.3%, MSFT −0.2%, GOOGL −0.4%, META/AAPL/AMZN flat, MU flat, CRWV −1.7%. WTI ~86.42 (+0.1%).\n\nEarnings after the close (none index-moving): TTEK +10.4%, CTVA −6.4%, FNV +1.7%, CAE +0.5%, ENS +0.4%, TNK +0.6%, CART flat. I didn't pull their results.\n\nOther news after the close (Financial Juice):\n- Iran: Ghalibaf (4:22–4:41) says reopening Hormuz needs the US to meet Iran's 7 conditions, and Iran reached an understanding with Oman on the Hormuz shipping lane. (An earlier report that Iran attacked navigation systems on Oman's Didamar island came at 1:04 PM, before the close.) CENTCOM says US forces continue to keep Hormuz open and enforce the blockade.\n- Axios: the Trump-approved curb on AI chips to China hasn't happened yet; Kushner/Witkoff meet Putin Thursday.\n- CNN: Democrat Scott Colom defeated Sen. Cindy Hyde-Smith in the Mississippi Senate race (5:06).\n\n**What it means for Thursday's levels (from the 4:00 recap):**\n- **QQQ is now testing the 688–690 sign band** (NQ ~28400–28480). Lose it and the next shelves are **685.5–686**, the **683.64 PDL (NQ ~28199)**, then the **680 put node**. Dealers are flat gamma ex-0DTE in QQQ, so a move can run more freely.\n- **SPY** holds the 759.6–760.4 pin area (ES ~7640) with +3.6B long gamma ex-0DTE; below are 757–758 and the 754.93 PDL (ES ~7593).\n- **NVDA** sits right on the House-panel/earnings overhang; watch for a company statement and the 6 PM futures reopen.\n\n_Information, not advice._\n",
   "macro_markdown": null,
-  "source_file": "2026-11-11_close.md"
+  "source_file": "2026-11-11_afterhours.md"
 }

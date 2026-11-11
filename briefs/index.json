@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-11T16:21:27-05:00",
-  "count": 52,
+  "updated_at": "2026-11-11T17:19:04-05:00",
+  "count": 53,
   "briefs": [
+    {
+      "date": "2026-11-11",
+      "type": "afterhours",
+      "path": "briefs/2026-11-11_afterhours.json",
+      "md_path": "briefs/2026-11-11_afterhours.md",
+      "generated_at": "2026-11-11T17:20:00-05:00",
+      "summary": "NVDA headline after the close. At ~4:55\u20135:00 PM ET the NYT reported that CEO Jensen Huang had a relationship with an NVIDIA VP who reports to him (Financial Juice 4:56; DeItaone 5:00; FirstSquawk 5:06"
+    },
     {
       "date": "2026-11-11",
       "type": "close",

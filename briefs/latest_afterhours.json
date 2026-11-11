@@ -1,33 +1,33 @@
 {
   "schema_version": 1,
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "type": "afterhours",
-  "generated_at": "2026-11-10T17:15:00-05:00",
+  "generated_at": "2026-11-11T17:20:00-05:00",
   "generated_at_source": "text",
-  "summary": "Futures/ETFs vs the 4:00 PM closes (Yahoo; futures last 16:59 ET into the CME maintenance break, ETFs ~17:14 ET): ES 7555.00 (+0.14% vs 7544.75), NQ 27900.75 (+0.23% vs 27835.75), RTY 2832.40 (+0.12% vs 2829.00). SPY 751.10 (+0.15%), QQQ 676.03 (+0.18%), IWM 280.78 (+0.08%). A small bounce off the CPI-day close, well under the ~0.5% ES/NQ alert line. (Yahoo shows a lone SPY AH low of 700.43, which looks like a bad print; the rest of the tape stayed 750–752.75.) WTI ~86.44 (+0.1% vs 4 PM).",
+  "summary": "NVDA headline after the close. At ~4:55–5:00 PM ET the NYT reported that CEO Jensen Huang had a relationship with an NVIDIA VP who reports to him (Financial Juice 4:56; DeItaone 5:00; FirstSquawk 5:06). Per zerohedge, Huang hung up on the NYT inquiry and NVIDIA declined comment. DeItaone also cited prediction markets at 57% odds Huang leaves before July 2027. This lands on top of today's House China panel deadline for Huang and NVDA earnings on Nov 17.",
   "futures": {
     "NQ": {
-      "last": 27900.75,
-      "change_pct": 0.23,
+      "last": 28444.25,
+      "change_pct": -0.14,
       "high": null,
       "low": null
     },
     "ES": {
-      "last": 7555.0,
-      "change_pct": 0.14,
+      "last": null,
+      "change_pct": null,
       "high": null,
       "low": null
     },
     "RTY": {
-      "last": 2832.4,
-      "change_pct": 0.12,
+      "last": 2854.8,
+      "change_pct": 0.01,
       "high": null,
       "low": null
     }
   },
   "tickers": {
     "SPY": {
-      "spot": 751.1,
+      "spot": 759.35,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -42,7 +42,7 @@
       "game_plan": null
     },
     "QQQ": {
-      "spot": 676.03,
+      "spot": 688.93,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -57,7 +57,7 @@
       "game_plan": null
     },
     "IWM": {
-      "spot": 280.78,
+      "spot": 283.17,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -103,13 +103,13 @@
       "vix": null,
       "us10y": null,
       "dxy": null,
-      "wti": 86.44,
+      "wti": 86.42,
       "brent": null,
       "gold": null
     }
   },
   "takeaway": null,
-  "markdown": "# After-hours check Tue Nov 10, 2026 ~5:15 PM ET (Yahoo 1m incl. extended hours, Financial Juice RSS, X FirstSquawk/DeItaone/Team2Trading). No alert sent.\n\nFutures/ETFs vs the 4:00 PM closes (Yahoo; futures last 16:59 ET into the CME maintenance break, ETFs ~17:14 ET): ES 7555.00 (+0.14% vs 7544.75), NQ 27900.75 (+0.23% vs 27835.75), RTY 2832.40 (+0.12% vs 2829.00). SPY 751.10 (+0.15%), QQQ 676.03 (+0.18%), IWM 280.78 (+0.08%). A small bounce off the CPI-day close, well under the ~0.5% ES/NQ alert line. (Yahoo shows a lone SPY AH low of 700.43, which looks like a bad print; the rest of the tape stayed 750–752.75.) WTI ~86.44 (+0.1% vs 4 PM).\n\nEarnings after the close (none is a mega-cap or major semi; no index impact):\n- **CRWV** 49.73 (+2.1% AH vs 48.73, AH range 48.44–54.00): beat, Q3 loss/share −$1.27 vs −$1.46 est., revenue $3.66B vs $3.56B est.; filing shows $9.18B recourse debt, $24.39B current liabilities, and warns of \"waves of industry consolidation\" (FirstSquawk).\n- **RGTI** 11.18 (−7.8%), **ALC** 71.52 (−3.6%), **STUB** 5.53 (−2.0%), **SONO** 17.21 (+1.9%), **PBR** 18.22 (−0.3%). I didn't pull their results.\n- Mega-caps flat to slightly up AH: NVDA 169.72 (+0.6%), MSFT +0.3%, AMD +0.3%, AVGO +0.5%, META +0.2%, GOOGL +0.2%, AMZN/AAPL +0.1%, TSLA flat.\n\nNews after the close:\n- **Fed hawkish wrap** (FirstSquawk, 16:18): markets see a December 25 bp hike as \"a done deal,\" pricing in more. Waller has warned 50 bp may be needed; Logan backs at least two more 25 bp hikes. **Bowman** (15:30–16:29 at the CFR, Financial Juice): \"the fact that inflation is not on a downward trend should give us pause\"; the Fed needs to think about \"what pace and what timeline\" to address it. All of this was already in the close tape.\n- **OpenAI** Q3 revenue $10B (The Information). Anthropic backers marketing up to $500M of IPO shares.\n- **Baltics airspace scare (~17:00 ET, Financial Juice):** NATO fighters were scrambled over an object flying from Belarus toward the Baltics, and Latvia told people in the Ludza region to seek shelter. Nothing further yet; futures were in the maintenance break. Watch the 6 PM reopen.\n- **API crude** −9.8M (forecast −1M), distillates −8M, Cushing +5.1M, gasoline +2.7M. WTI barely moved.\n\nWednesday levels from the 4:00 recap still stand (Veterans Day, bond market closed, stocks open): SPY PDH 752.11 / PDL 744.90 / PDC 749.94 (pivot 749–752, 754 sign line); QQQ PDH 680.80 / PDL 667.08 / PDC 674.81 (675–681 pivot); IWM PDH 281.30 / PDL 277.92 / PDC 280.56 (279–281). Futures: ES ~7566/7493, NQ ~28090/27516, RTY ~2836/2802. ES/NQ are sitting just above their 4 PM closes, inside those ranges. Dealers carry deep short gamma into the session (SPY ~−5B ex-0DTE).\n\n_Information, not advice._\n",
+  "markdown": "# After-hours check Wed Nov 11, 2026 ~5:20 PM ET (Yahoo 1m incl. extended hours, Financial Juice RSS, X DeItaone/FirstSquawk/zerohedge). ALERT sent.\n\n**NVDA headline after the close.** At ~4:55–5:00 PM ET the NYT reported that CEO Jensen Huang had a relationship with an NVIDIA VP who reports to him (Financial Juice 4:56; DeItaone 5:00; FirstSquawk 5:06). Per zerohedge, Huang hung up on the NYT inquiry and NVIDIA declined comment. DeItaone also cited prediction markets at 57% odds Huang leaves before July 2027. This lands on top of today's House China panel deadline for Huang and NVDA earnings on Nov 17.\n\n- **NVDA** 167.31 at 17:18, **−3.8% vs the 4 PM 173.85** and −4.2% from ~174.6 just before the headline (AH low 166.88).\n- Futures went into the 5–6 PM maintenance break right as it hit: **NQ 28444.25 (−0.14% vs 28484.25 at 4 PM)**, slid from an AH high of 28510.50 to a 28424.25 low. ES 7642.75 (flat), RTY 2854.80 (+0.01%). Below the ~0.5% line so far, but NQ only had about 4 minutes to react, so watch the 6 PM reopen.\n- ETFs at ~17:18: **QQQ 688.93 (−0.21%)**, AH low 688.65; SPY 759.35 (−0.06%); IWM 283.17 (+0.04%). (Yahoo shows a lone SPY AH low of 711.46, which looks like a bad print.)\n- Other mega-caps: AMD +1.4%, AVGO +1.3%, MSFT −0.2%, GOOGL −0.4%, META/AAPL/AMZN flat, MU flat, CRWV −1.7%. WTI ~86.42 (+0.1%).\n\nEarnings after the close (none index-moving): TTEK +10.4%, CTVA −6.4%, FNV +1.7%, CAE +0.5%, ENS +0.4%, TNK +0.6%, CART flat. I didn't pull their results.\n\nOther news after the close (Financial Juice):\n- Iran: Ghalibaf (4:22–4:41) says reopening Hormuz needs the US to meet Iran's 7 conditions, and Iran reached an understanding with Oman on the Hormuz shipping lane. (An earlier report that Iran attacked navigation systems on Oman's Didamar island came at 1:04 PM, before the close.) CENTCOM says US forces continue to keep Hormuz open and enforce the blockade.\n- Axios: the Trump-approved curb on AI chips to China hasn't happened yet; Kushner/Witkoff meet Putin Thursday.\n- CNN: Democrat Scott Colom defeated Sen. Cindy Hyde-Smith in the Mississippi Senate race (5:06).\n\n**What it means for Thursday's levels (from the 4:00 recap):**\n- **QQQ is now testing the 688–690 sign band** (NQ ~28400–28480). Lose it and the next shelves are **685.5–686**, the **683.64 PDL (NQ ~28199)**, then the **680 put node**. Dealers are flat gamma ex-0DTE in QQQ, so a move can run more freely.\n- **SPY** holds the 759.6–760.4 pin area (ES ~7640) with +3.6B long gamma ex-0DTE; below are 757–758 and the 754.93 PDL (ES ~7593).\n- **NVDA** sits right on the House-panel/earnings overhang; watch for a company statement and the 6 PM futures reopen.\n\n_Information, not advice._\n",
   "macro_markdown": null,
-  "source_file": "2026-11-10_afterhours.md"
+  "source_file": "2026-11-11_afterhours.md"
 }
