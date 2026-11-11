@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-11T07:51:04-05:00",
-  "count": 50,
+  "updated_at": "2026-11-11T08:49:52-05:00",
+  "count": 51,
   "briefs": [
+    {
+      "date": "2026-11-11",
+      "type": "postdata",
+      "path": "briefs/2026-11-11_postdata.json",
+      "md_path": "briefs/2026-11-11_postdata.md",
+      "generated_at": "2026-11-11T08:50:00-05:00",
+      "summary": "There was no US data at 8:30 (it's Veterans Day; the bond market is closed and stocks are open). Futures were flat from 8:00 to 8:38, the gap-up held, and dealers stayed long gamma. No 9k+ prints. Not"
+    },
     {
       "date": "2026-11-11",
       "type": "premarket",
