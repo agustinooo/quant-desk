@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-11T08:49:58-05:00",
-  "count": 51,
+  "updated_at": "2026-11-11T16:21:27-05:00",
+  "count": 52,
   "briefs": [
+    {
+      "date": "2026-11-11",
+      "type": "close",
+      "path": "briefs/2026-11-11_close.json",
+      "md_path": "briefs/2026-11-11_close.md",
+      "generated_at": "2026-11-11T16:20:00-05:00",
+      "summary": "Chip-led gap-and-go, then a pin at SPY 760. CoreWeave's raised guide (CRWV +24.7%) lit up semis: MU +11.9%, MRVL +9.3%, ORCL +8.8%, INTC +7.5%, AMD +7.3%, AMAT +6.1%, SMH +4.8%. The opening dip found "
+    },
     {
       "date": "2026-11-11",
       "type": "postdata",
