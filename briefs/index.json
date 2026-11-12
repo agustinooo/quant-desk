@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-11T17:19:13-05:00",
-  "count": 53,
+  "updated_at": "2026-11-12T07:50:18-05:00",
+  "count": 54,
   "briefs": [
+    {
+      "date": "2026-11-12",
+      "type": "premarket",
+      "path": "briefs/2026-11-12_premarket.json",
+      "md_path": "briefs/2026-11-12_premarket.md",
+      "generated_at": "2026-11-12T07:50:00-05:00",
+      "summary": "Risk-off in tech on the Nvidia CEO crisis. As of 7:35 ET (Yahoo): NQ 28207 (\u22120.94%), ES 7610.5 (\u22120.39%), RTY 2851.1 (\u22120.09%). NVDA is \u22127.9% pre-market (160.00) after the WSJ reported the board met Wed"
+    },
     {
       "date": "2026-11-11",
       "type": "afterhours",
