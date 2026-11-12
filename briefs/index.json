@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-12T16:20:17-05:00",
-  "count": 56,
+  "updated_at": "2026-11-12T17:10:26-05:00",
+  "count": 57,
   "briefs": [
+    {
+      "date": "2026-11-12",
+      "type": "afterhours",
+      "path": "briefs/2026-11-12_afterhours.json",
+      "md_path": "briefs/2026-11-12_afterhours.md",
+      "generated_at": "2026-11-12T17:10:00-05:00",
+      "summary": "Quiet after hours. Nothing big. Futures are flat versus the 4:00 PM close, and the CSCO/AMAT pops faded back to their closes."
+    },
     {
       "date": "2026-11-12",
       "type": "close",

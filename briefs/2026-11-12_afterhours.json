@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-12",
+  "type": "afterhours",
+  "generated_at": "2026-11-12T17:10:00-05:00",
+  "generated_at_source": "text",
+  "summary": "Quiet after hours. Nothing big. Futures are flat versus the 4:00 PM close, and the CSCO/AMAT pops faded back to their closes.",
+  "futures": {
+    "NQ": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": [
+      "16:05 Anthropic IPO ~6x oversubscribed.",
+      "16:37 DOJ moves to seize $1.2B of crypto stolen from Binance (North Korea actions).",
+      "16:34 Texas port CEO: supertanker squeeze crimping US oil exports.",
+      "17:06 Zelenskiy hopes to work on de-escalation and ceasefires; 17:08 drone debris fire at a plant in Volgograd.",
+      "No new Fed, tariff, or Iran headlines after the 15:28 Trump comments covered in the close recap."
+    ],
+    "cross_asset": {
+      "vix": null,
+      "us10y": null,
+      "dxy": null,
+      "wti": 88.7,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# After-Hours Check, Thu Nov 12, 2026 (pulled ~5:10 PM ET)\n\n**Quiet after hours. Nothing big. Futures are flat versus the 4:00 PM close, and the CSCO/AMAT pops faded back to their closes.**\n\nSources: Yahoo Finance (1m bars incl. extended hours), Financial Juice RSS. Options-implied expected moves were not pulled this run; none of the earnings names are moving enough for it to matter.\n\n## Futures and ETFs vs the 4:00 PM close\n| | 4:00 PM | ~5:00–5:10 PM | Change |\n|---|---|---|---|\n| ES | 7616.25 | 7621.75 | +0.07% |\n| NQ | 28388.25 | 28401.50 | +0.05% |\n| RTY | 2807.60 | 2809.30 | +0.06% |\n| SPY | 757.20 | 757.54 | +0.04% |\n| QQQ | 688.21 | 688.26 | +0.01% |\n| IWM | 278.46 | 278.74 | +0.10% |\n\nWTI ~88.70, unchanged from its $88.74 settle.\n\n## After-close earnings\n- **Cisco (CSCO):** beat and raise (see close recap). Spiked to 110.63 right after the print, then fully faded: **101.93 vs 101.90 close (flat)**.\n- **Applied Materials (AMAT):** beat; AH range 373.35–394.00, now **381.00 vs 381.28 close (flat)**. Read-through for semis is neutral so far.\n- **Cerebras (CBRS):** **113.64 vs 97.81 close (+16%)**, AH range 93.34–117.11. Big single-stock move but not index-moving.\n- **NVDA:** 166.66 vs 166.04 close (+0.4%), AH range 164.77–168.37.\n\n## Headlines since the close (Financial Juice)\n- 16:05 Anthropic IPO ~6x oversubscribed.\n- 16:37 DOJ moves to seize $1.2B of crypto stolen from Binance (North Korea actions).\n- 16:34 Texas port CEO: supertanker squeeze crimping US oil exports.\n- 17:06 Zelenskiy hopes to work on de-escalation and ceasefires; 17:08 drone debris fire at a plant in Volgograd.\n- No new Fed, tariff, or Iran headlines after the 15:28 Trump comments covered in the close recap.\n\n## What it means for Friday\nLevels from the 4:00 PM recap stand unchanged: SPY 757 put node / 760 / 763 PDH, QQQ 689–690 / 680 PDL zone, IWM 278 PDL / 275 put node. All three still short gamma into the 8:30 PPI. Overnight watch: NVDA/DOJ headlines, Iran, the 10-year above 5.1%.\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-12_afterhours.md"
+}
