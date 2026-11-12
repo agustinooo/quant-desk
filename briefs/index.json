@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-12T07:50:18-05:00",
-  "count": 54,
+  "updated_at": "2026-11-12T08:59:02-05:00",
+  "count": 55,
   "briefs": [
+    {
+      "date": "2026-11-12",
+      "type": "postdata",
+      "path": "briefs/2026-11-12_postdata.json",
+      "md_path": "briefs/2026-11-12_postdata.md",
+      "generated_at": "2026-11-12T08:58:00-05:00",
+      "summary": "Nvidia says Jensen Huang has resigned. Colette Kress is interim CEO and the board is searching for a permanent CEO (Financial Juice, 8:48 ET). NVDA was 156.5 at 8:55, down 9.9% on the day and 2.5% sin"
+    },
     {
       "date": "2026-11-12",
       "type": "premarket",
