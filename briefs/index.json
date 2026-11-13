@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-13T07:50:24-05:00",
-  "count": 58,
+  "updated_at": "2026-11-13T08:56:36-05:00",
+  "count": 59,
   "briefs": [
+    {
+      "date": "2026-11-13",
+      "type": "postdata",
+      "path": "briefs/2026-11-13_postdata.json",
+      "md_path": "briefs/2026-11-13_postdata.md",
+      "generated_at": "2026-11-13T08:56:00-05:00",
+      "summary": "PPI came in cooler than expected. Futures popped, and all three ETFs broke their pre-market highs at 8:33, then gave most of it back. SPY dealer gamma flipped from short to long (net \u22120.65B at 7:48 to"
+    },
     {
       "date": "2026-11-13",
       "type": "premarket",

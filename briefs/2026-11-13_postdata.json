@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-13",
+  "type": "postdata",
+  "generated_at": "2026-11-13T08:56:00-05:00",
+  "generated_at_source": "text",
+  "summary": "PPI came in cooler than expected. Futures popped, and all three ETFs broke their pre-market highs at 8:33, then gave most of it back. SPY dealer gamma flipped from short to long (net −0.65B at 7:48 to +1.83B now). Traders priced in less Fed tightening (Financial Juice, 8:35), but Goolsbee was hawkish from 8:40 on.",
+  "futures": {
+    "NQ": {
+      "last": 28384.0,
+      "change_pct": 0.34,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": 7633.0,
+      "change_pct": 0.3,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": 2809.0,
+      "change_pct": 0.36,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 760.5,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": 689.3,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 279.1,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": [
+      "8:40–8:53 Fed's Goolsbee was hawkish: inflation is \"broad-based and going the wrong way\", the Fed \"has work to do\" and \"is not on track to hit 2%\", and the AI build-out is heating up demand.",
+      "8:05–8:23 Bessent questioned whether Nvidia knew its clients and stopped chip leaks, said NVDA \"can move on from founder\", said core inflation is under control, and said he won't hesitate to sanction Iranian banks. Lutnick will testify about NVIDIA on Dec 10 (Fox)."
+    ],
+    "cross_asset": {
+      "vix": 17.74,
+      "us10y": null,
+      "dxy": 103.17,
+      "wti": null,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# 8:45 post-data check, Fri Nov 13 2026 (~8:56 AM ET): ALERT\n\n**PPI came in cooler than expected. Futures popped, and all three ETFs broke their pre-market highs at 8:33, then gave most of it back. SPY dealer gamma flipped from short to long (net −0.65B at 7:48 to +1.83B now).** Traders priced in less Fed tightening (Financial Juice, 8:35), but Goolsbee was hawkish from 8:40 on.\n\n- **Data at 8:30 (Financial Juice):** PPI **+0.3% m/m** vs +0.4% consensus (prior revised up to +1.4%). **6.5% y/y** vs 6.6%. Core **+0.3% m/m** (in line; prior revised to +0.8%) and **5.0% y/y** (in line). The core print stayed below the 0.4% level GGMA flagged as the trigger for 50 bp hike talk.\n- **Headlines since 8:00 (Financial Juice):**\n  - **8:40–8:53** Fed's Goolsbee was hawkish: inflation is \"broad-based and going the wrong way\", the Fed \"has work to do\" and \"is not on track to hit 2%\", and the AI build-out is heating up demand.\n  - **8:05–8:23** Bessent questioned whether Nvidia knew its clients and stopped chip leaks, said NVDA \"can move on from founder\", said core inflation is under control, and said he won't hesitate to sanction Iranian banks. Lutnick will testify about NVIDIA on Dec 10 (Fox).\n- **Futures (Yahoo 1m; 8:00 vs ~8:46):**\n  - **NQ** 28384 to **28481 (+0.34%)**. The high was **28584 at 8:33 (+0.70% from 8:00)**, above the overnight high cited at 7:35 but below the 28608 ONH.\n  - **ES** 7633 to **7656 (+0.30%)**. The high was **7669 at 8:33 (+0.48%)**, above the 7650 ONH.\n  - **RTY** 2809 to **2820 (+0.36%)**. The high was 2829 at 8:33, above the 2817 ONH.\n  - **VIX 17.74** (from 18.32 at 8:00, −3.2%), with a low of 17.64 at 8:35. The **10-year** is at 5.13%; it dipped from 5.15% at 8:25 on the print. DXY 103.17 (flat). NVDA 169.4 (+0.5% since 8:00; low 165.8 at 8:11).\n- **ETFs vs the 8:00 levels (Yahoo/Quant Data 1m, 8:55):** all three broke their PMH at 8:33, then faded.\n  - **SPY 760.5.** The new PMH is **762.64** (was 759.69). It's **still above the old PMH** and short of the PDH 763.04.\n  - **QQQ 689.3.** The new PMH is **693.13** (was 690.40). It's **back inside the old PM range** and below the 690 lid. The PDH 694.56 wasn't reached.\n  - **IWM 279.1.** The new PMH is **280.65** (was 279.26). It's **back inside the old PM range**, and it tagged the 280 sign change.\n  - The PMLs are unchanged: SPY 755.80, QQQ 685.01, IWM 277.87.\n- **GEX re-pull (Quant Data API, 8:55 vs 7:48):**\n  - **SPY flipped to long gamma**, with a net of **+1.83B all / +0.92B ex-0DTE** (was −0.65 / −0.61).\n    - Calls: 800 (+0.90B), 770 (+0.53B), 780, 764 (+0.53B), 785, 769.\n    - Puts: **750 (−0.56B)**, 735, 757 (−0.37B), 763 (−0.35B), 740.\n    - Sign changes: 755/756, 760, 763/764.\n  - **QQQ is still short, but lighter**: **−0.43B all / −0.32B ex** (was −0.77 / −0.34).\n    - The **700 call wall grew to +0.99B**. Other calls are at 720, 695 and 710.\n    - Puts: **680 (−0.91B)**, **685 (−0.74B, mostly 0DTE)**, 650, 690 (−0.36B).\n    - The sign change is at 689–692.\n  - **IWM:** −0.47B / −0.23B (barely changed). The 285 call node is +0.28B. Puts are at 277, 268, 275 and 276. The sign change is at 279–281.\n  - Dark pool prints are small: SPY 758.9–759.6, 761.8 and 762.5, QQQ 688.2 and 689.6, IWM 279.1 and 280.6.\n- **9,000+ prints (Quant Data unconsolidated flow, today):** **none** in any ticker so far.\n- **Read:** this was a benign inflation print, and the pop met sellers right away, with Goolsbee leaning against it. QQQ and IWM gave back the whole break. SPY moving into long gamma means it's more likely to pin or mean-revert around 760–764 than trend. QQQ is still short gamma between the 685 and 680 put nodes and the 700 wall, so it can still extend either way. The 8:33 spike highs are now the new PM highs to clear.\n- **Updated game plan (Team2 rules: re-mark PMH/PML at 9:29, nothing before 9:45, wait for a 15-min body close, Friday so size light):**\n  - **SPY:** the PM range is now 755.8–762.6. A close above 762.6 targets 763–764 (PDH, the put node and the 764 call node), then 769–770. Losing 759.7 (the old PMH) points back to 757, then 755.8. With long gamma, expect a range more than a trend.\n  - **QQQ:** the PM range is now 685.0–693.1. A close above 693.1 targets 694.6–695 (PDH and the 695 call node), then 700. A close back under 688 points to 685 (PML and the put node), then 680.\n  - **IWM:** the PM range is now 277.9–280.65. A close above 280.65 targets 281–281.9. Losing 278 (PDL/PDC) points to 277, then 275.\n  - **Futures equivalents (approx.):** ES 7644 (old PMH), 7669 (spike high), 7678 (PDH). NQ 28503 (old PMH), 28584 (spike high), 28674 (PDH).\n\n**Sources:** Financial Juice RSS (data and headlines), Yahoo Finance 1m (futures, VIX, 10-year, ETFs), and the Quant Data API on the user's account (GEX by strike, price, dark pool, and 9k+ flow, pulled 8:55 ET). The browser My Pages tabs weren't opened, so the contract-flow Session Date wasn't touched. Information only, not advice.\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-13_postdata.md"
+}
