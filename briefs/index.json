@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-12T17:10:26-05:00",
-  "count": 57,
+  "updated_at": "2026-11-13T07:50:24-05:00",
+  "count": 58,
   "briefs": [
+    {
+      "date": "2026-11-13",
+      "type": "premarket",
+      "path": "briefs/2026-11-13_premarket.json",
+      "md_path": "briefs/2026-11-13_premarket.md",
+      "generated_at": "2026-11-13T07:48:00-05:00",
+      "summary": "Calm, inside-range open into the 8:30 PPI. As of 7:35 ET (Yahoo): ES 7632.25 (+0.22%), NQ 28399 (+0.05%), RTY 2810.8 (+0.12%). All three ETFs are trading inside both Thursday's range and their own pre"
+    },
     {
       "date": "2026-11-12",
       "type": "afterhours",
