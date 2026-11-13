@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-13T08:56:36-05:00",
-  "count": 59,
+  "updated_at": "2026-11-13T16:20:22-05:00",
+  "count": 60,
   "briefs": [
+    {
+      "date": "2026-11-13",
+      "type": "close",
+      "path": "briefs/2026-11-13_close.json",
+      "md_path": "briefs/2026-11-13_close.md",
+      "generated_at": "2026-11-13T16:18:00-05:00",
+      "summary": "Cool PPI pop got sold. The NVDA scandal spread to the whole chip complex, and QQQ took the hit. PPI came in cool at 8:30 (+0.3% m/m vs +0.4%), but the open reversed at 9:30. New reports tied Dell serv"
+    },
     {
       "date": "2026-11-13",
       "type": "postdata",
