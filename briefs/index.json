@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-16T07:48:22-05:00",
-  "count": 62,
+  "updated_at": "2026-11-16T08:56:15-05:00",
+  "count": 63,
   "briefs": [
+    {
+      "date": "2026-11-16",
+      "type": "postdata",
+      "path": "briefs/2026-11-16_postdata.json",
+      "md_path": "briefs/2026-11-16_postdata.md",
+      "generated_at": "2026-11-16T08:56:00-05:00",
+      "summary": "Empire State missed badly: 7.8 vs 18 consensus (prior 25.5). Futures barely moved, but dealers went sharply shorter gamma: SPY went from \u22120.32B to \u22121.91B and QQQ from \u22121.76B to \u22123.06B. That means move"
+    },
     {
       "date": "2026-11-16",
       "type": "premarket",
