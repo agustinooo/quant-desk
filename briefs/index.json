@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-13T17:14:31-05:00",
-  "count": 61,
+  "updated_at": "2026-11-16T07:48:22-05:00",
+  "count": 62,
   "briefs": [
+    {
+      "date": "2026-11-16",
+      "type": "premarket",
+      "path": "briefs/2026-11-16_premarket.json",
+      "md_path": "briefs/2026-11-16_premarket.md",
+      "generated_at": "2026-11-16T07:45:00-05:00",
+      "summary": "Risk-off Monday, led by chips. At 7:35 ET (Yahoo): NQ 27633 (\u22121.43%), ES 7532 (\u22120.67%), RTY 2782 (\u22120.55%). All three are near their overnight lows (NQ ONL 27554, ES ONL 7520, at 7:25\u20137:30). QQQ (671.5"
+    },
     {
       "date": "2026-11-13",
       "type": "afterhours",
