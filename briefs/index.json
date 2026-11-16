@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-16T08:56:15-05:00",
-  "count": 63,
+  "updated_at": "2026-11-16T16:27:41-05:00",
+  "count": 64,
   "briefs": [
+    {
+      "date": "2026-11-16",
+      "type": "close",
+      "path": "briefs/2026-11-16_close.json",
+      "md_path": "briefs/2026-11-16_close.md",
+      "generated_at": "2026-11-16T16:25:00-05:00",
+      "summary": "Chips led a trend day lower into NVDA earnings. All three ETFs lost this morning's floors on the 9:45\u201310:00 closes and closed near the lows. The semis index fell 5.3% and all 30 of its names were down"
+    },
     {
       "date": "2026-11-16",
       "type": "postdata",
