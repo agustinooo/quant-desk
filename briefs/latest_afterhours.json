@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "date": "2026-11-13",
+  "date": "2026-11-16",
   "type": "afterhours",
-  "generated_at": "2026-11-13T17:15:00-05:00",
+  "generated_at": "2026-11-16T17:15:00-05:00",
   "generated_at_source": "text",
-  "summary": "Nothing big. Futures drifted a bit lower into the 5:00 PM weekend halt, well short of the 0.5% bar. The national FAA ground stop is the main headline, and officials say it is not a cyberattack.",
+  "summary": "Nothing big. ES/NQ were flat into the 5:00 PM halt (−0.04% / −0.02% vs 15:59), far below the 0.5% bar. No index movers reported tonight; NVDA reports tomorrow after the close.",
   "futures": {
     "NQ": {
       "last": null,
@@ -99,24 +99,25 @@
     "calendar": null,
     "earnings": null,
     "headlines": [
-      "FAA nationwide ground stop (16:10–17:09): ATC frequency/radar problems that started in the Northeast spread nationwide. About 7,000 US flights were delayed or cancelled (FlightAware, 16:34). CNN and the FBI say it doesn't look like a cyberattack or a crime. The FBI will look at whether a software update caused it. The National Weather Service also reported nationwide internet and communications problems (17:01). DHS: \"no cause for public alarm.\" Watch airlines and travel names on Monday.",
-      "16:12 Trump will meet Putin and Xi next Thursday in Shenzhen (NYP).",
-      "16:00–16:02 Fed Financial Stability Report: AI is the most-cited risk, hedge-fund leverage is the highest since 2013, and it warns of a disorderly rise in yields.",
-      "13F filings: Soros cut NVDA (−19%), MSFT (−36%) and AMZN (−11%), and added MU and INTC.",
-      "16:23 Semafor: Nvidia wasn't discussed at Trump's AI task force meeting.",
-      "No new Fed, tariff or Iran headlines after the 15:47 Hormuz tanker mines story from the close recap."
+      "16:34–16:35 UKMTO: another tanker attacked transiting the Strait of Hormuz (7nm north of Khasab, Oman), vessel disabled with an engine-room fire. That follows the 4 mine strikes from the close recap. Oil barely reacted (WTI −0.6% AH).",
+      "16:38 Sirens after a drone over the Khor Mor gas field in Iraqi Kurdistan.",
+      "16:27–16:28 JPM: \"not a systemic issue,\" no evidence it's cyber-related, working to resolve by end of day.",
+      "16:46–16:48 13F: NVDA cut its INTC stake 25% and its SNPS stake 9.7%.",
+      "16:04–16:07 GOOGL: early frontier-AI cybersecurity access for Japan (Nikkei).",
+      "17:07–17:11 Ex-CFPB director Chopra on AI-trade risk to the real economy. Commentary, not policy.",
+      "No new Fed, tariff, or chip-export headlines after the close."
     ],
     "cross_asset": {
-      "vix": 19.3,
+      "vix": 22.91,
       "us10y": null,
       "dxy": null,
-      "wti": 88.93,
+      "wti": 85.06,
       "brent": null,
       "gold": null
     }
   },
   "takeaway": null,
-  "markdown": "# After-Hours Check, Fri Nov 13, 2026 (pulled ~5:15 PM ET)\n\n**Nothing big. Futures drifted a bit lower into the 5:00 PM weekend halt, well short of the 0.5% bar. The national FAA ground stop is the main headline, and officials say it is not a cyberattack.**\n\nSources: Yahoo Finance (1m bars incl. extended hours), Financial Juice RSS. No mega-cap or major semi reported after Friday's close, so expected moves were not pulled.\n\n## Futures and ETFs vs the 4:00 PM close\n| | 4:00 PM | Last | Change | AH range |\n|---|---|---|---|---|\n| ES | 7575.00 | 7561.00 (16:59 halt) | −0.18% | 7535.25–7586.25 |\n| NQ | 28005.00 | 27927.25 (16:59 halt) | −0.28% | 27766.5–28044.5 |\n| RTY | 2794.90 | 2791.20 (16:59 halt) | −0.13% | 2779.7–2798.1 |\n| SPY | 753.34 | 751.85 (17:13) | −0.20% | 749.26–757.12 |\n| QQQ | 679.04 | 677.04 (17:14) | −0.29% | 673.46–679.99 |\n| IWM | 277.28 | 276.87 (17:14) | −0.15% | 275.80–277.60 |\n\nAgainst the RTH close (15:59: ES 7584.75, NQ 28038.25), ES is −0.31% and NQ −0.40%. Still under 0.5%. CME futures are now closed until Sunday 6:00 PM ET.\n- VIX 19.30 at 16:15 (AH high 19.84). WTI ~88.93, flat.\n- Chips kept leaking: NVDA 161.98 (−0.5% vs the 162.85 close), AMD 527.88 (−0.6%), AVGO 343.19 (−1.0%).\n\n## Headlines since the close (Financial Juice, ET)\n- **FAA nationwide ground stop** (16:10–17:09): ATC frequency/radar problems that started in the Northeast spread nationwide. About 7,000 US flights were delayed or cancelled (FlightAware, 16:34). CNN and the FBI say it doesn't look like a cyberattack or a crime. The FBI will look at whether a software update caused it. The National Weather Service also reported nationwide internet and communications problems (17:01). DHS: \"no cause for public alarm.\" Watch airlines and travel names on Monday.\n- 16:12 Trump will meet Putin and Xi next Thursday in Shenzhen (NYP).\n- 16:00–16:02 Fed Financial Stability Report: AI is the most-cited risk, hedge-fund leverage is the highest since 2013, and it warns of a disorderly rise in yields.\n- 13F filings: Soros cut NVDA (−19%), MSFT (−36%) and AMZN (−11%), and added MU and INTC.\n- 16:23 Semafor: Nvidia wasn't discussed at Trump's AI task force meeting.\n- No new Fed, tariff or Iran headlines after the 15:47 Hormuz tanker mines story from the close recap.\n\n## What it means for Monday\nThe 4:00 PM recap levels stand. SPY's 750 magnet and 747.88 low are just under the 749.26 AH low. QQQ is back under the 680 old-PDL pivot, with 671.71 the next low. IWM's 275 put node sits under the 275.80 AH low. All three are deeply short gamma ex-0DTE, so a weekend headline (NVDA/Huang, Hormuz, the FAA cause) can move the Sunday 6 PM futures open. NVDA earnings are next week's main event.\n",
+  "markdown": "# After-Hours Check, Mon Nov 16, 2026 (pulled ~5:15 PM ET)\n\n**Nothing big. ES/NQ were flat into the 5:00 PM halt (−0.04% / −0.02% vs 15:59), far below the 0.5% bar. No index movers reported tonight; NVDA reports tomorrow after the close.**\n\nSources: Yahoo Finance (1m bars incl. extended hours), Financial Juice RSS. X News search returned nothing new for tonight. Tonight's reporters (ACM, POWL, etc. per the close recap) are not index movers, so expected moves were not pulled.\n\n## Futures and ETFs vs the 4:00 PM close\n| | 15:59 | Last | Change | AH range |\n|---|---|---|---|---|\n| ES | 7441.50 | 7438.50 (16:59 halt) | −0.04% | 7431.00–7444.25 |\n| NQ | 27291.25 | 27285.25 (16:59 halt) | −0.02% | 27246.75–27331.75 |\n| RTY | 2751.60 | 2748.00 (16:59 halt) | −0.13% | 2745.50–2752.50 |\n| SPY | 740.05 | 739.76 (17:12) | −0.04% | ~739.5–740.5 (see note) |\n| QQQ | 661.86 | 661.67 (17:12) | −0.03% | 660.65–662.76 |\n| IWM | 273.01 | 272.40 (17:12) | −0.22% | 272.40–273.00 |\n\n- SPY's Yahoo AH range showed outlier prints at 754.17 (16:00) and 693.73 (16:49). Those are late/odd-lot style prints, not real trading (754.17 matches the late-reported Friday-close dark pool price). Ignore them.\n- VIX 22.91 at 16:15 (from 23.42). WTI ~85.06 (−0.6%).\n- Chips steady after the selloff: NVDA 156.36 (+0.1%), AMD 504.50 (flat), AVGO 333.25 (−0.1%), MU 721.72 (+0.4%), TSM 375.00 (+0.4%). Mega-caps all within ±0.3%.\n- Small caps: ACM +6.0% after earnings (76.91). POWL +0.7%. Not index-relevant.\n\n## Headlines since the close (Financial Juice, ET)\n- **16:34–16:35 UKMTO:** another tanker attacked transiting the Strait of Hormuz (7nm north of Khasab, Oman), vessel disabled with an engine-room fire. That follows the 4 mine strikes from the close recap. Oil barely reacted (WTI −0.6% AH).\n- 16:38 Sirens after a drone over the Khor Mor gas field in Iraqi Kurdistan.\n- 16:27–16:28 **JPM:** \"not a systemic issue,\" no evidence it's cyber-related, working to resolve by end of day.\n- 16:46–16:48 13F: NVDA cut its INTC stake 25% and its SNPS stake 9.7%.\n- 16:04–16:07 GOOGL: early frontier-AI cybersecurity access for Japan (Nikkei).\n- 17:07–17:11 Ex-CFPB director Chopra on AI-trade risk to the real economy. Commentary, not policy.\n- No new Fed, tariff, or chip-export headlines after the close.\n\n## What it means for Tuesday\nThe 4:00 PM recap levels stand unchanged. Futures are sitting right at the closing lows: ES 7438.5 vs PDL 7420.25, NQ 27285 vs PDL 27235, RTY 2748 vs PDL 2741. SPY 738.07 / QQQ 660.48 / IWM 271.97 PDLs are the first tests below, then the 736 / 650 / 270 put magnets. Overhead: SPY 744–747, QQQ 670, IWM 274.6–275. Dealers are deeply short gamma, so the Hormuz tanker attacks are the overnight headline risk, then 8:30 retail sales and NVDA after the close.\n",
   "macro_markdown": null,
-  "source_file": "2026-11-13_afterhours.md"
+  "source_file": "2026-11-16_afterhours.md"
 }

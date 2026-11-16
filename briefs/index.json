@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-16T16:27:41-05:00",
-  "count": 64,
+  "updated_at": "2026-11-16T17:13:36-05:00",
+  "count": 65,
   "briefs": [
+    {
+      "date": "2026-11-16",
+      "type": "afterhours",
+      "path": "briefs/2026-11-16_afterhours.json",
+      "md_path": "briefs/2026-11-16_afterhours.md",
+      "generated_at": "2026-11-16T17:15:00-05:00",
+      "summary": "Nothing big. ES/NQ were flat into the 5:00 PM halt (\u22120.04% / \u22120.02% vs 15:59), far below the 0.5% bar. No index movers reported tonight; NVDA reports tomorrow after the close."
+    },
     {
       "date": "2026-11-16",
       "type": "close",
