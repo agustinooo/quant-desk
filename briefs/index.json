@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-16T17:13:36-05:00",
-  "count": 65,
+  "updated_at": "2026-11-17T07:46:30-05:00",
+  "count": 66,
   "briefs": [
+    {
+      "date": "2026-11-17",
+      "type": "premarket",
+      "path": "briefs/2026-11-17_premarket.json",
+      "md_path": "briefs/2026-11-17_premarket.md",
+      "generated_at": "2026-11-17T07:45:00-05:00",
+      "summary": "A Hormuz scare at 4:20 AM ET has been bought back. Now everything waits on 8:30 retail sales and NVDA after the close. At 7:30 ET (Yahoo): NQ 27410 (+0.46%), ES 7438.5 (\u22120.01%), RTY 2740.9 (\u22120.38%), a"
+    },
     {
       "date": "2026-11-16",
       "type": "afterhours",
