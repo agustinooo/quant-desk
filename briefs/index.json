@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-17T08:50:22-05:00",
-  "count": 67,
+  "updated_at": "2026-11-17T16:26:11-05:00",
+  "count": 68,
   "briefs": [
+    {
+      "date": "2026-11-17",
+      "type": "close",
+      "path": "briefs/2026-11-17_close.json",
+      "md_path": "briefs/2026-11-17_close.md",
+      "generated_at": "2026-11-17T16:25:00-05:00",
+      "summary": "Stocks fell for a second straight day. The low came at 10:54 ET, and all three ETFs broke this morning's floors on the 10:00 15-min close. The flush started around 10:30, when CNN reported the NSA's i"
+    },
     {
       "date": "2026-11-17",
       "type": "postdata",
