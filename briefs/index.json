@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-17T16:26:11-05:00",
-  "count": 68,
+  "updated_at": "2026-11-17T17:10:13-05:00",
+  "count": 69,
   "briefs": [
+    {
+      "date": "2026-11-17",
+      "type": "afterhours",
+      "path": "briefs/2026-11-17_afterhours.json",
+      "md_path": "briefs/2026-11-17_afterhours.md",
+      "generated_at": "2026-11-17T17:12:00-05:00",
+      "summary": "Nothing big for the indexes. NVDA beat and raised, and it's up +2.8% after hours. That's well inside its \u00b18.5% options-implied move. ES/NQ were flat into the 5:00 PM halt (+0.04% / +0.13% vs 15:59), f"
+    },
     {
       "date": "2026-11-17",
       "type": "close",
