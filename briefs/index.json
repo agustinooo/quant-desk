@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-17T07:46:30-05:00",
-  "count": 66,
+  "updated_at": "2026-11-17T08:50:22-05:00",
+  "count": 67,
   "briefs": [
+    {
+      "date": "2026-11-17",
+      "type": "postdata",
+      "path": "briefs/2026-11-17_postdata.json",
+      "md_path": "briefs/2026-11-17_postdata.md",
+      "generated_at": "2026-11-17T08:52:00-05:00",
+      "summary": "Retail sales came in a bit hot (headline +0.2% vs +0.1%, core +0.6% vs +0.4%) and import/export prices were hot. Then at 8:39\u20138:46, Iranian and Israeli media reported US air strikes on Qeshm Island, I"
+    },
     {
       "date": "2026-11-17",
       "type": "premarket",
