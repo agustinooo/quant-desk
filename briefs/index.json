@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-17T17:10:13-05:00",
-  "count": 69,
+  "updated_at": "2026-11-18T07:49:23-05:00",
+  "count": 70,
   "briefs": [
+    {
+      "date": "2026-11-18",
+      "type": "premarket",
+      "path": "briefs/2026-11-18_premarket.json",
+      "md_path": "briefs/2026-11-18_premarket.md",
+      "generated_at": "2026-11-18T07:47:00-05:00",
+      "summary": "NVDA's beat is being sold into, and Waller just turned very hawkish. NVDA is +2.8% (159.84). The board said it won't bring back Huang. From 7:36 to 7:46 ET, Fed's Waller (CNBC) said \"if you are not go"
+    },
     {
       "date": "2026-11-17",
       "type": "afterhours",
