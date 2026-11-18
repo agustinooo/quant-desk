@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-18",
+  "type": "postdata",
+  "generated_at": "2026-11-18T08:55:00-05:00",
+  "generated_at_source": "text",
+  "summary": "The tape is quiet but dealers got shorter gamma. Housing was mixed: starts much hotter than expected, permits much weaker. Futures are up a little from 8:00 (about +0.2–0.3%), VIX eased, and nothing broke a pre-market high or low on the data. The flag is positioning: since the 7:47 pull, SPY net GEX went from −0.83B to −2.54B and IWM went from −0.16B to −1.64B. QQQ is still long gamma (+0.94B). No 9k+ prints yet.",
+  "futures": {
+    "NQ": {
+      "last": 27228.75,
+      "change_pct": 0.3,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": 7373.0,
+      "change_pct": 0.21,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": 2697.0,
+      "change_pct": 0.31,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 735.12,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -2.54,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": 662.26,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": 0.94,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 268.59,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -1.64,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": [
+      "Sen. Scott said Huang and Lutnick agreed to appear before a panel on chips (8:13).",
+      "Saudis see the Houthi war running into 2027 (8:07).",
+      "Bitcoin fell to ~$64.5k on liquidations (X News, 8:31).",
+      "Still ahead today: FOMC minutes at 2:00 PM, Barr 1:35, Williams 2:30, Kashkari 4:15, and PANW after the close."
+    ],
+    "cross_asset": {
+      "vix": 24.28,
+      "us10y": 5.11,
+      "dxy": 103.77,
+      "wti": 83.9,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# 8:45 post-data check, Wed Nov 18 2026 (~8:55 AM ET): ALERT (positioning shift)\n\n**The tape is quiet but dealers got shorter gamma. Housing was mixed: starts much hotter than expected, permits much weaker. Futures are up a little from 8:00 (about +0.2–0.3%), VIX eased, and nothing broke a pre-market high or low on the data. The flag is positioning: since the 7:47 pull, SPY net GEX went from −0.83B to −2.54B and IWM went from −0.16B to −1.64B. QQQ is still long gamma (+0.94B). No 9k+ prints yet.**\n\n- **8:30 data (Financial Juice):**\n  - Housing starts **1.309M** vs 1.25M expected (prior revised to 1.191M). M/m **+9.9%** vs +2.4%.\n  - Building permits **1.295M** vs 1.375M expected (prior 1.398M). M/m **−7.4%** vs −1.7%.\n  - The two misses point in opposite directions, so it's a low-impact release. It doesn't change the hawkish Fed story from Waller earlier this morning.\n- **Headlines since 8:00 (Financial Juice, X News):** nothing market-moving.\n  - Sen. Scott said Huang and Lutnick agreed to appear before a panel on chips (8:13).\n  - Saudis see the Houthi war running into 2027 (8:07).\n  - Bitcoin fell to ~$64.5k on liquidations (X News, 8:31).\n  - Still ahead today: **FOMC minutes at 2:00 PM**, Barr 1:35, Williams 2:30, Kashkari 4:15, and PANW after the close.\n- **Futures and cross-asset (Yahoo 1m, delayed; last bar ~8:42; change from 8:00):**\n  - **NQ** 27228.75 → **27309.25 (+0.30%)**. Low 27177.25 at 8:07, high 27326 at 8:42.\n  - **ES** 7373 → **7388.25 (+0.21%)**. Low 7363 at 8:07.\n  - **RTY** 2697 → **2705.3 (+0.31%)**.\n  - **VIX 24.28** (−1.5% vs 8:00).\n  - **10-year 5.11%** (5.12% at 8:23). DXY 103.77 (−0.07%). WTI 83.90 (−0.3%).\n  - NVDA 160.17 (+0.1% since 8:00).\n- **ETFs vs pre-market levels (~8:52): no breaks.**\n  - **SPY 735.12**, inside its PM range (732.54–737.39). It's sitting in the 735–736 per-strike sign-change band, just under the 736 put node and PMH.\n  - **QQQ 662.26**, inside its PM range (658.61–665.18) and just under PDH 663.36.\n    - Yahoo printed a 656.95 low at 8:01. That's a bad tick: the bars before and after it are at 660.4+ and the Quant Data 1m low for that minute is 660.48. I'm ignoring it.\n  - **IWM 268.59**, back above PDL 267.86. The PM low was extended to **267.47 at 7:57**, before the data, so the PM range is now **267.47–269.76**.\n\n## GEX re-pull (Quant Data API, ~8:53 vs 7:47)\n- **SPY −2.54B all / −2.93B ex-0DTE** (was −0.83 / −0.97). That's shorter gamma, but still nothing like the −15B to −29B regime in the history file.\n  - Puts: **700 (−0.97B)**, 718 (−0.39B, new), **724 (−0.37B)**, **722 (−0.36B)**, **736 (−0.35B, at spot)**.\n  - Calls: **750 (+0.38B)**, 800 (+0.36B), **745 (+0.34B)**, **740 (+0.29B)**, 755.\n  - Sign changes at **735 / 736 / 738**. There's no cumulative flip near spot.\n- **QQQ +0.94B all / +0.64B ex** (was +0.75 / +0.56). Still long gamma, so expect pinning.\n  - Puts: **650 (−0.49B)**, 640 (−0.45B), 630, 645.\n  - Calls: **700 (+0.65B)**, 680 (+0.35B), 720, 690.\n  - Sign changes at 656 / 658 / **661 / 663 / 664**, so 661–664 is the pin band. The cumulative flip is far up at 710.\n- **IWM −1.64B** (was −0.16B). **That's the biggest shift.** Put magnets now sit right at and under spot:\n  - Puts: **266 (−0.33B)**, **268 (−0.30B)**, **267 (−0.23B)**, 261, 260.\n  - Calls are thin: 272 (+0.07B), 273, 271.\n  - Sign change at **271**.\n- **Dark pool today:** **SPY 732.15, a single ~$0.95B block** (about the PM low area). The rest are small prints at 733–736. QQQ 660.5–661.0. IWM is small.\n\n## 9,000+ contract flow\n**None so far today.** The unconsolidated flow endpoint returned 0 rows at the 9k+ size filter. That fits pre-market, and a lack of prints doesn't mean calm.\n\n## Updated levels and game plan (Team2Trading + GEX)\nNo trading inside the PM range, and nothing before 9:45 ET.\n\n- **SPY:**\n  - Long: 15-min close above **737.4** (PMH / 736 put node) and calls toward **739.76–740** (PDH / call node), then 745.\n  - Short: lose **732.5** (PML; the $0.95B dark-pool block is at 732.15) and puts toward **727 / 726** (PDL / put node), then 724 / 722.\n  - Shorter gamma means moves through these levels can run further than they would have this morning.\n- **QQQ:**\n  - Long gamma, so expect a pin around **661–664**.\n  - Long: 15-min close above **665.2** (PMH) and calls toward **669.85–670**. Reclaiming PDH 663.4 is the first tell.\n  - Short: lose **658.6** (PML) and puts toward 655, then **650** (put magnet).\n- **IWM:**\n  - Short gamma with put magnets at **266–268**. Expect faster moves either way.\n  - Short: 15-min close below **267.47 / 267.86** (PML / PDL) and puts toward **266**, then 261 / 260.\n  - Long: reclaim **269.76** (PMH) and calls toward **271** (sign change), then 272.\n\nInformation, not advice.\n\n**Sources:** Financial Juice RSS (8:30 actuals vs forecasts, headlines), X News search, Yahoo Finance 1m (futures, VIX, 10-year, DXY, CL, ETFs), and the Quant Data API on the user's account (GEX by strike, 1m prices, 9k+ unconsolidated flow, dark pool).\n\n**Caveats:**\n- Positioning came from the Quant Data API, not the browser My Pages. I didn't change the 'contract flow' Session Date (May 29, 2026).\n- Yahoo futures quotes are delayed about 10 minutes.\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-18_postdata.md"
+}

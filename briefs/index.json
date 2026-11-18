@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-18T07:49:23-05:00",
-  "count": 70,
+  "updated_at": "2026-11-18T08:54:03-05:00",
+  "count": 71,
   "briefs": [
+    {
+      "date": "2026-11-18",
+      "type": "postdata",
+      "path": "briefs/2026-11-18_postdata.json",
+      "md_path": "briefs/2026-11-18_postdata.md",
+      "generated_at": "2026-11-18T08:55:00-05:00",
+      "summary": "The tape is quiet but dealers got shorter gamma. Housing was mixed: starts much hotter than expected, permits much weaker. Futures are up a little from 8:00 (about +0.2\u20130.3%), VIX eased, and nothing b"
+    },
     {
       "date": "2026-11-18",
       "type": "premarket",
