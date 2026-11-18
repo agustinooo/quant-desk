@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-18T16:24:41-05:00",
-  "count": 72,
+  "updated_at": "2026-11-18T17:06:39-05:00",
+  "count": 73,
   "briefs": [
+    {
+      "date": "2026-11-18",
+      "type": "afterhours",
+      "path": "briefs/2026-11-18_afterhours.json",
+      "md_path": "briefs/2026-11-18_afterhours.md",
+      "generated_at": "2026-11-18T17:07:00-05:00",
+      "summary": "Nothing big for the indexes. ES/NQ/RTY were flat into the 5:00 PM halt: \u22120.05% / \u22120.11% / \u22120.05% vs 15:59, far below the 0.5% bar. PANW beat and raised and is up +8.3% after hours. That's inside its ~"
+    },
     {
       "date": "2026-11-18",
       "type": "close",

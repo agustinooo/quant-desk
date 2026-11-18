@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "date": "2026-11-18",
-  "type": "close",
-  "generated_at": "2026-11-18T16:22:00-05:00",
+  "type": "afterhours",
+  "generated_at": "2026-11-18T17:07:00-05:00",
   "generated_at_source": "text",
-  "summary": "A mixed close: the Nasdaq finished green, the S&P went red, and the Dow lost more than 1%.",
+  "summary": "Nothing big for the indexes. ES/NQ/RTY were flat into the 5:00 PM halt: −0.05% / −0.11% / −0.05% vs 15:59, far below the 0.5% bar. PANW beat and raised and is up +8.3% after hours. That's inside its ~±11.8% options-implied move. Cyber names followed it higher: CRWD +5.4%, OKTA +4.0%, ZS +2.2%. No major new Fed, tariff, or geopolitical shock after the close.",
   "futures": {
     "NQ": {
       "last": null,
@@ -27,7 +27,7 @@
   },
   "tickers": {
     "SPY": {
-      "spot": 731.06,
+      "spot": null,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -42,13 +42,13 @@
       "game_plan": null
     },
     "QQQ": {
-      "spot": 661.1,
+      "spot": null,
       "pdh": null,
       "pdl": null,
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": -3.81,
+      "net_gex_b": null,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
@@ -57,13 +57,13 @@
       "game_plan": null
     },
     "IWM": {
-      "spot": 270.39,
+      "spot": null,
       "pdh": null,
       "pdl": null,
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": -5.82,
+      "net_gex_b": null,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
@@ -97,19 +97,37 @@
   "big_flow": [],
   "macro": {
     "calendar": null,
-    "earnings": null,
-    "headlines": null,
+    "earnings": [
+      "PANW: 370.60 (+8.3%), AH range 324.00–381.68 (high 16:38). Implied move ~±11.8% (TipRanks/OptionSkew), so the reaction is inside it.",
+      "Non-GAAP EPS $1.05 vs $0.97. Revenue $3.45B vs ~$3.31B. NGS ARR $9.73B (+66%).",
+      "FY guidance raised: revenue $14.52–14.57B, EPS $4.26–4.30. Plans to acquire Applied Compute.",
+      "Sympathy: CRWD +5.4%, OKTA +4.0%, ZS +2.2%. These are not index-moving."
+    ],
+    "headlines": [
+      "Fed's Kashkari, 16:17–16:28:",
+      "\"Fed is clearly missing on the inflation side.\"",
+      "\"Markets believe the Fed will have to hike more than officials expect.\"",
+      "Demand is surprisingly strong, and AI investment creates concentration risk.",
+      "That keeps today's hawkish tone (minutes, Barr, Daly) going.",
+      "Moody's on the US, 16:53–16:55: growth has been stronger than expected. It expects the debt limit to be raised or suspended. It sees higher rates, energy prices, and AI capex normalization slowing growth.",
+      "16:37 GOOGL: Pichai says Gemini 4 Neon starts rolling out today.",
+      "16:16 Iran: says it has exercised \"maximum restraint\" in its defensive strikes.",
+      "16:02 ABC: US action on China is unlikely during Trump's Asia trip.",
+      "Korea, 17:04–17:05: Lee and Putin reached an agreement on easing tensions on the Korean peninsula.",
+      "BoJ poll, 17:00: 86% of economists expect a hike to 1.50% in December.",
+      "Anthropic (ANT): IPO pricing hasn't been reported yet. The range is $70–78, with talk of up to $85. It lists Thursday."
+    ],
     "cross_asset": {
       "vix": 24.56,
       "us10y": 5.07,
-      "dxy": 103.79,
-      "wti": null,
-      "brent": 91.95,
-      "gold": 3729.0
+      "dxy": null,
+      "wti": 81.94,
+      "brent": null,
+      "gold": 3726.5
     }
   },
   "takeaway": null,
-  "markdown": "# Close Recap, Wed Nov 18, 2026 (pulled ~4:22 PM ET)\n\n**A mixed close: the Nasdaq finished green, the S&P went red, and the Dow lost more than 1%.**\n- **Morning:** NVDA's beat got sold. Stocks bottomed at **11:21 ET**: SPY swept PDL by 21¢ but **held it on the 15-min close**.\n- **Midday:** a bounce into 12:30–13:45.\n- **2:00 PM:** the hawkish FOMC minutes faded the bounce.\n- **Index closes:** **SPY −0.31%, QQQ +0.39%, IWM +0.39%. S&P 500 7323.63 (−0.23%), Nasdaq 24429.89 (+0.42%), Dow 50198.17 (−1.11%).** UNH (−8.6% on the CMS \"CRUSH\" Medicare Advantage audit proposal) dragged the Dow.\n- **After hours:** **PANW beat and raised.** It traded **366.43 (+7.1%)** at 16:22.\n\n**Positioning:** dealers are **deep short gamma in all three**.\n- **SPY −12.78B.**\n- **QQQ −3.81B.** It flipped from **+0.94B long gamma** this morning.\n- **IWM −5.82B.**\n\n**Sources:**\n- Quant Data API on your account (GEX by strike, 1m prices, dark pool, 9k+ unconsolidated flow; pulled 4:22 PM ET).\n- Yahoo Finance (1m/15m bars, futures, indexes, cross-asset).\n- Financial Juice RSS.\n- X News.\n- Reuters via Boursorama, Yahoo Finance live blog.\n- Investing.com (UNH, tomorrow's calendar).\n- PR Newswire and Seeking Alpha (PANW).\n\n**Caveats:**\n- Positioning came from the Quant Data API, not the browser My Pages. The 'contract flow' Session Date wasn't touched (it stays May 29, 2026), and I added no filters. I didn't check the browser sign-in; the API key worked.\n- The Financial Juice feed only goes back to about 11:34 ET, so I couldn't confirm the exact headline behind the 11:21 low.\n- Futures are vs Tuesday's settle and use Yahoo's 16:11 bar.\n\n## Closes (RTH, ET)\n| | Close | % | High | Low |\n|---|---|---|---|---|\n| SPY | 730.20 | −0.31% | 735.06 (9:32) | 726.79 (11:21) |\n| QQQ | 659.51 | +0.39% | 662.80 (10:00) | 653.06 (11:21) |\n| IWM | 270.11 | +0.39% | 272.36 (12:33) | 267.90 (9:30) |\n| ES | 7338.50 | −0.28% | 7388.75 (9:32) | 7305.25 (11:21) |\n| NQ | 27185.25 | +0.41% | 27325.50 (10:00) | 26921.75 (11:21) |\n| RTY | 2720.40 | +0.34% | 2744.50 (12:33) | 2699.30 (9:30) |\n\n- **After hours (16:21):** SPY 731.06, QQQ 661.10, IWM 270.39.\n- **Movers:**\n  - **Up:** AMD **+5.3%** (closed at its high), AMZN +3.8%, AVGO +3.6%, CSCO +2.2%, GOOGL +0.8%, PANW **+9.9%** into the print (the cyber rally also lifted CRWD and OKTA, per X News).\n  - **Retail beats:** TJX **+8.1%**, TGT **+4.0%**, LOW +1.1%.\n  - **Down:** NVDA **−2.9% (150.96, low 150.40 at 15:23)**, CRWV −4.1%, MRVL −2.2%, MU −1.0%, ORCL −1.0%, SMH −0.1%.\n- **Cross-asset:**\n  - **VIX 24.56 (−3.5%)**, with a high of 26.26 at 9:49 and a low of 23.45 at 13:44.\n  - **10-year 5.07% (−4 bp)**, range 5.05–5.12%. The 20-year auction came at a 5.459% high yield, with bid-to-cover 2.63 (prior 2.73).\n  - **DXY 103.79 (+0.3%).**\n  - **Oil:** WTI settled **$83.26 (−3.20%)**, Brent $91.95 (−1.28%) (Financial Juice).\n  - **Gold 3729 (−3.5%).**\n\n## Morning levels: held or broke\n**SPY** (PM range 732.54–737.39):\n- Lost PML. The 10:00 15-min bar closed at 732.37, which triggered the short toward **727/726 (PDL/put node)**. **It hit:** low 726.79 at 11:21.\n- That was a **15-min sweep of PDL 727.00**: the 11:15 bar closed at 728.67 and the 11:30 bar at 727.82. **The PDL floor held on the closes.** The 724/722 put nodes were never reached.\n- **PMH 737.39 and PDH 739.76 / 740 were never tested** (high 735.06).\n\n**QQQ** (PM range 658.61–665.18):\n- The 9:45 bar reclaimed 660.89. Then the 11:00 bar closed at 656.30, below PML, and price ran to **655 (hit)** with a low of **653.06**.\n- The **650/651 put magnet** wasn't reached.\n- **PDH 663.36 capped it all day** (high 662.80). That was the confluence lid.\n\n**IWM** (PM range 267.47–269.76):\n- **PDL 267.86 held** (low 267.90 on the open).\n- The 9:45 bar closed at 270.92, above PMH, which triggered the long toward **271, then 272**. **It hit 272.36 at 12:33.**\n- **PDH 273.05 / 273 call node was the lid and held.**\n\n## Drivers (times ET)\n- **NVDA sold the beat.**\n  - Interim CEO Kress said the board won't bring back Huang. That was repeated at an employee townhall (Financial Juice, 15:14).\n  - FT reported NVDA is pulling forward pay raises and equity awards to December (15:43).\n  - Reuters cited uncertainty around Huang's exit.\n- **Fed, hawkish all day:**\n  - **Waller (morning):** \"50 bps now.\"\n  - **Daly 12:27:** \"inflation too high for too long,\" supports a measured approach.\n  - **Barr 13:35:** supports raising rates further if the economy performs as expected.\n  - **FOMC minutes 14:00:** \"almost all officials saw further action likely appropriate.\" **A couple said a December hike of more than 25 bp may be warranted.** Some favored a 25 bp hike in October.\n  - **Market reaction to the minutes:** SPY fell from 733.7 to 729.9 and QQQ from 662.1 to 657.9 in the 14:00 bar.\n  - **Kashkari 16:15:** wants inflation expectations kept anchored; demand has been \"surprising.\"\n- **Healthcare:** UNH −8.6% and HUM down more than 10% on the CMS CRUSH audit proposal (X News, Investing.com). That's why the Dow underperformed.\n- **Geopolitics and oil:**\n  - **Bandar Abbas explosions:** social media speculated about US strikes. A local official said they came from disposing of unexploded ordnance (X News).\n  - **Iranian drones over Kuwait and Bahrain** were intercepted (X News).\n  - **Hegseth 13:21:** the oil deal makes Hormuz a \"non-factor.\"\n  - **Iran army 15:07:** three tankers hit sea mines east of Hormuz.\n  - **Houthis 15:09:** they targeted Riyadh.\n  - Oil fell anyway.\n- **AI and IPO:** Anthropic is weighing an IPO price of **up to $85** (Financial Juice 15:39). The range is $70–78, and it prices tonight and lists Thursday. A House China panel is pressing **MSFT over selling AI to ByteDance** (15:08).\n- **Data:** at 8:30, housing starts came in at 1.309M (hot) and permits at 1.295M (weak).\n\n## End-of-day positioning (Quant Data, 4:22 PM)\n**No cumulative gamma flip near spot in any of them.** The \"flip area\" below is the per-strike sign-change band.\n\n**SPY** (spot 730.09): net **−12.78B** all / −10.64B ex-0DTE. That's up from −2.54B at 8:53 and in line with yesterday's −12.84B close.\n- **Puts:** **730 (−1.92B, at spot)**, 700 (−1.39B), **728 (−1.08B)**, 718 (−0.73B), 724 (−0.62B).\n- **Calls (thin):** 800 (+0.42B), 790, 740 (+0.16B).\n- **Sign changes:** **725/726** below and **738–744** above.\n- **Dark pool:** **730.53 ($2.45B) + 730.54 ($1.08B)** and **732.21 ($1.76B)**.\n\n**QQQ** (659.61): net **−3.81B** all / −3.83B ex-0DTE, **flipped from +0.94B this morning**. The pinning regime is gone, so expect bigger moves.\n- **Puts:** **650 (−0.82B)**, 640 (−0.54B), 670 (−0.47B), 660 (−0.41B), 680.\n- **Calls:** 700 (+0.25B), 662 (+0.20B, 0DTE), 720.\n- **Sign changes:** **659–661** and 668–673.\n- **Dark pool:** 656.93 ($0.34B), 659.51.\n\n**IWM** (269.95): net **−5.82B** all / −4.76B ex-0DTE.\n- **Puts:** **270 (−1.98B; −0.89B ex-0DTE)**, 268, 267, 266, 263.\n- **Calls:** almost none (300 is the largest at +0.07B).\n- **Sign changes:** **272.5–275**.\n- **Dark pool:** small prints at 270.0–270.7.\n\n## 9,000+ contract flow (162 prints)\n**Index ETFs:**\n- **SPY:**\n  - **13:21:** Nov 20 730P, **19.6k sold below the bid, opening ($10.1M)**. That's put selling at spot.\n  - **15:02:** Mar '27 610P, **15k sold at the bid, opening ($10.5M)**. Tail puts sold.\n  - **10:40:** Nov 20 716P/718P, 12.5k, closed.\n  - **10:57:** Nov 20 720P, 9k bought at the ask.\n- **QQQ:**\n  - **11:19 (at the low):** Dec 675C bought at the ask, 10k ($13.6M), against Mar '27 675C sold at the bid ($33.8M). A calendar spread.\n  - **13:51:** Dec 665P, **15k sold at the bid, opening, in the money ($33.5M)**.\n  - **15:04:** Nov 27 677C, **12k at the ask, opening ($6.9M)**.\n  - **15:25:** a Dec 640P/680C/710C/550P book was closed out.\n- **IWM:** Dec 258P/257P, 9.3k (16:03, after the close).\n\n**Single names:**\n- **MSFT, 11:51:** Nov 20 420C closed ($77.8M) and rolled to **Mar '27 450C at the ask (9.5k, $71.9M)**. That's a deep-ITM bullish roll-out.\n- **NVDA:**\n  - **10:32:** Feb '27 175C/185C call spread, **51,264 each, opening** ($38.4M bought / $25.8M sold).\n  - **10:12:** Jun '27 130P, **27k sold at the bid, opening ($26.9M)**.\n  - **10:16:** Dec 170C (25k) and Dec 205C (36k), sold at the bid, opening. That looks like call overwriting.\n- **VIX:** Dec 21P/21.5P (32.6k) closed at the ask at 14:08, plus a restructuring of upside calls (Dec 33/80C into Jan 40/90C).\n- **Other:** GDX (9 prints, about $87M in puts) and XLE (12) were busy.\n\n**Read:** SPY and QQQ saw **put selling at the bid at and after the lows**, with SPY GEX at −12.8B. Upside call structure showed up in MSFT, NVDA, and QQQ.\n- That leans toward the snap-back setup in your history file (deep negative gamma, put selling at the bid, then a catalyst).\n- But −12.8B is shallower than the −15B to −23B analogs, and the Fed tone is hawkish.\n- Short gamma means bigger moves in either direction. Information, not advice.\n\n## Tonight and tomorrow (Thu Nov 19)\n- **Tonight:**\n  - **PANW beat and raised** (PR Newswire / Seeking Alpha): non-GAAP EPS **$1.05 vs $0.97**, revenue **$3.45B vs ~$3.31B**, NGS ARR $9.73B (+66%). FY guidance: revenue $14.52–14.57B, EPS $4.26–4.30. It also plans to acquire Applied Compute.\n  - **Anthropic (ANT) prices its IPO tonight.**\n  - I didn't confirm any other notable after-close reports.\n- **Tomorrow:**\n  - **WMT** before the open (~8:00).\n  - **8:30:** jobless claims (consensus 198K, prior 200K) and **Philly Fed** (consensus 20.6, prior 20.9) (Investing.com).\n  - **10:30:** natural gas storage.\n  - **12:30:** Fed's Goolsbee.\n  - **1:00 PM:** 10-year TIPS auction.\n  - **ANT starts trading.**\n  - **Fri Nov 20 is monthly OPEX.**\n\n**Tomorrow's levels** (today's RTH high and low become PDH/PDL):\n- **SPY: PDH 735.06 / PDL 726.79.**\n  - Floor: **726–728** (PDL + 725/726 sign change + 728 put node, −1.08B).\n  - Pivot: **730–730.5** (the biggest put node + $3.5B of dark pool).\n  - Lid: 732.2 (dark pool), then 735.06 (PDH). Above that sits the 738–744 band.\n  - Below: 724 / 718, then 700.\n- **QQQ: PDH 662.80 / PDL 653.06.**\n  - Lid: **662–663** (PDH + 662 call node + 663, plus PDH 663.36 from 11/17).\n  - Pivot: **659–661** (660 put node, sign change, 659.5 dark pool).\n  - Floor: PDL 653.06, then the **650 put magnet**, then 640.\n- **IWM: PDH 272.36 / PDL 267.90.**\n  - Lid: **272.4–273** (PDH + the 272.5–273 sign change + 273.05 from 11/17).\n  - Pivot: **270**. That's the big put node, but about half of it was 0DTE and expired today.\n  - Floor: **267.9–268** (PDL + the 268/267 put nodes), then 266 and 263.\n- **Futures:** ES PDH 7388.75 / PDL 7305.25. NQ 27325.50 / 26921.75. RTY 2744.50 / 2699.30.\n- Re-mark the pre-market high and low at 9:29. No trading inside the PM range, and nothing before 9:45.\n",
+  "markdown": "# After-Hours Check, Wed Nov 18, 2026 (pulled ~5:07 PM ET)\n\n**Nothing big for the indexes.** ES/NQ/RTY were flat into the 5:00 PM halt: −0.05% / −0.11% / −0.05% vs 15:59, far below the 0.5% bar. **PANW beat and raised and is up +8.3% after hours. That's inside its ~±11.8% options-implied move.** Cyber names followed it higher: CRWD +5.4%, OKTA +4.0%, ZS +2.2%. No major new Fed, tariff, or geopolitical shock after the close.\n\n**Sources:** Yahoo Finance (1m bars incl. extended hours), Financial Juice RSS, X News, and TipRanks/OptionSkew for the PANW implied move.\n\n## Futures and ETFs vs the 4:00 PM close\n| | 15:59 | Last | Change | AH range |\n|---|---|---|---|---|\n| ES | 7340.25 | 7336.75 (16:55) | −0.05% | 7332.00–7350.00 |\n| NQ | 27191.00 | 27161.25 (16:55) | −0.11% | 27133.25–27258.00 (high 16:20) |\n| RTY | 2722.30 | 2720.90 (16:55) | −0.05% | 2719.60–2725.20 |\n| SPY | 730.33 | 730.24 (17:05) | −0.01% | 729.52–732.22 |\n| QQQ | 659.51 | 659.49 (17:05) | 0.00% | 658.29–661.18 |\n| IWM | 270.14 | 270.06 (17:05) | −0.03% | 270.43 high (ignoring a 252.49 odd print at 16:39) |\n\n- **Cross-asset:** VIX 24.56 at 16:15. WTI 81.94 (flat). Gold 3726.5 (flat). 10-year 5.07% at the close.\n- **NVDA:** 150.85, flat after hours. The AH range was 149.88–154.55.\n- **Mega-caps and semis are quiet:** AMD −0.8%, TSLA −0.4%, MU −0.4%, AVGO −0.3%, META −0.3%, AAPL −0.2%, MSFT −0.2%, AMZN 0.0%, GOOGL +0.1%, SMH −0.1%.\n- **TSM:** 362.09, with odd prints from 351.56 to 385.57. Ignore those.\n\n## Earnings\n- **PANW: 370.60 (+8.3%)**, AH range 324.00–381.68 (high 16:38). **Implied move ~±11.8% (TipRanks/OptionSkew)**, so the reaction is inside it.\n  - Non-GAAP EPS $1.05 vs $0.97. Revenue $3.45B vs ~$3.31B. NGS ARR $9.73B (+66%).\n  - FY guidance raised: revenue $14.52–14.57B, EPS $4.26–4.30. Plans to acquire Applied Compute.\n- **Sympathy:** CRWD +5.4%, OKTA +4.0%, ZS +2.2%. These are not index-moving.\n\n## Headlines since the close (Financial Juice / X, ET)\n- **Fed's Kashkari, 16:17–16:28:**\n  - \"Fed is clearly missing on the inflation side.\"\n  - \"Markets believe the Fed will have to hike more than officials expect.\"\n  - Demand is surprisingly strong, and AI investment creates concentration risk.\n  - That keeps today's hawkish tone (minutes, Barr, Daly) going.\n- **Moody's on the US, 16:53–16:55:** growth has been stronger than expected. It expects the debt limit to be raised or suspended. It sees higher rates, energy prices, and AI capex normalization slowing growth.\n- **16:37 GOOGL:** Pichai says Gemini 4 Neon starts rolling out today.\n- **16:16 Iran:** says it has exercised \"maximum restraint\" in its defensive strikes.\n- **16:02 ABC:** US action on China is unlikely during Trump's Asia trip.\n- **Korea, 17:04–17:05:** Lee and Putin reached an agreement on easing tensions on the Korean peninsula.\n- **BoJ poll, 17:00:** 86% of economists expect a hike to 1.50% in December.\n- **Anthropic (ANT):** IPO pricing hasn't been reported yet. The range is $70–78, with talk of up to $85. It lists Thursday.\n\n## What it means for Thursday\nThe 4:00 PM recap levels stand unchanged. Futures sit just under the close: ES 7336.75 (PDH 7388.75 / PDL 7305.25), NQ 27161 (PDH 27325.50 / PDL 26921.75), RTY 2720.9 (PDH 2744.50 / PDL 2699.30).\n- **SPY:** floor 726–728, pivot 730–730.5, lid 732.2 then 735.06. SPY AH is 730.24, right on the pivot.\n- **QQQ:** lid 662–663, pivot 659–661, floor 653.06 then 650. QQQ AH is 659.49, inside the pivot.\n- **IWM:** lid 272.4–273, pivot 270, floor 267.9–268.\n\nAll three are still deep short gamma (SPY −12.78B), so moves can run either way. The overnight catalysts are Iran/Gulf headlines and ANT pricing. Tomorrow: WMT pre-market, then 8:30 claims and Philly Fed, then Goolsbee at 12:30. Fri is monthly OPEX.\n",
   "macro_markdown": null,
-  "source_file": "2026-11-18_close.md"
+  "source_file": "2026-11-18_afterhours.md"
 }
