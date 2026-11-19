@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-18T17:06:39-05:00",
-  "count": 73,
+  "updated_at": "2026-11-19T07:51:43-05:00",
+  "count": 74,
   "briefs": [
+    {
+      "date": "2026-11-19",
+      "type": "premarket",
+      "path": "briefs/2026-11-19_premarket.json",
+      "md_path": "briefs/2026-11-19_premarket.md",
+      "generated_at": "2026-11-19T07:48:00-05:00",
+      "summary": "Big AI-led gap up after five down days. Anthropic priced its record IPO at $83, above the $70\u201378 range (~$81B raised, ~$1.5T valuation). It starts trading on the Nasdaq today (Reuters). Futures at 7:3"
+    },
     {
       "date": "2026-11-18",
       "type": "afterhours",
