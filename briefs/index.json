@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-19T07:51:43-05:00",
-  "count": 74,
+  "updated_at": "2026-11-19T08:48:22-05:00",
+  "count": 75,
   "briefs": [
+    {
+      "date": "2026-11-19",
+      "type": "postdata",
+      "path": "briefs/2026-11-19_postdata.json",
+      "md_path": "briefs/2026-11-19_postdata.md",
+      "generated_at": "2026-11-19T08:50:00-05:00",
+      "summary": "Philly Fed came in far below forecast at 6.3 vs 20.1 expected, and claims were a bit soft. The gap up is fading a little: NQ \u22120.29% and ES \u22120.23% since 8:00, with VIX flat at 22.35. No pre-market high"
+    },
     {
       "date": "2026-11-19",
       "type": "premarket",
