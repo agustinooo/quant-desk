@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "type": "afterhours",
-  "generated_at": "2026-11-18T17:07:00-05:00",
+  "generated_at": "2026-11-19T17:15:00-05:00",
   "generated_at_source": "text",
-  "summary": "Nothing big for the indexes. ES/NQ/RTY were flat into the 5:00 PM halt: −0.05% / −0.11% / −0.05% vs 15:59, far below the 0.5% bar. PANW beat and raised and is up +8.3% after hours. That's inside its ~±11.8% options-implied move. Cyber names followed it higher: CRWD +5.4%, OKTA +4.0%, ZS +2.2%. No major new Fed, tariff, or geopolitical shock after the close.",
+  "summary": "Nothing big for the indexes. Futures drifted slightly lower into the 5:00 PM halt: ES −0.16%, NQ −0.31%, RTY −0.12% vs 15:59, below the 0.5% bar. INTU −10% after hours (cut FY revenue guide, selling Mailchimp) is beyond its options-implied move (~±5–9% depending on source) but is not index-moving. ROST −5.6% despite a beat-and-raise. No major new Fed, tariff, or geopolitical headline after the close.",
   "futures": {
     "NQ": {
       "last": null,
@@ -33,7 +33,7 @@
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": -12.78,
+      "net_gex_b": null,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
@@ -57,7 +57,7 @@
       "game_plan": null
     },
     "IWM": {
-      "spot": null,
+      "spot": 263.9,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -98,36 +98,26 @@
   "macro": {
     "calendar": null,
     "earnings": [
-      "PANW: 370.60 (+8.3%), AH range 324.00–381.68 (high 16:38). Implied move ~±11.8% (TipRanks/OptionSkew), so the reaction is inside it.",
-      "Non-GAAP EPS $1.05 vs $0.97. Revenue $3.45B vs ~$3.31B. NGS ARR $9.73B (+66%).",
-      "FY guidance raised: revenue $14.52–14.57B, EPS $4.26–4.30. Plans to acquire Applied Compute.",
-      "Sympathy: CRWD +5.4%, OKTA +4.0%, ZS +2.2%. These are not index-moving."
+      "INTU: 278.50 (−10.2%), AH low 263.16 (16:15). Implied move ~±5.2% (Bloomberg via Investing.com, Nov 12), ±7.2% (TipRanks), ±8.9% (EarningsWatcher), so it's beyond the expected move. Modest beat, but FY revenue guidance cut (Credit Karma); selling Mailchimp to Bending Spoons for $3.68B. Software sentiment negative, but INTU alone isn't index-moving.",
+      "ROST: 207.66 (−5.6%), AH low 193.00 at 16:02. Q3 sales $6.26B (+12%), comps +8%, EPS $1.91; FY EPS raised to $8.75–8.84. X News cites a cautious outlook. I didn't check its implied move."
     ],
     "headlines": [
-      "Fed's Kashkari, 16:17–16:28:",
-      "\"Fed is clearly missing on the inflation side.\"",
-      "\"Markets believe the Fed will have to hike more than officials expect.\"",
-      "Demand is surprisingly strong, and AI investment creates concentration risk.",
-      "That keeps today's hawkish tone (minutes, Barr, Daly) going.",
-      "Moody's on the US, 16:53–16:55: growth has been stronger than expected. It expects the debt limit to be raised or suspended. It sees higher rates, energy prices, and AI capex normalization slowing growth.",
-      "16:37 GOOGL: Pichai says Gemini 4 Neon starts rolling out today.",
-      "16:16 Iran: says it has exercised \"maximum restraint\" in its defensive strikes.",
-      "16:02 ABC: US action on China is unlikely during Trump's Asia trip.",
-      "Korea, 17:04–17:05: Lee and Putin reached an agreement on easing tensions on the Korean peninsula.",
-      "BoJ poll, 17:00: 86% of economists expect a hike to 1.50% in December.",
-      "Anthropic (ANT): IPO pricing hasn't been reported yet. The range is $70–78, with talk of up to $85. It lists Thursday."
+      "16:37–16:38 AAPL: Apple is working on its own proactive AI agent to rival OpenAI and Anthropic (job postings). AAPL +0.6% AH.",
+      "16:53: Money market funds fell $3.58B to $7.98T (ICI).",
+      "X News: S&P 500 tech forward P/E down to 16.4, the lowest since the early pandemic; S&P is about $6T below its Oct 6 peak after six straight down days.",
+      "No Fed, tariff, or Iran/oil shock after the close."
     ],
     "cross_asset": {
-      "vix": 24.56,
-      "us10y": 5.07,
+      "vix": 28.44,
+      "us10y": 5.05,
       "dxy": null,
-      "wti": 81.94,
+      "wti": 83.16,
       "brent": null,
-      "gold": 3726.5
+      "gold": 3627.9
     }
   },
   "takeaway": null,
-  "markdown": "# After-Hours Check, Wed Nov 18, 2026 (pulled ~5:07 PM ET)\n\n**Nothing big for the indexes.** ES/NQ/RTY were flat into the 5:00 PM halt: −0.05% / −0.11% / −0.05% vs 15:59, far below the 0.5% bar. **PANW beat and raised and is up +8.3% after hours. That's inside its ~±11.8% options-implied move.** Cyber names followed it higher: CRWD +5.4%, OKTA +4.0%, ZS +2.2%. No major new Fed, tariff, or geopolitical shock after the close.\n\n**Sources:** Yahoo Finance (1m bars incl. extended hours), Financial Juice RSS, X News, and TipRanks/OptionSkew for the PANW implied move.\n\n## Futures and ETFs vs the 4:00 PM close\n| | 15:59 | Last | Change | AH range |\n|---|---|---|---|---|\n| ES | 7340.25 | 7336.75 (16:55) | −0.05% | 7332.00–7350.00 |\n| NQ | 27191.00 | 27161.25 (16:55) | −0.11% | 27133.25–27258.00 (high 16:20) |\n| RTY | 2722.30 | 2720.90 (16:55) | −0.05% | 2719.60–2725.20 |\n| SPY | 730.33 | 730.24 (17:05) | −0.01% | 729.52–732.22 |\n| QQQ | 659.51 | 659.49 (17:05) | 0.00% | 658.29–661.18 |\n| IWM | 270.14 | 270.06 (17:05) | −0.03% | 270.43 high (ignoring a 252.49 odd print at 16:39) |\n\n- **Cross-asset:** VIX 24.56 at 16:15. WTI 81.94 (flat). Gold 3726.5 (flat). 10-year 5.07% at the close.\n- **NVDA:** 150.85, flat after hours. The AH range was 149.88–154.55.\n- **Mega-caps and semis are quiet:** AMD −0.8%, TSLA −0.4%, MU −0.4%, AVGO −0.3%, META −0.3%, AAPL −0.2%, MSFT −0.2%, AMZN 0.0%, GOOGL +0.1%, SMH −0.1%.\n- **TSM:** 362.09, with odd prints from 351.56 to 385.57. Ignore those.\n\n## Earnings\n- **PANW: 370.60 (+8.3%)**, AH range 324.00–381.68 (high 16:38). **Implied move ~±11.8% (TipRanks/OptionSkew)**, so the reaction is inside it.\n  - Non-GAAP EPS $1.05 vs $0.97. Revenue $3.45B vs ~$3.31B. NGS ARR $9.73B (+66%).\n  - FY guidance raised: revenue $14.52–14.57B, EPS $4.26–4.30. Plans to acquire Applied Compute.\n- **Sympathy:** CRWD +5.4%, OKTA +4.0%, ZS +2.2%. These are not index-moving.\n\n## Headlines since the close (Financial Juice / X, ET)\n- **Fed's Kashkari, 16:17–16:28:**\n  - \"Fed is clearly missing on the inflation side.\"\n  - \"Markets believe the Fed will have to hike more than officials expect.\"\n  - Demand is surprisingly strong, and AI investment creates concentration risk.\n  - That keeps today's hawkish tone (minutes, Barr, Daly) going.\n- **Moody's on the US, 16:53–16:55:** growth has been stronger than expected. It expects the debt limit to be raised or suspended. It sees higher rates, energy prices, and AI capex normalization slowing growth.\n- **16:37 GOOGL:** Pichai says Gemini 4 Neon starts rolling out today.\n- **16:16 Iran:** says it has exercised \"maximum restraint\" in its defensive strikes.\n- **16:02 ABC:** US action on China is unlikely during Trump's Asia trip.\n- **Korea, 17:04–17:05:** Lee and Putin reached an agreement on easing tensions on the Korean peninsula.\n- **BoJ poll, 17:00:** 86% of economists expect a hike to 1.50% in December.\n- **Anthropic (ANT):** IPO pricing hasn't been reported yet. The range is $70–78, with talk of up to $85. It lists Thursday.\n\n## What it means for Thursday\nThe 4:00 PM recap levels stand unchanged. Futures sit just under the close: ES 7336.75 (PDH 7388.75 / PDL 7305.25), NQ 27161 (PDH 27325.50 / PDL 26921.75), RTY 2720.9 (PDH 2744.50 / PDL 2699.30).\n- **SPY:** floor 726–728, pivot 730–730.5, lid 732.2 then 735.06. SPY AH is 730.24, right on the pivot.\n- **QQQ:** lid 662–663, pivot 659–661, floor 653.06 then 650. QQQ AH is 659.49, inside the pivot.\n- **IWM:** lid 272.4–273, pivot 270, floor 267.9–268.\n\nAll three are still deep short gamma (SPY −12.78B), so moves can run either way. The overnight catalysts are Iran/Gulf headlines and ANT pricing. Tomorrow: WMT pre-market, then 8:30 claims and Philly Fed, then Goolsbee at 12:30. Fri is monthly OPEX.\n",
+  "markdown": "# After-Hours Check, Thu Nov 19, 2026 (pulled ~5:15 PM ET)\n\n**Nothing big for the indexes.** Futures drifted slightly lower into the 5:00 PM halt: ES −0.16%, NQ −0.31%, RTY −0.12% vs 15:59, below the 0.5% bar. **INTU −10% after hours** (cut FY revenue guide, selling Mailchimp) is beyond its options-implied move (~±5–9% depending on source) but is not index-moving. **ROST −5.6%** despite a beat-and-raise. No major new Fed, tariff, or geopolitical headline after the close.\n\n**Sources:** Yahoo Finance (1m bars incl. extended hours), Financial Juice RSS, X News, Investing.com/Bloomberg, TipRanks, EarningsWatcher (INTU implied move).\n\n## Futures and ETFs vs the 4:00 PM close\n| | 15:59 | Last | Change | AH range |\n|---|---|---|---|---|\n| ES | 7194.25 | 7182.50 (16:59) | −0.16% | 7167.75 (16:48)–7201.00 (16:14) |\n| NQ | 26589.25 | 26505.50 (16:59) | −0.31% | 26436.00 (16:48)–26608.75 (16:14) |\n| RTY | 2661.90 | 2658.80 (16:59) | −0.12% | 2654.20 (16:48)–2662.10 |\n| SPY | 715.78 | 715.11 (17:14) | −0.09% | low ~714 area (ignoring odd prints 694.12 / 730.63) |\n| QQQ | 645.10 | 644.17 (17:13) | −0.14% | 641.47 (16:48)–645.50 |\n| IWM | 264.20 | 263.92 (17:10) | −0.11% | 263.44 (16:48) low |\n\n- **Read vs tomorrow's levels:** SPY sits just under the ⭐ 715–716 PDL/put-cluster zone; QQQ ~644 is right at PDL 644.43, above the 640 put wall; IWM ~263.9 is on the ⭐ 263–264 PDL/put wall zone. Nothing after hours changed the 4:00 PM map. OPEX tomorrow; Waller 8:25 ET.\n- **Cross-asset:** VIX 28.44 at 16:15. WTI 83.16 (+0.1%). Gold 3627.9 (−0.9% AH, extending today's drop). 10-year 5.05% at the close.\n- **Mega-caps/semis, mostly quiet:** AMD −1.5% (481.75), META −1.2%, MU −0.5%, SMH −0.2%, TSM −0.3%, NVDA +0.3% (146.48), AVGO +0.7%, AAPL +0.6%, GOOGL +0.6%, MSFT +0.3%, AMZN +0.1%. ANT −1.5% (95.44).\n\n## Earnings\n- **INTU: 278.50 (−10.2%)**, AH low 263.16 (16:15). Implied move ~±5.2% (Bloomberg via Investing.com, Nov 12), ±7.2% (TipRanks), ±8.9% (EarningsWatcher), so it's **beyond the expected move**. Modest beat, but FY revenue guidance cut (Credit Karma); selling Mailchimp to Bending Spoons for $3.68B. Software sentiment negative, but INTU alone isn't index-moving.\n- **ROST: 207.66 (−5.6%)**, AH low 193.00 at 16:02. Q3 sales $6.26B (+12%), comps +8%, EPS $1.91; FY EPS raised to $8.75–8.84. X News cites a cautious outlook. I didn't check its implied move.\n\n## Headlines since the close (Financial Juice / X, ET)\n- **16:37–16:38 AAPL:** Apple is working on its own proactive AI agent to rival OpenAI and Anthropic (job postings). AAPL +0.6% AH.\n- **16:53:** Money market funds fell $3.58B to $7.98T (ICI).\n- **X News:** S&P 500 tech forward P/E down to 16.4, the lowest since the early pandemic; S&P is about $6T below its Oct 6 peak after six straight down days.\n- No Fed, tariff, or Iran/oil shock after the close.\n",
   "macro_markdown": null,
-  "source_file": "2026-11-18_afterhours.md"
+  "source_file": "2026-11-19_afterhours.md"
 }

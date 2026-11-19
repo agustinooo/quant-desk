@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-19T16:24:00-05:00",
-  "count": 76,
+  "updated_at": "2026-11-19T17:14:47-05:00",
+  "count": 77,
   "briefs": [
+    {
+      "date": "2026-11-19",
+      "type": "afterhours",
+      "path": "briefs/2026-11-19_afterhours.json",
+      "md_path": "briefs/2026-11-19_afterhours.md",
+      "generated_at": "2026-11-19T17:15:00-05:00",
+      "summary": "Nothing big for the indexes. Futures drifted slightly lower into the 5:00 PM halt: ES \u22120.16%, NQ \u22120.31%, RTY \u22120.12% vs 15:59, below the 0.5% bar. INTU \u221210% after hours (cut FY revenue guide, selling M"
+    },
     {
       "date": "2026-11-19",
       "type": "close",
