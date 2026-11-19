@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-19",
+  "type": "close",
+  "generated_at": "2026-11-19T16:21:00-05:00",
+  "generated_at_source": "text",
+  "summary": "Full reversal: the +2% AI gap up turned into a −2% close. The Anthropic debut (ANT opened at $111.50 and closed at $97.17, +17% vs the $83 IPO price, per AP/CNBC) failed to lift the AI trade. Chips and cloud stocks led the selloff.",
+  "futures": {
+    "NQ": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 731.89,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -20.22,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": 676.46,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -5.14,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 263.69,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -5.95,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": 29.13,
+      "us10y": 5.05,
+      "dxy": 103.91,
+      "wti": null,
+      "brent": 91.98,
+      "gold": 3661.0
+    }
+  },
+  "takeaway": null,
+  "markdown": "# Close Recap, Thu Nov 19, 2026 (pulled ~4:21 PM ET)\n\n**Full reversal: the +2% AI gap up turned into a −2% close.** The Anthropic debut (ANT opened at $111.50 and closed at **$97.17**, +17% vs the $83 IPO price, per AP/CNBC) failed to lift the AI trade. Chips and cloud stocks led the selloff.\n- **Index closes:** **SPY −1.96%, QQQ −2.19%, IWM −2.19%. S&P 500 7175.83 (−2.02%), Nasdaq 23879.20 (−2.25%), Dow 49097.06 (−2.19%).** It's the sixth straight down day for the S&P.\n- **All of this morning's pre-market lows broke, then all of yesterday's lows broke.** SPY, QQQ and IWM closed near their lows of the day.\n- **VIX 29.13 (+18.6%)**, closing at its high of the day.\n\n**Positioning:** dealers are now **deeply short gamma**.\n- **SPY −20.22B** (−13.08B ex-0DTE), down from −2.11B at 8:47. This is the second-deepest reading in my history file, behind Oct 16 (−28.9B).\n- **QQQ −5.14B**, flipped from long gamma (+1.27B) this morning.\n- **IWM −5.95B.**\n\n**Sources:**\n- Quant Data API on your account (GEX by strike, OHLC, dark pool, 9k+ unconsolidated flow; pulled 4:20 PM ET).\n- Yahoo Finance (1m/15m bars, futures, indexes, cross-asset).\n- Financial Juice RSS.\n- X News.\n- Reuters via Investing.com, AP, CNBC, Seeking Alpha (INTU), PR Newswire (ROST), Econoday/S&P Global (calendar).\n\n**Caveats:**\n- Positioning came from the Quant Data API, not the browser My Pages. I didn't check the browser sign-in; the API key worked. The 'contract flow' Session Date wasn't touched (it stays May 29, 2026), and I added no filters.\n- Yahoo printed bad ticks: QQQ 676.46 at 11:54 and SPY 731.89 in the 15:45 bar. I'm ignoring both and using Quant Data's highs/lows.\n- The Financial Juice feed only goes back to 12:55 ET. Between 8:47 and 12:55 I'm relying on Reuters/X News, so I couldn't confirm a single headline behind the 11:45–12:05 leg down.\n\n## Closes (RTH, ET)\n| | Close | % | High | Low |\n|---|---|---|---|---|\n| SPY | 715.87 | −1.96% | 739.76 (9:34) | 715.51 (15:59) |\n| QQQ | 645.04 | −2.19% | 675.16 (9:51) | 644.43 (15:11) |\n| IWM | 264.20 | −2.19% | 271.78 (9:33) | 264.06 (15:58) |\n| ES | 7194.25 | −2.00% | 7436.50 (9:34) | 7192.00 (15:05) |\n| NQ | 26589.25 | −2.25% | 27838.00 (9:51) | 26559.25 (15:11) |\n| RTY | 2661.90 | −2.28% | 2738.30 (9:33) | 2660.20 (15:58) |\n\n- ETF highs/lows are Quant Data. Futures are Yahoo at 15:59, with % vs Wednesday's settle.\n- **After hours (16:20):** SPY 714.95, QQQ 643.24, IWM 263.69.\n- **Movers:**\n  - **Down:** AMD **−7.7%** (low 470.56 at 10:53; Hunterbrook disclosed a short position), CRWV −6.1%, NBIS −9.4%, MRVL −4.9%, AMZN −3.9%, AMAT −3.8%, GOOGL −3.5%, NVDA **−3.3% (145.98, a new low)**, META −3.3%, SMH −2.6%.\n  - **Up:** PANW **+6.4%** (raised guide), PDD **+11%**, CRWD +2.7%, INTC +1.9%. WMT −1.0% after beating and raising.\n- **Cross-asset:**\n  - **VIX 29.13 (+18.6%)**, range 21.84–29.13.\n  - **10-year 5.05% (−1 bp)**, range 5.04–5.11%. The 10-year TIPS auction came at a 2.903% high yield, with bid-to-cover 2.43.\n  - **DXY 103.91 (flat).**\n  - **Oil:** WTI settled **$83.21 (−0.06%)**, Brent $91.98 (+0.03%) (Financial Juice).\n  - **Gold 3661 (−2.2%).** Bitcoin fell below $62K (X News).\n\n## Morning levels: held or broke\n**SPY** (PM range 734.49–740.25, PDH 734.99 / PDL 726.90):\n- **PMH 740.25 rejected:** the high was 739.76 at 9:34. **The 750 magnet was never in play.**\n- **The 734.5–736 shelf broke.** The 10:00 15-min bar closed at 734.14, below PML/PDH, which triggered the short toward 729.45, then 728/726.9. **All hit:** the 10:30 bar's low was 725.67.\n  - That 10:30 bar was a 15-min sweep of PDL (it closed at 728.64).\n- **PDL broke for real on the 11:45 bar close (723.80).** Price ran to the **715–716 put cluster** and closed right on it.\n\n**QQQ** (PM range 665.70–675.07, PDH 662.68 / PDL 653.20):\n- **PMH was poked by 9¢** (675.16 at 9:51), but **no 15-min bar closed above it**, so it counts as a rejection.\n- The 10:15 bar closed at 663.46, below PML, which triggered the short toward **662.68 and 660. Both hit**, with a low of 656.01 at 10:30.\n- **PDL 653.20 broke** on the 12:00 bar close (649.82). The **650 put wall failed**. The low was 644.43, just above the **640 put wall (−0.98B)**.\n\n**IWM** (PM range 270.81–272.29, PDH 272.34 / PDL 267.99):\n- **PDH/PMH were never tested** (high 271.78).\n- **PML broke right away:** the 9:30 and 9:45 bars closed at 269.88 and 269.65. That triggered the short toward **270, then 269. Both hit.**\n- **PDL 267.99 was swept** at 10:30–10:45 (low 267.17, closes back above). **It broke** on the 11:45 bar close (266.13). The low was 263.74 at 15:57, sitting on the **263 put wall**.\n\n**Verdict:** the morning brief's \"sweep reversal off the Nov 18 lows\" read **failed**. The gap above PDH was sold from the first 15 minutes, and the down-side plans paid in all three.\n\n## Drivers (times ET)\n- **Anthropic debut / AI unwind:**\n  - ANT briefly topped a $2T valuation, then faded from $111.50 to $97.17.\n  - Reuters: the debut \"failed to rekindle enthusiasm for tech stocks.\" X News: about $2.3T was erased from highs, with semis down about 7% from their highs.\n  - AMZN and GOOGL, both large Anthropic holders, fell.\n- **AMD −7.7%:** Hunterbrook reported on IEIT/China firmware and its fund disclosed a short. AMD denies any export violations (Reuters, X News).\n- **NVDA / China chips:**\n  - **14:27–14:44:** Rep. Mast and the House Foreign Affairs Committee disclosed 3.4M advanced-chip license applications for Chinese firms (948,950 for Alibaba). Meeks called for hearings (Financial Juice).\n  - **15:16:** NVDA/MSFT announced a Vera Rubin deployment on Azure. It didn't help.\n- **Fed, still hawkish:**\n  - **Goolsbee (13:00 and 15:30):** inflation is \"not on the path back to 2%,\" \"borderline disturbingly high,\" and AI demand is adding to it.\n  - **Barr (14:37):** \"inflation remains excessively high; adjustments still necessary.\"\n  - **Pricing:** traders see near-certainty of a 25 bp December hike, with about 6% odds of 50 bp (Reuters/LSEG). Wednesday's hawkish minutes are still weighing.\n- **Data (8:30):** **Philly Fed 6.3 vs 20.1 expected** (a big miss). Claims 203k vs 197.5k.\n- **Geopolitics:**\n  - **13:47:** Iran says a tanker hit a mine and caught fire in eastern Hormuz (Mehr). Energy Secretary Wright says there's no increase in tensions.\n  - Trump says Xi and Putin want the Iran war to end. The Senate majority objected to curbing his Iran war powers.\n  - Oil was flat.\n- **Breadth (Reuters, 13:31):** NYSE decliners beat advancers 3.6 to 1. The Nasdaq had 417 new lows.\n\n## End-of-day positioning (Quant Data API, 4:20 PM)\n**SPY** (spot 716.28)\n- **Net GEX:** **−20.22B all / −13.08B ex-0DTE.**\n- **Put walls:**\n  - **715 (−2.91B)**\n  - **716 (−2.01B)**\n  - **700 (−1.86B, ex-0DTE −1.84B, the biggest that survives OPEX)**\n  - 717 (−1.67B)\n  - 714 (−1.24B)\n  - 718\n- **Call side is thin:** 800 (+0.30B), 790, 785, 750 (+0.09B).\n- **Flip:** the only cumulative flip is far below, at **610**. There's no flip near spot. The nearest per-strike sign change is **731–732**.\n- **Dark pool:** the biggest prints were at **715.90 ($3.0B notional, the close)**, 730.62, and 719.74.\n\n**QQQ** (spot 645.16)\n- **Net GEX:** **−5.14B** (−5.13B ex-0DTE).\n- **Put walls:**\n  - **640 (−0.98B)**\n  - **650 (−0.64B, now overhead)**\n  - 630 (−0.47B)\n  - 625\n  - 600\n- **Calls:** 720 (+0.16B), 715, 700, 648 (+0.07B).\n- **Per-strike pivots:** sign changes at **648–649** and **653–660**. No cumulative flip.\n- **Dark pool:** **659.81** (the largest), 646.50, 645.2.\n\n**IWM** (spot 264.06)\n- **Net GEX:** **−5.95B.**\n- **Put walls:**\n  - **263 (−0.72B)**\n  - **260 (−0.57B)**\n  - 266 (−0.44B)\n  - 270 (−0.43B)\n  - 262\n- **Calls are negligible** (300 at +0.06B).\n- **Per-strike pivots:** sign changes only far up, at **272.5–273**.\n- **Dark pool:** 269.99 and 265.00.\n\n**Read (structure, not sentiment):** this is a deep short-gamma regime in all three, so moves extend either way. SPY's 0DTE put cluster at 714–717 pinned the close.\n- **Tomorrow is monthly OPEX.** A large chunk of near-dated put gamma rolls off, which can release dealer hedges. In my history file, the deepest readings (Jul 29 −22.9B, Oct 16 −28.9B) came before sharp snap-backs **when a catalyst hit**.\n- **That isn't a signal by itself.** It needs a reclaim of a key level to confirm.\n\n## 9,000+ contract flow (186 prints; 79 at the bid, 70 at the ask, 27 at the mid)\n**SPY**\n- **10:10: Dec 31 775C, about 29,100 bought at the ask ($9.3M), opening** (spot 735.5). Upside calls bought near the top.\n- **14:35: Nov 20 750P, 28,610 + 765P, 11,880, both at the bid ($133M), deep ITM.** Structure ahead of expiry, not directional.\n- **09:35: Nov 30 712P, 9,000 at the ask, opening**, paired with 704P.\n\n**QQQ**\n- **10:08: Nov 30 660P, 9,450 at the ask ($7.65M), opening** (spot 672.6). Puts bought before the flush. The cleanest directional print.\n- **14:10: Dec 655C, 10,000 bought at the ask ($20.8M, opening) against 720C, 30,000 sold.** A call spread/roll near the lows.\n- **15:27–15:49: Nov 20 705P/710P deep-ITM clusters (about $370M), mostly closing.** Expiry cleanup.\n- **09:51: Nov 20 680P, 15,000 above the ask, closing.**\n\n**IWM**\n- **09:31: Nov 27 270P, 23,018 above the ask ($6.6M), opening.** Aggressive puts at the open.\n- **15:21: Nov 20 280P, 15,000 at the ask (deep ITM, $22.5M).**\n- **Dec 252/255P and 251/252P spreads (12:07, 16:06).**\n\n**Other notable prints**\n- **NVDA, 14:27–14:58:** about $1.34B of deep-ITM Nov 20 200–220P clusters (stock at 146). An expiry structure/financing trade, not a directional bet.\n- **VIX:** 100k Dec 65C / Jan 45C and Dec 17–20P clusters, all closing. These are rolls.\n- **AMD, 10:37:** Feb 640C/700C, a roll.\n\n**Read:** the only clean directional prints were **put buying at the ask early** (QQQ 660P at 10:08, IWM 270P at 9:31). Both paid. **Unlike Nov 18, there was no heavy opening put selling at the bid near the lows.** That's the setup my history file ties to snap-backs, so there's no bottoming flow signal yet.\n\n## Tonight and tomorrow\n**After-close earnings:**\n- **INTU:** a modest beat, but it **cut FY revenue guidance** (Credit Karma) and is selling Mailchimp. **Down 12% after hours at about $272.78** (Seeking Alpha).\n- **ROST:** beat ($1.91 EPS, $6.3B sales) and raised FY EPS guidance to $8.75–8.84 (PR Newswire). I didn't confirm its after-hours move.\n\n**Fri Nov 20: monthly OPEX**, which Team2Trading trades lightly.\n- **Waller 8:25**, **UMich final sentiment and inflation expectations 10:00**, **Cook 12:15** (Econoday, via search).\n- **Flash PMIs are Monday, Nov 23** (S&P Global).\n\n### Tomorrow's levels (today's high/low become the previous-day levels)\n**SPY**\n- **PDH 739.76 / PDL 715.51** (ES 7436.5 / 7192). Close 715.87.\n- **15-min resistance:** 723.5–724.4 (the 11:45 break bar), 726.9 (old PDL), 734.1–734.5.\n- **GEX:** 715–716 put cluster (expires tomorrow), **700 (−1.84B ex-0DTE)**, sign change at 731–732.\n- ⭐ **715–716:** PDL + the put cluster + the $3B dark-pool print. Lose it on a 15-min close and **700 is the next big magnet**.\n\n**QQQ**\n- **PDH 675.16 / PDL 644.43** (NQ 27838 / 26559).\n- **GEX:** **640 put wall (−0.98B)** just below, 650 overhead (put node + old PDL 653.2), sign changes at 648–649 and 653–660.\n- ⭐ **648–650:** a reclaim level.\n- ⭐ **640:** support.\n\n**IWM**\n- **PDH 271.78 / PDL 264.06** (RTY 2738.3 / 2660.2).\n- **GEX:** **263 (−0.72B) and 260 (−0.57B)** below, 266 overhead.\n- ⭐ **263–264:** PDL + the put wall.\n\nWait for tomorrow's pre-market range, and nothing before 9:45.\n\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-19_close.md"
+}

@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-19T08:48:22-05:00",
-  "count": 75,
+  "updated_at": "2026-11-19T16:24:00-05:00",
+  "count": 76,
   "briefs": [
+    {
+      "date": "2026-11-19",
+      "type": "close",
+      "path": "briefs/2026-11-19_close.json",
+      "md_path": "briefs/2026-11-19_close.md",
+      "generated_at": "2026-11-19T16:21:00-05:00",
+      "summary": "Full reversal: the +2% AI gap up turned into a \u22122% close. The Anthropic debut (ANT opened at $111.50 and closed at $97.17, +17% vs the $83 IPO price, per AP/CNBC) failed to lift the AI trade. Chips an"
+    },
     {
       "date": "2026-11-19",
       "type": "postdata",
