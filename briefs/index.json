@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-20T08:57:34-05:00",
-  "count": 79,
+  "updated_at": "2026-11-20T16:26:28-05:00",
+  "count": 80,
   "briefs": [
+    {
+      "date": "2026-11-20",
+      "type": "close",
+      "path": "briefs/2026-11-20_close.json",
+      "md_path": "briefs/2026-11-20_close.md",
+      "generated_at": "2026-11-20T16:24:00-05:00",
+      "summary": "A capitulation-style flush: the sixth straight down day turned into a \u22123.5% S&P day. The S&P 500 and Dow closed in correction territory (Financial Juice 16:04), and X News says the Nasdaq is now negat"
+    },
     {
       "date": "2026-11-20",
       "type": "postdata",
