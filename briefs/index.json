@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-19T17:14:47-05:00",
-  "count": 77,
+  "updated_at": "2026-11-20T07:47:32-05:00",
+  "count": 78,
   "briefs": [
+    {
+      "date": "2026-11-20",
+      "type": "premarket",
+      "path": "briefs/2026-11-20_premarket.json",
+      "md_path": "briefs/2026-11-20_premarket.md",
+      "generated_at": "2026-11-20T07:45:00-05:00",
+      "summary": "Sixth straight S&P loss is extending: tech/chips gap down again, today is monthly OPEX. Anthropic is ~6\u20139% lower pre-market after its debut (closed Thu $97.17 vs $83 IPO; Investing.com/CNBC), and chip"
+    },
     {
       "date": "2026-11-19",
       "type": "afterhours",
