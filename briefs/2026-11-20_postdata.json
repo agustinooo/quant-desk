@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-20",
+  "type": "postdata",
+  "generated_at": "2026-11-20T08:56:00-05:00",
+  "generated_at_source": "text",
+  "summary": "There was no U.S. 8:30 release. At 8:35–8:37, while USTR Greer was on Bloomberg TV (no China trade-truce extension yet, U.S. chip moves \"closing a loophole\"), SPY, QQQ and IWM all broke their 7:44 pre-market lows, then bounced back. NQ is −0.21% and ES −0.18% since 8:00, well under the 0.5% bar. VIX is 31.39 (+1.8% since 8:00). Dealers are shorter gamma than at 7:44: SPY −7.49B → −9.35B, QQQ −3.60B → −4.40B, IWM −2.03B → −3.48B. The walls and magnets haven't moved. No 9k+ prints so far today.",
+  "futures": {
+    "NQ": {
+      "last": 26116.5,
+      "change_pct": -0.21,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": 7130.25,
+      "change_pct": -0.18,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": 2654.1,
+      "change_pct": -0.15,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": 709.98,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -7.49,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": 635.09,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -3.6,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 263.06,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -2.03,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": [
+      "USTR Greer (8:33–8:42): no deal yet on extending the China truce, and any extension hinges on rare earths. He sees no basis for China to retaliate on the U.S. chip moves. China raised Taiwan in talks. Section 301 investigations are coming before year-end. This is the likely trigger for the 8:35 low.",
+      "ECB's Nagel: inflation too high, the ECB \"has to do something\" in December. Trump to talk about the Iran war in a keynote next month (NYP).",
+      "X News: VIX is above 30 and the S&P has fallen six days straight. Asian stocks lost about $1.1T (TAIEX −6.2%). Gold is at multi-month lows near $3,525–3,550.",
+      "Still ahead: UMich final 10:00 (consensus ~51.0), Cook 12:15, monthly OPEX."
+    ],
+    "cross_asset": {
+      "vix": 31.39,
+      "us10y": 4.97,
+      "dxy": 103.67,
+      "wti": 82.34,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# 8:45 post-data check, Fri Nov 20 2026 (~8:56 AM ET): ALERT (pre-market lows undercut on USTR Greer chip/China comments + dealers shorter gamma)\n\n**There was no U.S. 8:30 release. At 8:35–8:37, while USTR Greer was on Bloomberg TV (no China trade-truce extension yet, U.S. chip moves \"closing a loophole\"), SPY, QQQ and IWM all broke their 7:44 pre-market lows, then bounced back. NQ is −0.21% and ES −0.18% since 8:00, well under the 0.5% bar. VIX is 31.39 (+1.8% since 8:00). Dealers are shorter gamma than at 7:44: SPY −7.49B → −9.35B, QQQ −3.60B → −4.40B, IWM −2.03B → −3.48B. The walls and magnets haven't moved. No 9k+ prints so far today.**\n\n- **8:30 data:** no U.S. release. Canada retail sales came in at 0.8% vs 0.7% expected (core 1.0% vs 0.7%) (Financial Juice). Waller's 8:25 prepared remarks didn't touch policy or the outlook.\n- **Headlines since 8:00 (Financial Juice, X News):**\n  - **USTR Greer (8:33–8:42):** no deal yet on extending the China truce, and any extension hinges on rare earths. He sees no basis for China to retaliate on the U.S. chip moves. China raised Taiwan in talks. Section 301 investigations are coming before year-end. This is the likely trigger for the 8:35 low.\n  - ECB's Nagel: inflation too high, the ECB \"has to do something\" in December. Trump to talk about the Iran war in a keynote next month (NYP).\n  - X News: VIX is above 30 and the S&P has fallen six days straight. Asian stocks lost about $1.1T (TAIEX −6.2%). Gold is at multi-month lows near $3,525–3,550.\n  - Still ahead: **UMich final 10:00** (consensus ~51.0), **Cook 12:15**, **monthly OPEX**.\n- **Futures and cross-asset (Yahoo 1m, delayed; last ~8:46; change from 8:00):**\n  - **NQ** 26116.5 → **26060.75 (−0.21%)**. Low **26000.00 at 8:35** (the round number), high 26144.25 at 8:18.\n  - **ES** 7130.25 → **7117.25 (−0.18%)**. Low **7105.00 at 8:37**.\n  - **RTY** 2654.1 → **2650.2 (−0.15%)**. Low 2645.9 at 8:35.\n  - **VIX 31.39** (+1.8%; high 31.59 at 8:39). **10-year 4.97%** (flat). DXY 103.67. WTI 82.34. NVDA 142.17 (+0.65%).\n- **ETFs vs pre-market levels (Quant Data 1m, last ~8:56):**\n  - **SPY 709.98.** Low **707.35 at 8:36**, under the 7:44 PML ~709.26 (**new PML 707.35**). It's back above. PMH 714.96 and PDL 715.51 are unchanged.\n  - **QQQ 635.09.** Low **631.07 at 8:35**, under the 633.00 PML (**new PML 631.07**). It's back at the session high since 7:30. PMH 641.82 and PDL 644.43 are unchanged.\n    - Yahoo printed 645.52 at 8:30. That's a bad tick (Quant Data shows no such high), so I'm ignoring it.\n  - **IWM 263.06.** Low **262.72 at 8:35**, under the 263.11 PML (**new PML 262.72**). It's still near the low end. PMH 264.82 and PDL 264.06 are unchanged.\n\n## GEX re-pull (Quant Data API, 8:56 vs 7:44)\n- **SPY −9.35B all / −4.83B ex-0DTE** (was −7.49 / −2.95). Dealers are shorter gamma.\n  - Puts: **700 (−2.21B)**, 705 (−0.67B, grew), 690 (−0.53B), 695 (−0.47B), 718 (−0.46B).\n  - Calls: 800 (+0.28B), 725 (+0.10B).\n  - Per-strike pivots: 720–726, 731. No cumulative flip.\n- **QQQ −4.40B all / −2.12B ex-0DTE** (was −3.60 / −1.45).\n  - Puts: **640 (−0.84B)**, **630 (−0.62B)**, 650 (−0.56B), 625 (−0.53B), 620 (−0.46B).\n  - Calls: 700 (+0.30B), 680 (+0.20B).\n  - Pivots: 646–654. No flip.\n- **IWM −3.48B all / −0.49B ex-0DTE** (was −2.03 / −0.22). Still mostly today's expiry.\n  - Puts: **265 (−0.71B, grew)**, 266 (−0.36B), 262 (−0.33B), 263 (−0.32B), 264 (−0.32B).\n  - Calls: tiny.\n  - Pivots: 262.5–263, 269–270.\n- **Read:** the levels haven't changed, but dealers are shorter gamma, so a break can travel further. 700 SPY, 630 QQQ and 265 IWM stay the main magnets. A large part of this expires at today's close.\n\n## 9,000+ contract flow\n- **None so far today** (Quant Data unconsolidated flow, min size 9,000, 8:56).\n\n## Updated game plan (Team2Trading rules: nothing before 9:45, 15-min close beyond a level, OPEX so trade light)\n- **SPY:**\n  - The pre-market box is now **707.35–714.96**.\n  - Resistance: **715.0–715.5** (PMH + PDL), then 718.\n  - Below 707.35 after 9:45, puts toward **705**, then **700** (the dominant magnet).\n- **QQQ:**\n  - The box is **631.07–641.82**.\n  - Above 640–641.8 on a 15-min close, calls toward 644.4 (PDL).\n  - Lose 631 and puts toward **630**, then 625. NQ 26000 is the futures line.\n- **IWM:**\n  - The box is **262.72–264.82**.\n  - Above 265.3 on a 15-min close, calls toward 266–267.\n  - Lose 262.7 and puts toward 262, then 261.\n- **Next catalyst:** UMich at 10:00.\n\n**Sources:** Quant Data API (GEX by strike, 1m prices, 9k+ unconsolidated flow; pulled 8:56 ET), Yahoo Finance 1m (futures, VIX, TNX, DXY, CL; delayed), Financial Juice RSS, X News. The Quant Data browser My Pages weren't opened this run. The API was used instead, and the 'contract flow' Session Date wasn't touched.\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-20_postdata.md"
+}

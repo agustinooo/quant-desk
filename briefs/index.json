@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-20T07:47:32-05:00",
-  "count": 78,
+  "updated_at": "2026-11-20T08:57:34-05:00",
+  "count": 79,
   "briefs": [
+    {
+      "date": "2026-11-20",
+      "type": "postdata",
+      "path": "briefs/2026-11-20_postdata.json",
+      "md_path": "briefs/2026-11-20_postdata.md",
+      "generated_at": "2026-11-20T08:56:00-05:00",
+      "summary": "There was no U.S. 8:30 release. At 8:35\u20138:37, while USTR Greer was on Bloomberg TV (no China trade-truce extension yet, U.S. chip moves \"closing a loophole\"), SPY, QQQ and IWM all broke their 7:44 pre"
+    },
     {
       "date": "2026-11-20",
       "type": "premarket",
