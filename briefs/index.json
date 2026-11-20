@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-20T16:26:28-05:00",
-  "count": 80,
+  "updated_at": "2026-11-20T17:12:49-05:00",
+  "count": 81,
   "briefs": [
+    {
+      "date": "2026-11-20",
+      "type": "afterhours",
+      "path": "briefs/2026-11-20_afterhours.json",
+      "md_path": "briefs/2026-11-20_afterhours.md",
+      "generated_at": "2026-11-20T17:15:00-05:00",
+      "summary": "A modest relief bounce into the weekend futures close, and NQ crossed the 0.5% bar. At the 5:00 PM halt, NQ was +0.59% vs 15:59 (25142.00 \u2192 25291.00), ES +0.33% (6943.50 \u2192 6966.75) and RTY +0.44% (258"
+    },
     {
       "date": "2026-11-20",
       "type": "close",

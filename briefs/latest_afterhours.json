@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "type": "afterhours",
-  "generated_at": "2026-11-19T17:15:00-05:00",
+  "generated_at": "2026-11-20T17:15:00-05:00",
   "generated_at_source": "text",
-  "summary": "Nothing big for the indexes. Futures drifted slightly lower into the 5:00 PM halt: ES −0.16%, NQ −0.31%, RTY −0.12% vs 15:59, below the 0.5% bar. INTU −10% after hours (cut FY revenue guide, selling Mailchimp) is beyond its options-implied move (~±5–9% depending on source) but is not index-moving. ROST −5.6% despite a beat-and-raise. No major new Fed, tariff, or geopolitical headline after the close.",
+  "summary": "A modest relief bounce into the weekend futures close, and NQ crossed the 0.5% bar. At the 5:00 PM halt, NQ was +0.59% vs 15:59 (25142.00 → 25291.00), ES +0.33% (6943.50 → 6966.75) and RTY +0.44% (2588.40 → 2599.90). Futures reopen Sunday at 6:00 PM ET.",
   "futures": {
     "NQ": {
       "last": null,
@@ -57,7 +57,7 @@
       "game_plan": null
     },
     "IWM": {
-      "spot": 263.9,
+      "spot": null,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -97,27 +97,25 @@
   "big_flow": [],
   "macro": {
     "calendar": null,
-    "earnings": [
-      "INTU: 278.50 (−10.2%), AH low 263.16 (16:15). Implied move ~±5.2% (Bloomberg via Investing.com, Nov 12), ±7.2% (TipRanks), ±8.9% (EarningsWatcher), so it's beyond the expected move. Modest beat, but FY revenue guidance cut (Credit Karma); selling Mailchimp to Bending Spoons for $3.68B. Software sentiment negative, but INTU alone isn't index-moving.",
-      "ROST: 207.66 (−5.6%), AH low 193.00 at 16:02. Q3 sales $6.26B (+12%), comps +8%, EPS $1.91; FY EPS raised to $8.75–8.84. X News cites a cautious outlook. I didn't check its implied move."
-    ],
+    "earnings": null,
     "headlines": [
-      "16:37–16:38 AAPL: Apple is working on its own proactive AI agent to rival OpenAI and Anthropic (job postings). AAPL +0.6% AH.",
-      "16:53: Money market funds fell $3.58B to $7.98T (ICI).",
-      "X News: S&P 500 tech forward P/E down to 16.4, the lowest since the early pandemic; S&P is about $6T below its Oct 6 peak after six straight down days.",
-      "No Fed, tariff, or Iran/oil shock after the close."
+      "16:04: S&P 500 and Dow close in correction territory.",
+      "16:09: US targeting key Iranian \"oil trustees\".",
+      "16:21–16:22 ORCL: OpenAI contract fully funded; still sees positive FCF in 2H FY2028.",
+      "16:26: EU nears a new trade power to block access to its single market.",
+      "16:35–16:48 Iran FM Araghchi: still hopes for diplomacy. Messages are still going through mediators. Trump should explicitly state he wants a deal. Red line: enriched uranium stays in Iran. Wants confidence-building steps that the US won't resume strikes. Two-day Hormuz plan still on the table."
     ],
     "cross_asset": {
-      "vix": 28.44,
-      "us10y": 5.05,
+      "vix": 35.89,
+      "us10y": 4.91,
       "dxy": null,
-      "wti": 83.16,
+      "wti": 83.62,
       "brent": null,
-      "gold": 3627.9
+      "gold": 3539.0
     }
   },
   "takeaway": null,
-  "markdown": "# After-Hours Check, Thu Nov 19, 2026 (pulled ~5:15 PM ET)\n\n**Nothing big for the indexes.** Futures drifted slightly lower into the 5:00 PM halt: ES −0.16%, NQ −0.31%, RTY −0.12% vs 15:59, below the 0.5% bar. **INTU −10% after hours** (cut FY revenue guide, selling Mailchimp) is beyond its options-implied move (~±5–9% depending on source) but is not index-moving. **ROST −5.6%** despite a beat-and-raise. No major new Fed, tariff, or geopolitical headline after the close.\n\n**Sources:** Yahoo Finance (1m bars incl. extended hours), Financial Juice RSS, X News, Investing.com/Bloomberg, TipRanks, EarningsWatcher (INTU implied move).\n\n## Futures and ETFs vs the 4:00 PM close\n| | 15:59 | Last | Change | AH range |\n|---|---|---|---|---|\n| ES | 7194.25 | 7182.50 (16:59) | −0.16% | 7167.75 (16:48)–7201.00 (16:14) |\n| NQ | 26589.25 | 26505.50 (16:59) | −0.31% | 26436.00 (16:48)–26608.75 (16:14) |\n| RTY | 2661.90 | 2658.80 (16:59) | −0.12% | 2654.20 (16:48)–2662.10 |\n| SPY | 715.78 | 715.11 (17:14) | −0.09% | low ~714 area (ignoring odd prints 694.12 / 730.63) |\n| QQQ | 645.10 | 644.17 (17:13) | −0.14% | 641.47 (16:48)–645.50 |\n| IWM | 264.20 | 263.92 (17:10) | −0.11% | 263.44 (16:48) low |\n\n- **Read vs tomorrow's levels:** SPY sits just under the ⭐ 715–716 PDL/put-cluster zone; QQQ ~644 is right at PDL 644.43, above the 640 put wall; IWM ~263.9 is on the ⭐ 263–264 PDL/put wall zone. Nothing after hours changed the 4:00 PM map. OPEX tomorrow; Waller 8:25 ET.\n- **Cross-asset:** VIX 28.44 at 16:15. WTI 83.16 (+0.1%). Gold 3627.9 (−0.9% AH, extending today's drop). 10-year 5.05% at the close.\n- **Mega-caps/semis, mostly quiet:** AMD −1.5% (481.75), META −1.2%, MU −0.5%, SMH −0.2%, TSM −0.3%, NVDA +0.3% (146.48), AVGO +0.7%, AAPL +0.6%, GOOGL +0.6%, MSFT +0.3%, AMZN +0.1%. ANT −1.5% (95.44).\n\n## Earnings\n- **INTU: 278.50 (−10.2%)**, AH low 263.16 (16:15). Implied move ~±5.2% (Bloomberg via Investing.com, Nov 12), ±7.2% (TipRanks), ±8.9% (EarningsWatcher), so it's **beyond the expected move**. Modest beat, but FY revenue guidance cut (Credit Karma); selling Mailchimp to Bending Spoons for $3.68B. Software sentiment negative, but INTU alone isn't index-moving.\n- **ROST: 207.66 (−5.6%)**, AH low 193.00 at 16:02. Q3 sales $6.26B (+12%), comps +8%, EPS $1.91; FY EPS raised to $8.75–8.84. X News cites a cautious outlook. I didn't check its implied move.\n\n## Headlines since the close (Financial Juice / X, ET)\n- **16:37–16:38 AAPL:** Apple is working on its own proactive AI agent to rival OpenAI and Anthropic (job postings). AAPL +0.6% AH.\n- **16:53:** Money market funds fell $3.58B to $7.98T (ICI).\n- **X News:** S&P 500 tech forward P/E down to 16.4, the lowest since the early pandemic; S&P is about $6T below its Oct 6 peak after six straight down days.\n- No Fed, tariff, or Iran/oil shock after the close.\n",
+  "markdown": "# After-Hours Check, Fri Nov 20, 2026 (pulled ~5:15 PM ET)\n\n**A modest relief bounce into the weekend futures close, and NQ crossed the 0.5% bar.** At the 5:00 PM halt, **NQ was +0.59%** vs 15:59 (25142.00 → 25291.00), **ES +0.33%** (6943.50 → 6966.75) and **RTY +0.44%** (2588.40 → 2599.90). Futures reopen Sunday at 6:00 PM ET.\n- The bounce started with **Oracle's \"OpenAI contract fully funded\"** comment (FJ 16:21).\n- It extended to the after-hours highs at 16:49–16:50, right after **conciliatory comments from Iran's FM Araghchi** (FJ 16:35–16:48). He said Tehran still hopes diplomacy can end the war, the \"two-day Hormuz plan is still on the table\", and a fair solution can be reached.\n- **No index-moving earnings after the close.** No new Fed or tariff shock either. NVDA SEC-probe coverage continues (X News), but nothing new after the close.\n- **Context:** the S&P (−3.7%) and Nasdaq (−5.3%) had the worst day of the streak, closing near their lows with dealers short gamma, so a small reflex bounce isn't surprising. It's not a reversal signal yet.\n\n**Sources:** Yahoo Finance (1m bars incl. extended hours), Financial Juice RSS, X News.\n\n## Futures and ETFs vs the 4:00 PM close\n| | 15:59 | Last | Change | AH range |\n|---|---|---|---|---|\n| ES | 6943.50 | 6966.75 (16:59) | +0.33% | 6924.50 (16:00)–6979.75 (16:50) |\n| NQ | 25142.00 | 25291.00 (16:59) | +0.59% | 25061.50 (16:00)–25362.75 (16:49) |\n| RTY | 2588.40 | 2599.90 (16:59) | +0.44% | 2578.90 (16:00)–2603.80 (16:50) |\n| SPY | 690.91 | 694.33 (17:11) | +0.50% | ignoring odd prints 715.94 / 649.38 |\n| QQQ | 610.04 | 614.35 (17:11) | +0.71% | 608.45 (16:00)–615.48 (16:49) |\n| IWM | 257.01 | 258.01 (17:11) | +0.39% | 256.07–258+ (ignoring odd print 264.12) |\n\n- **Cross-asset:**\n  - VIX 35.89 at 16:15 (from 39.53 at 15:59).\n  - WTI 83.62 (−0.4% AH).\n  - Gold 3539 (+0.4% AH).\n  - 10-year 4.91% at the close.\n- **Semis/mega-caps bounced:**\n  - NVDA +2.5% (128.89), SMH +2.2%, TSM +1.9%, MRVL +1.9%, MU +1.7%, AMD +1.4%, AVGO +1.2%.\n  - GOOGL +1.2%, TSLA +1.0%, META +0.6%, AMZN +0.4%, AAPL +0.3%, MSFT flat.\n  - ORCL +2.9% (104.07), INTC +2.8%, NBIS +3.5%.\n  - PANW −3.0% (333.30). I found no news on PANW after the close.\n\n## Read vs Monday's levels (from the 4:00 PM recap)\n- **SPY ~694:** above the PDL of 686.81 and the 690 node, still under the **700 wall** (the first resistance on a gap up).\n- **QQQ ~614:** inside the **612–614 pivot** zone, below 617–620 resistance. The PDL 606.30 / 600 put node is below.\n- **IWM ~258:** above the PDL of 256.13 and the 255 node. 260 is the first resistance.\n- **ES/NQ:** ~68 / ~315 points above the PDLs (6898 / 24976.50). They're still far below the PDHs (7216.75 / 26504.25).\n- **Weekend risk is two-way:** Iran/Hormuz headlines (tanker strike, hawks urging strikes vs. Araghchi's diplomacy) and NVDA SEC-probe follow-ups. Dealers are short gamma on all three ETFs, so moves can extend either way. Wait for the Sunday open, the pre-market range, and a 15-min close after 9:45.\n\n## Headlines since the close (Financial Juice, ET)\n- 16:04: S&P 500 and Dow close in correction territory.\n- 16:09: US targeting key Iranian \"oil trustees\".\n- 16:21–16:22 ORCL: OpenAI contract fully funded; still sees positive FCF in 2H FY2028.\n- 16:26: EU nears a new trade power to block access to its single market.\n- 16:35–16:48 Iran FM Araghchi: still hopes for diplomacy. Messages are still going through mediators. Trump should explicitly state he wants a deal. Red line: enriched uranium stays in Iran. Wants confidence-building steps that the US won't resume strikes. Two-day Hormuz plan still on the table.\n\n*Information, not advice.*\n",
   "macro_markdown": null,
-  "source_file": "2026-11-19_afterhours.md"
+  "source_file": "2026-11-20_afterhours.md"
 }

@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "date": "2026-11-20",
-  "type": "close",
-  "generated_at": "2026-11-20T16:24:00-05:00",
+  "type": "afterhours",
+  "generated_at": "2026-11-20T17:15:00-05:00",
   "generated_at_source": "text",
-  "summary": "A capitulation-style flush: the sixth straight down day turned into a −3.5% S&P day. The S&P 500 and Dow closed in correction territory (Financial Juice 16:04), and X News says the Nasdaq is now negative for the year. Chips led the drop: NVDA −14%, after reports that the SEC is probing Nvidia's accounting (FJ 14:09).",
+  "summary": "A modest relief bounce into the weekend futures close, and NQ crossed the 0.5% bar. At the 5:00 PM halt, NQ was +0.59% vs 15:59 (25142.00 → 25291.00), ES +0.33% (6943.50 → 6966.75) and RTY +0.44% (2588.40 → 2599.90). Futures reopen Sunday at 6:00 PM ET.",
   "futures": {
     "NQ": {
       "last": null,
@@ -27,13 +27,13 @@
   },
   "tickers": {
     "SPY": {
-      "spot": 693.38,
+      "spot": null,
       "pdh": null,
       "pdl": null,
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": -9.09,
+      "net_gex_b": null,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
@@ -42,13 +42,13 @@
       "game_plan": null
     },
     "QQQ": {
-      "spot": 613.25,
+      "spot": null,
       "pdh": null,
       "pdl": null,
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": -5.98,
+      "net_gex_b": null,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
@@ -57,13 +57,13 @@
       "game_plan": null
     },
     "IWM": {
-      "spot": 257.97,
+      "spot": null,
       "pdh": null,
       "pdl": null,
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": -4.89,
+      "net_gex_b": null,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
@@ -98,18 +98,24 @@
   "macro": {
     "calendar": null,
     "earnings": null,
-    "headlines": null,
+    "headlines": [
+      "16:04: S&P 500 and Dow close in correction territory.",
+      "16:09: US targeting key Iranian \"oil trustees\".",
+      "16:21–16:22 ORCL: OpenAI contract fully funded; still sees positive FCF in 2H FY2028.",
+      "16:26: EU nears a new trade power to block access to its single market.",
+      "16:35–16:48 Iran FM Araghchi: still hopes for diplomacy. Messages are still going through mediators. Trump should explicitly state he wants a deal. Red line: enriched uranium stays in Iran. Wants confidence-building steps that the US won't resume strikes. Two-day Hormuz plan still on the table."
+    ],
     "cross_asset": {
-      "vix": 37.11,
+      "vix": 35.89,
       "us10y": 4.91,
-      "dxy": 103.89,
-      "wti": 83.98,
-      "brent": 92.57,
-      "gold": 3520.0
+      "dxy": null,
+      "wti": 83.62,
+      "brent": null,
+      "gold": 3539.0
     }
   },
   "takeaway": null,
-  "markdown": "# Close Recap, Fri Nov 20, 2026 (pulled ~4:24 PM ET)\n\n**A capitulation-style flush: the sixth straight down day turned into a −3.5% S&P day.** The S&P 500 and Dow closed **in correction territory** (Financial Juice 16:04), and X News says the Nasdaq is now **negative for the year**. Chips led the drop: **NVDA −14%**, after reports that the SEC is probing Nvidia's accounting (FJ 14:09).\n- **Index closes:**\n  - **SPY −3.54%, QQQ −5.42%, IWM −2.76%.**\n  - **S&P 500 6910.39 (−3.70%), Nasdaq 22617.73 (−5.28%), Dow 48147.33 (−1.93%).**\n- **All three ETFs closed within ~0.6% of their lows,** and the lows printed at 15:56.\n- **VIX 37.11 (+30.5%),** with a high of **40.03** at 15:57.\n- **10-year 4.91% (−14 bp)** on a flight to bonds. **Gold −4.5%,** sold alongside stocks (a liquidation tone).\n\n**Positioning at the close (Quant Data):** dealers are still **short gamma**.\n- **SPY −9.09B** (−7.78B ex-0DTE).\n- **QQQ −5.98B** (−3.96B ex-0DTE).\n- **IWM −4.89B** (−2.62B ex-0DTE).\n- Today's monthly OPEX expiry rolls off, so the ex-0DTE numbers are the better guide for Monday.\n- **No cumulative gamma flip near spot on any of the three.**\n\n**Sources:**\n- Quant Data API on your account (GEX by strike, OHLC, dark pool, 9k+ unconsolidated flow; pulled 4:24 PM ET).\n- Yahoo Finance (15m/1m bars, futures, indexes, cross-asset, stocks).\n- Financial Juice RSS.\n- X News.\n- TenQ / MarketBeat / Analog Devices IR (next week's earnings).\n\n**Caveats:**\n- Positioning came from the Quant Data API, not the browser My Pages. The 'contract flow' Session Date wasn't touched (it stays May 29, 2026), and I added no filters.\n- ETF closes and highs/lows are Quant Data. Futures are Yahoo at 16:14 ET, with % vs Thursday's settle.\n- The Financial Juice feed only reaches back to ~12:20 ET. The morning drivers come from X News.\n\n## Closes (RTH, ET)\n| | Close | % | High | Low |\n|---|---|---|---|---|\n| SPY | 690.56 | −3.54% | 718.27 (10:00) | 686.81 (15:56) |\n| QQQ | 610.10 | −5.42% | 643.17 (10:00) | 606.30 (15:56) |\n| IWM | 256.91 | −2.76% | 265.77 (10:00) | 256.13 (15:59) |\n| ES | 6961.50 (16:14) | −3.28% | 7216.75 (10:00) | 6898.00 (15:56) |\n| NQ | 25244.25 (16:14) | −5.10% | 26504.25 (10:00) | 24976.50 (15:56) |\n| RTY | 2591.70 (16:14) | −2.69% | 2677.50 (10:00) | 2581.00 (15:56) |\n\n- **After hours (~16:24, Yahoo):** SPY 693.38, QQQ 613.25, IWM 257.97. That's a small bounce, as Oracle told FJ (16:21) that its \"OpenAI contract fully funded.\"\n- **Movers:**\n  - **NVDA −14.0% (125.53)**, **MU −13.9%**, **AMD −13.3%**, **INTU −12.8%**, **AVGO −12.2%**, **CRWV −12.0%**, **MRVL −11.7%**, **AMAT −10.7%**, **SMH −10.6%**.\n  - ORCL −8.5%, INTC −8.0%, TSLA −7.6%, META −5.9%, AMZN −4.1%.\n  - **WMT +1.5%** was a rare green.\n- **Cross-asset:**\n  - **VIX 37.11 (+30.5%)**, range 26.94–40.03.\n  - **10-year 4.91% (−14 bp)**.\n  - **DXY 103.89 (flat)**.\n  - **WTI settled $83.98 (+0.93%)**, **Brent $92.57 (+0.64%)** (FJ).\n  - **Gold ~3520 (−4.5%)**.\n  - **Bitcoin < $59K** (X News).\n\n## Morning levels: held or broke\n**SPY** (PM box 707.35–714.96, PDL 715.51, 718 zone/node, 700 wall):\n- **The 15-min close above the PDL triggered.** The 9:45 bar closed at 717.17, and the **718 target hit** (718.27 at 10:00).\n- **Then it failed.** The 10:00 bar closed back below the PDL (713.83), a failed reclaim.\n- **The PML 707.35 was swept on the 10:45 bar** (low 706.39, close 707.74). It **broke on the 11:15 close (705.65)**, triggering puts toward 705, then 700. **Both hit:** 705 at 11:30, and 700 at 12:15 (low 700.03).\n- **The 700 put wall held for about 1.5 hours,** with closes pinned at 699.7–701.5 from 12:15 to 13:45. **It broke on the 14:00 close (697.90)**, and price ran to 686.81.\n- **It closed at 690.56, on the new 690 put node.**\n\n**QQQ** (PM box 631.07–641.82, PDL 644.43, 630/625/620 magnets):\n- The 9:45 bar closed at 641.61: **above the 640 node, but 0.21 short of the PMH**, so no clean trigger.\n- **The PDL 644.43 was never reached** (high 643.17), which counts as a rejection.\n- **The PML broke on the 10:30 close (628.94),** and the 630, 625 and 620 targets were all hit (620 at 12:00). It closed below 620 at 13:00 (619.49), then flushed to 606.30.\n- **It closed at 610.10, on the 610 put node.**\n\n**IWM** (PM box 262.72–264.82, 265–265.3 wall/zone, 262/261 nodes):\n- The 9:45 bar closed at 265.26: above the PMH and the 265 wall, but **0.04 short of the 265.3 zone**. The high was 265.85 at 10:00, and the **266–267 target was missed**.\n- The 10:00 bar closed back at 264.35, so it failed.\n- **The PML 262.72 broke on the 10:30 close (262.36),** and the 262 and 261 targets were hit (261.01 at 11:00).\n- It ran to 256.13 and **closed at 256.91, between the 257 and 258 put nodes.**\n\n**Read:** every upside trigger at the open (SPY's PDL reclaim, the QQQ/IWM pushes into PMH and the walls) **failed at the 10:00 high**. The breaks of the pre-market lows then trended all day, which is classic short-gamma extension. The deepest put walls from the morning (SPY 700, QQQ 630/620, IWM 262/261) were only speed bumps.\n\n## Drivers (times ET)\n- **Nvidia:**\n  - Reports say the **SEC is probing NVDA's accounting** (FJ 14:09; X News).\n  - Senator Tim Scott says Jensen Huang will testify publicly (13:43).\n  - **Nikkei says Nvidia server suppliers have halted shipments to Southeast Asia** (15:34).\n  - X News says NVDA was down ~45% from its October peak.\n- **Trump (12:30–13:21):**\n  - He'll **put a tax on companies building data centers abroad** (12:37–12:38).\n  - He wants only older chips going to China and is working on a China chip deal.\n  - \"Fed is political.\"\n  - On Iran: \"Iran wants a deal that is not acceptable to me.\"\n- **Iran/Hormuz:**\n  - **UKMTO: a tanker was struck by an unknown projectile in Hormuz** (15:07).\n  - **FT: hawks in DC and Israel are urging Trump to strike Iran** (15:22).\n  - Trump: \"We're being patient\" (15:47). The US is targeting Iranian \"oil trustees\" (16:09).\n  - Oil rose into the close.\n- **Fed:**\n  - **Paulson is open to consecutive rate hikes** (13:32–13:33).\n  - Cook is cautious on how the AI buildout is financed (13:03).\n  - **Traders no longer fully price in a December hike** (FJ 14:35).\n- **Data:** **UMich final Nov 51.5** (in line; Oct 48.0). **1-year inflation expectations 3.7%** (from 4.7%), 5-year 3.3% (X News).\n- **Other:** the Anthropic IPO reportedly drew $115–120B of retail demand (15:11). X News puts the **Fear & Greed index at ~14**. Bitcoin fell to its lowest since July. X News also reports **Burry sold half his NVDA puts**.\n\n## Positioning at the close (Quant Data, 4:24 PM ET)\n**SPY** (spot 693.11)\n- **Net −9.09B all / −7.78B ex-0DTE.** Shallower than Thursday's close (−20.2B), but still deep.\n- **Put walls (ex-0DTE):** **700 (−0.85B)**, 690 (−0.60B), 650 (−0.58B), 675 (−0.45B), 680 (−0.43B). The 690 node was −1.53B with 0DTE included.\n- **Call walls:** tiny (800 +0.20B).\n- **No flip.** The nearest sign-change pivots are far above, at 721–722 and 731–732.\n\n**QQQ** (spot 612.70)\n- **Net −5.98B all / −3.96B ex-0DTE.**\n- **Puts (ex-0DTE):** 650 (−0.38B), **600 (−0.37B)**, 640 (−0.36B), 620 (−0.29B). The 610 node (−0.64B) was mostly 0DTE.\n- **No flip.** Ex-0DTE pivots: 606–607, 612–614, 617–618, 623–624.\n\n**IWM** (spot 257.31)\n- **Net −4.89B all / −2.62B ex-0DTE.**\n- **Puts (ex-0DTE):** **250 (−0.26B)**, **255 (−0.24B)**, 265 (−0.24B). The 257/258 nodes (−0.8–0.9B) were 0DTE and are now gone.\n- **No flip.** Pivots start at 272.5.\n\n**Dark pool (today):** SPY 715.94 ($13.2B print, the biggest) and the 689.5 cluster. QQQ 645.3 and 608.5–609.1. IWM 264.1 and 256.6–256.8.\n\n## 9,000+ contract flow (299 prints; index and key names)\n- **SPX hedge roll-downs (multi-leg, ~41–43k lots each):**\n  - **11:46:** opened Dec 31 5900P/6000P and closed Dec 4 6350P/6250P.\n  - **13:05:** opened Jan 8 5900P/5800P and closed Nov 27 6400P/6500P.\n  - Read: hedges being **monetized and re-struck lower and further out**.\n- **SPY:**\n  - **13:47:** closed Mar 27 690P/590P (26k each, below bid) and opened 660P/560P (28k each).\n  - **13:52:** opened Apr 600P (50k at bid) and closed Mar 605P (60k).\n  - Both are put roll-downs.\n  - 14:59: 730P 11/20 16k at ask, a deep-ITM 0DTE (expiry structure).\n  - 10:32–10:56: opened Feb 650P 15k and Jan 655P 20k at the ask (hedges added early).\n- **SPY after the close (16:00–16:03):** large Nov 27 / Dec 4 put structures.\n  - Opened Nov 27 660P/680P (66,750 each, above ask) and closed 675P/700P (44,500 each).\n  - Dec 4: opened 650P (89k at bid) and 675P (133.5k above ask), and closed 700P 44.5k.\n  - Read: a **roll of protection down to new strikes**, not a fresh directional bet.\n- **QQQ:**\n  - **12:45:** opened Mar 27 635C 10,000 at the ask ($38.4M) and closed Dec 655C, a call roll **down and out**. That's a big longer-dated rebound bet.\n  - 10:02: closed Mar 550P + Dec 680C (20k/40k).\n  - 15:30: closed Mar 540P 10.5k.\n- **IWM:**\n  - **13:47:** opened Dec 4 254P 56,092 **at the bid** ($21.4M; put selling) and closed 265P below bid.\n  - 11:00: Dec 251P→249P roll.\n  - 16:09: Dec 245P→247P roll.\n- **SMH:** closed Sep 27 380P 20,000 at the ask, $93M (11:25), so a hedge was taken off.\n- **VIX:** closing call spreads (Dec 1 24/28C ~21–22k at 10:23/12:35, and Dec 16 20/24C 21.6k at 15:34), plus **post-close Jan 35C/45C closes (31k–57k)**. Read: VIX call holders are cashing in near VIX 37–40.\n- **NVDA:** opened Jan 2029 240C 10,343 **at the bid** ($14.6M), so someone sold far-OTM LEAP calls. META and AMZN had Jan/Feb call rolls.\n\n**Read (structure, not sentiment):**\n- Early prints were hedges added at the ask, and that was **continuation**.\n- From midday on, the dominant structure was **hedge monetization**: SPX/SPY put roll-downs, SMH put closes, VIX call profit-taking, and IWM put selling at the bid.\n- In my history file, put selling and hedge monetization during deep negative GEX came **before the cleanest snap-backs** (Jun 10 to Jun 11, Jul 28 to Jul 30). That pattern is clearer today than on Thursday, but it is **not a timing signal**. Short gamma still lets moves extend both ways.\n\n## Tonight / Monday\n- **After-close earnings tonight:** no major index names on today's lists.\n  - ORCL headlines after the close (FJ 16:21–16:22): \"OpenAI contract fully funded,\" and it still sees positive free cash flow in 2H FY2028.\n- **Mon Nov 23:**\n  - **S&P Global flash PMIs at 9:45.**\n  - Zoom and Agilent report after the close.\n  - Monday FX option expiries per FJ.\n- **Rest of the week:**\n  - **Tue:** ADI (7:00), BBY, BURL and ANF before the open; **DELL**, HPQ, ADSK and AMBA after the close.\n  - **Wed:** Deere before the open.\n  - **Thu Nov 26:** Thanksgiving, markets closed. Friday has an early close.\n- **Iran/Hormuz headline risk** is live over the weekend.\n\n### Monday levels (today's high/low become the PDH/PDL)\n| | PDH | PDL | Close | GEX (ex-0DTE) |\n|---|---|---|---|---|\n| SPY | 718.27 | **686.81** | 690.56 | 700 wall overhead; 690, 680/675, 650 below |\n| QQQ | 643.17 | **606.30** | 610.10 | 600 put node below; 612–614 / 617–618 pivots; 620 above |\n| IWM | 265.77 | **256.13** | 256.91 | 255, 250 below; 265 above |\n| ES | 7216.75 | **6898.00** | | |\n| NQ | 26504.25 | **24976.50** | | |\n| RTY | 2677.50 | **2581.00** | | |\n\n- **Weekend gap risk:** a gap below the PDL makes the PDL resistance (Team2Trading rule), with **SPY 680/675, QQQ 600 and IWM 255/250** as the next magnets.\n- **A gap up:** watch **SPY 700 (wall + 13:45 shelf)** and **QQQ 617–620 / IWM 260** as the first resistance.\n- Wait for the pre-market range and a 15-min close after 9:45.\n\n*Information, not advice.*\n\n",
+  "markdown": "# After-Hours Check, Fri Nov 20, 2026 (pulled ~5:15 PM ET)\n\n**A modest relief bounce into the weekend futures close, and NQ crossed the 0.5% bar.** At the 5:00 PM halt, **NQ was +0.59%** vs 15:59 (25142.00 → 25291.00), **ES +0.33%** (6943.50 → 6966.75) and **RTY +0.44%** (2588.40 → 2599.90). Futures reopen Sunday at 6:00 PM ET.\n- The bounce started with **Oracle's \"OpenAI contract fully funded\"** comment (FJ 16:21).\n- It extended to the after-hours highs at 16:49–16:50, right after **conciliatory comments from Iran's FM Araghchi** (FJ 16:35–16:48). He said Tehran still hopes diplomacy can end the war, the \"two-day Hormuz plan is still on the table\", and a fair solution can be reached.\n- **No index-moving earnings after the close.** No new Fed or tariff shock either. NVDA SEC-probe coverage continues (X News), but nothing new after the close.\n- **Context:** the S&P (−3.7%) and Nasdaq (−5.3%) had the worst day of the streak, closing near their lows with dealers short gamma, so a small reflex bounce isn't surprising. It's not a reversal signal yet.\n\n**Sources:** Yahoo Finance (1m bars incl. extended hours), Financial Juice RSS, X News.\n\n## Futures and ETFs vs the 4:00 PM close\n| | 15:59 | Last | Change | AH range |\n|---|---|---|---|---|\n| ES | 6943.50 | 6966.75 (16:59) | +0.33% | 6924.50 (16:00)–6979.75 (16:50) |\n| NQ | 25142.00 | 25291.00 (16:59) | +0.59% | 25061.50 (16:00)–25362.75 (16:49) |\n| RTY | 2588.40 | 2599.90 (16:59) | +0.44% | 2578.90 (16:00)–2603.80 (16:50) |\n| SPY | 690.91 | 694.33 (17:11) | +0.50% | ignoring odd prints 715.94 / 649.38 |\n| QQQ | 610.04 | 614.35 (17:11) | +0.71% | 608.45 (16:00)–615.48 (16:49) |\n| IWM | 257.01 | 258.01 (17:11) | +0.39% | 256.07–258+ (ignoring odd print 264.12) |\n\n- **Cross-asset:**\n  - VIX 35.89 at 16:15 (from 39.53 at 15:59).\n  - WTI 83.62 (−0.4% AH).\n  - Gold 3539 (+0.4% AH).\n  - 10-year 4.91% at the close.\n- **Semis/mega-caps bounced:**\n  - NVDA +2.5% (128.89), SMH +2.2%, TSM +1.9%, MRVL +1.9%, MU +1.7%, AMD +1.4%, AVGO +1.2%.\n  - GOOGL +1.2%, TSLA +1.0%, META +0.6%, AMZN +0.4%, AAPL +0.3%, MSFT flat.\n  - ORCL +2.9% (104.07), INTC +2.8%, NBIS +3.5%.\n  - PANW −3.0% (333.30). I found no news on PANW after the close.\n\n## Read vs Monday's levels (from the 4:00 PM recap)\n- **SPY ~694:** above the PDL of 686.81 and the 690 node, still under the **700 wall** (the first resistance on a gap up).\n- **QQQ ~614:** inside the **612–614 pivot** zone, below 617–620 resistance. The PDL 606.30 / 600 put node is below.\n- **IWM ~258:** above the PDL of 256.13 and the 255 node. 260 is the first resistance.\n- **ES/NQ:** ~68 / ~315 points above the PDLs (6898 / 24976.50). They're still far below the PDHs (7216.75 / 26504.25).\n- **Weekend risk is two-way:** Iran/Hormuz headlines (tanker strike, hawks urging strikes vs. Araghchi's diplomacy) and NVDA SEC-probe follow-ups. Dealers are short gamma on all three ETFs, so moves can extend either way. Wait for the Sunday open, the pre-market range, and a 15-min close after 9:45.\n\n## Headlines since the close (Financial Juice, ET)\n- 16:04: S&P 500 and Dow close in correction territory.\n- 16:09: US targeting key Iranian \"oil trustees\".\n- 16:21–16:22 ORCL: OpenAI contract fully funded; still sees positive FCF in 2H FY2028.\n- 16:26: EU nears a new trade power to block access to its single market.\n- 16:35–16:48 Iran FM Araghchi: still hopes for diplomacy. Messages are still going through mediators. Trump should explicitly state he wants a deal. Red line: enriched uranium stays in Iran. Wants confidence-building steps that the US won't resume strikes. Two-day Hormuz plan still on the table.\n\n*Information, not advice.*\n",
   "macro_markdown": null,
-  "source_file": "2026-11-20_close.md"
+  "source_file": "2026-11-20_afterhours.md"
 }
