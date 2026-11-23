@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-23",
+  "type": "premarket",
+  "generated_at": "2026-11-23T07:44:00-05:00",
+  "generated_at_source": "text",
+  "summary": "Relief gap up after the worst week since 2020. Chips and AI stocks are leading the rebound (NVDA +6.9% to 134.14, SMH +5.1%, MU +4.3%, AVGO +4.6%, GOOGL +5.0%; Yahoo 7:40). The catalyst is Trump's post that he hopes NVDA's board rehires Jensen Huang (CNBC/Yahoo). In deal news, CrowdStrike is buying Zscaler for $43.9B in stock: ZS is up 13–15% and CRWD down 7–8% (Investing.com/CNBC).",
+  "futures": {
+    "NQ": {
+      "last": 25906.0,
+      "change_pct": 3.1,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": 7102.0,
+      "change_pct": 2.41,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": 2643.6,
+      "change_pct": 2.17,
+      "high": 2652.5,
+      "low": 2608.2
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -2.16,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": 0.07,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": 256.9,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": -0.33,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": 31.05,
+      "us10y": 4.959,
+      "dxy": 103.9,
+      "wti": 82.12,
+      "brent": 88.51,
+      "gold": null
+    }
+  },
+  "takeaway": "- **Pre-market boxes (no-trade zones):**\n  - SPY 704–711\n  - QQQ 626.4–633.5\n  - IWM 261.4–263.5\n- **The strongest confluences:**\n  - **Upside:** SPY 709.9–711.7 (≈ ES 7142–7160, the overnight high) and QQQ 633.5–633.9 (≈ NQ 26163–26178).\n  - **Downside:** SPY 704 and 700 (put node), QQQ 625.2–626.4 (gamma-flip zone).\n- **Gap-fill magnets:** SPY 690.6 / QQQ 610 / IWM 256.9, each with a put node.\n- **Upside magnets:** the PDHs SPY 718.3 / QQQ 643.2 / IWM 265.8, with SPY's 715 and IWM's 265 call nodes.\n- **QQQ is the swing factor:** holding above ~626 keeps dealers near neutral. Losing it puts QQQ back in short gamma.\n- **The 9:45 PMIs** land exactly at Team2Trading's first entry window.",
+  "markdown": "# Pre-Market Brief, Mon Nov 23, 2026 (data as of ~7:44 AM ET)\n\n**Relief gap up after the worst week since 2020.** Chips and AI stocks are leading the rebound (NVDA +6.9% to 134.14, SMH +5.1%, MU +4.3%, AVGO +4.6%, GOOGL +5.0%; Yahoo 7:40). The catalyst is Trump's post that he hopes NVDA's board rehires Jensen Huang (CNBC/Yahoo). In deal news, **CrowdStrike is buying Zscaler for $43.9B in stock**: ZS is up 13–15% and CRWD down 7–8% (Investing.com/CNBC).\n- **Futures (Yahoo, 7:30, ~10–15 min delayed):**\n  - **NQ 25906 (+3.10%)**, overnight range 25462 (Sun 18:10) to **26102.25 (4:15)**\n  - **ES 7102 (+2.41%)**, overnight range 6992 to **7142.5 (4:15)**\n  - **RTY 2643.6 (+2.17%)**, overnight range 2608.2 to 2652.5\n  - All three peaked at 4:15 and have faded since.\n- **VIX 31.05 (−13.5%)**, still the highest since the 2025 tariff shock (Yahoo).\n- **SPY, QQQ and IWM are all set to open INSIDE Friday's range, well above Friday's close.** Friday's close is now the gap-fill level below. Friday's high is the upside target/resistance.\n- **The gamma picture reset after Friday's OPEX:**\n  - SPY **−2.16B** (down from −7.49B Friday morning), still short gamma\n  - **QQQ +0.07B, about flat, at the gamma pivot**\n  - IWM −0.33B, small\n- **Not a Friday and not OPEX, but it's a holiday-shortened week:** Thanksgiving is Thursday. The big data comes Wednesday at 8:30 (core PCE, GDP revision).\n\n**Sources:**\n- Quant Data API on your account: GEX by strike, dark pool, and 9k+ unconsolidated flow for Fri plus pre-market, pulled 7:44 ET\n- Yahoo Finance: 1m/2m/15m bars, futures, global markets, cross-asset\n- Financial Juice RSS\n- X News\n- CNBC, Investing.com, Yahoo live\n- TipRanks/WiseView and XTB for the calendar; Tickzen and XTB for earnings\n- My 11/20 close recap for Friday's PDH/PDL/close (from Quant Data)\n\n**Caveats:**\n- Positioning comes from the Quant Data API, not the browser's My Pages. The 'contract flow' Session Date was not touched (still May 29, 2026), and no filters were added.\n- There's no heatmap or interval-map read, so the \"magnets\" below are the largest GEX nodes.\n- No cumulative gamma flip shows near spot. The sign changes listed are per-strike pivots.\n- Futures translations are approximate: ES ≈ SPY×10.06, NQ ≈ QQQ×41.30, RTY ≈ IWM×10.07.\n\n---\n\n## Positioning (Quant Data, 7:44 AM ET)\n\n**SPY** (spot 705.99)\n- **Net GEX −2.16B** (all) / −2.57B (ex-0DTE). Moderately short gamma, so moves can still extend, but far less than Friday's −7.5B before OPEX.\n- **Put nodes:** 680 (−0.73B), 675 (−0.69B), 690 (−0.58B), **700 (−0.57B; −0.67B ex-0DTE)**.\n- **Call nodes:** 705 (+0.19B, mostly 0DTE), **715 (+0.17B)**, 720/730 (+0.12B), 800 (+0.24B).\n- **Per-strike pivots:** a dense cluster at 702–711, right around spot.\n- **Dark pool (pre-market):** 709.1–709.9 (largest) and 706.7–707.0.\n\n**QQQ** (spot 627.20)\n- **Net GEX +0.07B** (all) / −0.09B (ex-0DTE). **Essentially at the flip.** The per-strike sign changes cluster at 625–630, so spot sits right on the pivot zone. Above it dealers dampen moves; below it they extend them.\n- **Put nodes:** **600 (−0.39B)**, 610 (−0.24B), 620 (−0.22B).\n- **Call walls:** 680 (+0.28B), 700 (+0.28B), 660 (+0.19B). These are far above.\n- **Dark pool:** 626.9–627.1, at spot.\n\n**IWM** (spot 262.39)\n- **Net GEX −0.33B**, small. OPEX cleared most of Friday's −2.0B.\n- **Put nodes:** 255 (−0.09B), 254 (−0.08B), 250, 260 (−0.05B), 263 (−0.04B).\n- **Call nodes:** 265 (+0.03B), 267 (+0.02B).\n- **Pivots:** 262.5–264.\n- **Dark pool:** 262.45–262.55.\n\n### 9,000+ contract flow\n**Pre-market today (to 7:44): none.**\n\n**Friday Nov 20 (299 prints, all tickers; index highlights below, times ET):**\n- **Early protection buying at the ask (continuation, and it worked):**\n  - SPY 650P 2/19, 15,000 @ $13.56 ask, $20.3M, opening, 10:32\n  - SPY 655P 1/29, 3 × 10,000 @ ~$12.3–12.6 (ask/below bid), ~$37M, opening, 10:51–11:16\n  - QQQ 460P 5/21, 10,000 @ $9.25 ask, opening, 13:08\n- **Hedge roll-downs and monetization (the afternoon and the close):**\n  - **SPY 3/19 put spread rolled down at 13:47.** Closed the 690P/590P (26,000 each, below bid, ~$102M). Opened the 660P/560P (28,000 each, below bid, ~$79M).\n  - **SPY 13:52:** closed 605P 3/19 (60,000 @ ask, $69M) and opened 600P 4/16 (50,000 @ bid).\n  - **SPY 11/27 at 16:00:** closed **700P (44,500, ITM, $91M)** and 675P. Opened 680P and 660P (66,750 each, above ask, ~$125M).\n  - **SPY 12/4 at 16:03:** closed **700P (44,500, ITM, $97M)**. Opened **675P (133,500 @ $13.07 above ask, $174.5M)** and sold 650P (89,000 @ bid, $67M), which looks like a put spread/ratio.\n  - **Read:** big holders cashed in in-the-money 700 puts and re-struck lower. That pulled hedge support away from 700 and moved it down to 675–680, which matches today's SPY put nodes at 675/680.\n  - **SPX:** two large same-timestamp roll-outs (11:46 and 13:05, ~41–43k lots per leg). Closed the Nov/Dec 6250–6500 puts and opened Dec 31 / Jan 8 5800–6000 put spreads. That's protection pushed further out and lower.\n  - **IWM 13:47:** closed ITM 265P 12/4 (34,462 below bid, $29M) and opened **254P 12/4, 56,092 at the bid, $21.4M**. That's put selling at the bid during negative GEX.\n- **Upside bets:**\n  - **QQQ 12:45:** opened 635C 3/19 (10,000 @ $38.42 ask, **$38.4M**) and closed 655C 12/18 at the bid. A call roll down/out: a big bet on a rebound toward 635+.\n  - META and AMZN call roll-downs (13:00 area).\n- **Bearish VIX:** VIX calls were closed all day (Dec 20C/24C/28C, Jan 35C/45C; 10k–56k lots), which is profit-taking. VIX Jan 23P (20,000 @ ask) and 19.5P (40,000) were **opened** at 11:27, a bet that vol fades by January.\n- **Call selling:** NVDA 240C 1/19, 10,343 @ $14.10 bid, opening, $14.6M, 10:54.\n- **Lottery/structure prints:** AAPL 140–150P 11/27 @ $0.01 and SPY 605P 11/23 @ $0.12–0.13 (55k total). Small premium, not directional.\n\n**Read:** Friday morning's put buying at the ask was **continuation**, and it worked: SPY ran from 718 to 687. The afternoon flipped to **hedge monetization**: ITM 700 puts closed, puts rolled lower, IWM puts sold at the bid, VIX calls cashed and VIX puts bought. In my history file, heavy put selling and monetization at the bid in deep negative GEX came before the cleanest **snap-back rallies** (Jun 10→11, Jul 28→30). Today's gap up fits that pattern. That study also shows short gamma lets moves run both ways, and today's gap is already fading from the 4:15 highs.\n\n---\n\n## Combined levels map (Team2Trading layer + GEX)\n\n- **PDH/PDL/close:** Friday RTH (Quant Data).\n- **Pre-market:** 4:00 AM to ~7:44 AM ET (Yahoo 1m). **Still live, can change before 9:30.**\n- **Zones:** 15-min swing highs/lows from Nov 19–20.\n\n### SPY (pre-market ~706.0)\n| Level | Price | Type | ES ≈ |\n|---|---|---|---|\n| **PDH** | **718.27** | target/resistance; **+ 715.5–718.6 Thu 15m lows + 715 call node** | **7226** |\n| 15m zone | 711.72 (Fri 9:30 low, untested) | resistance | 7160 |\n| **PMH** | **711.01 (4:17)** | **+ 711 pivot, 709.9 dark pool, ES ONH 7142.5** | 7153 |\n| PML | 704.06 (4:04) | **+ 703.98 Fri 13:45 15m high** | 7083 |\n| GEX | **700 put node** / 699.01 Fri 15m low | support/magnet | 7042 / 7032 |\n| Fri close / gap fill | 690.56 | **+ 690 put node** | 6947 |\n| PDL | 686.81 | | 6909 |\n- **2-min EMA stack:**\n  - 13 = 706.80, 48 = 708.16, 200 = 705.19.\n  - 13 is under 48 and price is between them, just above the 200, so it's **bunched/chop**. The short-term tilt is down because the gap is fading.\n- **Confluence levels:**\n  - **709.9–711.7:** PMH + Fri 15m low + pivot + dark pool + ES ONH.\n  - **703.98–704.06:** PML + Fri 15m high.\n  - **699–700:** put node + Fri 15m low.\n  - **690–690.6:** gap fill + put node.\n  - **715.5–718.3:** PDH + 715 call node + Thu zone.\n- **Game plan:** A 15-min close above 711.7 after 9:45 puts calls toward 715–718.3 (call node/PDH). Lose 704 on a 15-min close and puts toward 700, then 690.6 (gap fill + put node). Between 704 and 711, it's the pre-market box: no trade.\n\n### QQQ (pre-market ~627.1)\n| Level | Price | Type | NQ ≈ |\n|---|---|---|---|\n| **PDH** | **643.17** | target/resistance; + 644.3 Thu 15m low | **26563** |\n| 15m zone | 633.86 (Fri 9:30 low) | **+ PMH 633.49** | 26178 |\n| **PMH** | **633.49 (4:17)** | ≈ NQ ONH 26102 area | 26163 |\n| GEX pivot | 625–630 (flip zone) / dark pool 627 | | 25822–26019 |\n| PML | 626.44 (4:01) | **+ 625.22 Fri 13:45 15m high** | 25872 |\n| GEX | **620 put node** / 618.72 Fri 15m low | | 25606 / 25553 |\n| Fri close / gap fill | 610.10 | **+ 610 put node** | 25197 |\n| PDL | 606.30 | then 600 put node (largest) | 25040 |\n- **2-min EMA stack:** 628.15 / 629.48 / 626.43. Same as SPY: **bunched/chop**, short-term tilt down.\n- **Confluence levels:**\n  - **633.5–633.9:** PMH + Fri 15m low.\n  - **625.2–626.4:** PML + 15m high + gamma-flip zone. This is the key level: **below it QQQ moves into negative gamma** and moves extend.\n  - **618.7–620:** put node + 15m low.\n  - **610:** gap fill + put node.\n- **Game plan:** A 15-min close above 633.9 puts calls toward 643.2 (PDH). Lose 625.2 and puts toward 620, then 610 (gap fill). QQQ is sitting near the bottom of its pre-market box (626.4–633.5), so wait.\n\n### IWM (pre-market ~262.4)\n| Level | Price | Type | RTY ≈ |\n|---|---|---|---|\n| **PDH** | **265.77** | **+ 265.3 Thu zone + 265 call node** | **2676** |\n| 15m zone | 264.0–264.24 (Thu lows) | resistance; 264 pivot | 2658 |\n| **PMH** | **263.45 (6:46)** | + 263 node | 2653 |\n| 15m zone | 262.62 (Fri 9:30 low) | inside the PM box | 2645 |\n| PML | 261.41 (4:01) | + 260.93 Fri 15m high | 2632 |\n| GEX | 260 put node | | 2618 |\n| 15m zones | 258.7–259.0, 257.5 | | 2605 / 2593 |\n| Fri close / gap fill | 256.91 | then PDL 256.13, 255/254 put nodes | 2587 / 2579 |\n- **2-min EMA stack:** 262.54 / 262.68 / 261.42, bunched/chop.\n- **Confluence levels:**\n  - **265.3–265.8:** PDH + zone + call node.\n  - **260.9–261.4:** PML + 15m high.\n  - **256.1–256.9:** gap fill + PDL, near the 255 node.\n- **Game plan:** A 15-min close above 264.2 puts calls toward 265.3–265.8 (PDH/call node). Lose 260.9 and puts toward 260, then 258.7. The pre-market box is tight (261.4–263.5) and a no-trade zone.\n\n### Bias framing (Team2Trading)\n- All three open **inside Friday's range**, above the close and below the PDH, so there's no break-and-retest of a PDH/PDL at the open.\n- The trade is a 15-min close beyond the pre-market box. Above the PMH, the PDH is the target. Below the PML, the gap fill is the target.\n- A rejection at the PMH/15m zone keeps the fade-the-gap scenario in play.\n- Nothing before 9:45 ET. **The US flash PMIs print at 9:45**, so the first clean 15-min bar is the 10:00 close.\n\n### History parallels\n- The setup is **a flush in deep negative gamma followed by a catalyst gap up** (Fri SPY −3.5% with VIX up to 40, then the Huang headline). It resembles **Jun 10→11 and Jul 29→30** in my GEX file: snap-back rallies after the deepest short-gamma readings.\n- Friday's late hedge monetization lines up with the \"put selling at the bid\" signal.\n- The caveat: in those cases the snap-back held after the open. Today the futures have already faded ~0.7% from their 4:15 highs (NQ 26102 → 25906), so the PMH/PML break decides it.\n\n---\n\n## Macro\n\n**Calendar (ET):**\n- **8:30** Chicago Fed National Activity Index (Oct): consensus 0.4, prior 0.07 (minor).\n- **9:45** **S&P Global flash PMIs (Nov):**\n  - Manufacturing: consensus 54.5, prior 54.9\n  - Services: consensus 55.6, prior 56.1\n  - Composite: prior 55.9\n- **4:00 PM** NY Fed **Williams** speaks.\n- **Rest of the week:** Tue consumer confidence and DELL after the close. **Wed 8:30 core PCE (Oct), Q3 GDP revision, new home sales.** Thu Thanksgiving, markets closed. Fri early close.\n- **Europe flash PMIs this morning were mixed:**\n  - Germany beat strongly (composite 55 vs 53.2).\n  - France missed (composite 46.2 vs 47.9).\n  - Eurozone composite 51.7 vs 52.\n  - UK composite 52.3 vs 52.8.\n\n**Earnings:**\n- **Before the open:** ANF, BURL, DKS, KSS, DRVN, GDRX, DAVA, VNET. Retail only, no index movers (no S&P 500 reports before the open per WiseView).\n- **After the close today:** **HPE** (AI servers), A, ZM, TCOM, SYM.\n- **After the close Fri:** nothing index-moving.\n\n**Financial Juice (ET):**\n- **Sun 18:35:** Houthis attack Saudi Arabia's Rabigh refinery.\n- **Sun 18:51:** Libya's NOC says a valve closure on the Sharara pipeline cuts ~350k bpd.\n- **Sun 20:06:** California AG sues OpenAI over model security.\n- **2:49:** Iran's foreign ministry says it will use \"all available tools\" against the US naval blockade.\n- **4:22:** TSMC's Hou says the AI trend is unchanged and clients aren't adjusting orders.\n- **4:55:** Sen. Schiff plans a no-AI-bailouts resolution.\n- **7:14:** Allies warn Russia may launch a nuclear space weapon next month.\n- **7:43:** Deutsche Bank sees the S&P 500 at 9,000 in 2027.\n\n**X News:**\n- Futures are rebounding after the S&P/Dow closed in correction and the Nasdaq-100 briefly hit bear-market territory Friday.\n- Trump blames Democrats' midterm wins for the selloff.\n- Citi calls the AI bubble \"burst\" after NVDA −13%. NVDA is down ~48% from its October peak on Huang's exit and an SEC probe.\n- Nasdaq and NYSE Arca plan 23/5 trading starting Dec 6.\n- India's Nifty fell 1.7%.\n\n**Global:**\n- **Asia:** Japan closed for a holiday. **KOSPI −3.31%** (SK Hynix led the losses). Hang Seng −0.12%, Shanghai +0.15%.\n- **Europe (7:25):** Stoxx 50 +0.80%, DAX +0.76%, CAC +0.67%, FTSE +0.57%.\n\n**Cross-asset:**\n- **10-year 4.959% (+4 bp)**, 2-year 4.689% (+7 bp) (CNBC 5:15). Yields are rising with the risk-on move.\n- **DXY 103.90 (+0.1%)**.\n- **WTI $82.12 (−2.2%)** and **Brent $88.51 (−4.4%)**, falling despite the Libya and Houthi supply headlines.\n- **Gold $3,617 (+2.9%)**.\n- **VIX 31.05 (−13.5%)**.\n\n---\n\n## Takeaway (information, not advice)\n- **Pre-market boxes (no-trade zones):**\n  - SPY 704–711\n  - QQQ 626.4–633.5\n  - IWM 261.4–263.5\n- **The strongest confluences:**\n  - **Upside:** SPY 709.9–711.7 (≈ ES 7142–7160, the overnight high) and QQQ 633.5–633.9 (≈ NQ 26163–26178).\n  - **Downside:** SPY 704 and 700 (put node), QQQ 625.2–626.4 (gamma-flip zone).\n- **Gap-fill magnets:** SPY 690.6 / QQQ 610 / IWM 256.9, each with a put node.\n- **Upside magnets:** the PDHs SPY 718.3 / QQQ 643.2 / IWM 265.8, with SPY's 715 and IWM's 265 call nodes.\n- **QQQ is the swing factor:** holding above ~626 keeps dealers near neutral. Losing it puts QQQ back in short gamma.\n- **The 9:45 PMIs** land exactly at Team2Trading's first entry window.\n\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-23_premarket.md"
+}

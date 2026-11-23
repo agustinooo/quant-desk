@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-20T17:12:49-05:00",
-  "count": 81,
+  "updated_at": "2026-11-23T07:46:19-05:00",
+  "count": 82,
   "briefs": [
+    {
+      "date": "2026-11-23",
+      "type": "premarket",
+      "path": "briefs/2026-11-23_premarket.json",
+      "md_path": "briefs/2026-11-23_premarket.md",
+      "generated_at": "2026-11-23T07:44:00-05:00",
+      "summary": "Relief gap up after the worst week since 2020. Chips and AI stocks are leading the rebound (NVDA +6.9% to 134.14, SMH +5.1%, MU +4.3%, AVGO +4.6%, GOOGL +5.0%; Yahoo 7:40). The catalyst is Trump's pos"
+    },
     {
       "date": "2026-11-20",
       "type": "afterhours",
