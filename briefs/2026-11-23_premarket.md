@@ -179,8 +179,8 @@
 - **After the close Fri:** nothing index-moving.
 
 **Financial Juice (ET):**
-- **Sun 18:35:** Houthis attack Saudi Arabia's Rabigh refinery.
-- **Sun 18:51:** Libya's NOC says a valve closure on the Sharara pipeline cuts ~350k bpd.
+- **Sun 11:35:** Houthis attack Saudi Arabia's Rabigh refinery.
+- **Sun 18:57:** Libya's NOC says a valve closure on the Sharara pipeline cuts ~350k bpd.
 - **Sun 20:06:** California AG sues OpenAI over model security.
 - **2:49:** Iran's foreign ministry says it will use "all available tools" against the US naval blockade.
 - **4:22:** TSMC's Hou says the AI trend is unchanged and clients aren't adjusting orders.
