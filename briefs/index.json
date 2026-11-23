@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-23T16:23:00-05:00",
-  "count": 84,
+  "updated_at": "2026-11-23T17:14:51-05:00",
+  "count": 85,
   "briefs": [
+    {
+      "date": "2026-11-23",
+      "type": "afterhours",
+      "path": "briefs/2026-11-23_afterhours.json",
+      "md_path": "briefs/2026-11-23_afterhours.md",
+      "generated_at": "2026-11-23T17:15:00-05:00",
+      "summary": "Quiet after the huge NVDA rally. Futures are holding the close, and nothing crossed the 0.5% alert bar. At the 5:00 PM halt, ES was +0.18% vs 15:59 (7257.50 \u2192 7270.50), NQ +0.11% (26816.50 \u2192 26845.00)"
+    },
     {
       "date": "2026-11-23",
       "type": "close",
