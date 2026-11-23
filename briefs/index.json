@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-23T08:56:56-05:00",
-  "count": 83,
+  "updated_at": "2026-11-23T16:23:00-05:00",
+  "count": 84,
   "briefs": [
+    {
+      "date": "2026-11-23",
+      "type": "close",
+      "path": "briefs/2026-11-23_close.json",
+      "md_path": "briefs/2026-11-23_close.md",
+      "generated_at": "2026-11-23T16:21:00-05:00",
+      "summary": "A huge relief rally after Nvidia's board reinstated Jensen Huang as CEO. QQQ rose +6.7% and SPY +4.7%. NVDA closed +31% at about $165 (Yahoo), SMH +15%, MU +19% and VIX \u221226% to 26.7. Every ETF opened "
+    },
     {
       "date": "2026-11-23",
       "type": "postdata",
