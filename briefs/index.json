@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-23T07:46:37-05:00",
-  "count": 82,
+  "updated_at": "2026-11-23T08:56:56-05:00",
+  "count": 83,
   "briefs": [
+    {
+      "date": "2026-11-23",
+      "type": "postdata",
+      "path": "briefs/2026-11-23_postdata.json",
+      "md_path": "briefs/2026-11-23_postdata.md",
+      "generated_at": "2026-11-23T08:55:00-05:00",
+      "summary": "Nothing drastic happened. The only U.S. 8:30 release was the Chicago Fed National Activity Index: \u22120.06 vs 0.2 expected (prior 0.07), a minor miss. Futures are flat since 8:00: NQ +0.08%, ES \u22120.05%, R"
+    },
     {
       "date": "2026-11-23",
       "type": "premarket",
