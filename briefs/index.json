@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-23T17:14:51-05:00",
-  "count": 85,
+  "updated_at": "2026-11-24T07:48:44-05:00",
+  "count": 86,
   "briefs": [
+    {
+      "date": "2026-11-24",
+      "type": "premarket",
+      "path": "briefs/2026-11-24_premarket.json",
+      "md_path": "briefs/2026-11-24_premarket.md",
+      "generated_at": "2026-11-24T07:46:00-05:00",
+      "summary": "Futures have given back a big part of Monday's NVDA-led rally overnight. Semis are leading the drop. ES and NQ peaked at 20:10 last night and have been fading since, with lows printed around 06:15\u201307:"
+    },
     {
       "date": "2026-11-23",
       "type": "afterhours",
