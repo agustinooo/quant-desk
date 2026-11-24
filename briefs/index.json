@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-24T16:20:20-05:00",
-  "count": 88,
+  "updated_at": "2026-11-24T17:13:25-05:00",
+  "count": 89,
   "briefs": [
+    {
+      "date": "2026-11-24",
+      "type": "afterhours",
+      "path": "briefs/2026-11-24_afterhours.json",
+      "md_path": "briefs/2026-11-24_afterhours.md",
+      "generated_at": "2026-11-24T17:15:00-05:00",
+      "summary": "Quiet after the close. Nothing crossed the 0.5% alert bar. At the 5:00 PM halt, ES was \u22120.13% vs 15:59 (7220.25 \u2192 7210.75), NQ \u22120.07% (26285.00 \u2192 26266.00) and RTY \u22120.07% (2689.80 \u2192 2688.00)."
+    },
     {
       "date": "2026-11-24",
       "type": "close",
