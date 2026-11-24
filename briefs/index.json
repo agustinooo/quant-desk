@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-24T08:55:51-05:00",
-  "count": 87,
+  "updated_at": "2026-11-24T16:20:10-05:00",
+  "count": 88,
   "briefs": [
+    {
+      "date": "2026-11-24",
+      "type": "close",
+      "path": "briefs/2026-11-24_close.json",
+      "md_path": "briefs/2026-11-24_close.md",
+      "generated_at": "2026-11-24T16:18:00-05:00",
+      "summary": "Chips sold off hard, and the rest of the market rotated. QQQ \u22122.0% and SPY \u22120.7%, but IWM +0.5% and the Dow +0.85% (just above 50,000). NVDA \u22125.9%, AMD \u22128.9%, MU \u221211%, MRVL \u22129.1%, INTC \u22128.2% and SMH \u2212"
+    },
     {
       "date": "2026-11-24",
       "type": "postdata",

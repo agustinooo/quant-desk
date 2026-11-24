@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-24",
+  "type": "close",
+  "generated_at": "2026-11-24T16:18:00-05:00",
+  "generated_at_source": "text",
+  "summary": "Chips sold off hard, and the rest of the market rotated. QQQ −2.0% and SPY −0.7%, but IWM +0.5% and the Dow +0.85% (just above 50,000). NVDA −5.9%, AMD −8.9%, MU −11%, MRVL −9.1%, INTC −8.2% and SMH −7.3%. The WSJ tariff headline (8:08) set the tone. The low came at 11:14, then a softer tariff report and a big consumer-confidence beat helped a midday rebound. VIX ended lower at 26.3. Dealers are now much shorter gamma: SPY net GEX is −9.7B.",
+  "futures": {
+    "NQ": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": 26.3,
+      "us10y": 4.904,
+      "dxy": 103.83,
+      "wti": null,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# Close Recap, Tue Nov 24, 2026 (data pulled ~4:18 PM ET)\n\n**Chips sold off hard, and the rest of the market rotated.** QQQ −2.0% and SPY −0.7%, but IWM +0.5% and the Dow +0.85% (just above 50,000). NVDA −5.9%, AMD −8.9%, MU −11%, MRVL −9.1%, INTC −8.2% and SMH −7.3%. The WSJ tariff headline (8:08) set the tone. The low came at 11:14, then a softer tariff report and a big consumer-confidence beat helped a midday rebound. VIX ended lower at 26.3. Dealers are now **much shorter gamma**: SPY net GEX is −9.7B.\n\n## Closes (RTH)\n| | Close | Chg | High | Low |\n|---|---|---|---|---|\n| **SPY** | 718.30 | **−0.66%** | 720.93 (10:00) | 712.14 (9:31) |\n| **QQQ** | 637.71 | **−2.02%** | 643.47 (10:00) | 631.15 (11:14) |\n| **IWM** | 267.07 | **+0.45%** | 268.31 (14:20) | 263.97 (9:30) |\n| **ES** | 7220.25 (15:59) | −0.61% | 7240.75 (10:00) | 7152.25 (9:31) |\n| **NQ** | 26285.0 (15:59) | −2.12% | 26509.75 (10:00) | 25998.00 (11:14) |\n| **RTY** | 2689.8 (15:59) | +0.41% | 2701.20 (14:20) | 2658.00 (9:30) |\n- ETF closes and % changes are from Quant Data (vs Monday's 723.07 / 650.89 / 265.87). Highs, lows and futures are from Yahoo 1-min bars. Futures % changes are vs Yahoo's prior settle.\n- Quant Data's highs and lows are within a few cents: SPY 720.69/712.24, QQQ 643.24/631.22, IWM 268.30/263.98.\n- **Index closes:** S&P 500 7201.09 (−0.50%), Nasdaq 23733.54 (−1.48%), NDX 26214.17 (−1.99%), Dow 50018.70 (+0.85%), Russell 2000 2684.94 (+0.57%).\n- **Leaders:** WMT +2.1%, AAPL +1.4% (closed at its high), MSFT +0.7%, ROST +4.2%.\n\n## This morning's levels: held or broke\n- **Final pre-market boxes (Quant Data):** SPY 711.42–716.36, QQQ 634.83–640.99, IWM 262.78–264.45.\n- **SPY:**\n  - **Held:** the 711.4–713.5 support (new PML + PDL). The 9:31 low was 712.14. The 10:30 and 11:00 15-min bars closed at 713.50 and 713.44, a hair under the PDL, but no bar ever closed under 711.4. The 700 put-node target never came into play.\n  - **Upside:** the 9:45 15-min bar closed at 719.74, above the PMH. Price reached **720.93 at 10:00**, so the 719–720.6 target was met, then it was rejected. A retest at 12:30–12:45 (720.67) failed too.\n  - **Untested:** 724–725/728 overhead.\n- **QQQ:**\n  - **Rejected:** the 641.95–642 old-PDL resistance. QQQ pushed to 643.47 at 10:00, then the 15-min bars closed back at 640.67 and 635.25.\n  - **Broke:** the PML at 634.8 and the 635 put node. The 10:30 bar closed at 632.87, and the low was **631.15 at 11:14**, just short of the 630 target.\n  - **Midday:** QQQ reclaimed 635–638, but the **640 magnet capped it** (12:45 high 640.90). It faded back to 634.3 at 15:30 before a late pop.\n- **IWM:**\n  - **Held:** the 263.7–263.9 support (PML + largest dark pool). The opening low was 263.97.\n  - **Broke up:** the 9:30 15-min bar closed at 266.66, above the PMH 264.45 and the 266–266.4 PDH/PMH zone, so the call side worked. IWM ran to **268.31 at 14:20**, into the 267.5–268 pivots.\n\n## Drivers (sources)\n- **Tariffs:**\n  - The WSJ reported at 8:08 that the US is preparing new Section 301 tariffs on China, the EU and 14 other economies (USTR Greer). The EU, Japan and Korea would face 15% or less, with China, Vietnam and India higher. Results could come this week (WSJ via FJ, X News).\n  - At 10:45 a source said the new tariffs **won't exceed trade-deal levels** and will be targeted, not a blanket rate (FJ). The rebound followed after the 11:14 low.\n- **Semis/AI:**\n  - **AMD** fell below $400 after a filing registering up to **336.9M shares for resale** (about 20% of shares outstanding, mostly OpenAI/Meta warrant shares) (X News).\n  - **ADI** beat on Q4 but guided light, and the stock fell (X News).\n  - **NVDA:**\n    - AG Blanche said at 11:43, \"If Nvidia was the target of a criminal investigation, that wouldn't be the message.\"\n    - Huang held an all-hands at 12:30.\n    - Schumer accused Huang at 13:07 of shipping \"extremely advanced chips to China, violating US export control law.\"\n    - Rep. Meeks wants public testimony (all FJ).\n  - **Huawei** was convicted at a US criminal trial on 10 of 12 counts (FJ, 15:14).\n- **Data:**\n  - **Conference Board consumer confidence came in at 103.3, far above the 92.4 forecast (prior 91.7).** That's the highest since early 2025. 12-month inflation expectations eased to 5.7% (FJ, X News).\n  - Richmond Fed: 3 (forecast −2).\n  - CNN Fear & Greed: 18, \"Extreme Fear\" (FJ).\n- **Rates/Fed:**\n  - The $70B 5-year auction cleared at **4.719%**, with a 2.37 bid-to-cover (prior 2.33) (FJ).\n  - X News says prediction markets price **over 90% odds of a 25bp Fed *hike*** in December, ahead of tomorrow's PCE.\n  - BoC's Macklem was hawkish, and December BoC hike odds rose to about 80% (FJ).\n- **Geopolitics/oil:**\n  - The IRGC Navy says a **fourth tanker** exploded on a sea mine east of Hormuz (FJ, 15:15). Iran claims a container ship was struck north of Khasab (12:47).\n  - NBC says Trump officials are debating targeting Iran's leaders (11:01). Israel's Katz claims Iran is working on a dirty bomb (12:58).\n- **Retail earnings beats:** DLTR +10% (raised guidance), ANF +20%, BBY and DKS (X News).\n\n## Cross-asset (Yahoo, ~4:10 PM, unless noted)\n- **VIX 26.30 (−1.2%).** The RTH range was 29.57 (9:34) to 26.14 (15:57). Ignore the 32.38 pre-market tick.\n- **10-year 4.904%** (−1.4bp). The 3-month bill is 4.168%.\n- **DXY 103.83 (−0.5%).**\n- **WTI settled at $82.05 (+2.35%)** and **Brent at $91.40 (+2.27%)** (NYMEX/ICE via FJ).\n- **Gold $3,550 (−2.8%).** CME's higher margins take effect after today's close.\n\n## Positioning at the close (Quant Data API, 4:18 PM ET)\n**SPY** (spot 717.67)\n- **Net GEX −9.71B with all expiries / −6.86B ex-0DTE.** Monday was −1.88B / −5.58B, so this is the shortest gamma in weeks.\n- Today's 0DTE puts at 717–719 (−1.7B at 717) expire.\n- **Put walls (ex-0DTE):** **700 (−0.96B)**, 675 (−0.57B), 690 (−0.55B), **715 (−0.43B)**, 650.\n- **Call walls:** small: 730 (+0.09B), 800 (+0.27B).\n- **No cumulative flip in range.** The nearest per-strike sign changes are **725–728**, then 734, so the flip zone sits above, at roughly 725–728.\n- **Dark pool:** the largest print was 722.1. In range, the largest were **718.5** (two large prints) and 715.0.\n\n**QQQ** (spot 636.82)\n- **Net GEX −3.47B / −3.62B ex-0DTE.** Monday was −1.03B / −1.84B.\n- **Put walls:** **640 (−0.46B)**, **635 (−0.42B)**, 650 (−0.42B), 620, 600.\n- **Calls:** only far ones (700, 720). The 638 0DTE call (+0.61B) expires.\n- **No flip in range.** Pivots are at 637–643.\n- **Dark pool:** 650.9 was the largest print. In range, 638.1.\n\n**IWM** (spot 266.59)\n- **Net GEX −2.64B** (Monday −2.36B).\n- **Put walls:** **260 (−0.32B)**, 255, 250, 265, and **267 (−0.17B ex-0DTE)**.\n- **Calls:** small and far (300).\n- **Pivots:** 267.5–268, then 271–272.5.\n- **Dark pool:** 267.1 and 265.6.\n\n### 9,000+ contract flow: 140 prints today (all tickers)\n- **SPX at 11:12, the day's low:** opened **11,000 Apr 2027 6500P above the ask, $192M**. That's a large tail hedge bought into the low.\n- **SPY:**\n  - **13:44:** a **put spread roll of 150,000 lots**. It closed the Dec 18 610P / 480P / 350P and opened the **Feb 19 2027 615P** ($103M) and 480P. That's protection rolled out to February, not dropped.\n  - **13:58:** opened **Dec 11 700P at the ask** (10,050, $8.9M) against 675P, a bought 700/675 put spread. That lines up with the 700 wall.\n- **QQQ:**\n  - **11:02, near the low:** closed the Dec 18 690C and 605P, and opened 510P (15,750 lots). That's a collar restructure.\n  - **15:35:** closed the Dec 18 625P / 650C (10,000 each).\n  - **15:30:** closed deep-ITM Dec 18 720P/725P (12,000 each). That's likely a position cleanup, not directional.\n- **NVDA at 9:49:** rolled the Jan/Feb 80P and 120P (50,000–75,000 lots) into **May 2027 90P (75,000 opened)**. Tail hedges were rolled, not dropped.\n- **IWM:** rolled Dec 4 254P put spreads into Dec 18 258/255/252P (10:56, 12:41, 16:10). At 15:50, opened 10,000 Jan 280C at the bid, which reads as a call sale.\n- **VIX:** about 12 prints, mostly **closing Jan 20/31/35/40 calls** as VIX fell from 29.6. Hedges were monetized.\n- **Credit:** 11 HYG prints, mostly puts ($19.9M).\n- **Read:**\n  - Big money **rolled and extended protection** (SPY to February, NVDA to May, SPX April 6500P) instead of closing it.\n  - VIX calls were sold off as volatility came in.\n  - Together with SPY sitting at −9.7B GEX and its largest put wall at 700, the downside tail stays well hedged and dealer hedging can extend moves in either direction.\n\n## Tonight and tomorrow (Wed Nov 25)\n- **After the close tonight:**\n  - **DELL:** results hit at 4:07 (FJ). Numbers weren't parsed as of 4:18. The street expects about $49.3B revenue and $6.62 adjusted EPS, with a $95B AI-server backlog (X News).\n  - **WDAY:** about $171 after hours vs a $179.23 close (Yahoo 16:17).\n  - **ADSK:** also reports tonight.\n- **Wednesday 8:30:** **October core PCE** (X News expects headline +0.3% m/m and 3.8% y/y, core +0.3% and 3.2%), the **Q3 GDP revision** and **jobless claims**. A hot print feeds the December-hike pricing.\n- **Rest of the week:** a USTR Section 301 tariff announcement is possible. **Thursday is closed for Thanksgiving, and Friday closes at 1 PM.**\n- **Overnight risks:** Hormuz mines and tankers, the Iran strike talk, and NVDA's political fallout.\n\n### Tomorrow's levels (today's RTH high/low = PDH/PDL)\n| | PDH | PDL | Close | GEX / notes |\n|---|---|---|---|---|\n| **SPY** | **720.93** (ES ≈ 7241) | **712.14** (ES ≈ 7152) | 718.30 | Put walls 715 and 700. Flip zone ~725–728 overhead. Dark pool 718.5 |\n| **QQQ** | **643.47** (NQ ≈ 26510) | **631.15** (NQ ≈ 25998) | 637.71 | Put walls 640 and 635 (both broken today). 630/620 below. Dark pool 638.1 |\n| **IWM** | **268.31** (RTY ≈ 2701) | **263.97** (RTY ≈ 2658) | 267.07 | 267 put node and 267.5–268 pivots. Monday's PDH 266.1. 260 wall |\n- Futures conversions use today's 15:59 ratios: ES ≈ SPY×10.045, NQ ≈ QQQ×41.19, RTY ≈ IWM×10.07.\n- **Key confluences:**\n  - **SPY 711.4–713.5:** today's PDL, this morning's PML and Monday's PDL. It held twice today.\n  - **SPY 715:** put wall + dark pool.\n  - **SPY 720.6–720.9:** PDH, a double rejection.\n  - **QQQ 640–643.5:** the 640 wall + PDH + Monday's PDL, a triple overhead.\n  - **IWM 266.1–267:** Monday's PDH + the 267 node, now support.\n- **Read:** all three are deeply net short gamma into the PCE print, and two of the last three sessions saw 1–2% index swings. Expect moves to extend in either direction off these levels.\n\n*Information, not advice.*\n\n**Sources:**\n- Quant Data API on your account (GEX by strike, OHLC, dark pool, 9k+ unconsolidated flow; 4:18 PM ET)\n- Yahoo Finance 1-min/15-min/daily\n- Financial Juice RSS\n- X News\n\nPositioning came from the Quant Data API, not the browser. The 'contract flow' My Page wasn't touched, so its Session Date stays May 29, 2026, and no filters were added.\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-24_close.md"
+}
