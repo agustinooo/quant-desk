@@ -1,39 +1,39 @@
 {
   "schema_version": 1,
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "type": "postdata",
-  "generated_at": "2026-11-23T08:55:00-05:00",
+  "generated_at": "2026-11-24T08:55:00-05:00",
   "generated_at_source": "text",
-  "summary": "Nothing drastic happened. The only U.S. 8:30 release was the Chicago Fed National Activity Index: −0.06 vs 0.2 expected (prior 0.07), a minor miss. Futures are flat since 8:00: NQ +0.08%, ES −0.05%, RTY −0.06%. VIX is 31.36 (flat). Nobody broke the pre-market high or low. No 9k+ prints. Dealers got a bit shorter gamma: QQQ went from about flat to −1.36B. The walls and magnets haven't moved.",
+  "summary": "WSJ tariff headline at 8:08–8:11 ET: the US is preparing to raise tariffs on China, the EU and 14 other economies, with results possibly out this week. Futures dumped on it. NQ fell −0.9% from 8:08 to 8:15 and is now −0.42% since 8:00. SPY, QQQ and IWM all broke their pre-market lows. SPY is now just under its PDL. Dealers got shorter gamma: SPY went from −3.43B to −4.93B and QQQ from −1.59B to −2.40B. No 9k+ prints.",
   "futures": {
     "NQ": {
-      "last": 25907.0,
-      "change_pct": 0.08,
+      "last": 26359.5,
+      "change_pct": -0.42,
       "high": null,
       "low": null
     },
     "ES": {
-      "last": 7101.75,
-      "change_pct": -0.05,
+      "last": 7189.25,
+      "change_pct": -0.34,
       "high": null,
       "low": null
     },
     "RTY": {
-      "last": 2645.0,
-      "change_pct": -0.06,
+      "last": 2661.1,
+      "change_pct": -0.33,
       "high": null,
       "low": null
     }
   },
   "tickers": {
     "SPY": {
-      "spot": 705.49,
+      "spot": 713.46,
       "pdh": null,
       "pdl": null,
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": -3.61,
+      "net_gex_b": -4.93,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
@@ -42,13 +42,13 @@
       "game_plan": null
     },
     "QQQ": {
-      "spot": 627.97,
+      "spot": 637.13,
       "pdh": null,
       "pdl": null,
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": -1.36,
+      "net_gex_b": -2.4,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
@@ -57,13 +57,13 @@
       "game_plan": null
     },
     "IWM": {
-      "spot": 262.09,
+      "spot": 263.69,
       "pdh": null,
       "pdl": null,
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": -0.63,
+      "net_gex_b": -0.94,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
@@ -99,24 +99,24 @@
     "calendar": null,
     "earnings": null,
     "headlines": [
-      "Amazon will reportedly pay $7.5B for AI startup Decart's tech.",
-      "Trump: \"I hope Huang will be back at NVIDIA soon\" (PBS). He also blamed the Democrats' midterm wins for the market drop.",
-      "Treasury counselor Zervos: last week brought tighter financial conditions.",
-      "Firmus (NVDA-backed) is weighing a $1.5B bond sale. Strategy bought 457 BTC.",
-      "Still on the radar: reports that Russia may launch a nuclear space weapon next month, Baltic tensions, and Iran's statement on the U.S. naval blockade.",
-      "Nothing market-moving. Wednesday's 8:30 core PCE and GDP are still the week's big data."
+      "WSJ: the US is preparing to raise tariffs on China, the EU and 14 countries over industrial overcapacity (USTR Greer probe).",
+      "The EU, Japan and Korea likely face 15% or less. China, Vietnam and India may face higher rates.",
+      "Some industrial goods are excluded. The new tariffs would come on top of the July action.",
+      "Oppenheimer cut its MRVL target to $325 from $425.",
+      "BoE's Greene (hawkish): disinflation has stalled, and they need to hike.",
+      "The EU set provisional quotas on hybrid car imports starting Dec 1."
     ],
     "cross_asset": {
-      "vix": 31.36,
-      "us10y": 4.92,
-      "dxy": 104.09,
-      "wti": 81.58,
+      "vix": 29.41,
+      "us10y": 4.89,
+      "dxy": 103.92,
+      "wti": 80.76,
       "brent": null,
       "gold": null
     }
   },
   "takeaway": null,
-  "markdown": "# 8:45 post-data check, Mon Nov 23 2026 (~8:55 AM ET): QUIET (no alert)\n\n**Nothing drastic happened. The only U.S. 8:30 release was the Chicago Fed National Activity Index: −0.06 vs 0.2 expected (prior 0.07), a minor miss. Futures are flat since 8:00: NQ +0.08%, ES −0.05%, RTY −0.06%. VIX is 31.36 (flat). Nobody broke the pre-market high or low. No 9k+ prints. Dealers got a bit shorter gamma: QQQ went from about flat to −1.36B. The walls and magnets haven't moved.**\n\n- **8:30 data (Financial Juice):** Chicago Fed NAI −0.06 (forecast 0.2, prior 0.07). Canada's October manufacturing flash came in at +2.3% m/m.\n  - Earlier flash PMIs: German PMIs beat (composite 55 vs 53.2). French and UK PMIs missed. Eurozone was mixed (composite 51.7 vs 52).\n- **Headlines since 8:00 (Financial Juice, X News):**\n  - Amazon will reportedly pay $7.5B for AI startup Decart's tech.\n  - Trump: \"I hope Huang will be back at NVIDIA soon\" (PBS). He also blamed the Democrats' midterm wins for the market drop.\n  - Treasury counselor Zervos: last week brought tighter financial conditions.\n  - Firmus (NVDA-backed) is weighing a $1.5B bond sale. Strategy bought 457 BTC.\n  - Still on the radar: reports that Russia may launch a nuclear space weapon next month, Baltic tensions, and Iran's statement on the U.S. naval blockade.\n  - Nothing market-moving. Wednesday's 8:30 core PCE and GDP are still the week's big data.\n- **Futures and cross-asset (Yahoo 1m, delayed; last ~8:44; change from 8:00):**\n  - **NQ** 25907 → **25927.75 (+0.08%)**. High 26016 at 8:20, low 25904.75 at 8:00.\n  - **ES** 7101.75 → **7098.00 (−0.05%)**. High 7118.5 at 8:11, low 7096.75 at 8:32.\n  - **RTY** 2645.0 → **2643.4 (−0.06%)**. Low 2642.6 at 8:32.\n  - **VIX 31.36** (−0.2%; range 30.84–31.49). **10-year 4.92%** (flat). DXY 104.09. WTI 81.58 (−0.9%). NVDA 135.98 (+0.5%).\n- **ETFs vs the 8:00 brief levels (Yahoo 1m, last ~8:54):**\n  - **SPY 705.49.** It sold off from 708.61 (8:21) to 705.14 (8:52) but is still inside the 704.06–711.01 box.\n  - **QQQ 627.97.** It hit 631.29 at 8:20 and faded to 627.46. The box is 626.44–633.49, and price is near the bottom of it.\n  - **IWM 262.09.** The 8:53 low was 262.00. The box is 261.41–263.45.\n  - All three are back near their lows since 8:00, so the gap fade is still slowly in play. Nothing has broken.\n\n## GEX re-pull (Quant Data API, 8:55 vs 7:44)\n- **SPY −3.61B all / −3.90B ex-0DTE** (was −2.16 / −2.57). Dealers are shorter gamma.\n  - Puts: 680 (−0.80B), 675 (−0.76B), **700 (−0.62B; −0.73B ex-0DTE)**, 690 (−0.57B), 650 (−0.52B).\n  - Calls: 705 (+0.12B, 0DTE), 718 (+0.08B ex-0DTE), 800.\n  - Pivots: 702–711. No cumulative flip.\n- **QQQ −1.36B all / −1.45B ex-0DTE** (was +0.07 / −0.09). **It has slipped from the flip into short gamma.**\n  - Puts: 600 (−0.44B), 610 (−0.33B), 620 (−0.26B), 650, 630 (−0.20B).\n  - Calls: 700 (+0.31B), 680 (+0.30B).\n  - Pivots: 625–634, the same zone as before.\n- **IWM −0.63B** (was −0.33B).\n  - Puts: 255 (−0.20B), 250 (−0.15B).\n  - Calls: 265 (+0.05B).\n- **Dark pool:** SPY 709.1–709.9 (largest), 708.3, 706.7–706.8. QQQ 626.9–627.1. IWM 262.45–262.55.\n- **Read:** the strikes haven't changed, but dealers are moderately shorter gamma across the board. Moves out of the box can travel a bit further. The magnets are SPY 700 then 690/680, QQQ 620 then 610, IWM 260 then 255.\n\n## 9,000+ contract flow\n- **None so far today** (Quant Data unconsolidated flow, min size 9,000, 8:55).\n\n## Game plan (unchanged; Team2Trading rules: no trade before 9:45, 15-min close beyond a level)\n- **SPY:**\n  - The box is 704.06–711.01.\n  - Above 711.7 on a 15-min close, calls toward 715–718.3.\n  - Below 704 on a 15-min close, puts toward 700, then 690.6 (gap fill).\n- **QQQ:**\n  - The box is 626.44–633.49.\n  - Above 633.9, calls toward 643.2.\n  - Below 625.2, puts toward 620, then 610. Since QQQ is now net short gamma, a break lower can extend.\n- **IWM:**\n  - The box is 261.41–263.45.\n  - Above 264.2, calls toward 265.3–265.8.\n  - Below 260.9, puts toward 260, then 258.7.\n\n**Sources:**\n- Quant Data API: GEX by strike, 1m prices, dark pool, 9k+ unconsolidated flow; pulled 8:55 ET\n- Yahoo Finance 1m, delayed: futures, VIX, TNX, DXY, CL, ETFs, pre-market high/low\n- Financial Juice RSS\n- X News\n\nThe Quant Data browser My Pages weren't opened, and the 'contract flow' Session Date wasn't touched.\n",
+  "markdown": "# 8:45 post-data check, Tue Nov 24 2026 (~8:55 AM ET): ALERT\n\n**WSJ tariff headline at 8:08–8:11 ET: the US is preparing to raise tariffs on China, the EU and 14 other economies, with results possibly out this week. Futures dumped on it. NQ fell −0.9% from 8:08 to 8:15 and is now −0.42% since 8:00. SPY, QQQ and IWM all broke their pre-market lows. SPY is now just under its PDL. Dealers got shorter gamma: SPY went from −3.43B to −4.93B and QQQ from −1.59B to −2.40B. No 9k+ prints.**\n\n- **8:30 data:** no tier-1 US release today. ADP weekly came in at 21k (prior 23.75k, revised 23k), per Financial Juice at 8:15. Core PCE, GDP and claims come Wednesday at 8:30.\n- **Headlines since 8:00 (Financial Juice, X News):**\n  - **WSJ:** the US is preparing to raise tariffs on China, the EU and 14 countries over industrial overcapacity (USTR Greer probe).\n    - The EU, Japan and Korea likely face 15% or less. China, Vietnam and India may face higher rates.\n    - Some industrial goods are excluded. The new tariffs would come on top of the July action.\n  - Oppenheimer cut its MRVL target to $325 from $425.\n  - BoE's Greene (hawkish): disinflation has stalled, and they need to hike.\n  - The EU set provisional quotas on hybrid car imports starting Dec 1.\n- **Futures and cross-asset (Yahoo 1m, delayed; last ~8:45; change from 8:00):**\n  - **NQ** 26359.5 → **26247.5 (−0.42%)**. High 26379.5 at 8:08, low **26142.25 at 8:15**, so −0.90% from high to low. It's below the overnight low of 26255.\n  - **ES** 7189.25 → **7164.75 (−0.34%)**. High 7193.75 at 8:08, low **7144.75 at 8:18** (−0.68%). That's below the overnight low of 7173.25.\n  - **RTY** 2661.1 → **2652.4 (−0.33%)**. Low 2645.8 at 8:18.\n  - **VIX 29.41** (+2.1% since 8:00).\n    - One 8:08 bar printed 32.38 high / 28.75 low. That looks like a bad tick, so I'm not counting it as a real spike.\n  - 10-year 4.89% (flat). DXY 103.92 (flat). WTI 80.76 (+0.5%). NVDA 156.71 (−0.5%).\n- **ETFs vs the 8:00 brief levels (Yahoo 1m, last ~8:55):**\n  - **SPY 713.46.** It broke the **PML 714.30** and the **PDL 713.53**, with a low of **711.40 at 8:18** that tagged the untested support at 711.72. It bounced and now sits right at or just under the PDL. **New PML 711.40.**\n  - **QQQ 637.13.** It broke the **PML 637.48**, with a low of **634.79 at 8:15**, just under the 635 put node. **New PML 634.79.** It's still below the PDL at 641.95.\n  - **IWM 263.69.** It broke the **PML 263.68**, with a low of **262.78 at 8:18**, a hair under the **PDL 262.86**. It's back above both now. **New PML 262.78.**\n\n## GEX re-pull (Quant Data API, 8:55 vs 7:46)\n- **SPY −4.93B all / −4.20B ex-0DTE** (was −3.43 / −2.78). Dealers are shorter gamma.\n  - Puts: 675 (−0.62B), 690 (−0.61B), **700 (−0.60B)**, 680 (−0.49B), 650.\n  - The 715 node is gone from the top list.\n  - Calls: 735 (+0.12B), 750, 800.\n  - Pivots: 721–723, 726–729, 734. No cumulative flip.\n- **QQQ −2.40B all / −1.90B ex-0DTE** (was −1.59 / −1.13).\n  - Puts: **635 (−0.44B)**, **640 (−0.43B)**, 600, 650, 620.\n  - Calls: 700 (+0.41B), 680, 670.\n  - Pivots ex-0DTE: 631–632, 638–639, 641–645.\n- **IWM −0.94B** (was −0.55B).\n  - Puts: 255 (−0.26B), 250, 240, 260 (−0.11B), 265 (−0.09B).\n  - Calls: 268 and 269 are small.\n  - Pivots: 267, 270–271.\n- **Dark pool:** SPY's largest print is still 724.75, with in-range prints at 712.75–716.0. QQQ's largest is 653.3/651.7, with in-range prints at 636.7–639.9. IWM's is 263.85, the largest by far.\n- **Read:** the strikes are the same, but dealers are noticeably shorter gamma in all three, so a break can extend.\n  - The downside magnets are **SPY 700, then 690**, **QQQ 635, then 630/620**, and **IWM 260, then 255**.\n  - Overhead, the first resistance is the old PML/PDL area.\n\n## 9,000+ contract flow\n- **None so far today** (Quant Data unconsolidated flow, min size 9,000, as of 8:55).\n\n## Game plan (Team2Trading rules: nothing before 9:45, 15-min close beyond a level, no trades inside the pre-market range)\n- **SPY:**\n  - The pre-market box is now **711.40–723.80**, and price is in its lower part.\n  - The PDL at 713.53 is the pivot.\n  - A 15m close under 711.4 (new PML) brings puts toward **700**, the #1 put node.\n  - A 15m reclaim and hold above 714.3–715.9 (old PML plus the dark pool) brings calls toward 719–720.6.\n- **QQQ:**\n  - The box is **634.79–646.11**.\n  - Under 634.8 on a 15m close, puts toward 633.9, then **630**.\n  - A reclaim of 640–642 (the 640 node plus the PDL) brings calls toward 646.\n- **IWM:**\n  - The box is **262.78–266.36**.\n  - Under 262.8 (PDL plus the new PML) on a 15m close, puts toward **261, then 260**.\n  - Above 266.4, calls.\n- **Context:** this is a tariff-headline risk-off move on top of the semis fade, in negative gamma. Watch whether the 8:15 lows hold into the open, and watch for more tariff details this week.\n\n**Sources:**\n- Quant Data API: GEX by strike, 1m prices, dark pool, 9k+ unconsolidated flow; pulled 8:55 ET\n- Yahoo Finance 1m, delayed: futures, VIX, TNX, DXY, CL, ETFs\n- Financial Juice RSS\n- X News\n\nThe Quant Data browser My Pages weren't opened, and the 'contract flow' Session Date wasn't touched.\n",
   "macro_markdown": null,
-  "source_file": "2026-11-23_postdata.md"
+  "source_file": "2026-11-24_postdata.md"
 }

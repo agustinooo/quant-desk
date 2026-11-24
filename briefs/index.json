@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-24T07:48:44-05:00",
-  "count": 86,
+  "updated_at": "2026-11-24T08:55:51-05:00",
+  "count": 87,
   "briefs": [
+    {
+      "date": "2026-11-24",
+      "type": "postdata",
+      "path": "briefs/2026-11-24_postdata.json",
+      "md_path": "briefs/2026-11-24_postdata.md",
+      "generated_at": "2026-11-24T08:55:00-05:00",
+      "summary": "WSJ tariff headline at 8:08\u20138:11 ET: the US is preparing to raise tariffs on China, the EU and 14 other economies, with results possibly out this week. Futures dumped on it. NQ fell \u22120.9% from 8:08 to"
+    },
     {
       "date": "2026-11-24",
       "type": "premarket",
