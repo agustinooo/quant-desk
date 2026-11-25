@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-25T07:47:21-05:00",
-  "count": 90,
+  "updated_at": "2026-11-25T08:52:21-05:00",
+  "count": 91,
   "briefs": [
+    {
+      "date": "2026-11-25",
+      "type": "postdata",
+      "path": "briefs/2026-11-25_postdata.json",
+      "md_path": "briefs/2026-11-25_postdata.md",
+      "generated_at": "2026-11-25T08:52:00-05:00",
+      "summary": "8:30 data came in hot and strong. Core PCE was 3.3% y/y against 3.2% expected. Q3 GDP was revised up to 4.3% from 3.4%. Claims fell to 189k against ~200k expected. Futures dipped only modestly: NQ is "
+    },
     {
       "date": "2026-11-25",
       "type": "premarket",
