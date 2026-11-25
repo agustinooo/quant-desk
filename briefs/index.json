@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-24T17:13:25-05:00",
-  "count": 89,
+  "updated_at": "2026-11-25T07:47:21-05:00",
+  "count": 90,
   "briefs": [
+    {
+      "date": "2026-11-25",
+      "type": "premarket",
+      "path": "briefs/2026-11-25_premarket.json",
+      "md_path": "briefs/2026-11-25_premarket.md",
+      "generated_at": "2026-11-25T07:45:00-05:00",
+      "summary": "Gap down into deeper short gamma ahead of 8:30 PCE/GDP. NQ is down ~2.9% overnight. It's a chip/AI rout plus a WSJ report that the White House is preparing broad tariffs on 16 economies (China, EU, Ja"
+    },
     {
       "date": "2026-11-24",
       "type": "afterhours",
