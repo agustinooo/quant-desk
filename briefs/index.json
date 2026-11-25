@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-25T08:52:21-05:00",
-  "count": 91,
+  "updated_at": "2026-11-25T16:24:11-05:00",
+  "count": 92,
   "briefs": [
+    {
+      "date": "2026-11-25",
+      "type": "close",
+      "path": "briefs/2026-11-25_close.json",
+      "md_path": "briefs/2026-11-25_close.md",
+      "generated_at": "2026-11-25T16:20:00-05:00",
+      "summary": "Huge intraday reversal. Stocks gapped down on the tariff plan, hot core PCE and the chip rout. The low came at 9:45: S&P \u22123.2%, Nasdaq \u22124.6%, Dow \u22121,100 points (CNBC). Then they chopped until ~11:45, "
+    },
     {
       "date": "2026-11-25",
       "type": "postdata",
