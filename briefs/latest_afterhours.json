@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "type": "afterhours",
-  "generated_at": "2026-11-24T17:15:00-05:00",
+  "generated_at": "2026-11-25T17:10:00-05:00",
   "generated_at_source": "text",
-  "summary": "Quiet after the close. Nothing crossed the 0.5% alert bar. At the 5:00 PM halt, ES was −0.13% vs 15:59 (7220.25 → 7210.75), NQ −0.07% (26285.00 → 26266.00) and RTY −0.07% (2689.80 → 2688.00).",
+  "summary": "No alert tonight. Nothing crossed the 0.5% bar. At the 5:00 PM halt, ES was −0.10% vs 15:59 (7196.75 → 7189.50), NQ −0.33% (26105.75 → 26020.25) and RTY −0.02% (2705.80 → 2705.30). NQ drifted lower into the halt, with an AH low of 25982.75 at 16:53.",
   "futures": {
     "NQ": {
       "last": null,
@@ -99,21 +99,23 @@
     "calendar": null,
     "earnings": null,
     "headlines": [
-      "16:07: Dell Q3 earnings & FY guidance.",
-      "16:08: RBNZ's Silk on payments systems (not market-moving).",
-      "16:37–16:47: API weekly: crude +0.126M (forecast +0.9M), Cushing −0.666M, gasoline +0.047M, distillates +1.647M."
+      "16:01: Neuralink receives FDA ok for a brain-implant trial.",
+      "16:02: Several loud booms heard in Riyadh (witness).",
+      "16:05: Kushner: Israel needs to move away from a war mentality (Israel Hayom).",
+      "16:09–16:10: Kim Jong Un: nuclear status will never change; tactical nukes to be deployed (KCNA).",
+      "16:14: TD expects the Bank of Canada to hike in December."
     ],
     "cross_asset": {
-      "vix": 26.36,
-      "us10y": 4.9,
+      "vix": 28.29,
+      "us10y": 4.85,
       "dxy": null,
-      "wti": 81.69,
+      "wti": 84.12,
       "brent": null,
-      "gold": 3555.0
+      "gold": 3613.0
     }
   },
   "takeaway": null,
-  "markdown": "# After-Hours Check, Tue Nov 24, 2026 (pulled ~5:15 PM ET)\n\n**Quiet after the close. Nothing crossed the 0.5% alert bar.** At the 5:00 PM halt, **ES was −0.13%** vs 15:59 (7220.25 → 7210.75), **NQ −0.07%** (26285.00 → 26266.00) and **RTY −0.07%** (2689.80 → 2688.00).\n- **DELL beat big; the stock is up modestly:** **+3.2% AH** (294.58 → 304.14 at 17:12). The range was 287.00 (16:05) to 313.00 (16:24), well inside the ~14.6% options-implied move (X News).\n  - Revenue **$54.9B** (+103% y/y) vs ~$49.3B expected. Adj. EPS **$9.45** vs ~$6.6.\n  - AI servers $22B, backlog a record **$132.3B**, $60.2B in new AI orders.\n  - FY guidance raised to ~$202B revenue / $29.68 EPS (X News).\n  - X News initially reported a dip AH, but Yahoo bars show it recovering to green.\n  - AI read-through is muted: NVDA −1.3% AH (153.51), AVGO +1.4%, AMD +0.7%, SMH flat.\n- **WDAY −7.4% AH** (179.12 → 165.94). The cause wasn't sourced in this pull.\n- **ADSK −3.1% AH** (255.43 → 247.44).\n- All of these are small for the indexes, and the expected moves for WDAY/ADSK weren't pulled.\n- **No Fed, tariff or geopolitical shock after the close** in Financial Juice. The only items were API inventories and the DELL headline.\n  - API crude +0.13M (forecast +0.9M), Cushing −0.67M.\n  - WTI 81.69 (+0.3% AH).\n\n**Sources:** Yahoo Finance 1-min bars (incl. extended hours), Financial Juice RSS, X News.\n\n## Futures and ETFs vs the 4:00 PM close\n| | 15:59 | Last | Change | AH range |\n|---|---|---|---|---|\n| ES | 7220.25 | 7210.75 (16:59) | −0.13% | 7205.00 (16:13)–7220.50 (16:00) |\n| NQ | 26285.00 | 26266.00 (16:59) | −0.07% | 26215.25 (16:13)–26292.25 (16:00) |\n| RTY | 2689.80 | 2688.00 (16:59) | −0.07% | 2683.10 (16:13)–2691.20 (16:01) |\n| SPY | 718.79 | 718.20 (17:12) | −0.08% | ignoring odd prints 760.07 / 693.57 |\n| QQQ | 638.09 | 638.23 (17:12) | +0.02% | 636.42 (16:13)–638.35 (17:08) |\n| IWM | 267.15 | 267.14 (17:12) | 0.00% | 265.60 (16:17)–267.27 (16:01) |\n\n- **Cross-asset:**\n  - VIX 26.36 at 16:15.\n  - WTI 81.69.\n  - Gold 3555 (+0.1%).\n  - 10-year 4.90% at the close.\n- **Mega-caps were flat:** GOOGL +0.2%, META +0.2%, MSFT +0.1%, AMZN, AAPL and TSLA about flat. MU +0.1%, MRVL +0.6%, INTC +0.1%, TSM +0.5% (ignoring odd prints), ORCL flat.\n\n## Read vs Wednesday's levels (from the 4:00 PM recap)\n- **SPY ~718.2:** sitting on the 718.5 dark-pool level / the close. The 715 put wall + dark pool is below, then the 711.4–713.5 PDL/PML shelf. Overhead are the 720.6–720.9 PDH (double rejection) and the 725–728 flip zone.\n- **QQQ ~638.2:** on the 638.1 dark-pool level. The 640–643.5 triple overhead (640 wall + PDH 643.47) is above, and 635 / the PDL at 631.15 is below.\n- **IWM ~267.1:** on the 267 node. The 266.1–267 support zone is below and the 267.5–268.3 pivots/PDH are above.\n- **ES/NQ:** inside today's range: ES PDH ≈ 7241 / PDL ≈ 7152, NQ PDH ≈ 26510 / PDL ≈ 25998.\n- **Overnight risks:**\n  - The big event is **Wednesday 8:30 ET: October core PCE + the Q3 GDP revision + jobless claims**. Markets price high odds of a December Fed hike.\n  - Hormuz mine and tanker headlines.\n  - NVDA political fallout.\n  - Thursday is closed for Thanksgiving, and Friday is a 1 PM close.\n- All three are deeply net short gamma, so moves can extend either way. Wait for the pre-market range and a 15-min close after 9:45.\n\n## Headlines since the close (Financial Juice, ET)\n- 16:07: Dell Q3 earnings & FY guidance.\n- 16:08: RBNZ's Silk on payments systems (not market-moving).\n- 16:37–16:47: API weekly: crude +0.126M (forecast +0.9M), Cushing −0.666M, gasoline +0.047M, distillates +1.647M.\n\n*Information, not advice.*\n",
+  "markdown": "# After-Hours Check, Wed Nov 25, 2026 (pulled ~5:10 PM ET)\n\n**No alert tonight. Nothing crossed the 0.5% bar.** At the 5:00 PM halt, **ES was −0.10%** vs 15:59 (7196.75 → 7189.50), **NQ −0.33%** (26105.75 → 26020.25) and **RTY −0.02%** (2705.80 → 2705.30). NQ drifted lower into the halt, with an AH low of 25982.75 at 16:53.\n- **No index-moving earnings.** Only small caps reported (BMA +0.3%, SBLK flat, CRNC −2.2%).\n- **PANW −5.0% AH** (356.18 → 338.52 at 17:05, low 336.00 at 16:57). The cause wasn't sourced in this pull (Financial Juice and X News had nothing on it). It's a minor NDX weight.\n- **Gulf geopolitics:**\n  - 16:02: \"Several loud booms were heard in Riyadh\" (Financial Juice, a single witness).\n  - X News (16:48 ET story) reports a **Houthi claim of a drone strike on Saudi Ras Tanura** (a crude export terminal of about 550k bpd) with fires. Saudi forces say they intercepted 4 drones and debris fell on the site.\n  - Houthis also struck Jizan port (minor damage, per Saudi officials).\n  - **Oil isn't reacting so far: WTI 84.12, flat AH** vs 15:59. Watch for damage assessments at the 6 PM reopen.\n- **Other headlines:**\n  - Kim Jong Un's nuclear rhetoric (KCNA).\n  - TD expects a Bank of Canada hike in December.\n  - Neuralink got FDA approval for a trial.\n  - There's no Fed or tariff news after the close.\n\n**Sources:** Yahoo Finance 1-min bars (incl. extended hours), Financial Juice RSS, X News.\n\n## Futures and ETFs vs the 4:00 PM close\n| | 15:59 | Last | Change | AH range |\n|---|---|---|---|---|\n| ES | 7196.75 | 7189.50 (16:55) | −0.10% | 7183.25 (16:00)–7210.25 (16:04) |\n| NQ | 26105.75 | 26020.25 (16:55) | −0.33% | 25982.75 (16:53)–26169.50 (16:04) |\n| RTY | 2705.80 | 2705.30 (16:55) | −0.02% | 2701.90 (16:00)–2709.00 (16:04) |\n| SPY | 716.71 | 716.19 (17:04) | −0.07% | ignoring an odd 695.24 print |\n| QQQ | 633.81 | 631.86 (17:05) | −0.31% | 631.05 (16:53)–635.51 (16:04) |\n| IWM | 268.84 | 268.77 (16:57) | −0.03% | 268.53 (16:00)–269.15 (16:04) |\n\n- **Cross-asset:**\n  - VIX 28.29 at 16:15.\n  - WTI 84.12.\n  - Gold 3613 (+0.3% AH).\n  - 10-year 4.85% at the close.\n- **Mega-caps and semis drifted slightly lower:**\n  - NVDA −0.4% (148.64), META −0.5%, AVGO −0.5%, AMD −0.5%, MU −0.5%, INTC −0.7%, MRVL −0.7%, SMH −0.4%.\n  - AMZN +0.2%, MSFT +0.1%, ORCL +0.3% (ignoring odd prints), GOOGL −0.2%, AAPL −0.1%, TSLA −0.2%.\n\n## Read vs Friday's levels (from the 4:00 PM recap)\n- **SPY ~716.2:** holding just under the close, between the 714.2 PMH pivot and the 718.43 PDH. Below that are 712.1, then 703.5–705 and 700.\n- **QQQ ~631.9:** slipped toward the **631.15 pivot** (Tuesday's PDL). Losing it opens 626.4. Above are the close (633.9) and the 634.89 PDH.\n- **IWM ~268.8:** at the close, just above the 268.3 pivot (Tuesday's PDH). The PDH is 269.77.\n- **ES/NQ:** inside today's RTH range: ES 7214.00 / 6982.50, NQ 26146.25 / 25027.50.\n- **Holiday schedule:** CME futures reopen at 6 PM ET. Thursday (Thanksgiving) has a 1:00 PM ET halt, and cash markets are closed. Friday is the 1:00 PM cash close (futures close at 1:15 PM).\n- **Overnight risks:**\n  - Saudi/Houthi oil-infrastructure headlines (oil is the tell).\n  - Tariff details.\n  - Hot PCE keeping a December hike priced.\n- Quant Data GEX/flow is still unavailable (account redirects to pricing).\n\n## Headlines since the close (Financial Juice, ET)\n- 16:01: Neuralink receives FDA ok for a brain-implant trial.\n- 16:02: Several loud booms heard in Riyadh (witness).\n- 16:05: Kushner: Israel needs to move away from a war mentality (Israel Hayom).\n- 16:09–16:10: Kim Jong Un: nuclear status will never change; tactical nukes to be deployed (KCNA).\n- 16:14: TD expects the Bank of Canada to hike in December.\n\n*Information, not advice.*\n",
   "macro_markdown": null,
-  "source_file": "2026-11-24_afterhours.md"
+  "source_file": "2026-11-25_afterhours.md"
 }

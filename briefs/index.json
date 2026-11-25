@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-25T16:24:21-05:00",
-  "count": 92,
+  "updated_at": "2026-11-25T17:06:36-05:00",
+  "count": 93,
   "briefs": [
+    {
+      "date": "2026-11-25",
+      "type": "afterhours",
+      "path": "briefs/2026-11-25_afterhours.json",
+      "md_path": "briefs/2026-11-25_afterhours.md",
+      "generated_at": "2026-11-25T17:10:00-05:00",
+      "summary": "No alert tonight. Nothing crossed the 0.5% bar. At the 5:00 PM halt, ES was \u22120.10% vs 15:59 (7196.75 \u2192 7189.50), NQ \u22120.33% (26105.75 \u2192 26020.25) and RTY \u22120.02% (2705.80 \u2192 2705.30). NQ drifted lower in"
+    },
     {
       "date": "2026-11-25",
       "type": "close",
