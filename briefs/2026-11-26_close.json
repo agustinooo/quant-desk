@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-26",
+  "type": "close",
+  "generated_at": "2026-11-26T16:20:00-05:00",
+  "generated_at_source": "text",
+  "summary": "_As of ~4:20 PM ET_",
+  "futures": {
+    "NQ": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": null,
+    "cross_asset": {
+      "vix": null,
+      "us10y": null,
+      "dxy": null,
+      "wti": null,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# Close Recap: Thu Nov 26, 2026 (Thanksgiving, US cash markets CLOSED)\n_As of ~4:20 PM ET_\n\n**No cash session today.** NYSE/Nasdaq were closed, so there's no SPY/QQQ/IWM close, high/low, or new PDH/PDL. **Friday's previous-day levels are still Wednesday's.** CME equity futures traded a shortened session and halted at 1:00 PM ET. They reopen at 6:00 PM ET, and today's trading counts toward Friday's trade date.\n\n## Futures at the 1:00 PM ET halt (Yahoo Finance, delayed CME)\n| Contract | Last | Chg | High | Low |\n|---|---|---|---|---|\n| ES Z26 | 7,234.50 | +38.75 (+0.54%) | 7,256.25 | 7,187.00 |\n| NQ Z26 | 26,221.25 | +121.00 (+0.46%) | 26,436.00 | 25,997.50 |\n| RTY Z26 | 2,720.80 | +14.70 (+0.54%) | 2,725.50 | 2,704.30 |\n\n- These are Yahoo's session bars, which include the overnight.\n- **Morning levels:**\n  - ES held above 7,187, the overnight low flagged in the 8:45 check as the give-back line. It never traded below it, and finished near the upper end of its range.\n  - NQ faded from its 26,436 overnight high but stayed above 26,000. XTB calls holding 26,000 key for Friday.\n- **SPY equivalent:** ES at 7,234.5 is above the ~7,200 SPX zone that matches SPY's PDH of 718.43. That's a rough translation; the futures-to-cash basis isn't adjusted.\n\n## Macro\n- **VIX:** 26.80 (−5.3%), range 26.57–27.54. Cboe's holiday print ended about 11:30 AM ET.\n- **WTI (CL Jan '27):** 84.91 (+1.5%), range 83.16–85.23, last quote 2:29 PM ET. There's no WTI settlement today.\n- **Brent:** traded between ~$91 and $95 in different reports (CNA, The National, XTB).\n- **Gold:** ~$3,570 (−0.3%, XTB).\n- **10-year:** 4.85%, Wednesday's close. The bond market was closed today.\n- **Dollar index:** ~103.7–103.8 (Reuters via Investing.com).\n\n## Drivers (sources)\n- **Gulf escalation:**\n  - Iran's IRGC Navy says two tankers hit sea mines in the Strait of Hormuz; one was a supertanker carrying 2M+ bbl. The claim is unverified (Arab News, CNBC, X News).\n  - Houthis claimed the attack on Saudi Arabia's Ras Tanura refinery. A later Houthi strike on Aramco's Jazan refinery killed a worker and paused some of its operations (X News, ~4:00 PM ET).\n  - Hormuz traffic is down about 40% in November (Al Jazeera).\n- **Nvidia:** has suspended AI server shipments to Malaysia, Singapore, Thailand and Indonesia pending compliance with new US export controls (FT via Reuters). Watch NVDA, DELL and SMCI Friday.\n- **Fed:** Wednesday's core PCE came in at 3.3% vs 3.2% expected, and Q3 GDP was revised to 4.3%. CME FedWatch shows ~97% odds of +25 bp on Dec 9 and ~66% for another hike in January (OrderFlowFutures).\n- **Other headlines:** the ECB accounts were hawkish, and OPEC+ is leaning toward rolling targets over through Q1 2027.\n\n## Positioning (GEX / 9k+ flow)\n- **Not available.** Quant Data is still blocked: it redirects to the pricing page and the API returns 403 \"subscription required,\" as in this morning's runs. There was also no options session today.\n- **Please re-check the Quant Data subscription and login before Friday's open.**\n\n## Tonight / Friday Nov 27\n- **Earnings:** none tonight; exchanges were closed.\n- **Hours:** futures reopen at 6:00 PM ET. Friday is a **half-day**: stocks close at 1:00 PM ET, ES/NQ at 1:15 PM ET, and bonds at 2:00 PM ET. Expect thin liquidity.\n- **Upcoming events:**\n  - Black Friday retail.\n  - Bitcoin options expiry (~$7B).\n  - **OPEC+ meeting, Sun Nov 29.**\n  - ISM manufacturing and JOLTS, Tue Dec 1.\n  - Jensen Huang testifies Dec 1–3.\n  - November jobs report, Fri Dec 4.\n  - FOMC decision, Dec 9.\n- **Levels (PDH/PDL unchanged from Wednesday):**\n  - SPY 718.43 / 695.45\n  - QQQ 634.89 / 607.74\n  - IWM 269.77 / 260.84\n- **Plan in his style:** mark Friday's pre-market range, don't trade inside it, and wait for 15-min closes after 9:45 ET. A hold above the PDH is the continuation setup; a rejection there is the fade. Size light on the half-day.\n- **Futures references:** ES 7,187 / 7,256; NQ 26,000 / 26,436; RTY 2,704 / 2,725.\n\n_Information, not advice._\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-26_close.md"
+}

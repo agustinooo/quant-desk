@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-26T08:47:03-05:00",
-  "count": 95,
+  "updated_at": "2026-11-26T16:18:52-05:00",
+  "count": 96,
   "briefs": [
+    {
+      "date": "2026-11-26",
+      "type": "close",
+      "path": "briefs/2026-11-26_close.json",
+      "md_path": "briefs/2026-11-26_close.md",
+      "generated_at": "2026-11-26T16:20:00-05:00",
+      "summary": "_As of ~4:20 PM ET_"
+    },
     {
       "date": "2026-11-26",
       "type": "postdata",
