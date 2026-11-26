@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "date": "2026-11-25",
-  "type": "afterhours",
-  "generated_at": "2026-11-25T17:10:00-05:00",
+  "date": "2026-11-26",
+  "type": "premarket",
+  "generated_at": "2026-11-26T08:00:00-05:00",
   "generated_at_source": "text",
-  "summary": "No alert tonight. Nothing crossed the 0.5% bar. At the 5:00 PM halt, ES was −0.10% vs 15:59 (7196.75 → 7189.50), NQ −0.33% (26105.75 → 26020.25) and RTY −0.02% (2705.80 → 2705.30). NQ drifted lower into the halt, with an AH low of 25982.75 at 16:53.",
+  "summary": "_As of ~8:00 AM ET_",
   "futures": {
     "NQ": {
       "last": null,
@@ -27,7 +27,7 @@
   },
   "tickers": {
     "SPY": {
-      "spot": null,
+      "spot": 716.7,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -57,7 +57,7 @@
       "game_plan": null
     },
     "IWM": {
-      "spot": null,
+      "spot": 269.77,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -96,26 +96,29 @@
   },
   "big_flow": [],
   "macro": {
-    "calendar": null,
+    "calendar": [
+      "Today: no US releases (holiday).",
+      "Already out Wednesday: jobless claims 189K (prior 202K); October PCE +0.3% m/m, core PCE 3.3% y/y; Q3 GDP revised to 4.3% (from 3.4%). That's a hot, strong-economy mix, which reports linked to inflation and rate worries.",
+      "Fri Nov 27, 8:30 AM ET: Advance Economic Indicators (October goods trade balance, retail and wholesale inventories). I didn't find consensus figures. No Fed speakers found.",
+      "Earnings: nothing major found around the holiday."
+    ],
     "earnings": null,
     "headlines": [
-      "16:01: Neuralink receives FDA ok for a brain-implant trial.",
-      "16:02: Several loud booms heard in Riyadh (witness).",
-      "16:05: Kushner: Israel needs to move away from a war mentality (Israel Hayom).",
-      "16:09–16:10: Kim Jong Un: nuclear status will never change; tactical nukes to be deployed (KCNA).",
-      "16:14: TD expects the Bank of Canada to hike in December."
+      "Tariffs: Trump proposed new tariffs on Wednesday. Reports describe an extra 20% on China on top of about 25% existing duties, and 15% on the EU, Japan, and South Korea. The EU's trade chief Šefčovič \"strongly rejects\" the USTR decision. China's commerce ministry says the US and China are keeping close contact on extending the trade truce.",
+      "Nvidia: FT reports Nvidia paused chip deliveries to Southeast Asia. NVDA was down about 3.9% Wednesday during the AI selloff.",
+      "Other: Houthi attack on a Saudi refinery (oil bid), a Russian overnight strike on Ukraine, and Bank of Korea rate-hike signals."
     ],
     "cross_asset": {
-      "vix": 28.29,
-      "us10y": 4.85,
+      "vix": null,
+      "us10y": null,
       "dxy": null,
-      "wti": 84.12,
+      "wti": null,
       "brent": null,
-      "gold": 3613.0
+      "gold": null
     }
   },
-  "takeaway": null,
-  "markdown": "# After-Hours Check, Wed Nov 25, 2026 (pulled ~5:10 PM ET)\n\n**No alert tonight. Nothing crossed the 0.5% bar.** At the 5:00 PM halt, **ES was −0.10%** vs 15:59 (7196.75 → 7189.50), **NQ −0.33%** (26105.75 → 26020.25) and **RTY −0.02%** (2705.80 → 2705.30). NQ drifted lower into the halt, with an AH low of 25982.75 at 16:53.\n- **No index-moving earnings.** Only small caps reported (BMA +0.3%, SBLK flat, CRNC −2.2%).\n- **PANW −5.0% AH** (356.18 → 338.52 at 17:05, low 336.00 at 16:57). The cause wasn't sourced in this pull (Financial Juice and X News had nothing on it). It's a minor NDX weight.\n- **Gulf geopolitics:**\n  - 16:02: \"Several loud booms were heard in Riyadh\" (Financial Juice, a single witness).\n  - X News (16:48 ET story) reports a **Houthi claim of a drone strike on Saudi Ras Tanura** (a crude export terminal of about 550k bpd) with fires. Saudi forces say they intercepted 4 drones and debris fell on the site.\n  - Houthis also struck Jizan port (minor damage, per Saudi officials).\n  - **Oil isn't reacting so far: WTI 84.12, flat AH** vs 15:59. Watch for damage assessments at the 6 PM reopen.\n- **Other headlines:**\n  - Kim Jong Un's nuclear rhetoric (KCNA).\n  - TD expects a Bank of Canada hike in December.\n  - Neuralink got FDA approval for a trial.\n  - There's no Fed or tariff news after the close.\n\n**Sources:** Yahoo Finance 1-min bars (incl. extended hours), Financial Juice RSS, X News.\n\n## Futures and ETFs vs the 4:00 PM close\n| | 15:59 | Last | Change | AH range |\n|---|---|---|---|---|\n| ES | 7196.75 | 7189.50 (16:55) | −0.10% | 7183.25 (16:00)–7210.25 (16:04) |\n| NQ | 26105.75 | 26020.25 (16:55) | −0.33% | 25982.75 (16:53)–26169.50 (16:04) |\n| RTY | 2705.80 | 2705.30 (16:55) | −0.02% | 2701.90 (16:00)–2709.00 (16:04) |\n| SPY | 716.71 | 716.19 (17:04) | −0.07% | ignoring an odd 695.24 print |\n| QQQ | 633.81 | 631.86 (17:05) | −0.31% | 631.05 (16:53)–635.51 (16:04) |\n| IWM | 268.84 | 268.77 (16:57) | −0.03% | 268.53 (16:00)–269.15 (16:04) |\n\n- **Cross-asset:**\n  - VIX 28.29 at 16:15.\n  - WTI 84.12.\n  - Gold 3613 (+0.3% AH).\n  - 10-year 4.85% at the close.\n- **Mega-caps and semis drifted slightly lower:**\n  - NVDA −0.4% (148.64), META −0.5%, AVGO −0.5%, AMD −0.5%, MU −0.5%, INTC −0.7%, MRVL −0.7%, SMH −0.4%.\n  - AMZN +0.2%, MSFT +0.1%, ORCL +0.3% (ignoring odd prints), GOOGL −0.2%, AAPL −0.1%, TSLA −0.2%.\n\n## Read vs Friday's levels (from the 4:00 PM recap)\n- **SPY ~716.2:** holding just under the close, between the 714.2 PMH pivot and the 718.43 PDH. Below that are 712.1, then 703.5–705 and 700.\n- **QQQ ~631.9:** slipped toward the **631.15 pivot** (Tuesday's PDL). Losing it opens 626.4. Above are the close (633.9) and the 634.89 PDH.\n- **IWM ~268.8:** at the close, just above the 268.3 pivot (Tuesday's PDH). The PDH is 269.77.\n- **ES/NQ:** inside today's RTH range: ES 7214.00 / 6982.50, NQ 26146.25 / 25027.50.\n- **Holiday schedule:** CME futures reopen at 6 PM ET. Thursday (Thanksgiving) has a 1:00 PM ET halt, and cash markets are closed. Friday is the 1:00 PM cash close (futures close at 1:15 PM).\n- **Overnight risks:**\n  - Saudi/Houthi oil-infrastructure headlines (oil is the tell).\n  - Tariff details.\n  - Hot PCE keeping a December hike priced.\n- Quant Data GEX/flow is still unavailable (account redirects to pricing).\n\n## Headlines since the close (Financial Juice, ET)\n- 16:01: Neuralink receives FDA ok for a brain-implant trial.\n- 16:02: Several loud booms heard in Riyadh (witness).\n- 16:05: Kushner: Israel needs to move away from a war mentality (Israel Hayom).\n- 16:09–16:10: Kim Jong Un: nuclear status will never change; tactical nukes to be deployed (KCNA).\n- 16:14: TD expects the Bank of Canada to hike in December.\n\n*Information, not advice.*\n",
+  "takeaway": "This is a holiday tape. Futures are bouncing after Wednesday's near-bear-market scare in the NQ, and VIX at 28 points to wide, thin, headline-driven ranges into Friday's short session. The key price levels are the Wednesday PDHs (SPY 718.43 / QQQ 634.89 / IWM 269.77), which all three closed just under. Whether they hold as support or reject is Friday's tell. GEX walls and magnets couldn't be checked because Quant Data is signed out. Information, not advice.",
+  "markdown": "# Pre-Market Brief: Thu Nov 26, 2026 (Thanksgiving, US cash markets CLOSED)\n_As of ~8:00 AM ET_\n\n**⚠️ Quant Data is signed out.** v3.quantdata.us shows \"Logging in…\" and then redirects to the pricing/plan page (`/pricing?planType=OPTIONS`). So there's no GEX, heatmap, or 9k+ contract-flow pull today. Please sign in again in the box browser (and check the subscription shows as active) before Friday's session. Everything below comes from public sources.\n\n**Holiday schedule**\n- **Today (Thu):** NYSE/Nasdaq closed. No SPY/QQQ/IWM session, no pre-market range. CME equity futures (ES/NQ/RTY) trade until a **1:00 PM ET halt** and reopen at **6:00 PM ET**. No CME settlement today, and all of this trading counts toward Friday's trade date.\n- **Fri Nov 27:** stocks **close early at 1:00 PM ET**, bonds at 2:00 PM ET, and ES/NQ close at **1:15 PM ET** (12:15 CT). Expect thin holiday liquidity. It's a Friday, so Team2Trading trades it lightly. Not a monthly OpEx.\n\n## Positioning (GEX / flow)\n- **Not available:** Quant Data is signed out (see above). I don't have net GEX, the flip, call/put walls, heatmap magnets, or 9k+ prints for Wed Nov 25.\n- **Context:** Wednesday was a huge V-reversal. The S&P fell as much as 3.2% intraday and closed −0.25%. The Nasdaq 100 was briefly down about 4.7% and closed about −0.6%. The Dow erased a 1,105-pt drop and closed +0.33%. VIX closed at **28.29 (+7.3%)**. A deep flush followed by a snap-back with VIX near 28 looks like the negative-gamma snap-back pattern in /workspace/history/gex_before_moves.md (Jun 10–11, Jul 29–30). That's unconfirmed without Wednesday's GEX reading.\n\n## Combined levels map (Team2Trading layer)\nPrevious day = **Wed Nov 25**. There's no pre-market range today because the cash market is closed. The next real PMH/PML forms Friday from 4:00 AM ET.\n\n| Ticker | PDH | PDL | Close |\n|---|---|---|---|\n| SPY | 718.43 | 695.45 | 716.70 |\n| QQQ | 634.89 | 607.74 | 633.93 |\n| IWM | 269.77 | 260.84 | 268.87 |\n\n- All three closed near their highs after the reversal. **The PDH is the line to watch Friday.** In his framing: break and retest of the PDH is the continuation setup, and a rejection there brings back the fade. The PDLs (695.45 / 607.74 / 260.84) are far below.\n- 15-min untested zones and the 2-min 13/48/200 EMA stack: not pulled today (no chart data source this run).\n- **GEX confluence:** can't be checked without Quant Data.\n- **ES/NQ translation (approximate):** SPX closed 7,182.78 against SPY 716.70 (ratio about 10.02). That puts SPY's PDH near SPX ~7,200 and PDL near ~6,970. ES has traded **7,187.00–7,254.75** overnight, so it's already above the SPY-PDH equivalent. NQ overnight range: **25,997.50–26,436.00**. I didn't have a clean NQ↔QQQ ratio, so no QQQ translation.\n- **Game plan in his style (information, not advice), for Friday:**\n  - SPY: hold above 718.43 on a 15-min close and calls are the continuation; reject it and look for a fade back into Wednesday's range.\n  - QQQ: break and retest of 634.89 is the continuation; a rejection there makes 634.89 resistance.\n  - IWM: hold 269.77 on a 15-min close for continuation; lose it and it's back into the range.\n  - Rules: nothing before 9:45 ET, the pre-market range is a no-trade zone, and Friday's session is shortened.\n\n## Futures / overnight\n- At the time of these reports, S&P futures were up about **+0.4–0.5%** and Nasdaq 100 futures about **+0.5–0.6%**, led by dip buying in AI and chip names.\n- **ES Z26** range: 7,187.00–7,254.75. **NQ Z26**: 25,997.50–26,436.00. **RTY Z26**: about 2,711–2,720, range 2,704.30–2,724.60, prior settle 2,706.10.\n- The Russell cash index closed Wednesday at 2,704.06 (+0.71%; H 2,710.05 / L 2,623.78).\n\n## Global\n- **Asia:** Taiex +2.50%, Hang Seng +1.19% (ended a 7-day losing streak), Nikkei +0.86%, ASX +0.82%, Kospi +0.29% (after Wednesday's −6.16%), Shenzhen slightly lower. India's Nifty was up about 2%.\n- **Europe:** DAX about +2.06%, CAC +2.03%, FTSE +1.51%, Stoxx 600 about +1.6%.\n\n## Vol / rates / FX / commodities\n- **VIX:** 28.29 at Wednesday's close (+1.93). Volatility is elevated.\n- **10-year yield:** about 4.80–4.85%, lower across the curve.\n- **Dollar:** steady, DXY about 103.7.\n- **Oil:** Brent about $94.61 after a Houthi attack on a Saudi refinery; WTI about $83.68.\n- **Gold:** about $3,575–3,587 (+~0.9%).\n\n## Macro calendar\n- **Today:** no US releases (holiday).\n- **Already out Wednesday:** jobless claims 189K (prior 202K); October PCE +0.3% m/m, core PCE 3.3% y/y; Q3 GDP revised to 4.3% (from 3.4%). That's a hot, strong-economy mix, which reports linked to inflation and rate worries.\n- **Fri Nov 27, 8:30 AM ET:** Advance Economic Indicators (October goods trade balance, retail and wholesale inventories). I didn't find consensus figures. No Fed speakers found.\n- **Earnings:** nothing major found around the holiday.\n\n## Headlines (Financial Juice / X)\n- **Tariffs:** Trump proposed new tariffs on Wednesday. Reports describe an extra 20% on China on top of about 25% existing duties, and 15% on the EU, Japan, and South Korea. The EU's trade chief Šefčovič \"strongly rejects\" the USTR decision. China's commerce ministry says the US and China are keeping close contact on extending the trade truce.\n- **Nvidia:** FT reports Nvidia paused chip deliveries to Southeast Asia. NVDA was down about 3.9% Wednesday during the AI selloff.\n- **Other:** Houthi attack on a Saudi refinery (oil bid), a Russian overnight strike on Ukraine, and Bank of Korea rate-hike signals.\n\n## Takeaway\nThis is a holiday tape. Futures are bouncing after Wednesday's near-bear-market scare in the NQ, and VIX at 28 points to wide, thin, headline-driven ranges into Friday's short session. The key price levels are the Wednesday PDHs (SPY 718.43 / QQQ 634.89 / IWM 269.77), which all three closed just under. Whether they hold as support or reject is Friday's tell. GEX walls and magnets couldn't be checked because Quant Data is signed out. Information, not advice.\n\n",
   "macro_markdown": null,
-  "source_file": "2026-11-25_afterhours.md"
+  "source_file": "2026-11-26_premarket.md"
 }
