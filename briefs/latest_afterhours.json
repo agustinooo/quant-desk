@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "type": "afterhours",
-  "generated_at": "2026-11-25T17:10:00-05:00",
+  "generated_at": "2026-11-26T17:12:00-05:00",
   "generated_at_source": "text",
-  "summary": "No alert tonight. Nothing crossed the 0.5% bar. At the 5:00 PM halt, ES was −0.10% vs 15:59 (7196.75 → 7189.50), NQ −0.33% (26105.75 → 26020.25) and RTY −0.02% (2705.80 → 2705.30). NQ drifted lower into the halt, with an AH low of 25982.75 at 16:53.",
+  "summary": "No alert tonight. US cash markets were closed for Thanksgiving, so there was no 4:00 PM close, no after-hours session and no earnings after the close. CME equity futures halted at 1:00 PM ET and reopen at 6:00 PM ET. Nothing has traded since the 4:00 PM recap, so there's no ES/NQ reaction to measure.",
   "futures": {
     "NQ": {
       "last": null,
@@ -99,23 +99,26 @@
     "calendar": null,
     "earnings": null,
     "headlines": [
-      "16:01: Neuralink receives FDA ok for a brain-implant trial.",
-      "16:02: Several loud booms heard in Riyadh (witness).",
-      "16:05: Kushner: Israel needs to move away from a war mentality (Israel Hayom).",
-      "16:09–16:10: Kim Jong Un: nuclear status will never change; tactical nukes to be deployed (KCNA).",
-      "16:14: TD expects the Bank of Canada to hike in December."
+      "17:10: Saudi Arabia warns of a potential threat in Abha city (Financial Juice).",
+      "~17:04: Houthi projectile kills a worker at Saudi Arabia's Jazan refinery (capacity up to 400k bpd); some operations are temporarily halted. This was already in the 4 PM recap.",
+      "16:56: Nikkei reports Japan's Jera plans data centers for Anthropic and Meta near its power plants, and is in talks with Amazon, Microsoft and Google ($META, $AMZN, $MSFT, $GOOGL).",
+      "16:01: Merz on EU budget talks. Not market-moving.",
+      "Nvidia: X News stories recap the suspension of AI server shipments to Southeast Asia, and a CBS probe into Chinese ownership of Nvidia partners in California. Neither is new since the close. Watch NVDA, DELL and SMCI Friday.",
+      "Credit: X News says CoreWeave bonds are at ~74c (a yield of ~17.9%). This is AI credit stress to watch.",
+      "Brent settled at $96.57 (+2.07%) earlier today (Financial Juice, 13:17 ET).",
+      "There's no Fed or tariff news after 4 PM."
     ],
     "cross_asset": {
-      "vix": 28.29,
-      "us10y": 4.85,
+      "vix": null,
+      "us10y": null,
       "dxy": null,
-      "wti": 84.12,
+      "wti": null,
       "brent": null,
-      "gold": 3613.0
+      "gold": null
     }
   },
   "takeaway": null,
-  "markdown": "# After-Hours Check, Wed Nov 25, 2026 (pulled ~5:10 PM ET)\n\n**No alert tonight. Nothing crossed the 0.5% bar.** At the 5:00 PM halt, **ES was −0.10%** vs 15:59 (7196.75 → 7189.50), **NQ −0.33%** (26105.75 → 26020.25) and **RTY −0.02%** (2705.80 → 2705.30). NQ drifted lower into the halt, with an AH low of 25982.75 at 16:53.\n- **No index-moving earnings.** Only small caps reported (BMA +0.3%, SBLK flat, CRNC −2.2%).\n- **PANW −5.0% AH** (356.18 → 338.52 at 17:05, low 336.00 at 16:57). The cause wasn't sourced in this pull (Financial Juice and X News had nothing on it). It's a minor NDX weight.\n- **Gulf geopolitics:**\n  - 16:02: \"Several loud booms were heard in Riyadh\" (Financial Juice, a single witness).\n  - X News (16:48 ET story) reports a **Houthi claim of a drone strike on Saudi Ras Tanura** (a crude export terminal of about 550k bpd) with fires. Saudi forces say they intercepted 4 drones and debris fell on the site.\n  - Houthis also struck Jizan port (minor damage, per Saudi officials).\n  - **Oil isn't reacting so far: WTI 84.12, flat AH** vs 15:59. Watch for damage assessments at the 6 PM reopen.\n- **Other headlines:**\n  - Kim Jong Un's nuclear rhetoric (KCNA).\n  - TD expects a Bank of Canada hike in December.\n  - Neuralink got FDA approval for a trial.\n  - There's no Fed or tariff news after the close.\n\n**Sources:** Yahoo Finance 1-min bars (incl. extended hours), Financial Juice RSS, X News.\n\n## Futures and ETFs vs the 4:00 PM close\n| | 15:59 | Last | Change | AH range |\n|---|---|---|---|---|\n| ES | 7196.75 | 7189.50 (16:55) | −0.10% | 7183.25 (16:00)–7210.25 (16:04) |\n| NQ | 26105.75 | 26020.25 (16:55) | −0.33% | 25982.75 (16:53)–26169.50 (16:04) |\n| RTY | 2705.80 | 2705.30 (16:55) | −0.02% | 2701.90 (16:00)–2709.00 (16:04) |\n| SPY | 716.71 | 716.19 (17:04) | −0.07% | ignoring an odd 695.24 print |\n| QQQ | 633.81 | 631.86 (17:05) | −0.31% | 631.05 (16:53)–635.51 (16:04) |\n| IWM | 268.84 | 268.77 (16:57) | −0.03% | 268.53 (16:00)–269.15 (16:04) |\n\n- **Cross-asset:**\n  - VIX 28.29 at 16:15.\n  - WTI 84.12.\n  - Gold 3613 (+0.3% AH).\n  - 10-year 4.85% at the close.\n- **Mega-caps and semis drifted slightly lower:**\n  - NVDA −0.4% (148.64), META −0.5%, AVGO −0.5%, AMD −0.5%, MU −0.5%, INTC −0.7%, MRVL −0.7%, SMH −0.4%.\n  - AMZN +0.2%, MSFT +0.1%, ORCL +0.3% (ignoring odd prints), GOOGL −0.2%, AAPL −0.1%, TSLA −0.2%.\n\n## Read vs Friday's levels (from the 4:00 PM recap)\n- **SPY ~716.2:** holding just under the close, between the 714.2 PMH pivot and the 718.43 PDH. Below that are 712.1, then 703.5–705 and 700.\n- **QQQ ~631.9:** slipped toward the **631.15 pivot** (Tuesday's PDL). Losing it opens 626.4. Above are the close (633.9) and the 634.89 PDH.\n- **IWM ~268.8:** at the close, just above the 268.3 pivot (Tuesday's PDH). The PDH is 269.77.\n- **ES/NQ:** inside today's RTH range: ES 7214.00 / 6982.50, NQ 26146.25 / 25027.50.\n- **Holiday schedule:** CME futures reopen at 6 PM ET. Thursday (Thanksgiving) has a 1:00 PM ET halt, and cash markets are closed. Friday is the 1:00 PM cash close (futures close at 1:15 PM).\n- **Overnight risks:**\n  - Saudi/Houthi oil-infrastructure headlines (oil is the tell).\n  - Tariff details.\n  - Hot PCE keeping a December hike priced.\n- Quant Data GEX/flow is still unavailable (account redirects to pricing).\n\n## Headlines since the close (Financial Juice, ET)\n- 16:01: Neuralink receives FDA ok for a brain-implant trial.\n- 16:02: Several loud booms heard in Riyadh (witness).\n- 16:05: Kushner: Israel needs to move away from a war mentality (Israel Hayom).\n- 16:09–16:10: Kim Jong Un: nuclear status will never change; tactical nukes to be deployed (KCNA).\n- 16:14: TD expects the Bank of Canada to hike in December.\n\n*Information, not advice.*\n",
+  "markdown": "# After-Hours Check: Thu Nov 26, 2026 (Thanksgiving), pulled ~5:12 PM ET\n\n**No alert tonight.** US cash markets were closed for Thanksgiving, so there was no 4:00 PM close, no after-hours session and no earnings after the close. CME equity futures halted at 1:00 PM ET and reopen at 6:00 PM ET. Nothing has traded since the 4:00 PM recap, so there's no ES/NQ reaction to measure.\n\n## Futures (last prints, from the 4:00 PM recap: 1:00 PM ET halt, Yahoo/CME delayed)\n| Contract | Last | Chg |\n|---|---|---|\n| ES Z26 | 7,234.50 | +0.54% |\n| NQ Z26 | 26,221.25 | +0.46% |\n| RTY Z26 | 2,720.80 | +0.54% |\n\n- X News (21:03 UTC story) quoted ES up 0.74% at ~7,248.75 and NQ near +1%. This doesn't match the Yahoo halt prints above; the reference point may differ. Recheck at the 6 PM reopen.\n- Friday's previous-day levels (PDH/PDL) are still **Wednesday's**. NQ 26,000 stays the key hold line; ES 7,187 (the overnight low) is support.\n\n## Headlines since 4:00 PM ET (Financial Juice, X News)\n- **17:10:** Saudi Arabia warns of a potential threat in Abha city (Financial Juice).\n- **~17:04:** Houthi projectile kills a worker at Saudi Arabia's Jazan refinery (capacity up to 400k bpd); some operations are temporarily halted. This was already in the 4 PM recap.\n- **16:56:** Nikkei reports Japan's Jera plans data centers for Anthropic and Meta near its power plants, and is in talks with Amazon, Microsoft and Google ($META, $AMZN, $MSFT, $GOOGL).\n- **16:01:** Merz on EU budget talks. Not market-moving.\n- **Nvidia:** X News stories recap the suspension of AI server shipments to Southeast Asia, and a CBS probe into Chinese ownership of Nvidia partners in California. Neither is new since the close. Watch NVDA, DELL and SMCI Friday.\n- **Credit:** X News says CoreWeave bonds are at ~74c (a yield of ~17.9%). This is AI credit stress to watch.\n- **Brent** settled at $96.57 (+2.07%) earlier today (Financial Juice, 13:17 ET).\n- There's no Fed or tariff news after 4 PM.\n\n## For Friday (half-day; cash closes at 1:00 PM ET)\n- Watch the 6 PM Globex reopen for the reaction to the Gulf headlines (Jazan, the Abha warning, the Hormuz mine claims) and to oil.\n- The NVDA export-curb story is a QQQ/NQ risk at the open.\n\n**Sources:** Financial Juice RSS, X News, and today's 4:00 PM close recap (Yahoo Finance CME data).\n",
   "macro_markdown": null,
-  "source_file": "2026-11-25_afterhours.md"
+  "source_file": "2026-11-26_afterhours.md"
 }

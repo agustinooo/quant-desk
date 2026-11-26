@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-26T16:18:52-05:00",
-  "count": 96,
+  "updated_at": "2026-11-26T17:11:42-05:00",
+  "count": 97,
   "briefs": [
+    {
+      "date": "2026-11-26",
+      "type": "afterhours",
+      "path": "briefs/2026-11-26_afterhours.json",
+      "md_path": "briefs/2026-11-26_afterhours.md",
+      "generated_at": "2026-11-26T17:12:00-05:00",
+      "summary": "No alert tonight. US cash markets were closed for Thanksgiving, so there was no 4:00 PM close, no after-hours session and no earnings after the close. CME equity futures halted at 1:00 PM ET and reope"
+    },
     {
       "date": "2026-11-26",
       "type": "close",
