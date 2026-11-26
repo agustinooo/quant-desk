@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "type": "postdata",
-  "generated_at": "2026-11-25T08:52:00-05:00",
+  "generated_at": "2026-11-26T08:46:00-05:00",
   "generated_at_source": "text",
-  "summary": "8:30 data came in hot and strong. Core PCE was 3.3% y/y against 3.2% expected. Q3 GDP was revised up to 4.3% from 3.4%. Claims fell to 189k against ~200k expected. Futures dipped only modestly: NQ is −0.26% and ES −0.17% since 8:00. But SPY, QQQ and IWM all slipped under their pre-market lows at 8:35–8:46, while USTR Greer was on CNBC talking tariffs. Quant Data is now blocked: the API returns 403 \"API Subscription Required\" and the browser pages redirect to the pricing page. So I have no GEX or 9k+ flow update.",
+  "summary": "_As of ~8:46 AM ET_",
   "futures": {
     "NQ": {
       "last": null,
@@ -33,7 +33,7 @@
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": -6.07,
+      "net_gex_b": null,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
@@ -48,7 +48,7 @@
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": -2.57,
+      "net_gex_b": null,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
@@ -63,7 +63,7 @@
       "pdc": null,
       "pmh": null,
       "pml": null,
-      "net_gex_b": -0.79,
+      "net_gex_b": null,
       "flip": null,
       "sign_change": null,
       "call_walls": [],
@@ -99,29 +99,21 @@
     "calendar": null,
     "earnings": null,
     "headlines": [
-      "8:09–8:18: tariff details from the excess-capacity probe on 14 partners:",
-      "China: at least 20%",
-      "Vietnam: 20%",
-      "EU: at least a 15% \"deal rate\"",
-      "Japan, Korea and Switzerland: 15% net of MFN",
-      "8:36–8:49: USTR Greer on CNBC:",
-      "Rates won't take effect \"for a couple months\" and will \"top up just a few percentage points.\"",
-      "He proposed exempting about $30B of Chinese consumer goods.",
-      "Export-control loopholes are being closed. NVDA is \"structurally important.\"",
-      "On balance this softens the WSJ headline, but price still dipped while he spoke.",
-      "Russia's Novak: OPEC+ will review its capacity assessments. WTI is +0.7%."
+      "VIX: 26.95 (prior close 28.29), last 8:31. It is easing, not spiking.",
+      "US 10-year: about 4.85% (prior 4.90%), lower.",
+      "ES is near its overnight high, and NQ is about 140 pts below its overnight high. Both are still inside the ranges set before 8:00, so I see no sharp 0.5%+ move since 8:00 in the data I have. I don't have an exact 8:00 print."
     ],
     "cross_asset": {
-      "vix": 31.38,
+      "vix": null,
       "us10y": null,
-      "dxy": 103.93,
-      "wti": 82.64,
+      "dxy": null,
+      "wti": null,
       "brent": null,
       "gold": null
     }
   },
   "takeaway": null,
-  "markdown": "# 8:45 post-data check, Wed Nov 25 2026 (~8:52 AM ET): ALERT\n\n**8:30 data came in hot and strong. Core PCE was 3.3% y/y against 3.2% expected. Q3 GDP was revised up to 4.3% from 3.4%. Claims fell to 189k against ~200k expected. Futures dipped only modestly: NQ is −0.26% and ES −0.17% since 8:00. But SPY, QQQ and IWM all slipped under their pre-market lows at 8:35–8:46, while USTR Greer was on CNBC talking tariffs. Quant Data is now blocked: the API returns 403 \"API Subscription Required\" and the browser pages redirect to the pricing page. So I have no GEX or 9k+ flow update.**\n\n## 8:30 data (actual vs consensus)\nSources: Financial Juice, CNBC, Seeking Alpha, BEA, Moody's calendar, X News.\n- **Core PCE y/y: 3.3%** vs 3.2% expected (prior 3.1%). **HOT.**\n- **Headline PCE y/y: 3.8%**, in line (prior 3.6%).\n- **Q3 GDP, second estimate: 4.3%** vs 3.4% expected/prior. **Big upside.**\n- **Personal income: +0.7%** vs +0.4% est (CNBC). **Spending: +0.3%**, 0.1 below forecast. Saving rate 4.1%.\n- **Initial claims: 189k** vs ~200–201k (prior 203k). Strong.\n- **Durable goods: +0.2%** vs +0.5%. Soft.\n- **Read:** hawkish. Polymarket-style odds of a 25bp December hike are at ~93% (X News).\n\n## Headlines since 8:00 (Financial Juice)\n- **8:09–8:18: tariff details from the excess-capacity probe** on 14 partners:\n  - China: at least 20%\n  - Vietnam: 20%\n  - EU: at least a 15% \"deal rate\"\n  - Japan, Korea and Switzerland: 15% net of MFN\n- **8:36–8:49: USTR Greer on CNBC:**\n  - Rates won't take effect \"for a couple months\" and will \"top up just a few percentage points.\"\n  - He proposed exempting about $30B of Chinese consumer goods.\n  - Export-control loopholes are being closed. NVDA is \"structurally important.\"\n  - On balance this softens the WSJ headline, but price still dipped while he spoke.\n- **Russia's Novak:** OPEC+ will review its capacity assessments. WTI is +0.7%.\n\n## Futures and cross-asset\nYahoo 1m, ~10 min delayed; last bar ~8:40; change from 8:00.\n- **NQ:** 25539 → **25474 (−0.26%)**. High 25588 at 8:30, **low 25431 at 8:37**, which is under the 25470.5 overnight low.\n- **ES:** 7082.5 → **7070.5 (−0.17%)**. Low 7062.25 at 8:37, under the 7069.5 overnight low.\n- **RTY:** 2658.6 → **2652.2 (−0.24%)**. Low 2648.0 at 8:36, under the 2650.2 overnight low.\n- **VIX: 31.38** (+2.3% since 8:00), high 31.44. That's up, but not a spike.\n- **10-year:** 4.84–4.85%, basically flat. **DXY 103.93**, flat. **WTI 82.64.**\n- **NVDA 145.86**, a new pre-market low of 145.69 at 8:46.\n\n## ETFs vs the 8:00 brief levels (Yahoo 1m, last ~8:50)\n- **SPY 703.99:**\n  - Broke the **PML 703.90**. **New low 703.49 at 8:46**, and price is back at the line.\n  - The 700 put wall is the next level below.\n  - The PDL at 712.14 is still resistance overhead.\n- **QQQ 618.04:**\n  - Broke the **PML 618.43**. **New low 617.40 at 8:46.**\n  - The 610 put node is next.\n- **IWM 263.72:**\n  - Broke the **PML 263.31**. **New low 263.08 at 8:35**, and it has bounced back above the old line.\n\n## GEX / positioning: NOT UPDATED\n- **Quant Data API:** returned 403, \"An active API subscription is required to access this endpoint.\" The 7:45 pull had worked.\n- **Box browser:** the Exposure page and the My Pages 'contract flow' page both redirect to https://v3.quantdata.us/pricing?planType=OPTIONS. The session is still signed in, and nothing was changed.\n- **No 9k+ flow check** was possible.\n- **Last known positioning (7:45):**\n  - SPY −6.07B, put walls 700 / 690 / 680\n  - QQQ −2.57B, nodes 620 / 610 / 605 / 600\n  - IWM −0.79B\n  - Deep short gamma, so moves can extend.\n\n## Game plan (Team2Trading rules: nothing before 9:45, a 15-min close beyond a level, nothing inside the PM range)\n- **SPY:**\n  - The PM box is now **703.49–714.24**.\n  - A 15m close under 703.5 brings puts toward **700** (put wall), then 699 and 690.\n  - A reclaim of 712–714.2 brings calls toward 718–721.\n- **QQQ:**\n  - The box is **617.40–626.42**.\n  - Under 617.4 on a 15m close, puts toward **610**, then 605–606 (Nov 20 low).\n  - Above 626.4, calls toward 629–631.\n- **IWM:**\n  - The box is **263.08–266.34**.\n  - Under 263.1, puts toward 262.6, then 261.\n  - Reclaim 264 (PDL), and calls toward 265–266.3.\n- **Context:** hot inflation plus strong growth means hike pressure. The tariffs were softened in tone but not withdrawn. Chips are still the weakest group. It's a thin pre-holiday tape in short gamma.\n\nSources: Financial Juice RSS, CNBC, Seeking Alpha, BEA, X News, Yahoo Finance 1m (delayed). The Quant Data subscription is blocked (see above).\n\n",
+  "markdown": "# Post-Data Check: Thu Nov 26, 2026 (Thanksgiving, US cash markets CLOSED)\n_As of ~8:46 AM ET_\n\n## Data\n- **No 8:30 AM ET US releases today (holiday).** Wednesday already brought claims 189K, Oct PCE +0.3% m/m, core PCE 3.3% y/y, and Q3 GDP revised to 4.3%. Trump touted the GDP revision on Truth Social around 7:39 AM ET.\n- **ECB accounts (7:30 AM ET) were hawkish:** \"direction of travel was clear,\" officials could have backed a hike at the current meeting, and the option value of waiting was small. FT reports Pablo Hernández de Cos will be the next ECB president.\n- **Next US release:** Fri 8:30 AM ET, Advance Economic Indicators.\n\n## Breaking news ⚠️\n- **Iran / Gulf:** Kuwait says it intercepted Iranian drones aimed at a vital site near Kuwait City. Four people were injured (FJ ~8:00 AM ET, X News).\n- **Strait of Hormuz:** Iran's IRGC Navy claims oil tankers, including a supertanker carrying more than 2M bbl, **struck sea mines in the Strait of Hormuz** (X News, ~8:46 AM ET). This is a fresh headline, and the delayed quotes below don't show the market's reaction to it yet.\n- **OPEC+:** likely to roll over output targets for at least Q1 2027 at Sunday's meeting (FJ, two sources).\n\n## Futures / vol / rates (Yahoo, delayed, last print ~8:36 AM ET, before the Hormuz headline)\n| | Last | vs prior settle | Overnight range |\n|---|---|---|---|\n| ES | 7,249.75 | +0.75% | 7,187.00–7,254.75 |\n| NQ | 26,298.75 | +0.76% | 25,997.50–26,436.00 |\n| RTY | 2,719.2 | +0.48% | 2,704.3–2,724.6 |\n| WTI | 84.66 | +1.2% | 83.16–85.21 |\n| Brent | 91.34 | +0.8% | 89.77–92.03 |\n| Gold | 3,598.8 | +1.0% | |\n- **VIX:** 26.95 (prior close 28.29), last 8:31. It is easing, not spiking.\n- **US 10-year:** about 4.85% (prior 4.90%), lower.\n- **ES** is near its overnight high, and **NQ** is about 140 pts below its overnight high. Both are still inside the ranges set before 8:00, so I see no sharp 0.5%+ move since 8:00 in the data I have. I don't have an exact 8:00 print.\n\n## Levels (Team2Trading)\n- No cash session today, so there's no pre-market range to break. The PDH/PDL from Wed Nov 25 carry into Friday:\n  - SPY 718.43 / 695.45\n  - QQQ 634.89 / 607.74\n  - IWM 269.77 / 260.84\n- Friday's PMH/PML form from 4:00 AM ET.\n\n## Positioning (GEX / 9k+ flow)\n- **Not checked.** Quant Data was signed out or unsubscribed as of the 8:00 brief: pages redirect to /pricing and the API returns 403 \"active API subscription required.\" There's no GEX, flip, walls, magnets, or 9k+ flow until it's restored. No options trade today anyway (holiday).\n\n## Game plan\n- **Watch oil and ES/NQ for a risk-off reaction to the Hormuz mine claim** in thin holiday liquidity. Futures halt at 1:00 PM ET and reopen at 6:00 PM.\n- If oil spikes and ES gives back the overnight gains (below about 7,187), Friday's SPY could open back under its PDH (718.43). That would lean toward a fade, not a continuation.\n- Information, not advice.\n\nSources: Financial Juice RSS, X News, Yahoo Finance (delayed). Quant Data is unavailable.\n",
   "macro_markdown": null,
-  "source_file": "2026-11-25_postdata.md"
+  "source_file": "2026-11-26_postdata.md"
 }

@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-26T07:50:31-05:00",
-  "count": 94,
+  "updated_at": "2026-11-26T08:47:03-05:00",
+  "count": 95,
   "briefs": [
+    {
+      "date": "2026-11-26",
+      "type": "postdata",
+      "path": "briefs/2026-11-26_postdata.json",
+      "md_path": "briefs/2026-11-26_postdata.md",
+      "generated_at": "2026-11-26T08:46:00-05:00",
+      "summary": "_As of ~8:46 AM ET_"
+    },
     {
       "date": "2026-11-26",
       "type": "premarket",

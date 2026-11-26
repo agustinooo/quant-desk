@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-26",
+  "type": "postdata",
+  "generated_at": "2026-11-26T08:46:00-05:00",
+  "generated_at_source": "text",
+  "summary": "_As of ~8:46 AM ET_",
+  "futures": {
+    "NQ": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": [
+      "VIX: 26.95 (prior close 28.29), last 8:31. It is easing, not spiking.",
+      "US 10-year: about 4.85% (prior 4.90%), lower.",
+      "ES is near its overnight high, and NQ is about 140 pts below its overnight high. Both are still inside the ranges set before 8:00, so I see no sharp 0.5%+ move since 8:00 in the data I have. I don't have an exact 8:00 print."
+    ],
+    "cross_asset": {
+      "vix": null,
+      "us10y": null,
+      "dxy": null,
+      "wti": null,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# Post-Data Check: Thu Nov 26, 2026 (Thanksgiving, US cash markets CLOSED)\n_As of ~8:46 AM ET_\n\n## Data\n- **No 8:30 AM ET US releases today (holiday).** Wednesday already brought claims 189K, Oct PCE +0.3% m/m, core PCE 3.3% y/y, and Q3 GDP revised to 4.3%. Trump touted the GDP revision on Truth Social around 7:39 AM ET.\n- **ECB accounts (7:30 AM ET) were hawkish:** \"direction of travel was clear,\" officials could have backed a hike at the current meeting, and the option value of waiting was small. FT reports Pablo Hernández de Cos will be the next ECB president.\n- **Next US release:** Fri 8:30 AM ET, Advance Economic Indicators.\n\n## Breaking news ⚠️\n- **Iran / Gulf:** Kuwait says it intercepted Iranian drones aimed at a vital site near Kuwait City. Four people were injured (FJ ~8:00 AM ET, X News).\n- **Strait of Hormuz:** Iran's IRGC Navy claims oil tankers, including a supertanker carrying more than 2M bbl, **struck sea mines in the Strait of Hormuz** (X News, ~8:46 AM ET). This is a fresh headline, and the delayed quotes below don't show the market's reaction to it yet.\n- **OPEC+:** likely to roll over output targets for at least Q1 2027 at Sunday's meeting (FJ, two sources).\n\n## Futures / vol / rates (Yahoo, delayed, last print ~8:36 AM ET, before the Hormuz headline)\n| | Last | vs prior settle | Overnight range |\n|---|---|---|---|\n| ES | 7,249.75 | +0.75% | 7,187.00–7,254.75 |\n| NQ | 26,298.75 | +0.76% | 25,997.50–26,436.00 |\n| RTY | 2,719.2 | +0.48% | 2,704.3–2,724.6 |\n| WTI | 84.66 | +1.2% | 83.16–85.21 |\n| Brent | 91.34 | +0.8% | 89.77–92.03 |\n| Gold | 3,598.8 | +1.0% | |\n- **VIX:** 26.95 (prior close 28.29), last 8:31. It is easing, not spiking.\n- **US 10-year:** about 4.85% (prior 4.90%), lower.\n- **ES** is near its overnight high, and **NQ** is about 140 pts below its overnight high. Both are still inside the ranges set before 8:00, so I see no sharp 0.5%+ move since 8:00 in the data I have. I don't have an exact 8:00 print.\n\n## Levels (Team2Trading)\n- No cash session today, so there's no pre-market range to break. The PDH/PDL from Wed Nov 25 carry into Friday:\n  - SPY 718.43 / 695.45\n  - QQQ 634.89 / 607.74\n  - IWM 269.77 / 260.84\n- Friday's PMH/PML form from 4:00 AM ET.\n\n## Positioning (GEX / 9k+ flow)\n- **Not checked.** Quant Data was signed out or unsubscribed as of the 8:00 brief: pages redirect to /pricing and the API returns 403 \"active API subscription required.\" There's no GEX, flip, walls, magnets, or 9k+ flow until it's restored. No options trade today anyway (holiday).\n\n## Game plan\n- **Watch oil and ES/NQ for a risk-off reaction to the Hormuz mine claim** in thin holiday liquidity. Futures halt at 1:00 PM ET and reopen at 6:00 PM.\n- If oil spikes and ES gives back the overnight gains (below about 7,187), Friday's SPY could open back under its PDH (718.43). That would lean toward a fade, not a continuation.\n- Information, not advice.\n\nSources: Financial Juice RSS, X News, Yahoo Finance (delayed). Quant Data is unavailable.\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-26_postdata.md"
+}
