@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-26T17:11:42-05:00",
-  "count": 97,
+  "updated_at": "2026-11-27T07:45:24-05:00",
+  "count": 98,
   "briefs": [
+    {
+      "date": "2026-11-27",
+      "type": "premarket",
+      "path": "briefs/2026-11-27_premarket.json",
+      "md_path": "briefs/2026-11-27_premarket.md",
+      "generated_at": "2026-11-27T07:45:00-05:00",
+      "summary": "_As of ~7:45 AM ET. Futures quotes are CNBC, delayed about 10 min._"
+    },
     {
       "date": "2026-11-26",
       "type": "afterhours",
