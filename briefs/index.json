@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-27T08:51:21-05:00",
-  "count": 99,
+  "updated_at": "2026-11-27T16:30:09-05:00",
+  "count": 100,
   "briefs": [
+    {
+      "date": "2026-11-27",
+      "type": "close",
+      "path": "briefs/2026-11-27_close.json",
+      "md_path": "briefs/2026-11-27_close.md",
+      "generated_at": "2026-11-27T16:30:00-05:00",
+      "summary": "_As of ~4:30 PM ET. Stocks closed at 1:00 PM ET and CME equity futures halted at 1:15 PM ET._"
+    },
     {
       "date": "2026-11-27",
       "type": "postdata",
