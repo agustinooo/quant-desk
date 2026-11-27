@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-27T16:30:09-05:00",
-  "count": 100,
+  "updated_at": "2026-11-27T17:10:13-05:00",
+  "count": 101,
   "briefs": [
+    {
+      "date": "2026-11-27",
+      "type": "afterhours",
+      "path": "briefs/2026-11-27_afterhours.json",
+      "md_path": "briefs/2026-11-27_afterhours.md",
+      "generated_at": "2026-11-27T17:12:00-05:00",
+      "summary": "No alert tonight. Stocks closed at 1:00 PM ET and CME equity futures halted at 1:15 PM ET for the weekend, reopening Sun Nov 29, 6:00 PM ET. That means there was no after-hours session to speak of and"
+    },
     {
       "date": "2026-11-27",
       "type": "close",

@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "type": "afterhours",
-  "generated_at": "2026-11-26T17:12:00-05:00",
+  "generated_at": "2026-11-27T17:12:00-05:00",
   "generated_at_source": "text",
-  "summary": "No alert tonight. US cash markets were closed for Thanksgiving, so there was no 4:00 PM close, no after-hours session and no earnings after the close. CME equity futures halted at 1:00 PM ET and reopen at 6:00 PM ET. Nothing has traded since the 4:00 PM recap, so there's no ES/NQ reaction to measure.",
+  "summary": "No alert tonight. Stocks closed at 1:00 PM ET and CME equity futures halted at 1:15 PM ET for the weekend, reopening Sun Nov 29, 6:00 PM ET. That means there was no after-hours session to speak of and no ES/NQ/RTY reaction to measure since the 4:00 PM recap. No index-moving earnings were reported after the close.",
   "futures": {
     "NQ": {
       "last": null,
@@ -99,14 +99,13 @@
     "calendar": null,
     "earnings": null,
     "headlines": [
-      "17:10: Saudi Arabia warns of a potential threat in Abha city (Financial Juice).",
-      "~17:04: Houthi projectile kills a worker at Saudi Arabia's Jazan refinery (capacity up to 400k bpd); some operations are temporarily halted. This was already in the 4 PM recap.",
-      "16:56: Nikkei reports Japan's Jera plans data centers for Anthropic and Meta near its power plants, and is in talks with Amazon, Microsoft and Google ($META, $AMZN, $MSFT, $GOOGL).",
-      "16:01: Merz on EU budget talks. Not market-moving.",
-      "Nvidia: X News stories recap the suspension of AI server shipments to Southeast Asia, and a CBS probe into Chinese ownership of Nvidia partners in California. Neither is new since the close. Watch NVDA, DELL and SMCI Friday.",
-      "Credit: X News says CoreWeave bonds are at ~74c (a yield of ~17.9%). This is AI credit stress to watch.",
-      "Brent settled at $96.57 (+2.07%) earlier today (Financial Juice, 13:17 ET).",
-      "There's no Fed or tariff news after 4 PM."
+      "17:08–17:09 ET: Saudi civil defense issued warnings about a possible threat in Al Kharj and a potential risk in the Eastern Province (FJ). This follows Thursday's Houthi strike on the Jazan refinery and the Abha warning. It's Gulf escalation risk for oil and the Sunday open. No damage has been reported yet.",
+      "16:13–16:20 ET: S&P cut France's outlook to negative and affirmed its A+/A-1 ratings (FJ). French Finance Minister Lescure says the outlook \"is still uncertain.\" This was already in the 4 PM recap. Watch EUR and OATs.",
+      "AI credit (X News): banks including JPMorgan, Citi, ING, SocGen and HSBC are reportedly marketing AI data-center loans tied to CoreWeave and Oracle projects. CoreWeave's 5-year CDS is cited at ~1,300 bp. IREN is cited as down 50%+ (X News; that's the stock's move, not today's after-hours).",
+      "NVDA: the suspension of AI server shipments to Southeast Asia (Dell/SMCI) under the new export licensing is still a running story. Nothing new since the close.",
+      "Iran: Trump told troops that victory over Iran \"comes whenever he wants it\" and offered the regime a chance at \"a smart deal\" (X News). This is rhetoric, not a new action.",
+      "Flows: Goldman warns of up to $100B more systematic selling next week (X News; already in the recap).",
+      "There's no Fed or tariff news after 4 PM. The FOMC blackout reportedly starts Sat Nov 28."
     ],
     "cross_asset": {
       "vix": null,
@@ -118,7 +117,7 @@
     }
   },
   "takeaway": null,
-  "markdown": "# After-Hours Check: Thu Nov 26, 2026 (Thanksgiving), pulled ~5:12 PM ET\n\n**No alert tonight.** US cash markets were closed for Thanksgiving, so there was no 4:00 PM close, no after-hours session and no earnings after the close. CME equity futures halted at 1:00 PM ET and reopen at 6:00 PM ET. Nothing has traded since the 4:00 PM recap, so there's no ES/NQ reaction to measure.\n\n## Futures (last prints, from the 4:00 PM recap: 1:00 PM ET halt, Yahoo/CME delayed)\n| Contract | Last | Chg |\n|---|---|---|\n| ES Z26 | 7,234.50 | +0.54% |\n| NQ Z26 | 26,221.25 | +0.46% |\n| RTY Z26 | 2,720.80 | +0.54% |\n\n- X News (21:03 UTC story) quoted ES up 0.74% at ~7,248.75 and NQ near +1%. This doesn't match the Yahoo halt prints above; the reference point may differ. Recheck at the 6 PM reopen.\n- Friday's previous-day levels (PDH/PDL) are still **Wednesday's**. NQ 26,000 stays the key hold line; ES 7,187 (the overnight low) is support.\n\n## Headlines since 4:00 PM ET (Financial Juice, X News)\n- **17:10:** Saudi Arabia warns of a potential threat in Abha city (Financial Juice).\n- **~17:04:** Houthi projectile kills a worker at Saudi Arabia's Jazan refinery (capacity up to 400k bpd); some operations are temporarily halted. This was already in the 4 PM recap.\n- **16:56:** Nikkei reports Japan's Jera plans data centers for Anthropic and Meta near its power plants, and is in talks with Amazon, Microsoft and Google ($META, $AMZN, $MSFT, $GOOGL).\n- **16:01:** Merz on EU budget talks. Not market-moving.\n- **Nvidia:** X News stories recap the suspension of AI server shipments to Southeast Asia, and a CBS probe into Chinese ownership of Nvidia partners in California. Neither is new since the close. Watch NVDA, DELL and SMCI Friday.\n- **Credit:** X News says CoreWeave bonds are at ~74c (a yield of ~17.9%). This is AI credit stress to watch.\n- **Brent** settled at $96.57 (+2.07%) earlier today (Financial Juice, 13:17 ET).\n- There's no Fed or tariff news after 4 PM.\n\n## For Friday (half-day; cash closes at 1:00 PM ET)\n- Watch the 6 PM Globex reopen for the reaction to the Gulf headlines (Jazan, the Abha warning, the Hormuz mine claims) and to oil.\n- The NVDA export-curb story is a QQQ/NQ risk at the open.\n\n**Sources:** Financial Juice RSS, X News, and today's 4:00 PM close recap (Yahoo Finance CME data).\n",
+  "markdown": "# After-Hours Check: Fri Nov 27, 2026 (Black Friday half-day), pulled ~5:12 PM ET\n\n**No alert tonight.** Stocks closed at 1:00 PM ET and CME equity futures halted at 1:15 PM ET for the weekend, reopening **Sun Nov 29, 6:00 PM ET**. That means there was no after-hours session to speak of and no ES/NQ/RTY reaction to measure since the 4:00 PM recap. No index-moving earnings were reported after the close.\n\n## Futures (last prints at the 1:15 PM ET halt, from the 4:00 PM recap; CNBC)\n| Contract | Last | Chg vs Wed settle |\n|---|---|---|\n| ES Z26 | 7,310.50 | +1.59% |\n| NQ Z26 | 26,756.25 | +2.51% |\n| RTY Z26 | 2,746.40 | +1.49% |\n\n## Headlines since the 4:00 PM recap (Financial Juice RSS, X News)\n- **17:08–17:09 ET:** Saudi civil defense issued warnings about a possible threat in Al Kharj and a potential risk in the Eastern Province (FJ). This follows Thursday's Houthi strike on the Jazan refinery and the Abha warning. It's Gulf escalation risk for oil and the Sunday open. No damage has been reported yet.\n- **16:13–16:20 ET:** S&P cut **France's outlook to negative** and affirmed its A+/A-1 ratings (FJ). French Finance Minister Lescure says the outlook \"is still uncertain.\" This was already in the 4 PM recap. Watch EUR and OATs.\n- **AI credit (X News):** banks including JPMorgan, Citi, ING, SocGen and HSBC are reportedly marketing AI data-center loans tied to CoreWeave and Oracle projects. CoreWeave's 5-year CDS is cited at ~1,300 bp. IREN is cited as down 50%+ (X News; that's the stock's move, not today's after-hours).\n- **NVDA:** the suspension of AI server shipments to Southeast Asia (Dell/SMCI) under the new export licensing is still a running story. Nothing new since the close.\n- **Iran:** Trump told troops that victory over Iran \"comes whenever he wants it\" and offered the regime a chance at \"a smart deal\" (X News). This is rhetoric, not a new action.\n- **Flows:** Goldman warns of up to $100B more systematic selling next week (X News; already in the recap).\n- There's no Fed or tariff news after 4 PM. The FOMC blackout reportedly starts Sat Nov 28.\n\n## For Monday Nov 30 (levels from the 4:00 PM recap)\n- **SPY:** PDH 729.15 / PDL 719.61. **QQQ:** 651.34 / 636.72. **IWM:** 273.94 / 270.68.\n- **ES:** 7,320.75 / 7,222.75. **NQ:** 26,826.50 / 26,208.50.\n- **Weekend risk to watch at the Sunday 6 PM reopen:**\n  - OPEC+ meetings Sunday (Q1 2027 targets expected to stay unchanged).\n  - The Saudi threat warnings and Hormuz.\n  - The France outlook cut.\n  - AI credit stress (CoreWeave).\n\n**Sources:** Financial Juice RSS, X News (search_news), and today's 4:00 PM close recap (CNBC/Yahoo data).\n\n_Information, not advice._\n",
   "macro_markdown": null,
-  "source_file": "2026-11-26_afterhours.md"
+  "source_file": "2026-11-27_afterhours.md"
 }

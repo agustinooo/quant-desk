@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-27",
+  "type": "afterhours",
+  "generated_at": "2026-11-27T17:12:00-05:00",
+  "generated_at_source": "text",
+  "summary": "No alert tonight. Stocks closed at 1:00 PM ET and CME equity futures halted at 1:15 PM ET for the weekend, reopening Sun Nov 29, 6:00 PM ET. That means there was no after-hours session to speak of and no ES/NQ/RTY reaction to measure since the 4:00 PM recap. No index-moving earnings were reported after the close.",
+  "futures": {
+    "NQ": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "ES": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    },
+    "RTY": {
+      "last": null,
+      "change_pct": null,
+      "high": null,
+      "low": null
+    }
+  },
+  "tickers": {
+    "SPY": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "QQQ": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    },
+    "IWM": {
+      "spot": null,
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "net_gex_b": null,
+      "flip": null,
+      "sign_change": null,
+      "call_walls": [],
+      "put_walls": [],
+      "dark_pool": [],
+      "game_plan": null
+    }
+  },
+  "futures_levels": {
+    "NQ": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    },
+    "ES": {
+      "pdh": null,
+      "pdl": null,
+      "pdc": null,
+      "pmh": null,
+      "pml": null,
+      "ratio_to_etf": null,
+      "approximate": true,
+      "basis": null
+    }
+  },
+  "big_flow": [],
+  "macro": {
+    "calendar": null,
+    "earnings": null,
+    "headlines": [
+      "17:08–17:09 ET: Saudi civil defense issued warnings about a possible threat in Al Kharj and a potential risk in the Eastern Province (FJ). This follows Thursday's Houthi strike on the Jazan refinery and the Abha warning. It's Gulf escalation risk for oil and the Sunday open. No damage has been reported yet.",
+      "16:13–16:20 ET: S&P cut France's outlook to negative and affirmed its A+/A-1 ratings (FJ). French Finance Minister Lescure says the outlook \"is still uncertain.\" This was already in the 4 PM recap. Watch EUR and OATs.",
+      "AI credit (X News): banks including JPMorgan, Citi, ING, SocGen and HSBC are reportedly marketing AI data-center loans tied to CoreWeave and Oracle projects. CoreWeave's 5-year CDS is cited at ~1,300 bp. IREN is cited as down 50%+ (X News; that's the stock's move, not today's after-hours).",
+      "NVDA: the suspension of AI server shipments to Southeast Asia (Dell/SMCI) under the new export licensing is still a running story. Nothing new since the close.",
+      "Iran: Trump told troops that victory over Iran \"comes whenever he wants it\" and offered the regime a chance at \"a smart deal\" (X News). This is rhetoric, not a new action.",
+      "Flows: Goldman warns of up to $100B more systematic selling next week (X News; already in the recap).",
+      "There's no Fed or tariff news after 4 PM. The FOMC blackout reportedly starts Sat Nov 28."
+    ],
+    "cross_asset": {
+      "vix": null,
+      "us10y": null,
+      "dxy": null,
+      "wti": null,
+      "brent": null,
+      "gold": null
+    }
+  },
+  "takeaway": null,
+  "markdown": "# After-Hours Check: Fri Nov 27, 2026 (Black Friday half-day), pulled ~5:12 PM ET\n\n**No alert tonight.** Stocks closed at 1:00 PM ET and CME equity futures halted at 1:15 PM ET for the weekend, reopening **Sun Nov 29, 6:00 PM ET**. That means there was no after-hours session to speak of and no ES/NQ/RTY reaction to measure since the 4:00 PM recap. No index-moving earnings were reported after the close.\n\n## Futures (last prints at the 1:15 PM ET halt, from the 4:00 PM recap; CNBC)\n| Contract | Last | Chg vs Wed settle |\n|---|---|---|\n| ES Z26 | 7,310.50 | +1.59% |\n| NQ Z26 | 26,756.25 | +2.51% |\n| RTY Z26 | 2,746.40 | +1.49% |\n\n## Headlines since the 4:00 PM recap (Financial Juice RSS, X News)\n- **17:08–17:09 ET:** Saudi civil defense issued warnings about a possible threat in Al Kharj and a potential risk in the Eastern Province (FJ). This follows Thursday's Houthi strike on the Jazan refinery and the Abha warning. It's Gulf escalation risk for oil and the Sunday open. No damage has been reported yet.\n- **16:13–16:20 ET:** S&P cut **France's outlook to negative** and affirmed its A+/A-1 ratings (FJ). French Finance Minister Lescure says the outlook \"is still uncertain.\" This was already in the 4 PM recap. Watch EUR and OATs.\n- **AI credit (X News):** banks including JPMorgan, Citi, ING, SocGen and HSBC are reportedly marketing AI data-center loans tied to CoreWeave and Oracle projects. CoreWeave's 5-year CDS is cited at ~1,300 bp. IREN is cited as down 50%+ (X News; that's the stock's move, not today's after-hours).\n- **NVDA:** the suspension of AI server shipments to Southeast Asia (Dell/SMCI) under the new export licensing is still a running story. Nothing new since the close.\n- **Iran:** Trump told troops that victory over Iran \"comes whenever he wants it\" and offered the regime a chance at \"a smart deal\" (X News). This is rhetoric, not a new action.\n- **Flows:** Goldman warns of up to $100B more systematic selling next week (X News; already in the recap).\n- There's no Fed or tariff news after 4 PM. The FOMC blackout reportedly starts Sat Nov 28.\n\n## For Monday Nov 30 (levels from the 4:00 PM recap)\n- **SPY:** PDH 729.15 / PDL 719.61. **QQQ:** 651.34 / 636.72. **IWM:** 273.94 / 270.68.\n- **ES:** 7,320.75 / 7,222.75. **NQ:** 26,826.50 / 26,208.50.\n- **Weekend risk to watch at the Sunday 6 PM reopen:**\n  - OPEC+ meetings Sunday (Q1 2027 targets expected to stay unchanged).\n  - The Saudi threat warnings and Hormuz.\n  - The France outlook cut.\n  - AI credit stress (CoreWeave).\n\n**Sources:** Financial Juice RSS, X News (search_news), and today's 4:00 PM close recap (CNBC/Yahoo data).\n\n_Information, not advice._\n",
+  "macro_markdown": null,
+  "source_file": "2026-11-27_afterhours.md"
+}
