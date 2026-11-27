@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "type": "postdata",
-  "generated_at": "2026-11-26T08:46:00-05:00",
+  "generated_at": "2026-11-27T08:50:00-05:00",
   "generated_at_source": "text",
-  "summary": "_As of ~8:46 AM ET_",
+  "summary": "_As of ~8:50 AM ET. Futures quotes are CNBC, delayed about 10 min. Verdict: nothing drastic, no alert sent._",
   "futures": {
     "NQ": {
       "last": null,
@@ -42,7 +42,7 @@
       "game_plan": null
     },
     "QQQ": {
-      "spot": null,
+      "spot": 647.7,
       "pdh": null,
       "pdl": null,
       "pdc": null,
@@ -99,9 +99,12 @@
     "calendar": null,
     "earnings": null,
     "headlines": [
-      "VIX: 26.95 (prior close 28.29), last 8:31. It is easing, not spiking.",
-      "US 10-year: about 4.85% (prior 4.90%), lower.",
-      "ES is near its overnight high, and NQ is about 140 pts below its overnight high. Both are still inside the ranges set before 8:00, so I see no sharp 0.5%+ move since 8:00 in the data I have. I don't have an exact 8:00 print."
+      "ECB's Nagel: \"may have to do more on rates\", with inflation durably above 3% in 2027 (hawkish ECB, after Dolenc earlier).",
+      "The EU weighs tighter export controls on battery waste going to China (FT).",
+      "Iraq is in talks with OPEC to raise its production ceiling. German parliament passed the 2027 budget.",
+      "IBM is telling H-1B holders in most consulting roles to relocate or leave by Dec 31. Skydance prepaid its 2027 debt.",
+      "Pre-market (per X, 8:08 AM): all of the Mag 7 are green (META +3.2%, NVDA +2.4%, GOOGL/AMZN +2.6%, TSLA +2.1%). NVDA has recovered from the early −3% on the Shanghai Blackwell story.",
+      "Nothing index-moving broke after 8:00."
     ],
     "cross_asset": {
       "vix": null,
@@ -112,8 +115,8 @@
       "gold": null
     }
   },
-  "takeaway": null,
-  "markdown": "# Post-Data Check: Thu Nov 26, 2026 (Thanksgiving, US cash markets CLOSED)\n_As of ~8:46 AM ET_\n\n## Data\n- **No 8:30 AM ET US releases today (holiday).** Wednesday already brought claims 189K, Oct PCE +0.3% m/m, core PCE 3.3% y/y, and Q3 GDP revised to 4.3%. Trump touted the GDP revision on Truth Social around 7:39 AM ET.\n- **ECB accounts (7:30 AM ET) were hawkish:** \"direction of travel was clear,\" officials could have backed a hike at the current meeting, and the option value of waiting was small. FT reports Pablo Hernández de Cos will be the next ECB president.\n- **Next US release:** Fri 8:30 AM ET, Advance Economic Indicators.\n\n## Breaking news ⚠️\n- **Iran / Gulf:** Kuwait says it intercepted Iranian drones aimed at a vital site near Kuwait City. Four people were injured (FJ ~8:00 AM ET, X News).\n- **Strait of Hormuz:** Iran's IRGC Navy claims oil tankers, including a supertanker carrying more than 2M bbl, **struck sea mines in the Strait of Hormuz** (X News, ~8:46 AM ET). This is a fresh headline, and the delayed quotes below don't show the market's reaction to it yet.\n- **OPEC+:** likely to roll over output targets for at least Q1 2027 at Sunday's meeting (FJ, two sources).\n\n## Futures / vol / rates (Yahoo, delayed, last print ~8:36 AM ET, before the Hormuz headline)\n| | Last | vs prior settle | Overnight range |\n|---|---|---|---|\n| ES | 7,249.75 | +0.75% | 7,187.00–7,254.75 |\n| NQ | 26,298.75 | +0.76% | 25,997.50–26,436.00 |\n| RTY | 2,719.2 | +0.48% | 2,704.3–2,724.6 |\n| WTI | 84.66 | +1.2% | 83.16–85.21 |\n| Brent | 91.34 | +0.8% | 89.77–92.03 |\n| Gold | 3,598.8 | +1.0% | |\n- **VIX:** 26.95 (prior close 28.29), last 8:31. It is easing, not spiking.\n- **US 10-year:** about 4.85% (prior 4.90%), lower.\n- **ES** is near its overnight high, and **NQ** is about 140 pts below its overnight high. Both are still inside the ranges set before 8:00, so I see no sharp 0.5%+ move since 8:00 in the data I have. I don't have an exact 8:00 print.\n\n## Levels (Team2Trading)\n- No cash session today, so there's no pre-market range to break. The PDH/PDL from Wed Nov 25 carry into Friday:\n  - SPY 718.43 / 695.45\n  - QQQ 634.89 / 607.74\n  - IWM 269.77 / 260.84\n- Friday's PMH/PML form from 4:00 AM ET.\n\n## Positioning (GEX / 9k+ flow)\n- **Not checked.** Quant Data was signed out or unsubscribed as of the 8:00 brief: pages redirect to /pricing and the API returns 403 \"active API subscription required.\" There's no GEX, flip, walls, magnets, or 9k+ flow until it's restored. No options trade today anyway (holiday).\n\n## Game plan\n- **Watch oil and ES/NQ for a risk-off reaction to the Hormuz mine claim** in thin holiday liquidity. Futures halt at 1:00 PM ET and reopen at 6:00 PM.\n- If oil spikes and ES gives back the overnight gains (below about 7,187), Friday's SPY could open back under its PDH (718.43). That would lean toward a fade, not a continuation.\n- Information, not advice.\n\nSources: Financial Juice RSS, X News, Yahoo Finance (delayed). Quant Data is unavailable.\n",
+  "takeaway": "The data was a GDP-negative trade miss with no market reaction. Futures, VIX and yields are flat since 8:00, and SPY/QQQ/IWM are still inside their pre-market ranges. The 8:00 levels and plan stand: upside triggers 731.49 / 652.66 / 273.24, downside triggers 726.77 / 645.88 / 272.00, and PDH gap-fill magnets at 718.43 / 634.89 / 269.77. Stocks close at 1:00 PM ET.\n\n_Sources: Financial Juice RSS; X (DeItaone, FirstSquawk, LiveSquawk, zerohedge); CNBC quotes and 1-min charts; Quant Data checked in the box browser (signed out)._",
+  "markdown": "# Post-Data Check: Fri Nov 27, 2026 (Black Friday half-day)\n_As of ~8:50 AM ET. Futures quotes are CNBC, delayed about 10 min. Verdict: **nothing drastic, no alert sent.**_\n\n## 8:30 AM data (actual vs consensus)\n- **Advance goods trade balance (Oct): −$149.5B** vs −$136B expected (prior −$134.9B / −$135.08B). That's a wide miss: the deficit grew $14.4B and imports rose +6.1% m/m (vs +2.0% expected). It's a negative for Q4 GDP net exports, but it's a low-impact release.\n- **Wholesale inventories (Oct, advance): +0.9%** vs +0.5% expected (prior 0.7%). **Retail inventories: +0.8%** vs +0.3% expected. **Ex-auto: +0.6%.** The inventory build offsets part of the GDP hit from trade.\n- Canada Q3 current account: C$4.48B vs C$9.4B expected.\n- **Market reaction: none.** Futures barely moved through the release.\n\n## Futures / vol / yields since 8:00 (CNBC 1-min)\n| | 8:00 | 8:29 | ~8:49 | Since 8:00 | Post-8:30 high / low |\n|---|---|---|---|---|---|\n| ES | 7,315.25 | 7,309.75 | 7,308.00 | −0.10% | 7,314.25 / 7,304.75 |\n| NQ | 26,727.00 | 26,689.25 | 26,695.75 | −0.12% | 26,723.25 / 26,664.00 |\n| RTY | 2,744.8 | 2,744.5 | 2,742.0 | −0.10% | 2,744.7 / 2,741.9 |\n- The day is still up about **+1.6% ES / +2.4% NQ / +1.4% RTY** vs settle. Overnight highs are 7,343 / 26,868.75 / 2,749.4 and nobody has retested them.\n- **VIX** is 25.39 (−5.3% on the day, ~25.24 at 8:00, flat since). **10-year** is 4.90% (+5 bp, 4.86–4.92% range). No spike in either.\n\n## Team2Trading levels: no break\n| | Last (~8:49) | PMH | PML | PDH (gap-fill) | Status |\n|---|---|---|---|---|---|\n| SPY | 728.21 | 731.49 | 726.77 | 718.43 | Inside the PM range. The post-8:30 low was 727.76 |\n| QQQ | 648.44 | 652.66 | 645.88 | 634.89 | Inside the PM range* |\n| IWM | 272.57 | 273.24 | 272.00 | 269.77 | Inside, at the lower half (post-8:30 low 272.55) |\n- *CNBC shows one QQQ print at 637.67 after 8:30. NQ futures never got anywhere near that level (low 26,664 ≈ QQQ ~647.7), so I'm treating it as a bad tick, not a real break of 645.88.\n- All three are still in the no-trade zone. The 8:00 game plan is unchanged: wait for a 15-min close beyond the PM range after 9:45.\n\n## GEX / flow\n- **Quant Data is still signed out (3rd day).** v3.quantdata.us/page/built-in/exposure redirects to /pricing?planType=OPTIONS. There's no flip, walls, magnets or 9k+ contract-flow read again. The user needs to sign back in and check the subscription.\n\n## Headlines since 8:00 (Financial Juice / X)\n- ECB's Nagel: \"may have to do more on rates\", with inflation durably above 3% in 2027 (hawkish ECB, after Dolenc earlier).\n- The EU weighs tighter export controls on battery waste going to China (FT).\n- Iraq is in talks with OPEC to raise its production ceiling. German parliament passed the 2027 budget.\n- IBM is telling H-1B holders in most consulting roles to relocate or leave by Dec 31. Skydance prepaid its 2027 debt.\n- Pre-market (per X, 8:08 AM): all of the Mag 7 are green (META +3.2%, NVDA +2.4%, GOOGL/AMZN +2.6%, TSLA +2.1%). NVDA has recovered from the early −3% on the Shanghai Blackwell story.\n- Nothing index-moving broke after 8:00.\n\n## Takeaway (information, not advice)\nThe data was a GDP-negative trade miss with no market reaction. Futures, VIX and yields are flat since 8:00, and SPY/QQQ/IWM are still inside their pre-market ranges. The 8:00 levels and plan stand: upside triggers 731.49 / 652.66 / 273.24, downside triggers 726.77 / 645.88 / 272.00, and PDH gap-fill magnets at 718.43 / 634.89 / 269.77. Stocks close at 1:00 PM ET.\n\n_Sources: Financial Juice RSS; X (DeItaone, FirstSquawk, LiveSquawk, zerohedge); CNBC quotes and 1-min charts; Quant Data checked in the box browser (signed out)._\n",
   "macro_markdown": null,
-  "source_file": "2026-11-26_postdata.md"
+  "source_file": "2026-11-27_postdata.md"
 }
